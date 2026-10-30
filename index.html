@@ -3,42 +3,85 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>GTM Creator Hub</title>
+<title>GTM Creator Hub — Multi-tag</title>
 <style>
-:root { --bg:#0f1419; --panel:#1a2332; --text:#e7ecf3; --muted:#9aa7b8; --accent:#3b82f6; --line:#2a3648; }
+:root {
+  --bg:#0f1419; --panel:#1a2332; --text:#e7ecf3; --muted:#9aa7b8;
+  --accent:#3b82f6; --line:#2a3648; --chip:#243247; --chip-on:#1d4ed8;
+  --chip-on-text:#dbeafe; --badge:#334155;
+}
 * { box-sizing:border-box; }
 body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--text); }
 header { padding:24px 20px 12px; border-bottom:1px solid var(--line); }
 h1 { margin:0 0 6px; font-size:1.4rem; font-weight:650; }
 .sub { color:var(--muted); font-size:0.92rem; }
-.controls { display:flex; flex-wrap:wrap; gap:10px; padding:16px 20px; }
+.controls { padding:16px 20px; display:flex; flex-direction:column; gap:14px; }
+.row { display:flex; flex-wrap:wrap; gap:10px; align-items:center; }
 input, select { background:var(--panel); color:var(--text); border:1px solid var(--line); border-radius:8px; padding:10px 12px; min-width:180px; }
-.stats { padding:0 20px 12px; color:var(--muted); font-size:0.9rem; }
+input[type=search] { flex:1; min-width:220px; }
+.group { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:12px 14px; }
+.group h3 { margin:0 0 8px; font-size:0.78rem; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); font-weight:600; }
+.chips { display:flex; flex-wrap:wrap; gap:6px; }
+.chip {
+  border:1px solid var(--line); background:var(--chip); color:var(--muted);
+  border-radius:999px; padding:5px 10px; font-size:0.78rem; cursor:pointer; user-select:none;
+}
+.chip.on { background:var(--chip-on); color:var(--chip-on-text); border-color:#2563eb; }
+.chip .n { opacity:.7; margin-left:4px; font-size:0.72rem; }
+.stats { padding:0 20px 12px; color:var(--muted); font-size:0.9rem; display:flex; gap:12px; flex-wrap:wrap; align-items:center; }
+.stats button {
+  background:transparent; border:1px solid var(--line); color:var(--muted);
+  border-radius:8px; padding:6px 10px; cursor:pointer; font-size:0.8rem;
+}
 .wrap { padding:0 20px 40px; overflow:auto; }
 table { width:100%; border-collapse:collapse; background:var(--panel); border-radius:12px; overflow:hidden; }
-th, td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; font-size:0.9rem; }
-th { color:var(--muted); font-weight:600; position:sticky; top:0; background:#162033; }
+th, td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; font-size:0.88rem; }
+th { color:var(--muted); font-weight:600; position:sticky; top:0; background:#162033; z-index:1; }
 a { color:#93c5fd; text-decoration:none; }
 a:hover { text-decoration:underline; }
-.badge { display:inline-block; padding:2px 8px; border-radius:999px; background:#243247; color:#cbd5e1; font-size:0.75rem; }
+.badge {
+  display:inline-block; padding:2px 8px; border-radius:999px;
+  background:var(--badge); color:#cbd5e1; font-size:0.72rem; margin:1px 3px 1px 0;
+}
+.badge.primary { background:#1e3a5f; color:#93c5fd; }
 .empty { padding:40px; text-align:center; color:var(--muted); }
+.hint { font-size:0.8rem; color:var(--muted); }
+@media (max-width:720px) {
+  th:nth-child(6), td:nth-child(6), th:nth-child(7), td:nth-child(7) { display:none; }
+}
 </style>
 </head>
 <body>
 <header>
   <h1>GTM Creator Hub</h1>
-  <div class="sub">TikTok creator shortlist for outreach · filter by niche · data from <code>data/creators.json</code></div>
+  <div class="sub">Multi-tag TikTok shortlist · AND across selected tags · data from <code>data/creators.json</code></div>
 </header>
 <div class="controls">
-  <input id="q" type="search" placeholder="Search handle, bio, notes…"/>
-  <select id="niche"><option value="">All niches</option></select>
+  <div class="row">
+    <input id="q" type="search" placeholder="Search handle, name, bio, notes, tags…"/>
+    <select id="primary"><option value="">All primary niches</option></select>
+    <select id="followers">
+      <option value="">Any followers</option>
+      <option value="0-50k">Under 50K</option>
+      <option value="50k-100k">50K–100K</option>
+      <option value="100k-500k">100K–500K</option>
+      <option value="500k-1m">500K–1M</option>
+      <option value="1m+">1M+</option>
+      <option value="unknown">Unknown / missing</option>
+    </select>
+  </div>
+  <p class="hint">Select tags to filter (creator must have <strong>all</strong> selected tags). Click again to clear a tag.</p>
+  <div id="tagGroups"></div>
 </div>
-<div class="stats" id="stats"></div>
+<div class="stats">
+  <span id="stats"></span>
+  <button type="button" id="clearTags">Clear tags</button>
+</div>
 <div class="wrap">
   <table>
     <thead>
       <tr>
-        <th>Niche</th><th>Handle</th><th>Name</th><th>Followers</th><th>Market</th><th>Bio</th><th>Contact</th><th>Notes</th>
+        <th>Handle</th><th>Name</th><th>Followers</th><th>Primary</th><th>Tags</th><th>Market</th><th>Notes</th><th>Source</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -46,58 +89,148 @@ a:hover { text-decoration:underline; }
   <div class="empty" id="empty" hidden>No matches</div>
 </div>
 <script>
-const nicheLabels = {
-  portable_ac: 'Portable AC',
-  pet_gear: 'Pet gear',
-  wine_cooler: 'Wine cooler',
-  space_heater: 'Space heater'
+const TAG_GROUPS = {
+  product: {
+    label: 'Product / category',
+    tags: ['portable_ac','air_cooler','dehumidifier','space_heater','wine_cooler','beverage_cooler','fridge','kitchen_appliance','home_appliance','pet_gear','pet_food','cat','dog','outdoor','camping','grill','cleaning','vacuum','beauty','skincare','fashion','tech_gadgets','smart_home','parenting','baby','fitness','food_drink','coffee','wine','whiskey','beer','home_decor','diy','unboxing_haul','gardening','tiny_house','amazon_finds']
+  },
+  format: {
+    label: 'Content format',
+    tags: ['product_review','unboxing','demo','haul','lifestyle','comedy','educational','live_shopping']
+  },
+  audience: {
+    label: 'Audience',
+    tags: ['pet_parents','homeowners','wine_enthusiasts','parents','outdoor_lovers','tech_buyers','budget_shoppers']
+  },
+  geo: {
+    label: 'Geo / language',
+    tags: ['english','us','uk','au','ca','global_en']
+  },
+  commerce: {
+    label: 'Commerce',
+    tags: ['tiktok_shop','affiliate','brand_collab']
+  }
 };
+
 let rows = [];
+let selected = new Set();
 const tbody = document.getElementById('tbody');
 const empty = document.getElementById('empty');
 const stats = document.getElementById('stats');
 const q = document.getElementById('q');
-const niche = document.getElementById('niche');
+const primary = document.getElementById('primary');
+const followers = document.getElementById('followers');
+const tagGroupsEl = document.getElementById('tagGroups');
 
-function esc(s){ return String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function esc(s){
+  return String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function label(t){ return t.replace(/_/g,' '); }
+
+function bandMatch(num, band){
+  if (!band) return true;
+  if (band === 'unknown') return num == null || Number.isNaN(num);
+  if (num == null) return false;
+  if (band === '0-50k') return num < 50000;
+  if (band === '50k-100k') return num >= 50000 && num < 100000;
+  if (band === '100k-500k') return num >= 100000 && num < 500000;
+  if (band === '500k-1m') return num >= 500000 && num < 1000000;
+  if (band === '1m+') return num >= 1000000;
+  return true;
+}
+
+function tagCounts(data){
+  const c = {};
+  data.forEach(r => (r.tags||[]).forEach(t => { c[t]=(c[t]||0)+1; }));
+  return c;
+}
+
+function buildTagUI(counts){
+  tagGroupsEl.innerHTML = '';
+  Object.entries(TAG_GROUPS).forEach(([key, g]) => {
+    const div = document.createElement('div');
+    div.className = 'group';
+    div.innerHTML = `<h3>${esc(g.label)}</h3>`;
+    const chips = document.createElement('div');
+    chips.className = 'chips';
+    g.tags.forEach(t => {
+      const n = counts[t] || 0;
+      if (!n && !selected.has(t)) return; // hide zero-count unless selected
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'chip' + (selected.has(t) ? ' on' : '');
+      b.dataset.tag = t;
+      b.innerHTML = `${esc(label(t))}<span class="n">${n}</span>`;
+      b.addEventListener('click', () => {
+        if (selected.has(t)) selected.delete(t); else selected.add(t);
+        b.classList.toggle('on');
+        render();
+      });
+      chips.appendChild(b);
+    });
+    div.appendChild(chips);
+    tagGroupsEl.appendChild(div);
+  });
+}
 
 function render(){
   const query = q.value.trim().toLowerCase();
-  const n = niche.value;
+  const p = primary.value;
+  const band = followers.value;
   const filtered = rows.filter(r => {
-    if (n && r.niche !== n) return false;
+    if (p && r.primary_niche !== p) return false;
+    if (!bandMatch(r.followers_num, band)) return false;
+    if (selected.size) {
+      const set = new Set(r.tags || []);
+      for (const t of selected) if (!set.has(t)) return false;
+    }
     if (!query) return true;
-    const blob = [r.handle,r.display_name,r.bio_snippet,r.notes,r.email_or_contact,r.country_or_language].join(' ').toLowerCase();
+    const blob = [r.handle, r.display_name, r.bio_snippet, r.notes, r.country_or_language, r.primary_niche, ...(r.tags||[])].join(' ').toLowerCase();
     return blob.includes(query);
   });
-  stats.textContent = `Showing ${filtered.length} of ${rows.length}`;
-  tbody.innerHTML = filtered.map(r => `<tr>
-    <td><span class="badge">${esc(nicheLabels[r.niche]||r.niche)}</span></td>
-    <td><a href="${esc(r.profile_url)}" target="_blank" rel="noopener">@${esc(r.handle)}</a></td>
-    <td>${esc(r.display_name)}</td>
-    <td>${esc(r.followers)}</td>
-    <td>${esc(r.country_or_language)}</td>
-    <td>${esc(r.bio_snippet)}</td>
-    <td>${esc(r.email_or_contact)}</td>
-    <td>${esc(r.notes)}</td>
-  </tr>`).join('');
+  stats.textContent = `Showing ${filtered.length} of ${rows.length}` + (selected.size ? ` · tags: ${[...selected].join(', ')}` : '');
+  tbody.innerHTML = filtered.map(r => {
+    const tags = (r.tags||[]).map(t =>
+      `<span class="badge${t===r.primary_niche?' primary':''}">${esc(label(t))}</span>`
+    ).join('');
+    const src = r.source_url ? `<a href="${esc(r.source_url)}" target="_blank" rel="noopener">source</a>` : '';
+    return `<tr>
+      <td><a href="${esc(r.profile_url)}" target="_blank" rel="noopener">@${esc(r.handle)}</a></td>
+      <td>${esc(r.display_name||'')}</td>
+      <td>${esc(r.followers??'—')}</td>
+      <td><span class="badge primary">${esc(label(r.primary_niche||''))}</span></td>
+      <td>${tags}</td>
+      <td>${esc(r.country_or_language||'')}</td>
+      <td>${esc(r.notes||'')}</td>
+      <td>${src}</td>
+    </tr>`;
+  }).join('');
   empty.hidden = filtered.length > 0;
 }
 
 fetch('data/creators.json').then(r => r.json()).then(data => {
   rows = Array.isArray(data) ? data : [];
-  const niches = [...new Set(rows.map(r => r.niche).filter(Boolean))].sort();
+  const niches = [...new Set(rows.map(r => r.primary_niche).filter(Boolean))].sort();
   niches.forEach(v => {
     const o = document.createElement('option');
-    o.value = v; o.textContent = nicheLabels[v] || v; niche.appendChild(o);
+    o.value = v; o.textContent = label(v); primary.appendChild(o);
   });
+  buildTagUI(tagCounts(rows));
   render();
 }).catch(err => {
   stats.textContent = 'Failed to load data/creators.json';
   console.error(err);
 });
+
 q.addEventListener('input', render);
-niche.addEventListener('change', render);
+primary.addEventListener('change', render);
+followers.addEventListener('change', render);
+document.getElementById('clearTags').addEventListener('click', () => {
+  selected.clear();
+  document.querySelectorAll('.chip.on').forEach(el => el.classList.remove('on'));
+  render();
+});
 </script>
 </body>
 </html>

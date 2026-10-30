@@ -1,6 +1,6 @@
 # GTM Creator Hub
 
-Internal shortlist of TikTok creators for GTM outreach, published as GitHub Pages.
+Internal shortlist of TikTok creators for GTM outreach, published as GitHub Pages. Supports **multi-tag** filtering (product, format, audience, geo, commerce).
 
 ## Live site
 
@@ -10,7 +10,32 @@ https://yizhiqianbi.github.io/gtm-creator-hub/
 
 Replace `data/creators.json` (and optionally `data/creators.csv`) then commit to `main`.
 
-Expected fields: `niche`, `handle`, `display_name`, `profile_url`, `followers`, `country_or_language`, `bio_snippet`, `email_or_contact`, `source_url`, `notes`.
+### Schema
+
+JSON array of objects:
+
+| field | type | notes |
+|---|---|---|
+| `handle` | string | TikTok username |
+| `display_name` | string\|null | |
+| `profile_url` | string | `https://www.tiktok.com/@handle` |
+| `followers` | string\|null | display band e.g. `255.4K` |
+| `followers_num` | number\|null | numeric for filters; null if unknown |
+| `country_or_language` | string\|null | |
+| `bio_snippet` | string\|null | |
+| `email_or_contact` | string\|null | only if publicly known — never invent |
+| `source_url` | string | list/page provenance |
+| `notes` | string\|null | |
+| `primary_niche` | string | one best product/category tag |
+| `tags` | string[] | all applicable snake_case tags |
+
+CSV uses the same columns; `tags` is pipe-separated (`a|b|c`).
+
+### UI filters
+
+- Free-text search across handle, name, bio, notes, tags
+- Multi-select tag chips (AND: creator must have every selected tag)
+- Optional `primary_niche` dropdown and follower-band filter
 
 ## Pages
 
