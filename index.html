@@ -54,6 +54,8 @@ a:hover { text-decoration:underline; }
 .plat.x { background:#1f2937; color:#e5e7eb; }
 .plat.douyin { background:#111827; color:#67e8f9; }
 .plat.xiaohongshu { background:#3f0d1c; color:#fb7185; }
+.plat.bilibili { background:#0c4a6e; color:#7dd3fc; }
+.plat.wechat_store { background:#14532d; color:#86efac; }
 .empty { padding:40px; text-align:center; color:var(--muted); }
 .hint { font-size:0.8rem; color:var(--muted); }
 @media (max-width:720px) {
@@ -64,7 +66,7 @@ a:hover { text-decoration:underline; }
 <body>
 <header>
   <h1>GTM Creator Hub</h1>
-  <div class="sub">Multi-platform · Multi-tag shortlist · AND across selected tags · TikTok / Instagram / X / 抖音 / 小红书</div>
+  <div class="sub">Multi-platform · Multi-tag shortlist · AND across selected tags · TikTok / Instagram / X / 抖音 / 小红书 / B站 / 微信小店</div>
 </header>
 <div class="controls">
   <div class="row">
@@ -130,7 +132,9 @@ const PLATFORMS = [
   { id:'instagram', label:'Instagram' },
   { id:'x', label:'X' },
   { id:'douyin', label:'抖音' },
-  { id:'xiaohongshu', label:'小红书' }
+  { id:'xiaohongshu', label:'小红书' },
+  { id:'bilibili', label:'B站' },
+  { id:'wechat_store', label:'微信小店' }
 ];
 
 let rows = [];
@@ -155,6 +159,8 @@ function platLabel(p){
   if (p==='x') return 'X';
   if (p==='douyin') return '抖音';
   if (p==='xiaohongshu') return '小红书';
+  if (p==='bilibili') return 'B站';
+  if (p==='wechat_store') return '微信小店';
   return p||'';
 }
 function bandMatch(num, band){
