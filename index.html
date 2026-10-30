@@ -52,6 +52,8 @@ a:hover { text-decoration:underline; }
 .plat.tiktok { background:#3b0a1a; color:#ff6b9d; }
 .plat.instagram { background:#3b1528; color:#f472b6; }
 .plat.x { background:#1f2937; color:#e5e7eb; }
+.plat.douyin { background:#111827; color:#67e8f9; }
+.plat.xiaohongshu { background:#3f0d1c; color:#fb7185; }
 .empty { padding:40px; text-align:center; color:var(--muted); }
 .hint { font-size:0.8rem; color:var(--muted); }
 @media (max-width:720px) {
@@ -62,7 +64,7 @@ a:hover { text-decoration:underline; }
 <body>
 <header>
   <h1>GTM Creator Hub</h1>
-  <div class="sub">Multi-platform · Multi-tag shortlist · AND across selected tags · TikTok / Instagram / X</div>
+  <div class="sub">Multi-platform · Multi-tag shortlist · AND across selected tags · TikTok / Instagram / X / 抖音 / 小红书</div>
 </header>
 <div class="controls">
   <div class="row">
@@ -116,17 +118,19 @@ const TAG_GROUPS = {
   },
   geo: {
     label: 'Geo / language',
-    tags: ['english','us','uk','au','ca','global_en']
+    tags: ['english','us','uk','au','ca','global_en','chinese','china']
   },
   commerce: {
     label: 'Commerce',
-    tags: ['tiktok_shop','affiliate','brand_collab']
+    tags: ['tiktok_shop','affiliate','brand_collab','live_shopping','douyin_shop','xiaohongshu_shop']
   }
 };
 const PLATFORMS = [
   { id:'tiktok', label:'TikTok' },
   { id:'instagram', label:'Instagram' },
-  { id:'x', label:'X' }
+  { id:'x', label:'X' },
+  { id:'douyin', label:'抖音' },
+  { id:'xiaohongshu', label:'小红书' }
 ];
 
 let rows = [];
@@ -149,6 +153,8 @@ function platLabel(p){
   if (p==='tiktok') return 'TikTok';
   if (p==='instagram') return 'Instagram';
   if (p==='x') return 'X';
+  if (p==='douyin') return '抖音';
+  if (p==='xiaohongshu') return '小红书';
   return p||'';
 }
 function bandMatch(num, band){
