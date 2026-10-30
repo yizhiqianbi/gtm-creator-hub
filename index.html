@@ -3,12 +3,13 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>GTM Creator Hub — Multi-tag</title>
+<title>GTM Creator Hub — Multi-platform</title>
 <style>
 :root {
   --bg:#0f1419; --panel:#1a2332; --text:#e7ecf3; --muted:#9aa7b8;
   --accent:#3b82f6; --line:#2a3648; --chip:#243247; --chip-on:#1d4ed8;
   --chip-on-text:#dbeafe; --badge:#334155;
+  --tt:#ff0050; --ig:#e1306c; --x:#e7e9ea;
 }
 * { box-sizing:border-box; }
 body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--text); }
@@ -44,21 +45,28 @@ a:hover { text-decoration:underline; }
   background:var(--badge); color:#cbd5e1; font-size:0.72rem; margin:1px 3px 1px 0;
 }
 .badge.primary { background:#1e3a5f; color:#93c5fd; }
+.plat {
+  display:inline-block; padding:2px 8px; border-radius:999px;
+  font-size:0.72rem; font-weight:600; text-transform:uppercase; letter-spacing:.03em;
+}
+.plat.tiktok { background:#3b0a1a; color:#ff6b9d; }
+.plat.instagram { background:#3b1528; color:#f472b6; }
+.plat.x { background:#1f2937; color:#e5e7eb; }
 .empty { padding:40px; text-align:center; color:var(--muted); }
 .hint { font-size:0.8rem; color:var(--muted); }
 @media (max-width:720px) {
-  th:nth-child(6), td:nth-child(6), th:nth-child(7), td:nth-child(7) { display:none; }
+  th:nth-child(7), td:nth-child(7), th:nth-child(8), td:nth-child(8) { display:none; }
 }
 </style>
 </head>
 <body>
 <header>
   <h1>GTM Creator Hub</h1>
-  <div class="sub">Multi-tag TikTok shortlist · AND across selected tags · data from <code>data/creators.json</code></div>
+  <div class="sub">Multi-platform · Multi-tag shortlist · AND across selected tags · TikTok / Instagram / X</div>
 </header>
 <div class="controls">
   <div class="row">
-    <input id="q" type="search" placeholder="Search handle, name, bio, notes, tags…"/>
+    <input id="q" type="search" placeholder="Search handle, name, bio, notes, tags, platform…"/>
     <select id="primary"><option value="">All primary niches</option></select>
     <select id="followers">
       <option value="">Any followers</option>
@@ -67,21 +75,25 @@ a:hover { text-decoration:underline; }
       <option value="100k-500k">100K–500K</option>
       <option value="500k-1m">500K–1M</option>
       <option value="1m+">1M+</option>
-      <option value="unknown">Unknown / missing</option>
     </select>
   </div>
-  <p class="hint">Select tags to filter (creator must have <strong>all</strong> selected tags). Click again to clear a tag.</p>
+  <div class="group">
+    <h3>Platform</h3>
+    <div class="chips" id="platformChips"></div>
+  </div>
+  <p class="hint">Select tags to filter (creator must have <strong>all</strong> selected tags). Platforms are OR within the platform group. Click again to clear.</p>
   <div id="tagGroups"></div>
 </div>
 <div class="stats">
   <span id="stats"></span>
   <button type="button" id="clearTags">Clear tags</button>
+  <button type="button" id="clearPlatforms">All platforms</button>
 </div>
 <div class="wrap">
   <table>
     <thead>
       <tr>
-        <th>Handle</th><th>Name</th><th>Followers</th><th>Primary</th><th>Tags</th><th>Market</th><th>Notes</th><th>Source</th>
+        <th>Platform</th><th>Handle</th><th>Name</th><th>Followers</th><th>Primary</th><th>Tags</th><th>Market</th><th>Notes</th><th>Source</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -111,9 +123,15 @@ const TAG_GROUPS = {
     tags: ['tiktok_shop','affiliate','brand_collab']
   }
 };
+const PLATFORMS = [
+  { id:'tiktok', label:'TikTok' },
+  { id:'instagram', label:'Instagram' },
+  { id:'x', label:'X' }
+];
 
 let rows = [];
 let selected = new Set();
+let selectedPlatforms = new Set(); // empty = all
 const tbody = document.getElementById('tbody');
 const empty = document.getElementById('empty');
 const stats = document.getElementById('stats');
@@ -121,16 +139,20 @@ const q = document.getElementById('q');
 const primary = document.getElementById('primary');
 const followers = document.getElementById('followers');
 const tagGroupsEl = document.getElementById('tagGroups');
+const platformChipsEl = document.getElementById('platformChips');
 
 function esc(s){
   return String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
-
 function label(t){ return t.replace(/_/g,' '); }
-
+function platLabel(p){
+  if (p==='tiktok') return 'TikTok';
+  if (p==='instagram') return 'Instagram';
+  if (p==='x') return 'X';
+  return p||'';
+}
 function bandMatch(num, band){
   if (!band) return true;
-  if (band === 'unknown') return num == null || Number.isNaN(num);
   if (num == null) return false;
   if (band === '0-50k') return num < 50000;
   if (band === '50k-100k') return num >= 50000 && num < 100000;
@@ -139,13 +161,34 @@ function bandMatch(num, band){
   if (band === '1m+') return num >= 1000000;
   return true;
 }
-
 function tagCounts(data){
   const c = {};
   data.forEach(r => (r.tags||[]).forEach(t => { c[t]=(c[t]||0)+1; }));
   return c;
 }
-
+function platformCounts(data){
+  const c = {};
+  data.forEach(r => { const p=r.platform||'tiktok'; c[p]=(c[p]||0)+1; });
+  return c;
+}
+function buildPlatformUI(counts){
+  platformChipsEl.innerHTML = '';
+  PLATFORMS.forEach(({id, label:lab}) => {
+    const n = counts[id] || 0;
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'chip' + (selectedPlatforms.has(id) ? ' on' : '');
+    b.dataset.platform = id;
+    b.innerHTML = `${esc(lab)}<span class="n">${n}</span>`;
+    b.addEventListener('click', () => {
+      if (selectedPlatforms.has(id)) selectedPlatforms.delete(id);
+      else selectedPlatforms.add(id);
+      b.classList.toggle('on');
+      render();
+    });
+    platformChipsEl.appendChild(b);
+  });
+}
 function buildTagUI(counts){
   tagGroupsEl.innerHTML = '';
   Object.entries(TAG_GROUPS).forEach(([key, g]) => {
@@ -156,7 +199,7 @@ function buildTagUI(counts){
     chips.className = 'chips';
     g.tags.forEach(t => {
       const n = counts[t] || 0;
-      if (!n && !selected.has(t)) return; // hide zero-count unless selected
+      if (!n && !selected.has(t)) return;
       const b = document.createElement('button');
       b.type = 'button';
       b.className = 'chip' + (selected.has(t) ? ' on' : '');
@@ -173,12 +216,13 @@ function buildTagUI(counts){
     tagGroupsEl.appendChild(div);
   });
 }
-
 function render(){
   const query = q.value.trim().toLowerCase();
   const p = primary.value;
   const band = followers.value;
   const filtered = rows.filter(r => {
+    const plat = r.platform || 'tiktok';
+    if (selectedPlatforms.size && !selectedPlatforms.has(plat)) return false;
     if (p && r.primary_niche !== p) return false;
     if (!bandMatch(r.followers_num, band)) return false;
     if (selected.size) {
@@ -186,16 +230,23 @@ function render(){
       for (const t of selected) if (!set.has(t)) return false;
     }
     if (!query) return true;
-    const blob = [r.handle, r.display_name, r.bio_snippet, r.notes, r.country_or_language, r.primary_niche, ...(r.tags||[])].join(' ').toLowerCase();
+    const blob = [plat, r.handle, r.display_name, r.bio_snippet, r.notes, r.country_or_language, r.primary_niche, ...(r.tags||[])].join(' ').toLowerCase();
     return blob.includes(query);
   });
-  stats.textContent = `Showing ${filtered.length} of ${rows.length}` + (selected.size ? ` · tags: ${[...selected].join(', ')}` : '');
+  const pc = platformCounts(filtered);
+  const pcBits = PLATFORMS.map(({id,label:lab}) => `${lab} ${pc[id]||0}`).join(' · ');
+  stats.textContent = `Showing ${filtered.length} of ${rows.length}` +
+    (selectedPlatforms.size ? ` · platforms: ${[...selectedPlatforms].join(', ')}` : '') +
+    (selected.size ? ` · tags: ${[...selected].join(', ')}` : '') +
+    ` · (${pcBits})`;
   tbody.innerHTML = filtered.map(r => {
+    const plat = r.platform || 'tiktok';
     const tags = (r.tags||[]).map(t =>
       `<span class="badge${t===r.primary_niche?' primary':''}">${esc(label(t))}</span>`
     ).join('');
     const src = r.source_url ? `<a href="${esc(r.source_url)}" target="_blank" rel="noopener">source</a>` : '';
     return `<tr>
+      <td><span class="plat ${esc(plat)}">${esc(platLabel(plat))}</span></td>
       <td><a href="${esc(r.profile_url)}" target="_blank" rel="noopener">@${esc(r.handle)}</a></td>
       <td>${esc(r.display_name||'')}</td>
       <td>${esc(r.followers??'—')}</td>
@@ -208,7 +259,6 @@ function render(){
   }).join('');
   empty.hidden = filtered.length > 0;
 }
-
 fetch('data/creators.json').then(r => r.json()).then(data => {
   rows = Array.isArray(data) ? data : [];
   const niches = [...new Set(rows.map(r => r.primary_niche).filter(Boolean))].sort();
@@ -216,19 +266,24 @@ fetch('data/creators.json').then(r => r.json()).then(data => {
     const o = document.createElement('option');
     o.value = v; o.textContent = label(v); primary.appendChild(o);
   });
+  buildPlatformUI(platformCounts(rows));
   buildTagUI(tagCounts(rows));
   render();
 }).catch(err => {
   stats.textContent = 'Failed to load data/creators.json';
   console.error(err);
 });
-
 q.addEventListener('input', render);
 primary.addEventListener('change', render);
 followers.addEventListener('change', render);
 document.getElementById('clearTags').addEventListener('click', () => {
   selected.clear();
-  document.querySelectorAll('.chip.on').forEach(el => el.classList.remove('on'));
+  document.querySelectorAll('#tagGroups .chip.on').forEach(el => el.classList.remove('on'));
+  render();
+});
+document.getElementById('clearPlatforms').addEventListener('click', () => {
+  selectedPlatforms.clear();
+  document.querySelectorAll('#platformChips .chip.on').forEach(el => el.classList.remove('on'));
   render();
 });
 </script>
