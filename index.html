@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>GTM Creator Hub</title>
+<style>
+:root { --bg:#0f1419; --panel:#1a2332; --text:#e7ecf3; --muted:#9aa7b8; --accent:#3b82f6; --line:#2a3648; }
+* { box-sizing:border-box; }
+body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--text); }
+header { padding:24px 20px 12px; border-bottom:1px solid var(--line); }
+h1 { margin:0 0 6px; font-size:1.4rem; font-weight:650; }
+.sub { color:var(--muted); font-size:0.92rem; }
+.controls { display:flex; flex-wrap:wrap; gap:10px; padding:16px 20px; }
+input, select { background:var(--panel); color:var(--text); border:1px solid var(--line); border-radius:8px; padding:10px 12px; min-width:180px; }
+.stats { padding:0 20px 12px; color:var(--muted); font-size:0.9rem; }
+.wrap { padding:0 20px 40px; overflow:auto; }
+table { width:100%; border-collapse:collapse; background:var(--panel); border-radius:12px; overflow:hidden; }
+th, td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; font-size:0.9rem; }
+th { color:var(--muted); font-weight:600; position:sticky; top:0; background:#162033; }
+a { color:#93c5fd; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.badge { display:inline-block; padding:2px 8px; border-radius:999px; background:#243247; color:#cbd5e1; font-size:0.75rem; }
+.empty { padding:40px; text-align:center; color:var(--muted); }
+</style>
+</head>
+<body>
+<header>
+  <h1>GTM Creator Hub</h1>
+  <div class="sub">TikTok creator shortlist for outreach · filter by niche · data from <code>data/creators.json</code></div>
+</header>
+<div class="controls">
+  <input id="q" type="search" placeholder="Search handle, bio, notes…"/>
+  <select id="niche"><option value="">All niches</option></select>
+</div>
+<div class="stats" id="stats"></div>
+<div class="wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Niche</th><th>Handle</th><th>Name</th><th>Followers</th><th>Market</th><th>Bio</th><th>Contact</th><th>Notes</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div class="empty" id="empty" hidden>No matches</div>
+</div>
+<script>
+const nicheLabels = {
+  portable_ac: 'Portable AC',
+  pet_gear: 'Pet gear',
+  wine_cooler: 'Wine cooler',
+  space_heater: 'Space heater'
+};
+let rows = [];
+const tbody = document.getElementById('tbody');
+const empty = document.getElementById('empty');
+const stats = document.getElementById('stats');
+const q = document.getElementById('q');
+const niche = document.getElementById('niche');
+
+function esc(s){ return String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+function render(){
+  const query = q.value.trim().toLowerCase();
+  const n = niche.value;
+  const filtered = rows.filter(r => {
+    if (n && r.niche !== n) return false;
+    if (!query) return true;
+    const blob = [r.handle,r.display_name,r.bio_snippet,r.notes,r.email_or_contact,r.country_or_language].join(' ').toLowerCase();
+    return blob.includes(query);
+  });
+  stats.textContent = `Showing ${filtered.length} of ${rows.length}`;
+  tbody.innerHTML = filtered.map(r => `<tr>
+    <td><span class="badge">${esc(nicheLabels[r.niche]||r.niche)}</span></td>
+    <td><a href="${esc(r.profile_url)}" target="_blank" rel="noopener">@${esc(r.handle)}</a></td>
+    <td>${esc(r.display_name)}</td>
+    <td>${esc(r.followers)}</td>
+    <td>${esc(r.country_or_language)}</td>
+    <td>${esc(r.bio_snippet)}</td>
+    <td>${esc(r.email_or_contact)}</td>
+    <td>${esc(r.notes)}</td>
+  </tr>`).join('');
+  empty.hidden = filtered.length > 0;
+}
+
+fetch('data/creators.json').then(r => r.json()).then(data => {
+  rows = Array.isArray(data) ? data : [];
+  const niches = [...new Set(rows.map(r => r.niche).filter(Boolean))].sort();
+  niches.forEach(v => {
+    const o = document.createElement('option');
+    o.value = v; o.textContent = nicheLabels[v] || v; niche.appendChild(o);
+  });
+  render();
+}).catch(err => {
+  stats.textContent = 'Failed to load data/creators.json';
+  console.error(err);
+});
+q.addEventListener('input', render);
+niche.addEventListener('change', render);
+</script>
+</body>
+</html>
