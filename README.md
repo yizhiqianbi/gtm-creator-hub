@@ -2,7 +2,7 @@
 
 Internal shortlist of TikTok creators for GTM outreach, published as GitHub Pages. Supports **multi-tag** filtering (product, format, audience, geo, commerce).
 
-**Dataset:** 10094 unique creators (multi-tag).
+**Dataset:** 9782 unique creators (multi-tag).
 
 ## Live site
 
