@@ -1,0 +1,226 @@
+title,url,niche,asset_type,notes,tags
+Amazon A+ content guidelines (public),https://sellercentral.amazon.com/help/hub/reference/external/G201172770,general_sales_content,brochure,增强品牌内容规范公开页,brochure|general_sales_content|route:brand_content
+Amazon Climate Pledge Friendly (trust badge pattern),https://www.amazon.com/b?node=21226913011,general_sales_content,brochure,信任徽章/认证展示模式,brochure|general_sales_content|route:brand_content
+Battle cards methodology,https://blog.hubspot.com/sales/battle-cards,general_sales_content,brochure,竞品话术卡方法论,brochure|general_sales_content|route:brand_content
+Canva presentation templates,https://www.canva.com/presentations/templates/,general_sales_content,brochure,销售演示模板入口,brochure|general_sales_content|route:brand_content
+Copywriting formulas (public blogs ok as method),https://blog.hubspot.com/marketing/copywriting,general_sales_content,brochure,销售文案方法论入口,brochure|general_sales_content|route:brand_content
+GS1 product identifiers,https://www.gs1.org/,general_sales_content,brochure,产品标识标准,brochure|general_sales_content|route:brand_content
+Google Merchant Center product data spec,https://support.google.com/merchants/answer/7052112,general_sales_content,brochure,产品属性字段规范——可映射销售资料字段,brochure|general_sales_content|route:brand_content
+HowTo schema Google docs,https://developers.google.com/search/docs/appearance/structured-data/how-to,general_sales_content,brochure,HowTo 结构化文档,brochure|general_sales_content|route:brand_content
+Notion template gallery (ops content),https://www.notion.com/templates,general_sales_content,brochure,可复用内容模板库思路,brochure|general_sales_content|route:brand_content
+Open Graph protocol,https://ogp.me/,general_sales_content,brochure,社交分享元数据标准,brochure|general_sales_content|route:brand_content
+Product schema Google docs,https://developers.google.com/search/docs/appearance/structured-data/product,general_sales_content,brochure,产品结构化数据,brochure|general_sales_content|route:brand_content
+Sales one-pager examples (public),https://blog.hubspot.com/sales/one-pager,general_sales_content,brochure,一页纸销售资料结构,brochure|general_sales_content|route:brand_content
+Schema.org HowTo,https://schema.org/HowTo,general_sales_content,brochure,安装/使用步骤结构化,brochure|general_sales_content|route:brand_content
+Shopify product page best practices,https://www.shopify.com/blog/product-page,general_sales_content,brochure,产品页方法论,brochure|general_sales_content|route:brand_content
+TikTok Shop Seller Center education,https://seller-us.tiktok.com/,general_sales_content,brochure,带货平台教育内容,brochure|general_sales_content|route:brand_content
+W3C WCAG (content accessibility),https://www.w3.org/WAI/standards-guidelines/wcag/,general_sales_content,brochure,销售资料无障碍规范,brochure|general_sales_content|route:brand_content
+抖音电商罗盘公开介绍,https://fxg.jinritemai.com/,general_sales_content,brochure,国内带货数据后台入口说明,brochure|general_sales_content|route:brand_content
+Amazon Brand Store examples,https://sell.amazon.com/brand-registry,general_sales_content,case,品牌旗舰店结构,case|general_sales_content|route:brand_content
+BBB business profile pattern,https://www.bbb.org/,general_sales_content,case,第三方信誉背书入口,case|general_sales_content|route:brand_content
+Capterra,https://www.capterra.com/,general_sales_content,case,B2B 评价/案例聚合,case|general_sales_content|route:brand_content
+Case study template HubSpot,https://blog.hubspot.com/marketing/case-study-template,general_sales_content,case,案例模板方法论,case|general_sales_content|route:brand_content
+Clutch.co agency reviews,https://clutch.co/,general_sales_content,case,服务商案例与评价结构,case|general_sales_content|route:brand_content
+G2 category pages (B2B case pattern),https://www.g2.com/,general_sales_content,case,评价站案例库结构参考,case|general_sales_content|route:brand_content
+Google Customer Reviews,https://support.google.com/merchants/answer/7105979,general_sales_content,case,外部评价收集模式,case|general_sales_content|route:brand_content
+Grin customer stories,https://grin.co/customers/,general_sales_content,case,创作者合作案例,case|general_sales_content|route:brand_content
+HubSpot Case Studies library,https://www.hubspot.com/case-studies,general_sales_content,case,案例库信息架构：行业/结果指标筛选,case|general_sales_content|route:brand_content
+Influencer marketing case studies (Aspire),https://www.aspire.io/customers,general_sales_content,case,达人合作案例结构,case|general_sales_content|route:brand_content
+Klaviyo customer stories,https://www.klaviyo.com/customers,general_sales_content,case,客户故事模板,case|general_sales_content|route:brand_content
+Okendo reviews,https://okendo.io/,general_sales_content,case,Shopify 评价/UGC,case|general_sales_content|route:brand_content
+Shopify case studies,https://www.shopify.com/case-studies,general_sales_content,case,电商案例库,case|general_sales_content|route:brand_content
+Trustpilot business profiles,https://www.trustpilot.com/,general_sales_content,case,外部口碑入口模式,case|general_sales_content|route:brand_content
+Wirecutter methodology,https://www.nytimes.com/wirecutter/blog/,general_sales_content,case,第三方测评方法论公开页,case|general_sales_content|route:brand_content
+Yotpo reviews platform,https://www.yotpo.com/,general_sales_content,case,UGC/评价资产平台,case|general_sales_content|route:brand_content
+什么值得买（选购社区）,https://www.smzdm.com/,general_sales_content,case,第三方测评/口碑入口,case|general_sales_content|route:brand_content
+小红书品牌号公开主页模式,https://www.xiaohongshu.com/,general_sales_content,case,种草内容资产入口,case|general_sales_content|route:brand_content
+知乎产品评测话题（公开）,https://www.zhihu.com/,general_sales_content,case,问答型专业内容模式,case|general_sales_content|route:brand_content
+Costco member help,https://www.costco.com/customer-service.html,general_sales_content,faq,会员制零售 FAQ,faq|general_sales_content|route:brand_content
+FAQ schema Google docs,https://developers.google.com/search/docs/appearance/structured-data/faqpage,general_sales_content,faq,FAQ 结构化搜索文档,faq|general_sales_content|route:brand_content
+Objection handling frameworks,https://blog.hubspot.com/sales/sales-objection-handling,general_sales_content,faq,异议处理框架——可映射 FAQ,faq|general_sales_content|route:brand_content
+Schema.org FAQPage,https://schema.org/FAQPage,general_sales_content,faq,FAQ 结构化标准，利于复用与 SEO,faq|general_sales_content|route:brand_content
+Shopify: how to write product FAQs,https://www.shopify.com/blog/product-faq,general_sales_content,faq,产品 FAQ 写作框架（方法论，非竞品文案）,faq|general_sales_content|route:brand_content
+Target help,https://help.target.com/,general_sales_content,faq,零售帮助中心,faq|general_sales_content|route:brand_content
+Walmart help center,https://www.walmart.com/help,general_sales_content,faq,大零售帮助中心,faq|general_sales_content|route:brand_content
+CE marking guidance EU,https://single-market-economy.ec.europa.eu/single-market/ce-marking_en,home_appliance,brochure,欧盟合规公开说明,brochure|home_appliance|route:brand_content
+DOE appliance standards,https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program,home_appliance,brochure,能效标准公开库,brochure|home_appliance|route:brand_content
+Dyson air treatment buying guide,https://www.dyson.com/air-treatment,home_appliance,brochure,品类购买指南页,brochure|home_appliance|route:brand_content
+ETL / Intertek,https://www.intertek.com/,home_appliance,brochure,认证背书,brochure|home_appliance|route:brand_content
+EnergyGuide label FTC,https://www.ftc.gov/energy-guide,home_appliance,brochure,能效标签规范,brochure|home_appliance|route:brand_content
+EnergyStar room AC / dehumidifier,https://www.energystar.gov/products/heating_cooling/dehumidifiers,home_appliance,brochure,公共认证页可作为信任背书素材来源,brochure|home_appliance|route:brand_content
+FCC ID search,https://www.fcc.gov/oet/ea/fccid,home_appliance,brochure,认证查询工具,brochure|home_appliance|route:brand_content
+Home Depot buying guides,https://www.homedepot.com/c/buying_guides,home_appliance,brochure,卖场导购指南模板,brochure|home_appliance|route:brand_content
+Lowes buying guides,https://www.lowes.com/l/buying-guides.html,home_appliance,brochure,卖场导购指南模板,brochure|home_appliance|route:brand_content
+UL product safety,https://www.ul.com/,home_appliance,brochure,安全认证背书源,brochure|home_appliance|route:brand_content
+Wayfair appliance guides,https://www.wayfair.com/idea-center,home_appliance,brochure,零售商导购/灵感中心模式,brochure|home_appliance|route:brand_content
+AfterShip influencer category pages (appliances),https://ecommerce.aftership.com/influencers/top-100-most-follower-household-appliances-us-tiktok-shop-influencers,home_appliance,case,第三方测评/带货达人榜——外部口碑入口参考,case|home_appliance|route:brand_content
+CNET appliance reviews hub,https://www.cnet.com/home/kitchen-and-household/,home_appliance,case,科技媒体家电评测入口,case|home_appliance|route:brand_content
+Consumentenbond NL,https://www.consumentenbond.nl/,home_appliance,case,荷系消费者测评,case|home_appliance|route:brand_content
+Consumer Reports (public marketing),https://www.consumerreports.org/,home_appliance,case,第三方评测品牌,case|home_appliance|route:brand_content
+EcomRide TTS household appliances ranking,https://ecomride.com/blog/top-tiktok-shop-household-appliances-creators-september-2026/,home_appliance,case,带货效果公开榜，可作寄样对象池依据,case|home_appliance|route:brand_content
+Good Housekeeping product reviews,https://www.goodhousekeeping.com/appliances/,home_appliance,case,生活方式媒体评测,case|home_appliance|route:brand_content
+RTINGS dehumidifier,https://www.rtings.com/dehumidifier,home_appliance,case,实验室测评品类页,case|home_appliance|route:brand_content
+RTINGS methodology,https://www.rtings.com/info/methodology,home_appliance,case,实验室测评方法公开,case|home_appliance|route:brand_content
+Reviewed.com appliances,https://www.reviewed.com/appliances,home_appliance,case,实验室评测站,case|home_appliance|route:brand_content
+Stiftung Warentest,https://www.test.de/,home_appliance,case,德系测评机构,case|home_appliance|route:brand_content
+TechRadar home appliances,https://www.techradar.com/news/home-appliances,home_appliance,case,媒体品类新闻/评测,case|home_appliance|route:brand_content
+Tom's Guide appliances,"https://www.tomsguide.com/us/best-appliances,review-6067.html",home_appliance,case,导购榜单模式,case|home_appliance|route:brand_content
+Which? UK,https://www.which.co.uk/,home_appliance,case,英系消费者评测,case|home_appliance|route:brand_content
+Best Buy Geek Squad help,https://www.bestbuy.com/site/electronics/geek-squad/pcmcat138100050018.c,home_appliance,faq,零售安装/支持服务叙事,faq|home_appliance|route:brand_content
+Black+Decker FAQ pages,https://www.blackanddecker.com/pages/faq,home_appliance,faq,工具/家电 FAQ 模板，问答短句清晰,faq|home_appliance|route:brand_content
+Blueair support,https://www.blueair.com/us/support.html,home_appliance,faq,空净品牌支持,faq|home_appliance|route:brand_content
+Coway support,https://cowaymega.com/pages/support,home_appliance,faq,空气净化器支持,faq|home_appliance|route:brand_content
+Ecovacs support,https://www.ecovacs.com/global/support,home_appliance,faq,清洁电器全球支持,faq|home_appliance|route:brand_content
+Electrolux US support,https://www.electrolux.com/support/,home_appliance,faq,支持/手册中心,faq|home_appliance|route:brand_content
+GE Appliances support,https://www.geappliances.com/ge/service-and-support/,home_appliance,faq,大家电服务与支持导航,faq|home_appliance|route:brand_content
+Levoit / VeSync support,https://vesync.com/support,home_appliance,faq,空气/环境电器支持,faq|home_appliance|route:brand_content
+Molekule support,https://molekule.com/pages/support,home_appliance,faq,空净 FAQ,faq|home_appliance|route:brand_content
+Roborock support,https://support.roborock.com/,home_appliance,faq,扫地机支持,faq|home_appliance|route:brand_content
+SharkNinja support,https://support.sharkninja.com/,home_appliance,faq,清洁/厨房电器支持知识库,faq|home_appliance|route:brand_content
+Whirlpool support,https://www.whirlpool.com/services/support.html,home_appliance,faq,家电服务支持,faq|home_appliance|route:brand_content
+iRobot support,https://homesupport.irobot.com/,home_appliance,faq,清洁电器帮助中心,faq|home_appliance|route:brand_content
+Beko,https://www.beko.com/,home_appliance,site,家电品牌站,home_appliance|route:brand_content|site
+Bosch home US,https://www.bosch-home.com/us/,home_appliance,site,德系家电品牌站+支持,home_appliance|route:brand_content|site
+CES exhibitors appliance,https://www.ces.tech/,home_appliance,site,消费电子展,home_appliance|route:brand_content|site
+Cafe Appliances,https://www.cafeappliances.com/,home_appliance,site,中高端家电生活方式叙事,home_appliance|route:brand_content|site
+Candy Hoover,https://www.candy-home.com/,home_appliance,site,欧系家电品牌,home_appliance|route:brand_content|site
+Canton Fair appliances,https://www.cantonfair.org.cn/,home_appliance,site,广交会公开入口,home_appliance|route:brand_content|site
+Costway appliances,https://www.costway.com/,home_appliance,site,线上家电零售内容结构,home_appliance|route:brand_content|site
+Haier Europe,https://www.haier-europe.com/,home_appliance,site,欧洲家电站,home_appliance|route:brand_content|site
+Haier US,https://www.haier.com/us/,home_appliance,site,家电集团品牌站,home_appliance|route:brand_content|site
+Hisense Europe,https://www.hisense.com/,home_appliance,site,家电品牌全球,home_appliance|route:brand_content|site
+KBIS kitchen bath,https://kbis.com/,home_appliance,site,厨卫展渠道,home_appliance|route:brand_content|site
+Midea Global,https://www.midea.com/global,home_appliance,site,集团全球站,home_appliance|route:brand_content|site
+Miele US,https://www.mieleusa.com/,home_appliance,site,高端家电案例与手册入口,home_appliance|route:brand_content|site
+TCL Europe,https://www.tcl.com/eu/en,home_appliance,site,欧洲站,home_appliance|route:brand_content|site
+TCL US,https://www.tcl.com/us/en,home_appliance,site,消费电子+家电品牌站,home_appliance|route:brand_content|site
+Vremi,https://www.vremi.com/,home_appliance,site,生活家电 DTC,home_appliance|route:brand_content|site
+hOmeLabs,https://www.homelabs.com/,home_appliance,site,DTC 家电品牌站,home_appliance|route:brand_content|site
+京东家电品类页（公开）,https://www.jd.com/,home_appliance,site,国内电商品类信息架构参考,home_appliance|route:brand_content|site
+天猫家装/家电（公开）,https://www.tmall.com/,home_appliance,site,国内电商内容结构,home_appliance|route:brand_content|site
+Apartment Therapy shopping,https://www.apartmenttherapy.com/shopping,home_decor,brochure,家居种草内容,brochure|home_decor|route:brand_content
+BHG home products,https://www.bhg.com/,home_decor,brochure,家居媒体内容结构,brochure|home_decor|route:brand_content
+IKEA customer service FAQ,https://www.ikea.com/us/en/customer-service/,home_decor,faq,零售巨头 FAQ 信息架构,faq|home_decor|route:brand_content
+Maison&Objet,https://www.maison-objet.com/,home_decor,site,家居设计展,home_decor|route:brand_content|site
+ASHRAE,https://www.ashrae.org/,hvac,brochure,暖通标准与教育资源,brochure|hvac|route:brand_content
+REHVA EU HVAC,https://www.rehva.eu/,hvac,brochure,欧洲暖通协会资源,brochure|hvac|route:brand_content
+Honeywell Home support,https://www.honeywellhome.com/us/en/support/,hvac,faq,智能温控/暖通支持,faq|hvac|route:brand_content
+Samsung HVAC support,https://www.samsung.com/us/support/,hvac,faq,支持搜索+产品选择器,faq|hvac|route:brand_content
+AHR Expo,https://www.ahrexpo.com/,hvac,site,暖通展会,hvac|route:brand_content|site
+Air Conditioning Contractors of America,https://www.acca.org/,hvac,site,承包商协会——安装渠道入口,hvac|route:brand_content|site
+Carrier residential,https://www.carrier.com/residential/en/us/,hvac,site,暖通品牌站，渠道安装商叙事,hvac|route:brand_content|site
+Daikin dealer locator,https://www.daikincomfort.com/find-a-dealer,hvac,site,经销商定位器,hvac|route:brand_content|site
+ISH Frankfurt,https://ish.messefrankfurt.com/,hvac,site,欧洲暖通卫浴展,hvac|route:brand_content|site
+Lennox dealers,https://www.lennox.com/locate-dealer,hvac,site,找经销商工具页,hvac|route:brand_content|site
+Mitsubishi Electric HVAC dealers,https://www.mitsubishicomfort.com/find-a-contractor,hvac,site,安装商/承包商网络,hvac|route:brand_content|site
+MrCool DIY / dealers,https://mrcool.com/,hvac,site,DIY 暖通品牌内容+渠道,hvac|route:brand_content|site
+PHCC plumbing heating cooling,https://www.phccweb.org/,hvac,site,管道暖通承包商协会,hvac|route:brand_content|site
+Trane residential,https://www.trane.com/residential/,hvac,site,渠道+经销商查找模式,hvac|route:brand_content|site
+Breville support,https://www.breville.com/us/en/support.html,kitchen_appliance,faq,厨房小电 FAQ/手册,faq|kitchen_appliance|route:brand_content
+Instant Brands support,https://www.instanthome.com/support,kitchen_appliance,faq,厨房电器支持,faq|kitchen_appliance|route:brand_content
+KitchenAid support,https://www.kitchenaid.com/service-and-support.html,kitchen_appliance,faq,厨房电器支持,faq|kitchen_appliance|route:brand_content
+Ninja Kitchen support,https://www.ninjakitchen.com/support/,kitchen_appliance,faq,小电支持知识库,faq|kitchen_appliance|route:brand_content
+REI expert advice,https://www.rei.com/learn/expert-advice,outdoor,brochure,专家建议内容库,brochure|outdoor|route:brand_content
+ASPCA pet care,https://www.aspca.org/pet-care,pet_gear,brochure,公益机构护理指南,brochure|pet_gear|route:brand_content
+American Kennel Club advice,https://www.akc.org/expert-advice/,pet_gear,brochure,权威内容/教育素材源,brochure|pet_gear|route:brand_content
+Dogster / Catster,https://www.dogster.com/,pet_gear,brochure,宠物杂志型内容,brochure|pet_gear|route:brand_content
+Hills Pet science,https://www.hillspet.com/,pet_gear,brochure,科学背书型品牌内容,brochure|pet_gear|route:brand_content
+PetMD,https://www.petmd.com/,pet_gear,brochure,宠物健康教育内容,brochure|pet_gear|route:brand_content
+Rachael Ray Nutrish (pet brand story),https://www.nutrish.com/,pet_gear,brochure,宠物品牌故事页模式,brochure|pet_gear|route:brand_content
+Royal Canin breed advice,https://www.royalcanin.com/,pet_gear,brochure,专业宠物营养叙事,brochure|pet_gear|route:brand_content
+The Spruce pets,https://www.thesprucepets.com/,pet_gear,brochure,宠物垂直内容站,brochure|pet_gear|route:brand_content
+Rover blog (pet education),https://www.rover.com/blog/,pet_gear,case,宠物场景内容/案例型博客,case|pet_gear|route:brand_content
+Chewy Help / FAQ hub,https://www.chewy.com/app/content/faq,pet_gear,faq,宠物电商 FAQ 广度：物流/订阅/退换,faq|pet_gear|route:brand_content
+Petco FAQs entry,https://www.petco.com/shop/en/petcostore/c/faqs,pet_gear,faq,宠物零售 FAQ,faq|pet_gear|route:brand_content
+Purina FAQ / nutrition,https://www.purina.com/,pet_gear,faq,宠物食品品牌内容结构,faq|pet_gear|route:brand_content
+Chewy Connect / brand hub,https://www.chewy.com/brands,pet_gear,site,品牌墙/第三方内容入口,pet_gear|route:brand_content|site
+Chewy brand about,https://www.chewy.com/,pet_gear,site,宠物电商首页信息架构,pet_gear|route:brand_content|site
+Fi Collar,https://tryfi.com/,pet_gear,site,宠物可穿戴 DTC,pet_gear|route:brand_content|site
+Furbo product story,https://shopfurbo.com/,pet_gear,site,宠物智能硬件品牌站,pet_gear|route:brand_content|site
+Global Pet Expo,https://globalpetexpo.org/,pet_gear,site,展会渠道触达,pet_gear|route:brand_content|site
+Homerunpet,https://www.homerunpet.com/,pet_gear,site,宠物智能硬件,pet_gear|route:brand_content|site
+Interzoo,https://www.interzoo.com/,pet_gear,site,欧洲宠物展,pet_gear|route:brand_content|site
+PIDA Find a Distributor,https://www.pida.org/find-a-distributor/,pet_gear,site,行业协会经销商地图——渠道合作资产模板,pet_gear|route:brand_content|site
+Pet Industry Distributors Association home,https://www.pida.org/,pet_gear,site,渠道生态：制造商/分销/零售三角,pet_gear|route:brand_content|site
+PetSafe,https://www.petsafe.com/,pet_gear,site,宠物智能/围栏品牌,pet_gear|route:brand_content|site
+Petco brand partner info,https://www.petco.com/,pet_gear,site,零售渠道品牌露出,pet_gear|route:brand_content|site
+Petcube,https://petcube.com/,pet_gear,site,宠物摄像头品牌站,pet_gear|route:brand_content|site
+Petlibro,https://www.petlibro.com/,pet_gear,site,宠物喂食器 DTC,pet_gear|route:brand_content|site
+Sure Petcare,https://www.surepetcare.com/,pet_gear,site,宠物智能门/喂食器,pet_gear|route:brand_content|site
+Tractive,https://tractive.com/,pet_gear,site,欧盟宠物 GPS 品牌,pet_gear|route:brand_content|site
+Uahpet,https://www.uahpet.com/,pet_gear,site,宠物智能品牌,pet_gear|route:brand_content|site
+Whisker Litter-Robot,https://www.whisker.com/,pet_gear,site,宠物智能设备品牌+支持,pet_gear|route:brand_content|site
+Whistle pet,https://www.whistle.com/,pet_gear,site,宠物追踪品牌,pet_gear|route:brand_content|site
+AHAM portable AC guidance,https://aham.org/,portable_ac,brochure,行业协会标准与消费者指南入口,brochure|portable_ac|route:brand_content
+Dual Hose vs Single Hose explainer pattern (EnergyStar),https://www.energystar.gov/products/heating_cooling,portable_ac,brochure,能效/选型公共教育内容，可作销售附件依据,brochure|portable_ac|route:brand_content
+Midea US air care,https://www.midea.com/us/air-conditioners,portable_ac,brochure,空调品类页,brochure|portable_ac|route:brand_content
+Whynter product manuals index,https://www.whynter.com/,portable_ac,brochure,手册/规格入口,brochure|portable_ac|route:brand_content
+Portable AC buying guide Wirecutter,https://www.nytimes.com/wirecutter/reviews/best-portable-air-conditioner/,portable_ac,case,第三方测评长文结构（仅链到公开页）,case|portable_ac|route:brand_content
+Frigidaire Portable AC support articles,https://www.frigidaire.com/en/support/product-support,portable_ac,faq,产品支持文章树,faq|portable_ac|route:brand_content
+Frigidaire portable AC support,https://www.frigidaire.com/en/support,portable_ac,faq,品牌支持中心,faq|portable_ac|route:brand_content
+Honeywell Store FAQ,https://www.honeywellstore.com/store/pages/faq.htm,portable_ac,faq,空气处理产品零售 FAQ,faq|portable_ac|route:brand_content
+LG Portable AC product help,https://www.lg.com/us/support/product-help/CT20096005-2013822040,portable_ac,faq,大品牌产品帮助中心：故障排查树状结构,faq|portable_ac|route:brand_content
+LG ThinQ / AC support,https://www.lg.com/us/support,portable_ac,faq,大品牌综合支持门户,faq|portable_ac|route:brand_content
+Midea US Support FAQs,https://www.midea.com/us/support/faqs,portable_ac,faq,家电品牌 FAQ 结构：品类筛选 + 售后/安装问答，可复用为销售资料骨架,faq|portable_ac|route:brand_content
+Whynter FAQ,https://www.whynter.com/faq/,portable_ac,faq,中小家电品牌 FAQ 密度高，覆盖安装排气/排水常见异议,faq|portable_ac|route:brand_content
+ArgoClima portable AC EN,https://www.argoclima.com/en/,portable_ac,site,意系便携空调品牌站：产品线 + 服务网络表达,portable_ac|route:brand_content|site
+Aux Air,https://www.auxair.com/,portable_ac,site,空调品牌站,portable_ac|route:brand_content|site
+Black+Decker portable comfort,https://www.blackanddecker.com/,portable_ac,site,品牌站导航,portable_ac|route:brand_content|site
+Chigo,https://www.chigo.com/,portable_ac,site,空调品牌站,portable_ac|route:brand_content|site
+De'Longhi Support hub,https://www.delonghi.com/en-us/support,portable_ac,site,支持中心导航：手册/视频/零件，适合做成销售附件索引,portable_ac|route:brand_content|site
+Friedrich Air Conditioning,https://www.friedrich.com/,portable_ac,site,专业空调品牌站结构,portable_ac|route:brand_content|site
+Gree Electric,https://global.gree.com/,portable_ac,site,空调集团全球站,portable_ac|route:brand_content|site
+HVAC Industry Marketplace portable AC,https://hvacindustrymarketplace.com/Listing/Index/Air_Conditioning_Equipment/Portable_Air_Conditioning_Units/696/347/50/1,portable_ac,site,北美 HVAC 市场名录,portable_ac|route:brand_content|site
+Hisense US air products,https://www.hisense-usa.com/,portable_ac,site,空调/家电品牌站,portable_ac|route:brand_content|site
+Honeywell Air comfort products,https://www.honeywellstore.com/,portable_ac,site,零售型品牌站 + 支持入口,portable_ac|route:brand_content|site
+Midea Portable Air Conditioners category,https://www.midea.com/us/air-conditioners/portable-air-conditioners,portable_ac,site,便携空调品类落地页：卖点模块 + SKU 矩阵,portable_ac|route:brand_content|site
+Olimpia Splendid brand site,https://www.olimpiasplendid.com/en/,portable_ac,site,Dolceclima 等便携线品牌叙事与多市场子公司,portable_ac|route:brand_content|site
+SereneLife / Pyle portable AC,https://www.pyleusa.com/,portable_ac,site,消费电子+便携制冷,portable_ac|route:brand_content|site
+Shinco / more comfort brands,https://www.shinco.com/,portable_ac,site,便携空调品牌站,portable_ac|route:brand_content|site
+ThomasNet AC distributors directory,https://www.thomasnet.com/suppliers/usa/air-conditioning-distributors-96197082,portable_ac,site,B2B 供应商目录页结构,portable_ac|route:brand_content|site
+WLW portable air conditioners EU,https://www.wlw.com/en/search/portable-air-conditioners,portable_ac,site,欧洲 B2B 搜索目录,portable_ac|route:brand_content|site
+Ecobee support,https://www.ecobee.com/en-us/support/,smart_home,faq,智能温控支持,faq|route:brand_content|smart_home
+Nest / Google Nest help,https://support.google.com/googlenest/,smart_home,faq,智能家居帮助中心,faq|route:brand_content|smart_home
+Aqara,https://www.aqara.com/,smart_home,site,智能家居生态叙事,route:brand_content|site|smart_home
+Govee,https://us.govee.com/,smart_home,site,智能硬件品牌+场景内容,route:brand_content|site|smart_home
+SwitchBot,https://www.switch-bot.com/,smart_home,site,智能家居品牌站,route:brand_content|site|smart_home
+Xiaomi Home appliances,https://www.mi.com/,smart_home,site,智能家居生态站,route:brand_content|site|smart_home
+Cantherm / Arcotherm about,https://canthermheaters.com/about/,space_heater,brochure,便携工业取暖经销叙事与交付能力表述,brochure|route:brand_content|space_heater
+De'Longhi heaters,https://www.delonghi.com/en-us/products/comfort/heaters,space_heater,brochure,取暖品类页,brochure|route:brand_content|space_heater
+Dyson heaters / air treatment,https://www.dyson.com/heaters,space_heater,brochure,取暖产品线落地页结构,brochure|route:brand_content|space_heater
+Space heater Wirecutter,https://www.nytimes.com/wirecutter/reviews/best-space-heater/,space_heater,case,取暖器测评结构参考,case|route:brand_content|space_heater
+Dyson Support FAQ,https://www.dyson.com/support/faq,space_heater,faq,高端电器 FAQ/诊断体验，结构可参考,faq|route:brand_content|space_heater
+Vornado FAQ,https://www.vornado.com/pages/faq,space_heater,faq,空气循环/取暖 FAQ,faq|route:brand_content|space_heater
+Lasko products,https://www.lasko.com/,space_heater,site,风扇/取暖大众品牌站,route:brand_content|site|space_heater
+ThomasNet portable heaters,https://www.thomasnet.com/suppliers/usa/portable-heaters-37780400,space_heater,site,取暖设备供应商目录,route:brand_content|site|space_heater
+Anker,https://www.anker.com/,tech_gadgets,site,充电/电子品牌内容,route:brand_content|site|tech_gadgets
+Baseus,https://www.baseus.com/,tech_gadgets,site,消费电子配件品牌,route:brand_content|site|tech_gadgets
+Bluetti,https://www.bluettipower.com/,tech_gadgets,site,便携电源——相邻场景内容,route:brand_content|site|tech_gadgets
+EcoFlow,https://www.ecoflow.com/,tech_gadgets,site,便携能源品牌站,route:brand_content|site|tech_gadgets
+Jackery,https://www.jackery.com/,tech_gadgets,site,便携电源品牌,route:brand_content|site|tech_gadgets
+Ugreen,https://www.ugreen.com/,tech_gadgets,site,配件品牌站,route:brand_content|site|tech_gadgets
+Decanter guides,https://www.decanter.com/,wine_cooler,brochure,英系葡萄酒媒体,brochure|route:brand_content|wine_cooler
+EuroCave advice / guides,https://www.eurocave.com/en/advice,wine_cooler,brochure,选型建议内容,brochure|route:brand_content|wine_cooler
+Vinotemp learning center,https://www.vinotemp.com/learning-center/,wine_cooler,brochure,储酒教育中心,brochure|route:brand_content|wine_cooler
+Wine Enthusiast buying guides,https://www.wineenthusiast.com/buying-guide/,wine_cooler,brochure,导购指南模式,brochure|route:brand_content|wine_cooler
+Wine Enthusiast education / guides hub,https://www.wineenthusiast.com/calendar/,wine_cooler,brochure,酒柜/储酒教育内容入口（公开导购向）,brochure|route:brand_content|wine_cooler
+Wine Folly,https://winefolly.com/,wine_cooler,brochure,葡萄酒教育可视化内容,brochure|route:brand_content|wine_cooler
+Wine Guardian resources,https://wineguardian.com/resources/,wine_cooler,brochure,技术资源/安装资料入口,brochure|route:brand_content|wine_cooler
+Wine Spectator education,https://www.winespectator.com/,wine_cooler,brochure,葡萄酒媒体教育内容,brochure|route:brand_content|wine_cooler
+Wine fridge Wirecutter,https://www.nytimes.com/wirecutter/reviews/best-wine-fridge/,wine_cooler,case,酒柜测评结构参考,case|route:brand_content|wine_cooler
+Breezaire FAQ,https://breezaire.com/faq/,wine_cooler,faq,酒窖制冷 FAQ + 经销政策相关公开说明,faq|route:brand_content|wine_cooler
+EuroCave FAQ,https://www.eurocave.com/en/faq,wine_cooler,faq,高端酒柜 FAQ：储存条件/选型，可转销售异议手册,faq|route:brand_content|wine_cooler
+CellarPro knowledge,https://cellarpro.com/,wine_cooler,site,酒窖制冷品牌站,route:brand_content|site|wine_cooler
+CellarTracker,https://www.cellartracker.com/,wine_cooler,site,藏酒社区,route:brand_content|site|wine_cooler
+EdgeStar specialty cooling,https://www.edgestar.com/,wine_cooler,site,酒柜/特种制冷品牌,route:brand_content|site|wine_cooler
+Host Milano / hospitality cooling,https://www.host.fieramilano.it/,wine_cooler,site,酒店餐饮设备展,route:brand_content|site|wine_cooler
+IWA wine accessories / storage,https://www.iwawine.com/,wine_cooler,site,酒具与储酒零售内容站,route:brand_content|site|wine_cooler
+La Fraîcheur dealers & showrooms,https://lafraicheur.com/en/dealers-showrooms,wine_cooler,site,经销+批发伙伴分区展示,route:brand_content|site|wine_cooler
+NewAir specialty appliances,https://www.newair.com/,wine_cooler,site,酒柜/制冰/便携制冷,route:brand_content|site|wine_cooler
+Transtherm points of sale,https://www.transthermfridges.com/points-of-sale/,wine_cooler,site,全球门店/经销列表版式,route:brand_content|site|wine_cooler
+U-Line wine & beverage,https://www.u-line.com/,wine_cooler,site,嵌入式酒饮制冷品牌,route:brand_content|site|wine_cooler
+Vinexpo / Wine Paris,https://wineparis.com/,wine_cooler,site,葡萄酒行业展,route:brand_content|site|wine_cooler
+Vinotemp Support,https://www.vinotemp.com/support/,wine_cooler,site,支持/保修/安装入口聚合页,route:brand_content|site|wine_cooler
+Vivino,https://www.vivino.com/,wine_cooler,site,酒款社区/口碑入口,route:brand_content|site|wine_cooler
+Wine Guardian distributor finder,https://wineguardian.com/support/distributors/,wine_cooler,site,按地区找经销商的交互模式，可借鉴渠道页,route:brand_content|site|wine_cooler
+Zephyr ventilation / wine,https://zephyronline.com/,wine_cooler,site,厨房/酒柜相关品牌站,route:brand_content|site|wine_cooler
