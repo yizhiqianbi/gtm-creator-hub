@@ -1,0 +1,29 @@
+{
+  "customs_candidates": 825,
+  "added": 824,
+  "enriched_existing": 1,
+  "skipped_logistics": 0,
+  "total_after": 1475,
+  "by_type": {
+    "factory": 4,
+    "manufacturer": 424,
+    "exporter": 599,
+    "importer": 137,
+    "brand": 71,
+    "wholesaler": 232,
+    "b2b_store": 8
+  },
+  "with_hs": 825,
+  "by_trade_role": {
+    "unset": 650,
+    "exporter": 687,
+    "importer": 138
+  },
+  "sources_used": [
+    "importdoor",
+    "importyeti",
+    "zauba"
+  ],
+  "before": 651,
+  "net_new": 824
+}

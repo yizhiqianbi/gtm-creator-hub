@@ -13,7 +13,7 @@ RAW = ROOT / "raw_lists_merchants"
 RAW.mkdir(exist_ok=True)
 
 VALID_TYPES = {
-    "manufacturer", "factory", "wholesaler", "brand", "exporter", "b2b_store"
+    "manufacturer", "factory", "wholesaler", "brand", "exporter", "b2b_store", "importer"
 }
 
 def norm_space(s: str) -> str:
@@ -195,6 +195,8 @@ class MerchantDB:
             "tags": sorted(tags),
             "notes": notes,
             "related_channel": related_channel or "",
+            "hs_codes": [],
+            "trade_role": "",
         }
         self.rows.append(row)
         return True
@@ -535,6 +537,7 @@ def write_merchants(rows, json_path: Path, csv_path: Path):
     fields = [
         "name", "type", "region", "website", "public_contact",
         "categories", "platforms", "source_url", "tags", "notes", "related_channel",
+        "hs_codes", "trade_role",
     ]
     json_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n")
     with csv_path.open("w", newline="", encoding="utf-8") as f:
@@ -545,6 +548,7 @@ def write_merchants(rows, json_path: Path, csv_path: Path):
             row["categories"] = "|".join(r.get("categories") or [])
             row["platforms"] = "|".join(r.get("platforms") or [])
             row["tags"] = "|".join(r.get("tags") or [])
+            row["hs_codes"] = "|".join(r.get("hs_codes") or [])
             w.writerow(row)
 
 def maybe_update_readme():
@@ -556,7 +560,7 @@ def maybe_update_readme():
     block = (
         f"{marker}\n"
         f"- **B端商家 / merchants**: `data/merchants.json` + `data/merchants.csv` "
-        f"(manufacturer / factory / wholesaler / brand / exporter / b2b_store; "
+        f"(manufacturer / factory / wholesaler / brand / exporter / importer / b2b_store; "
         f"niches: portable AC/HVAC, wine cooler, heaters, pet, home appliances, export/live-commerce supply). "
         f"Cross-tagged with `channels.json` via `merchant_db_overlap` / `related_channel` (no silent merge).\n"
     )
@@ -598,10 +602,22 @@ def main():
     ingest_maps(db)
 
     # sort: manufacturers/factories first-ish then name
-    type_rank = {"factory": 0, "manufacturer": 1, "exporter": 2, "brand": 3, "wholesaler": 4, "b2b_store": 5}
+    type_rank = {"factory": 0, "manufacturer": 1, "exporter": 2, "importer": 3, "brand": 4, "wholesaler": 5, "b2b_store": 6}
     db.rows.sort(key=lambda r: (type_rank.get(r["type"], 9), r["name"].lower()))
 
     overlap = cross_link_channels(db)
+
+    # Public customs / trade directories incremental merge (ImportYeti / ImportDoor / Zauba HTML snapshots)
+    try:
+        from expand_merchants_customs import parse_customs_dir, merge_customs
+        customs = parse_customs_dir(RAW / "customs")
+        if customs:
+            merged, creport = merge_customs(db.rows, customs)
+            db.rows = merged
+            db.seen = {dedupe_key(r.get("name",""), r.get("website","")) for r in db.rows}
+            print("customs_merge", creport)
+    except Exception as e:
+        print("customs_merge_skipped", type(e).__name__, e)
 
     # write to push + local hub + workspace copies
     for base in [HUB_PUSH / "data", HUB / "data", ROOT]:
