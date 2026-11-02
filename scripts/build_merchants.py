@@ -649,5 +649,18 @@ def main():
     (ROOT / "merchants-build-report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
+
+# MULTISOURCE_DAILY_HOOK
+# Daily merchant expansion prefers scripts/expand_merchants_multisource.py
+# which ingests: channel, customs, trade_show, linkedin, maps, alibaba, 1688, association, mic.
+def daily_expand_multisource():
+    """Run multi-source public expansion then rewrite merchants.json/csv."""
+    import runpy
+    from pathlib import Path
+    script = Path(__file__).resolve().parent / "expand_merchants_multisource.py"
+    if not script.exists():
+        script = Path("/workspace/expand_merchants_multisource.py")
+    runpy.run_path(str(script), run_name="__main__")
+
 if __name__ == "__main__":
     main()

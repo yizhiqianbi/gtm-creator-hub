@@ -1,0 +1,28 @@
+{
+  "before": 1475,
+  "after": 3414,
+  "net_new": 1939,
+  "after_by_source_tag": {
+    "source:linkedin": 960,
+    "source:alibaba": 96,
+    "source:channel": 618,
+    "source:mic": 388,
+    "source:trade_show": 314,
+    "source:unset": 4,
+    "source:association": 248,
+    "source:customs": 828,
+    "source:maps": 205,
+    "source:1688": 1
+  },
+  "by_type": {
+    "factory": 170,
+    "manufacturer": 1370,
+    "exporter": 671,
+    "importer": 138,
+    "brand": 243,
+    "wholesaler": 814,
+    "b2b_store": 8
+  },
+  "with_website": 1726,
+  "with_hs": 828
+}
