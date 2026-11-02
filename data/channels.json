@@ -13,7 +13,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; FR HVAC brand; Maui portable monobloc R290 (cool-only & reversible) in catalogue"
@@ -32,7 +34,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; cross-border retail brands (HOMCOM) sell portable AC in UK/EU; B2B wholesale portal — private-label supply candidate"
@@ -51,7 +55,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR; 2025 fatturato ~EUR 94M; portable line; OEM engineering for intl brands claimed; 500+ assistance centers"
@@ -70,7 +76,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; UK own-brand electriQ portable AC sold via Appliances Direct/Aircon Direct; China-sourced OEM pattern typical — supply-into-channel fit"
@@ -89,7 +97,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Klarstein portable AC (Klimamobil etc.); dedicated B2B wholesale email — strong retail/private-label style channel"
@@ -108,7 +118,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; FR brand (wine cellars + mobile AC CLIMA5K1/7K1/9K1); distributor-network signup — supply fit for private label expansion"
@@ -127,7 +139,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Canadian appliance company with portable/window AC; national distribution+support"
@@ -146,7 +160,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR; Pinguino portable; group ~EUR 3.8B — oversized reference only"
@@ -163,6 +179,7 @@
     "source_url": "https://www.dimplex.com/",
     "tags": [
       "heater",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Electric heating brand"
@@ -179,6 +196,7 @@
     "source_url": "https://www.drheaterusa.com/",
     "tags": [
       "heater",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Space heater brand + retail"
@@ -197,7 +215,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; UK brand/distributor portable AC + dehumidifiers; explicit trade account email — high outreach priority"
@@ -216,7 +236,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; EU household appliance supplier with portable AC SKUs; multi-country warehouses — likely imports/private-label style"
@@ -232,6 +254,8 @@
     ],
     "source_url": "https://www.eurocave.com/en/",
     "tags": [
+      "merchant_db_overlap",
+      "related_merchant",
       "route:channel_coop",
       "wine_cooler"
     ],
@@ -251,7 +275,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Genemuiden climate/comfort brand; mobile AC 7k–18k BTU incl. WiFi; business-customer page"
@@ -270,7 +296,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; professional/portable spot coolers + portable with remote outdoor unit; Padua HQ; good commercial/OEM-adjacent profile"
@@ -289,7 +317,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR in brand-channel list; US portable/window; states own designs not OEM products"
@@ -308,7 +338,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Dimplex portable cooling/ECOIQ; large heating group — portable is niche line but brand+service network strong"
@@ -327,7 +359,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW/verify-SKU; EU licensee for Black+Decker small domestic appliances (air treatment cited in trade press); portable AC presence needs catalogue check"
@@ -344,6 +378,7 @@
     "source_url": "https://heatstorm.com/",
     "tags": [
       "heater",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Infrared heater brand"
@@ -362,7 +397,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Dutch appliance brand with mobile 3-in-1/4-in-1 AC (AC901/AC906W etc.)"
@@ -378,6 +415,7 @@
     ],
     "source_url": "https://www.kwikool.com/",
     "tags": [
+      "merchant_db_overlap",
       "portable_ac",
       "route:channel_coop"
     ],
@@ -395,6 +433,7 @@
     ],
     "source_url": "https://www.master-climate-solutions.com/",
     "tags": [
+      "merchant_db_overlap",
       "portable_ac",
       "route:channel_coop"
     ],
@@ -414,7 +453,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW but oversized; Comfee mobile AC EU; Midea is competing Chinese OEM giant — low fit as 'enter their channel' for peer factory unless white-label niche"
@@ -433,7 +474,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; US compact appliance brand incl. portable AC; DTC+retail"
@@ -452,7 +495,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; US commercial/industrial portable AC manufacturer (IL plant); distributor network — spare-parts/after-sales strong"
@@ -471,7 +516,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR; Dolceclima portable; 2025 net sales ~EUR 123M; FR/ES/US subsidiaries"
@@ -490,7 +537,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; DE online/retail own-brand mobile Klimageräte (Sichler); B2B reseller registration — OEM/supply fit possible"
@@ -509,7 +558,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR; brand owner for Qlima mobile climate; historically group EUR 130–200M older press"
@@ -528,7 +579,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; DE climate/heat specialist since 1976; mobile AC 1.7–4.3 kW + Fachpartner network — after-sales via partners"
@@ -547,7 +600,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; professional mobile climate (Airrex coolers/heaters); EU dealer network DE/UK warehouses — B2B dealer recruitment"
@@ -566,7 +621,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; AT white-goods brand owner Be Cool portable/mobile split AC; own service line"
@@ -585,7 +642,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Tilburg HQ; Princess & Tristar portable AC lines (R290); explicit Private Label + reseller B2B — strong supply-into-channel target"
@@ -604,7 +663,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; US portable AC/dehumidifier brand; historically China OEM (Chigo/Gree cited in litigation/press) — classic supply-into-brand pattern"
@@ -623,7 +684,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Amazon-heavy SereneLife portable AC; importer Sound Around — private-label/OEM supply fit likely"
@@ -640,6 +703,7 @@
     "source_url": "https://www.stiebel-eltron-usa.com/",
     "tags": [
       "heater",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Electric heating brand/distributors"
@@ -658,7 +722,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; US HVAC/appliance brand with portable AC category; service email published (not purchasing)"
@@ -677,7 +743,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR; EU subsidiaries NL/ES/IT/FR/PT; portable AC in portfolio"
@@ -694,6 +762,7 @@
     ],
     "source_url": "https://www.wlw.com/en/search/portable-air-conditioners",
     "tags": [
+      "merchant_db_overlap",
       "portable_ac",
       "route:channel_coop"
     ],
@@ -713,7 +782,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR; mobile cooling/dehumidifier; 2021 ~EUR 170M; now with Dantherm"
@@ -732,7 +803,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "PRIOR; US portable AC brand; LinkedIn revenue figure ~USD 44M unverified"
@@ -751,7 +824,9 @@
     "tags": [
       "brand",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; Nordic appliance brand with portable AC collection (Chill/Cool Connected); sales email published"
@@ -770,7 +845,9 @@
     "tags": [
       "channel",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; portable AC hire + sales across UK/EU; buys fleet equipment — possible volume OEM for rental fleet, not retail brand"
@@ -789,7 +866,9 @@
     "tags": [
       "channel",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; EU temporary cooling rental (2.2–500 kW mobile/spot); fleet buyer for portable units"
@@ -809,7 +888,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -829,7 +910,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -865,7 +948,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -885,7 +970,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -922,7 +1009,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -942,7 +1031,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -962,7 +1053,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -982,7 +1075,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1002,7 +1097,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -1022,7 +1119,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1042,7 +1141,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1062,7 +1163,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — AC/HVAC related business"
@@ -1082,7 +1185,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -1102,7 +1207,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — AC/HVAC related business"
@@ -1122,7 +1229,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1160,7 +1269,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1180,7 +1291,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1268,7 +1381,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1288,7 +1403,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1308,7 +1425,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1328,7 +1447,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1348,7 +1469,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -1368,7 +1491,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1388,7 +1513,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1408,7 +1535,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1447,7 +1576,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1483,7 +1614,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1503,7 +1636,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -1541,7 +1676,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1561,7 +1698,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1581,7 +1720,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -1617,7 +1758,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1637,7 +1780,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1657,7 +1802,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1677,7 +1824,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1710,7 +1859,9 @@
     ],
     "source_url": "https://www.chewy.com/",
     "tags": [
+      "merchant_db_overlap",
       "pet",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "National pet ecommerce"
@@ -1730,7 +1881,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1750,7 +1903,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — AC/HVAC related business"
@@ -1770,7 +1925,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1790,7 +1947,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1810,7 +1969,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1830,7 +1991,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1850,7 +2013,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -1870,7 +2035,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1890,7 +2057,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -1910,7 +2079,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -1928,6 +2099,8 @@
     "source_url": "https://www.delonghi.com/",
     "tags": [
       "heater",
+      "merchant_db_overlap",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "Store locator channel"
@@ -1947,7 +2120,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1967,7 +2142,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -1987,7 +2164,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2007,7 +2186,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2027,7 +2208,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2047,7 +2230,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2067,7 +2252,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2087,7 +2274,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2107,7 +2296,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2127,7 +2318,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2147,7 +2340,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2167,7 +2362,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -2187,7 +2384,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2207,7 +2406,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2243,7 +2444,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2263,7 +2466,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2283,7 +2488,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -2320,7 +2527,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2340,7 +2549,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2360,7 +2571,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2396,7 +2609,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2416,7 +2631,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2436,7 +2653,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2456,7 +2675,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -2510,7 +2731,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2530,7 +2753,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -2550,7 +2775,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2570,7 +2797,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2590,7 +2819,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — AC/HVAC related business"
@@ -2610,7 +2841,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2630,7 +2863,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2650,7 +2885,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2670,7 +2907,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2690,7 +2929,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2710,7 +2951,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2730,7 +2973,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2750,7 +2995,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2770,7 +3017,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2790,7 +3039,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -2810,7 +3061,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2830,7 +3083,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2850,7 +3105,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2870,7 +3127,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2890,7 +3149,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2910,7 +3171,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2930,7 +3193,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -2950,7 +3215,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2970,7 +3237,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -2990,7 +3259,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -3010,7 +3281,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3030,7 +3303,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3050,7 +3325,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -3088,7 +3365,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3108,7 +3387,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3128,7 +3409,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3148,7 +3431,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3168,7 +3453,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3205,7 +3492,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3225,7 +3514,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -3245,7 +3536,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3265,7 +3558,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3383,7 +3678,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3403,7 +3700,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -3423,7 +3722,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -3443,7 +3744,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -3463,7 +3766,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3483,7 +3788,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3503,7 +3810,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3523,7 +3832,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3543,7 +3854,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3563,7 +3876,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -3616,7 +3931,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -3636,7 +3953,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -3656,7 +3975,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -3676,7 +3997,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3728,7 +4051,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -3748,7 +4073,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3768,7 +4095,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -3788,7 +4117,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3825,7 +4156,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3845,7 +4178,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -3865,7 +4200,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3919,7 +4256,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -3956,7 +4295,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -3976,7 +4317,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -3996,7 +4339,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -4016,7 +4361,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -4053,7 +4400,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -4069,6 +4418,8 @@
     ],
     "source_url": "https://www.vinotemp.com/support/",
     "tags": [
+      "merchant_db_overlap",
+      "related_merchant",
       "route:channel_coop",
       "vinotemp",
       "wine_cooler"
@@ -4142,7 +4493,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -4318,7 +4671,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -4338,7 +4693,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -4392,7 +4749,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
@@ -4412,7 +4771,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -4432,7 +4793,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -4452,7 +4815,9 @@
     "tags": [
       "dealer",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -4855,7 +5220,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -4929,7 +5296,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -5498,7 +5867,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -5626,7 +5997,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
@@ -5989,7 +6362,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -6291,7 +6666,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -6633,7 +7010,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -6653,7 +7032,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -7034,7 +7415,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -7054,7 +7437,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -7444,7 +7829,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -7569,7 +7956,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -7679,7 +8068,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -8042,7 +8433,9 @@
     "tags": [
       "distributor",
       "maps_lead",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
@@ -8221,7 +8614,9 @@
     "source_url": "https://www.wlw.com/en/search/portable-air-conditioners",
     "tags": [
       "eu",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wlw"
     ],
@@ -9092,7 +9487,9 @@
     "tags": [
       "hvac",
       "importer",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; official Gree RAC distributor UK; product category Portables incl. heat-pump portables"
@@ -9111,7 +9508,9 @@
     "tags": [
       "hvac",
       "importer",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; exclusive GREE importer FR; published order/sales emails — channel for portable + split"
@@ -9130,7 +9529,9 @@
     "tags": [
       "hvac",
       "importer",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; GREE general importer/distributor DE; Fachbetrieb-only wholesale; portable/mobile lines via GREE/KRONE assortments — B2B purchase desk published"
@@ -9149,7 +9550,9 @@
     "tags": [
       "hvac",
       "importer",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "NEW; exclusive Kaisai path in DE; Kaisai mobile KPC portable range documented"
@@ -9168,8 +9571,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Abbey%20vent%20ltd&query_place_id=ChIJn2ZT-J2nYUgRZDQqW1crj9M",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9188,8 +9593,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Advanced%20Ventilation%20Solutions%20Ltd&query_place_id=ChIJH-kbTgmlYUgRfkXFxWfj6RU",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9208,8 +9615,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Air%20Cool%20Engineering%20(NI)&query_place_id=ChIJAVCckkMRYEgRcRVb6zw7GuM",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9228,8 +9637,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Air%20Vent%20Services%20Ltd&query_place_id=ChIJ-egGf3XtbEgRdlerkBtFmTQ",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9248,8 +9659,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Aix%20Clima%20International&query_place_id=ChIJLa56AW2ZwEcR2gyCuzdTSJM",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9268,8 +9681,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Allure%20gas%20-%20air%20conditioning%20repair%20Weymouth.&query_place_id=ChIJvQk2feL3ckgR4gVIqXRfU1A",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9288,8 +9703,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Andrews%20Sykes%20Devon%20-%20Air%20Conditioning%20Hire%2C%20Heating%20Hire%20%26%20Pump%20Hire%20Devon&query_place_id=ChIJ7YilwCoHbUgRmY_aeeMuehA",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -9324,8 +9741,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Atlantic%20Air&query_place_id=ChIJzc-612B7YEgRFwAgGDNOeeM",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9344,8 +9763,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=B%20P%20C%20Ventilation&query_place_id=ChIJJX-mzF-9YUgR5hek62AA40s",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9364,8 +9785,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=BEAM%20Vacuum%20%26%20Ventilation%20%7C%20BEAM%20Dust%20%26%20Fume%20Extraction&query_place_id=ChIJp1uWhGNbYEgRWHs7p49LI80",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9384,8 +9807,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=BT%20Heating%20%26%20Bathrooms&query_place_id=ChIJgQgTesYFbUgRFd2yHaYDw3k",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9404,8 +9829,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Beck%20Elektrotechnik%20GmbH&query_place_id=ChIJ26Ab8FGOokcRRDZ9GEmCcFg",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9424,8 +9851,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Bel-Air%20Services%20(NI)%20Limited&query_place_id=ChIJw9RtB9OnYUgRmXkYAZNRwiI",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9444,8 +9873,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Blue%20Ocean%20Air%20Hygiene%20Ltd&query_place_id=ChIJ6zdMLd4PbUgRvncGwknaJe8",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9464,8 +9895,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=B%C3%A4tz-Haustechnik&query_place_id=ChIJ4yDth3KtvEcRoOz3ST6FvU8",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9484,8 +9917,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=CPS%20Heating%20and%20Renewables&query_place_id=ChIJk7nLeH7PVEQRHqTOXawaH8k",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9504,8 +9939,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Caleffi%20Armaturen%20GmbH&query_place_id=ChIJO8Ty2RURvUcRmqjAMMoNkg8",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9524,8 +9961,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Canopy%20Ventilations%20Ltd&query_place_id=ChIJC424bWe9cEgRwsAI7EoxhPI",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -9544,8 +9983,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Carrier%20Rental%20Systems&query_place_id=ChIJ9XQtmgADYUgRp9Lfji2jXZM",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9581,8 +10022,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Creative%20Environments%20Limited&query_place_id=ChIJfz_mlJAKbUgR8L-eWRDvkiY",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9601,8 +10044,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=DEVON%20CLIMATE%20SOLUTIONS&query_place_id=ChIJywc_8aQFbUgRzPWY_P630H4",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9621,8 +10066,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=DryHome%20Ventilation&query_place_id=ChIJ9xg89VsGZ48Rh_0Xy7qvcZY",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9641,8 +10088,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=ENERENT%20-%20Region%20S%C3%BCd-West%20%7C%20Gottmadingen&query_place_id=ChIJxSlyfmSHmkcR-nOQecmOaMQ",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9661,8 +10110,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Gaia%20Smart%20Energy&query_place_id=ChIJl2gEs10JYUgROHzAzihQqHg",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9681,8 +10132,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Harvey%20Group%20plc&query_place_id=ChIJOcmjfbmnYUgRmwBlmy4bwo8",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9718,8 +10171,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=ICR%20K%C3%A4lte-%20und%20Klimatechnik&query_place_id=ChIJMb20pqnfb40R6tLSYJAiYec",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9738,8 +10193,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=K.S.M.%20Klima%20Service%20M%C3%B6cker&query_place_id=ChIJH_K3q2-3qUcR-exPOSp803k",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9758,8 +10215,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=KSH%20Plumbing%20%26%20Gas%20Services&query_place_id=ChIJZdPJO76YkY4RlwdX3BjRvDk",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9778,8 +10237,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=KWK-Systeme-e2%20GmbH%2C%20Klaus%20Radeljak&query_place_id=ChIJ3WcxoJO7l0cRYRlXfR466r0",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9798,8 +10259,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Kane%20Group&query_place_id=ChIJK7pJclUiYUgR_I4S_Yxo_X8",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9818,8 +10281,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Klima-Top%20GmbH&query_place_id=ChIJ527RvQbzm0cRqgIZQkzXCBc",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9838,8 +10303,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Klimazentral%20AI%20GbR&query_place_id=ChIJq16H0X2bwEcR7H5M_FEHNgU",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -9858,8 +10325,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Kratschmayer%20K%C3%A4lte-Klima-L%C3%BCftung%20GmbH&query_place_id=ChIJ9SGQXr9hv0cRN3CqcKWk4lU",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -9878,8 +10347,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Lubotek%20Berlin%20-%20Klimatechnik%20%26%20Anlagenbau&query_place_id=ChIJX6LO_Q9RqEcRlxe0l2KHDoo",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9898,8 +10369,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=MHL%20Group&query_place_id=ChIJZ4sz8gMQbUgReQT9O3nDw_o",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -9918,8 +10391,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=McInnes%20Group%20Ltd&query_place_id=ChIJt5T-TjLLYkgRU4sW28w9VMQ",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -9938,8 +10413,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Miles%20Ash&query_place_id=ChIJFWVcuVmmYUgRJeIIZPnw_5I",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9958,8 +10435,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=PDM%20Vent&query_place_id=ChIJX8U-yA-9YUgR6V6P7Q50y-c",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9978,8 +10457,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=PREMIAIR%20HVAC%20LTD&query_place_id=ChIJnwDJTCwbYUgRYegl-2cgrNY",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -9998,8 +10479,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Penair%20Ltd%20(Ventilation)&query_place_id=ChIJvyUHcWIHbUgRaoI7KHALkW0",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -10018,8 +10501,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Principal%20HVAC&query_place_id=ChIJFcZQwp6OYEgRXJv4mJ5nGaM",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -10038,8 +10523,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=S.%20Rodgers%20Refrigeration%20Services%20Ltd.&query_place_id=ChIJnehhalIJYUgRtN3wdzisZVM",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -10058,8 +10545,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=SAFEXE%20Ltd&query_place_id=ChIJnyNWr1gLbUgR2Sytqsl9co0",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -10078,8 +10567,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Sharpe%20Mechanical%20Services%20and%20Sharpe%20Ventilation%20Services%20Ltd&query_place_id=ChIJqwC7HqQJYUgR-2bcJZt1Vgk",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -10098,8 +10589,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=South%20West%20Plumbing&query_place_id=ChIJ-QMhdpQPbUgRjdb9KogRewQ",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -10118,8 +10611,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=T%20%26%20S%20Pipework%20Services&query_place_id=ChIJkdAznZPtcEgR0ddXve8HbUY",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -10138,8 +10633,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Techem%20Energy%20Services%20GmbH&query_place_id=ChIJ0eHKM8yXnkcRTuBprIzHJmc",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -10158,8 +10655,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=Teign%20Gas&query_place_id=ChIJp9kHoL4FbUgR6OEutCRXqKg",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -10194,8 +10693,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=WEMCO%20LTD&query_place_id=ChIJfeRmNk0EbUgR1tiAFiQCClw",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
@@ -10230,8 +10731,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=dedatec%20Klimatechnik%20%E2%80%93%20Wir%20bauen%20Ihre%20Klimaanlage%20in%20Berlin%20fachgerecht%20ein.&query_place_id=ChIJUW7Uq7dVqEcRfKoxps80vXg",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
@@ -10250,8 +10753,10 @@
     "source_url": "https://www.google.com/maps/search/?api=1&query=solv%20Group%20Boiler%20Service%20%26%20Repairs&query_place_id=ChIJIwFJUKAJYUgRMB59V7bm7VI",
     "tags": [
       "maps_lead",
+      "merchant_db_overlap",
       "mod_shop",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
@@ -10269,6 +10774,8 @@
     "source_url": "https://www.1688.com/",
     "tags": [
       "1688",
+      "merchant_db_overlap",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "国内 B2B 公开入口"
@@ -10285,7 +10792,9 @@
     "source_url": "https://www.alibaba.com/showroom/pet-products.html",
     "tags": [
       "alibaba",
+      "merchant_db_overlap",
       "pet",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "Public B2B showroom"
@@ -10302,7 +10811,9 @@
     "source_url": "https://www.alibaba.com/showroom/portable-air-conditioner.html",
     "tags": [
       "alibaba",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "Public B2B showroom"
@@ -10320,6 +10831,8 @@
     "tags": [
       "alibaba",
       "heater",
+      "merchant_db_overlap",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "Public B2B showroom"
@@ -10336,6 +10849,8 @@
     "source_url": "https://www.alibaba.com/showroom/wine-cooler.html",
     "tags": [
       "alibaba",
+      "merchant_db_overlap",
+      "related_merchant",
       "route:channel_coop",
       "wine_cooler"
     ],
@@ -10354,6 +10869,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10373,6 +10889,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10392,6 +10909,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Breezaire wholesale dealer"
@@ -10409,6 +10927,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10430,7 +10949,9 @@
     "tags": [
       "heater",
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wholesaler"
     ],
@@ -10449,6 +10970,7 @@
     "source_url": "https://www.cityplumbing.co.uk/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "UK trade wholesale"
@@ -10466,6 +10988,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10485,6 +11008,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "National distributor"
@@ -10502,7 +11026,9 @@
     "source_url": "https://www.airconditioner.com/contact-5",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wholesaler"
     ],
@@ -10521,6 +11047,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10540,6 +11067,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10559,6 +11087,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10576,6 +11105,7 @@
     ],
     "source_url": "https://pida.fetchfind.com/",
     "tags": [
+      "merchant_db_overlap",
       "pet",
       "route:channel_coop"
     ],
@@ -10594,6 +11124,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10615,6 +11146,7 @@
     "tags": [
       "breezaire",
       "hvac",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10633,6 +11165,7 @@
     "source_url": "https://www.junglescout.com/",
     "tags": [
       "amazon",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Amazon brand intel tool (public site)"
@@ -10650,7 +11183,9 @@
     "source_url": "https://lskair.com/contact/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wholesaler"
     ],
@@ -10669,7 +11204,9 @@
     "source_url": "https://www.wlw.com/en/search/portable-air-conditioners",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wholesaler"
     ],
@@ -10687,6 +11224,7 @@
     "source_url": "https://www.remichel.com/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "HVAC/R wholesale"
@@ -10704,6 +11242,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10723,6 +11262,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10742,7 +11282,9 @@
     "source_url": "https://www.schiessl-kaelte.com/en_AT/Shop/Air-conditioners-ventilation-systems/Mobile-air-conditioners~c171255",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wholesaler"
     ],
@@ -10761,6 +11303,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10780,6 +11323,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10799,7 +11343,9 @@
     "source_url": "https://tempairsales.com/contact/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wholesaler"
     ],
@@ -10818,6 +11364,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10837,7 +11384,9 @@
     "source_url": "https://www.tradevia.tech/air-conditioners/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "portable_ac",
+      "related_merchant",
       "route:channel_coop",
       "wholesaler"
     ],
@@ -10857,6 +11406,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "National HVAC wholesale"
@@ -10873,6 +11423,7 @@
     "source_url": "https://www.wswa.org/",
     "tags": [
       "association",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Wine wholesale association"
@@ -10890,6 +11441,7 @@
     "source_url": "https://www.winsupplyinc.com/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
       "route:channel_coop"
     ],
     "notes": "Local wholesale network"
@@ -10907,6 +11459,8 @@
     "source_url": "https://www.wolseley.co.uk/",
     "tags": [
       "hvac",
+      "merchant_db_overlap",
+      "related_merchant",
       "route:channel_coop"
     ],
     "notes": "UK trade merchant"
@@ -10924,6 +11478,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"
@@ -10943,6 +11498,7 @@
     "source_url": "https://breezaire.com/where-to-buy/",
     "tags": [
       "breezaire",
+      "merchant_db_overlap",
       "route:channel_coop",
       "wholesaler",
       "wine_cooler"

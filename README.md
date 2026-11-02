@@ -12,3 +12,9 @@ Alongside `data/creators.json`, this repo also ships:
 - `data/brand_content_sources.json` (+ csv) — public **公司品牌与专业内容** URLs (FAQ / case / brochure / site) with short notes only; no copyrighted full-text dumps.
 
 See `scale6-routes-report.md` for counts and blockers. Hub UI is still creators-first; channel/brand browsing is a follow-up.
+
+## Data
+
+<!-- merchants-dataset -->
+- **B端商家 / merchants**: `data/merchants.json` + `data/merchants.csv` (manufacturer / factory / wholesaler / brand / exporter / b2b_store; niches: portable AC/HVAC, wine cooler, heaters, pet, home appliances, export/live-commerce supply). Cross-tagged with `channels.json` via `merchant_db_overlap` / `related_channel` (no silent merge).
+
