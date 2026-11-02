@@ -11,6 +11,7 @@ Sources / tags:
   source:1688        — 1688 public pages when available
   source:association — AHRI / AHAM / other trade association member directories
   source:mic         — Made-in-China public manufacturer directories (kept + retagged)
+  source:overseas_oem — NON-China overseas factories / OEM / ODM / private-label
 
 Public only; no login/paywall bypass.
 """
@@ -34,7 +35,7 @@ VALID_TYPES = {
 }
 
 SOURCE_TAGS = {
-    "channel", "customs", "trade_show", "linkedin", "maps", "alibaba", "1688", "association", "mic",
+    "channel", "customs", "trade_show", "linkedin", "maps", "alibaba", "1688", "association", "mic", "overseas_oem",
 }
 
 MARKETPLACE_DOMAINS = {
@@ -784,6 +785,14 @@ def main():
     ingest_associations(db)
     ingest_trade_shows(db)
     ingest_linkedin(db)
+    try:
+        from expand_merchants_overseas_oem import expand_into as expand_overseas_oem
+        oo = expand_overseas_oem(db)
+        db.stats["overseas_oem"] = oo
+        print("overseas_oem", oo)
+    except Exception as e:
+        db.stats["overseas_oem_error"] = str(e)
+        print("overseas_oem_error", e)
     merge_customs(db)
 
     type_rank = {
@@ -798,7 +807,7 @@ def main():
     # sync scripts into hub-push for daily reuse
     scripts_dir = HUB_PUSH / "scripts"
     scripts_dir.mkdir(exist_ok=True)
-    for script in ["expand_merchants_multisource.py", "expand_merchants_customs.py", "build_merchants.py"]:
+    for script in ["expand_merchants_multisource.py", "expand_merchants_customs.py", "build_merchants.py", "expand_merchants_overseas_oem.py"]:
         src_p = ROOT / script
         if src_p.exists():
             (scripts_dir / script).write_text(src_p.read_text())

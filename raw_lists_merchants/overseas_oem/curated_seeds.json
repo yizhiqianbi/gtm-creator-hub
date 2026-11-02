@@ -1,0 +1,3409 @@
+[
+  {
+    "name": "HOMICHI CO., LTD",
+    "region": "Vietnam",
+    "website": "https://homichi.com",
+    "source_url": "https://homichi.com/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "heater",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam home appliance OEM/ODM — fans, AC, cookers, hoods, heaters",
+    "public_contact": "dat.tt@homichi.com"
+  },
+  {
+    "name": "R.E.E Electric Appliances JSC (Reetech)",
+    "region": "Vietnam",
+    "website": "https://reetech.vn",
+    "source_url": "https://reetech.vn/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam AC manufacturer Reetech/REE",
+    "public_contact": ""
+  },
+  {
+    "name": "SUNHOUSE GROUP JSC",
+    "region": "Vietnam",
+    "website": "https://sunhouse.com.vn",
+    "source_url": "https://sunhouse.com.vn/",
+    "categories": [
+      "home_appliance",
+      "heater",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam cookware & home appliance OEM/ODM",
+    "public_contact": ""
+  },
+  {
+    "name": "Nagakawa",
+    "region": "Vietnam",
+    "website": "https://nagakawa.com.vn",
+    "source_url": "https://nagakawa.com.vn/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam AC assembly/manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "DeAir",
+    "region": "Vietnam",
+    "website": "https://deair.vn",
+    "source_url": "https://deair.vn/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam industrial dehumidifier / air treatment",
+    "public_contact": ""
+  },
+  {
+    "name": "DAI SHIN ENTERPRISE CO.,LTD",
+    "region": "Ho Chi Minh City, Vietnam",
+    "website": "http://dasin-nt.com",
+    "source_url": "https://www.linkedin.com/company/dai-shin-enterprise-co-ltd",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam OEM/ODM industrial & household fans",
+    "public_contact": ""
+  },
+  {
+    "name": "Air Conditioner Technology Gree (VietNam) Co., Ltd",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.gree.com/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Gree Vietnam AC manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Haier Electrical Appliances Vietnam",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.haier.com/vn/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Haier Vietnam appliance manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Midea Vietnam",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.midea.com/vn",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Midea Vietnam manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics Vietnam",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.samsung.com/vn/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Samsung Vietnam manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "LG Electronics Vietnam",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.lg.com/vn",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "LG Vietnam manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Panasonic Vietnam",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.panasonic.com/vn/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Panasonic Vietnam manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Aqua Vietnam (Haier)",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.aqua.com.vn/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Aqua/Haier Vietnam manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Sharp Manufacturing Vietnam",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://vn.sharp/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Sharp Vietnam manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Hira Manufacturing LLC Vietnam",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "https://www.hiraindustries.com/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Hira HVAC manufacturing Vietnam",
+    "public_contact": ""
+  },
+  {
+    "name": "B&A Air Conditioning Technology Co., Ltd",
+    "region": "Vietnam",
+    "website": "",
+    "source_url": "",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam HVAC / AHU manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "KANING AIR CONDITION COMPANY LIMITED",
+    "region": "Chiang Mai, Thailand",
+    "website": "https://www.kaningaircondition.com",
+    "source_url": "https://www.kaningaircondition.com/",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Thai AC OEM/ODM — portable, PTAC, VRF, split",
+    "public_contact": "info@kaningaircondition.com"
+  },
+  {
+    "name": "Daikin Industries (Thailand) Ltd.",
+    "region": "Chonburi, Thailand",
+    "website": "https://www.daikinthai.com",
+    "source_url": "https://www.daikin.com/locations/group/asia",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Daikin Thailand Amata Nakorn plant",
+    "public_contact": ""
+  },
+  {
+    "name": "Daikin Airconditioning (Thailand) Ltd.",
+    "region": "Chonburi, Thailand",
+    "website": "https://www.datdaikin.com",
+    "source_url": "https://www.daikin.com/locations/group/asia",
+    "categories": [
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Daikin Thailand manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Daikin Compressor Industries, Ltd.",
+    "region": "Rayong, Thailand",
+    "website": "https://www.dci.co.th",
+    "source_url": "https://www.daikin.com/locations/group/asia",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Daikin compressor factory Thailand",
+    "public_contact": ""
+  },
+  {
+    "name": "Saijo Denki",
+    "region": "Thailand",
+    "website": "https://www.saijodenki.com",
+    "source_url": "https://www.saijodenki.com/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Thailand AC manufacturer OEM/ODM",
+    "public_contact": ""
+  },
+  {
+    "name": "Mitsubishi Electric Consumer Products Thailand",
+    "region": "Thailand",
+    "website": "",
+    "source_url": "https://www.mitsubishielectric.com/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Mitsubishi Electric Thailand AC plants",
+    "public_contact": ""
+  },
+  {
+    "name": "Toshiba Carrier Air Conditioning Thailand",
+    "region": "Thailand",
+    "website": "",
+    "source_url": "https://www.toshiba-aircon.co.th/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Toshiba Carrier Thailand AC",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics Thailand",
+    "region": "Thailand",
+    "website": "",
+    "source_url": "https://www.samsung.com/th/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Samsung Thailand manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Sharp Appliances Thailand",
+    "region": "Thailand",
+    "website": "",
+    "source_url": "https://th.sharp/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Sharp Thailand manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Electrolux Thailand",
+    "region": "Thailand",
+    "website": "",
+    "source_url": "https://www.electrolux.co.th/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Electrolux Thailand manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Fujitsu General Asia manufacturing",
+    "region": "Thailand / Asia",
+    "website": "https://www.fujitsu-general.com",
+    "source_url": "https://www.fujitsu-general.com/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Fujitsu General AC manufacturing Asia",
+    "public_contact": ""
+  },
+  {
+    "name": "Kang Yong Electric",
+    "region": "Thailand",
+    "website": "",
+    "source_url": "https://www.kyle.co.th/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Mitsubishi Electric Thailand appliance partner",
+    "public_contact": ""
+  },
+  {
+    "name": "Daikin Malaysia Sdn. Bhd.",
+    "region": "Selangor, Malaysia",
+    "website": "https://www.daikinmalaysia.com",
+    "source_url": "https://www.daikin.com/locations/group/asia",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "Daikin Malaysia Sungai Buloh",
+    "public_contact": ""
+  },
+  {
+    "name": "Daikin Refrigeration Malaysia Sdn. Bhd.",
+    "region": "Selangor, Malaysia",
+    "website": "https://drm.daikinmalaysia.com",
+    "source_url": "https://www.daikin.com/locations/group/asia",
+    "categories": [
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "Daikin refrigeration Shah Alam & Banting",
+    "public_contact": ""
+  },
+  {
+    "name": "Panasonic Manufacturing Malaysia",
+    "region": "Malaysia",
+    "website": "",
+    "source_url": "https://www.panasonic.com/my/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "Panasonic Malaysia manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Panasonic Appliances Air-Conditioning Malaysia",
+    "region": "Malaysia",
+    "website": "",
+    "source_url": "https://www.panasonic.com/my/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "Panasonic Malaysia AC manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Pensonic",
+    "region": "Malaysia",
+    "website": "https://www.pensonic.com",
+    "source_url": "https://www.pensonic.com/",
+    "categories": [
+      "home_appliance",
+      "heater",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "Malaysia appliances OEM/export",
+    "public_contact": ""
+  },
+  {
+    "name": "Khind Holdings",
+    "region": "Malaysia",
+    "website": "https://www.khind.com",
+    "source_url": "https://www.khind.com/",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "Malaysia home appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "Acson International",
+    "region": "Malaysia",
+    "website": "https://www.acson.com.my",
+    "source_url": "https://www.acson.com.my/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "Malaysia AC brand from Daikin manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "American Air Filter Manufacturing Sdn. Bhd.",
+    "region": "Shah Alam, Malaysia",
+    "website": "https://aafasia.com",
+    "source_url": "https://www.daikin.com/locations/group/asia",
+    "categories": [
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:my"
+    ],
+    "notes": "AAF air filtration Malaysia",
+    "public_contact": ""
+  },
+  {
+    "name": "Cruise Appliances Pvt. Ltd.",
+    "region": "Mumbai, India",
+    "website": "https://cruiseac.com",
+    "source_url": "https://cruiseac.com/",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India AC OEM; portable AC leader",
+    "public_contact": "info@cruiseac.com"
+  },
+  {
+    "name": "Ezentech India",
+    "region": "Greater Noida, India",
+    "website": "",
+    "source_url": "https://www.linkedin.com/company/ezentechindia",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India AC ODM ~500k units/year",
+    "public_contact": ""
+  },
+  {
+    "name": "PG Electroplast Limited",
+    "region": "India",
+    "website": "https://pgel.in",
+    "source_url": "https://pgel.in/air_conditioner.html",
+    "categories": [
+      "hvac",
+      "export_supply",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Largest RAC CBU OEM/ODM India",
+    "public_contact": ""
+  },
+  {
+    "name": "Amber Enterprises India Limited",
+    "region": "India",
+    "website": "https://www.ambergroupindia.com",
+    "source_url": "https://www.ambergroupindia.com/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India RAC OEM/ODM contract manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "EPACK Durable Limited",
+    "region": "India",
+    "website": "https://www.epack.in",
+    "source_url": "https://www.epack.in/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India RAC OEM manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Blue Star Limited",
+    "region": "Mumbai, India",
+    "website": "https://www.bluestarindia.com",
+    "source_url": "https://www.globalbluestar.com/gl/manufacturing",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India HVAC plants Sri City/Dadra/HP",
+    "public_contact": ""
+  },
+  {
+    "name": "Voltas Limited",
+    "region": "Mumbai, India",
+    "website": "https://www.voltas.com",
+    "source_url": "https://www.voltas.com/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Tata Group AC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Daikin Airconditioning India Pvt. Ltd.",
+    "region": "Neemrana, India",
+    "website": "https://www.daikinindia.com",
+    "source_url": "https://www.daikin.com/locations/group/asia",
+    "categories": [
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Daikin India Neemrana factory",
+    "public_contact": ""
+  },
+  {
+    "name": "Creative Hitech Pvt Ltd",
+    "region": "Bahadurgarh, India",
+    "website": "https://creativehitech.co.in",
+    "source_url": "https://www.linkedin.com/company/creative-hitech-pvt-ltd",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "OEM/ODM washers, coolers, HVAC",
+    "public_contact": "info@creativehitech.co.in"
+  },
+  {
+    "name": "Lloyd (Havells India)",
+    "region": "Sri City, India",
+    "website": "https://www.lloyd.com",
+    "source_url": "https://www.havells.com/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Lloyd/Havells AC Sri City plant",
+    "public_contact": ""
+  },
+  {
+    "name": "Dixon Technologies India",
+    "region": "Noida, India",
+    "website": "https://www.dixoninfo.com",
+    "source_url": "https://www.dixoninfo.com/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India electronics & appliances OEM/ODM",
+    "public_contact": ""
+  },
+  {
+    "name": "Symphony Limited",
+    "region": "Ahmedabad, India",
+    "website": "https://www.symphonylimited.com",
+    "source_url": "https://www.symphonylimited.com/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India air cooler OEM/export leader",
+    "public_contact": ""
+  },
+  {
+    "name": "Godrej Appliances",
+    "region": "India",
+    "website": "https://www.godrejappliances.com",
+    "source_url": "https://www.godrejappliances.com/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India appliance & AC manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Whirlpool of India",
+    "region": "India",
+    "website": "https://www.whirlpoolindia.com",
+    "source_url": "https://www.whirlpoolindia.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Whirlpool India manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "IFB Industries Limited",
+    "region": "India",
+    "website": "https://www.ifbappliances.com",
+    "source_url": "https://www.ifbappliances.com/",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India appliances manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Bajaj Electricals",
+    "region": "India",
+    "website": "https://www.bajajelectricals.com",
+    "source_url": "https://www.bajajelectricals.com/",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India heaters/small appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "Orient Electric",
+    "region": "India",
+    "website": "https://www.orientelectric.com",
+    "source_url": "https://www.orientelectric.com/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India AC/fans manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Havells India",
+    "region": "India",
+    "website": "https://www.havells.com",
+    "source_url": "https://www.havells.com/",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Havells manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Crompton Greaves Consumer",
+    "region": "India",
+    "website": "https://www.crompton.co.in",
+    "source_url": "https://www.crompton.co.in/",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India fans/appliances/heaters",
+    "public_contact": ""
+  },
+  {
+    "name": "Racold (Ariston Thermo India)",
+    "region": "India",
+    "website": "https://www.racold.com",
+    "source_url": "https://www.racold.com/",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "India water heaters",
+    "public_contact": ""
+  },
+  {
+    "name": "AO Smith India",
+    "region": "India",
+    "website": "https://www.aosmithindia.com",
+    "source_url": "https://www.aosmithindia.com/",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "AO Smith India water heaters",
+    "public_contact": ""
+  },
+  {
+    "name": "Carrier Midea India",
+    "region": "Haryana, India",
+    "website": "",
+    "source_url": "https://www.midea.com/in",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Carrier Midea India AC manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics India Manufacturing",
+    "region": "India",
+    "website": "https://www.samsung.com/in",
+    "source_url": "https://www.samsung.com/in/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Samsung India AC/appliance plants",
+    "public_contact": ""
+  },
+  {
+    "name": "LG Electronics India",
+    "region": "India",
+    "website": "https://www.lg.com/in",
+    "source_url": "https://www.lg.com/in",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "LG India manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Technocast",
+    "region": "Çerkezköy, Turkey",
+    "website": "https://www.technocast.com.tr",
+    "source_url": "https://www.technocast.com.tr/en/oem-odm-small-home-appliances/",
+    "categories": [
+      "home_appliance",
+      "heater",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey OEM/ODM small appliances; EU customs union",
+    "public_contact": "info@technocast.com.tr"
+  },
+  {
+    "name": "Hibsan",
+    "region": "Istanbul, Turkey",
+    "website": "https://www.hibsan.com.tr",
+    "source_url": "https://www.hibsan.com.tr/corporate/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey cooker hood/white goods OEM 300+ brands",
+    "public_contact": ""
+  },
+  {
+    "name": "Vestel",
+    "region": "Manisa, Turkey",
+    "website": "https://vestelinternational.com",
+    "source_url": "https://vestelinternational.com/our-business/fields-of-activity/oem-brand-solutions-create-your-own-brand",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Vestel OEM brand solutions white goods",
+    "public_contact": ""
+  },
+  {
+    "name": "Arçelik A.Ş.",
+    "region": "Turkey",
+    "website": "https://www.arcelikglobal.com",
+    "source_url": "https://www.arcelikglobal.com/",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey major appliance OEM capacity",
+    "public_contact": ""
+  },
+  {
+    "name": "DNB Refrigeration Systems & Technologies",
+    "region": "Istanbul, Turkey",
+    "website": "",
+    "source_url": "https://www.exporthub.com/dnb-refrigeration-systems-amp-technologies/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey minibar/wine/portable cooler OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "Baymak",
+    "region": "Turkey",
+    "website": "https://www.baymak.com.tr",
+    "source_url": "https://www.baymak.com.tr/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey heating/boiler manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Demirdöküm",
+    "region": "Turkey",
+    "website": "https://www.demirdokum.com.tr",
+    "source_url": "https://www.demirdokum.com.tr/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey heating systems",
+    "public_contact": ""
+  },
+  {
+    "name": "Termikel",
+    "region": "Turkey",
+    "website": "https://www.termikel.com.tr",
+    "source_url": "https://www.termikel.com.tr/",
+    "categories": [
+      "home_appliance",
+      "heater",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey built-in appliances OEM/ODM",
+    "public_contact": ""
+  },
+  {
+    "name": "Simfer",
+    "region": "Turkey",
+    "website": "https://www.simfer.com.tr",
+    "source_url": "https://www.simfer.com.tr/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey appliances OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "Kumtel",
+    "region": "Kayseri, Turkey",
+    "website": "https://www.kumtel.com",
+    "source_url": "https://www.kumtel.com/",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey heater & small appliance OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "Sinbo",
+    "region": "Turkey",
+    "website": "https://www.sinbo.com.tr",
+    "source_url": "https://www.sinbo.com.tr/",
+    "categories": [
+      "home_appliance",
+      "heater",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey small appliances OEM/export",
+    "public_contact": ""
+  },
+  {
+    "name": "Warmhaus",
+    "region": "Turkey",
+    "website": "https://www.warmhaus.com",
+    "source_url": "https://www.warmhaus.com/",
+    "categories": [
+      "heater",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey boilers/heating OEM export",
+    "public_contact": ""
+  },
+  {
+    "name": "Alarko Carrier",
+    "region": "Turkey",
+    "website": "https://www.alarko-carrier.com.tr",
+    "source_url": "https://www.alarko-carrier.com.tr/",
+    "categories": [
+      "hvac",
+      "heater",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey Carrier JV HVAC manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Airfel",
+    "region": "Turkey",
+    "website": "https://www.airfel.com.tr",
+    "source_url": "https://www.airfel.com.tr/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey HVAC/heating",
+    "public_contact": ""
+  },
+  {
+    "name": "Form Group",
+    "region": "Turkey",
+    "website": "https://www.formgroup.com",
+    "source_url": "https://www.formgroup.com/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey HVAC systems manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "KAYRA HOME DESIGN",
+    "region": "Izmir, Turkey",
+    "website": "",
+    "source_url": "https://www.europages.co.uk/companies/air-conditioned-cabinets-for-wine.html",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey wine cooler/cabinet supplier",
+    "public_contact": ""
+  },
+  {
+    "name": "Beko Europe OEM (Arçelik)",
+    "region": "Turkey / EU",
+    "website": "https://www.beko.com",
+    "source_url": "https://www.arcelikglobal.com/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Beko/Arçelik private-label white goods",
+    "public_contact": ""
+  },
+  {
+    "name": "LENOMEX",
+    "region": "Mexico",
+    "website": "https://lenomex.com",
+    "source_url": "https://www.linkedin.com/company/lenomex",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Mexico portable/window AC, heaters manufacturer",
+    "public_contact": "comercial@lenomex.com"
+  },
+  {
+    "name": "Mabe",
+    "region": "Mexico",
+    "website": "https://www.mabe.com.mx",
+    "source_url": "https://www.mabe.com.mx/",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Mexico major appliance OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "Whirlpool Mexico",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.whirlpoolcorp.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Whirlpool Mexico plants",
+    "public_contact": ""
+  },
+  {
+    "name": "LG Electronics Monterrey",
+    "region": "Monterrey, Mexico",
+    "website": "",
+    "source_url": "https://www.lg.com/mx",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "LG Mexico manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics Mexico",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.samsung.com/mx/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Samsung Mexico manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Hisense Mexico",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.hisense.com/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Hisense Mexico manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Carrier Mexico",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.carrier.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Carrier Mexico HVAC",
+    "public_contact": ""
+  },
+  {
+    "name": "Johnson Controls / York Mexico",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.johnsoncontrols.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "JCI/York Mexico HVAC",
+    "public_contact": ""
+  },
+  {
+    "name": "NewAir / JMATEK Mexico partners",
+    "region": "Mexico / US",
+    "website": "https://www.newair.com",
+    "source_url": "https://www.newair.com/",
+    "categories": [
+      "portable_ac",
+      "wine_cooler",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "PAC/wine/heater private-label partners incl Mexico",
+    "public_contact": ""
+  },
+  {
+    "name": "True Manufacturing",
+    "region": "United States",
+    "website": "https://www.truemfg.com",
+    "source_url": "https://www.truemfg.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US commercial refrigeration / beverage coolers",
+    "public_contact": ""
+  },
+  {
+    "name": "Perlick Corporation",
+    "region": "United States",
+    "website": "https://www.perlick.com",
+    "source_url": "https://www.perlick.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US undercounter wine/beverage refrigeration",
+    "public_contact": ""
+  },
+  {
+    "name": "Marvel Refrigeration",
+    "region": "United States",
+    "website": "https://www.marvelrefrigeration.com",
+    "source_url": "https://www.marvelrefrigeration.com/",
+    "categories": [
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US wine & beverage refrigeration",
+    "public_contact": ""
+  },
+  {
+    "name": "U-Line Corporation",
+    "region": "United States",
+    "website": "https://www.u-line.com",
+    "source_url": "https://www.u-line.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US undercounter refrigeration",
+    "public_contact": ""
+  },
+  {
+    "name": "Sub-Zero Group",
+    "region": "United States",
+    "website": "https://www.subzero-wolf.com",
+    "source_url": "https://www.subzero-wolf.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US premium refrigeration / wine",
+    "public_contact": ""
+  },
+  {
+    "name": "Danby Products",
+    "region": "Canada / US",
+    "website": "https://www.danby.com",
+    "source_url": "https://www.danby.com/",
+    "categories": [
+      "wine_cooler",
+      "portable_ac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:ca"
+    ],
+    "notes": "N.America compact appliances private label",
+    "public_contact": ""
+  },
+  {
+    "name": "Friedrich Air Conditioning",
+    "region": "United States",
+    "website": "https://www.friedrich.com",
+    "source_url": "https://www.friedrich.com/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US room/portable AC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Ice Air",
+    "region": "United States",
+    "website": "https://www.ice-air.com",
+    "source_url": "https://www.ice-air.com/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US PTAC/PTHP OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "First Company",
+    "region": "United States",
+    "website": "https://www.firstco.com",
+    "source_url": "https://www.firstco.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US HVAC OEM manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Heat Controller / Comfort-Aire",
+    "region": "United States",
+    "website": "https://www.heatcontroller.com",
+    "source_url": "https://www.heatcontroller.com/",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US HVAC/PAC private-label OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "National Comfort Products",
+    "region": "United States",
+    "website": "https://www.nationalcomfortproducts.com",
+    "source_url": "https://www.nationalcomfortproducts.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US through-the-wall AC",
+    "public_contact": ""
+  },
+  {
+    "name": "IslandAire",
+    "region": "United States",
+    "website": "https://www.islandaire.com",
+    "source_url": "https://www.islandaire.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US PTAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Amana PTAC (Goodman/Daikin)",
+    "region": "United States",
+    "website": "https://www.amana-ptac.com",
+    "source_url": "https://www.amana-ptac.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US PTAC Goodman/Daikin",
+    "public_contact": ""
+  },
+  {
+    "name": "Goodman Manufacturing (Daikin Texas)",
+    "region": "Texas, United States",
+    "website": "https://www.goodmanmfg.com",
+    "source_url": "https://www.goodmanmfg.com/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Daikin Goodman US HVAC factory",
+    "public_contact": ""
+  },
+  {
+    "name": "Lennox International",
+    "region": "United States",
+    "website": "https://www.lennoxinternational.com",
+    "source_url": "https://www.lennoxinternational.com/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US HVAC/heating manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "AAON",
+    "region": "United States",
+    "website": "https://www.aaon.com",
+    "source_url": "https://www.aaon.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US commercial HVAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "GE Appliances (Haier) Louisville",
+    "region": "Louisville, United States",
+    "website": "https://www.geappliances.com",
+    "source_url": "https://www.geappliances.com/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "GE Appliances US manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Frigidaire / Electrolux NA",
+    "region": "United States",
+    "website": "https://www.frigidaire.com",
+    "source_url": "https://www.frigidaire.com/",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Frigidaire PAC/appliances NA",
+    "public_contact": ""
+  },
+  {
+    "name": "Whynter",
+    "region": "United States",
+    "website": "https://www.whynter.com",
+    "source_url": "https://www.whynter.com/",
+    "categories": [
+      "portable_ac",
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "brand",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US PAC/wine cooler brand OEM programs",
+    "public_contact": ""
+  },
+  {
+    "name": "PetSafe / Radio Systems Corporation",
+    "region": "United States",
+    "website": "https://www.petsafe.com",
+    "source_url": "https://www.petsafe.com/",
+    "categories": [
+      "pet_products",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US pet electronics manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Midwest Homes for Pets",
+    "region": "United States",
+    "website": "https://www.midwesthomes4pets.com",
+    "source_url": "https://www.midwesthomes4pets.com/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US pet products manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "AFINOX SRL",
+    "region": "Campo San Martino, Italy",
+    "website": "https://www.afinox.com",
+    "source_url": "https://www.europages.co.uk/companies/air-conditioned-cabinets-for-wine.html",
+    "categories": [
+      "wine_cooler",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy catering refrigeration / wine cabinets",
+    "public_contact": ""
+  },
+  {
+    "name": "TASTVIN",
+    "region": "La Ciotat, France",
+    "website": "",
+    "source_url": "https://www.europages.co.uk/companies/air-conditioned-cabinets-for-wine.html",
+    "categories": [
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "France custom multi-temp wine cabinets",
+    "public_contact": ""
+  },
+  {
+    "name": "DEGRÉ 12",
+    "region": "Gembloux, Belgium",
+    "website": "",
+    "source_url": "https://www.europages.co.uk/companies/air-conditioned-cabinets-for-wine.html",
+    "categories": [
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:be"
+    ],
+    "notes": "Belgium custom wine cellar manufacture",
+    "public_contact": ""
+  },
+  {
+    "name": "LECELLIER",
+    "region": "Etalle, Belgium",
+    "website": "",
+    "source_url": "https://www.europages.co.uk/companies/air-conditioned-cabinets-for-wine.html",
+    "categories": [
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:be"
+    ],
+    "notes": "Belgium wine cellar / Winlock",
+    "public_contact": ""
+  },
+  {
+    "name": "EuroCave",
+    "region": "France",
+    "website": "https://www.eurocave.com",
+    "source_url": "https://www.eurocave.com/",
+    "categories": [
+      "wine_cooler",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "France wine cellar/cooler manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Climadiff",
+    "region": "France",
+    "website": "https://www.climadiff.com",
+    "source_url": "https://www.climadiff.com/",
+    "categories": [
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "France wine cooler manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Liebherr-Hausgeräte",
+    "region": "Germany / Austria",
+    "website": "https://home.liebherr.com",
+    "source_url": "https://home.liebherr.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "EU wine coolers & refrigeration",
+    "public_contact": ""
+  },
+  {
+    "name": "De'Longhi Group",
+    "region": "Italy",
+    "website": "https://www.delonghigroup.com",
+    "source_url": "https://www.delonghigroup.com/",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy heaters/PAC/appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "Olimpia Splendid",
+    "region": "Italy",
+    "website": "https://www.olimpiasplendid.com",
+    "source_url": "https://www.olimpiasplendid.com/",
+    "categories": [
+      "portable_ac",
+      "hvac",
+      "heater",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy portable AC / HVAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Argoclima",
+    "region": "Italy",
+    "website": "https://www.argoclima.com",
+    "source_url": "https://www.argoclima.com/",
+    "categories": [
+      "portable_ac",
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy portable AC / climate",
+    "public_contact": ""
+  },
+  {
+    "name": "INNOVA S.r.l.",
+    "region": "Italy",
+    "website": "https://www.innovaenergie.com",
+    "source_url": "https://www.innovaenergie.com/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy heat pump / climate OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "Galletti S.p.A.",
+    "region": "Italy",
+    "website": "https://www.galletti.it",
+    "source_url": "https://www.galletti.it/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy HVAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Rhoss",
+    "region": "Italy",
+    "website": "https://www.rhoss.com",
+    "source_url": "https://www.rhoss.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy HVAC / chillers",
+    "public_contact": ""
+  },
+  {
+    "name": "Aermec",
+    "region": "Italy",
+    "website": "https://www.aermec.com",
+    "source_url": "https://www.aermec.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy HVAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Clivet",
+    "region": "Italy",
+    "website": "https://www.clivet.com",
+    "source_url": "https://www.clivet.com/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy heat pumps / HVAC",
+    "public_contact": ""
+  },
+  {
+    "name": "Candy Hoover Group",
+    "region": "Italy / EU",
+    "website": "https://www.candy-group.com",
+    "source_url": "https://www.candy-group.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy/EU appliance manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Gorenje (Hisense Europe)",
+    "region": "Velenje, Slovenia",
+    "website": "https://www.gorenje.com",
+    "source_url": "https://www.gorenje.com/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:si"
+    ],
+    "notes": "Slovenia/Europe appliance manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Hisense Europe",
+    "region": "Slovenia / Czechia",
+    "website": "https://www.hisense-europe.com",
+    "source_url": "https://www.hisense-europe.com/",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu"
+    ],
+    "notes": "Hisense Europe appliance manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Amica Group",
+    "region": "Wronki, Poland",
+    "website": "https://www.amica.pl",
+    "source_url": "https://www.amica.pl/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:pl"
+    ],
+    "notes": "Poland appliance OEM/ODM",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics Poland",
+    "region": "Poland",
+    "website": "",
+    "source_url": "https://www.samsung.com/pl/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pl"
+    ],
+    "notes": "Samsung Poland manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "LG Electronics Poland",
+    "region": "Poland",
+    "website": "",
+    "source_url": "https://www.lg.com/pl",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pl"
+    ],
+    "notes": "LG Poland manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Whirlpool Poland",
+    "region": "Poland",
+    "website": "",
+    "source_url": "https://www.whirlpoolcorp.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pl"
+    ],
+    "notes": "Whirlpool Poland plants",
+    "public_contact": ""
+  },
+  {
+    "name": "Electrolux Poland",
+    "region": "Poland",
+    "website": "",
+    "source_url": "https://www.electrolux.pl/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pl"
+    ],
+    "notes": "Electrolux Poland manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "BSH Hausgeräte",
+    "region": "Germany / EU",
+    "website": "https://www.bsh-group.com",
+    "source_url": "https://www.bsh-group.com/",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "BSH European appliance manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Miele & Cie. KG",
+    "region": "Gütersloh, Germany",
+    "website": "https://www.miele.com",
+    "source_url": "https://www.miele.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "German premium appliance manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Stiebel Eltron",
+    "region": "Germany",
+    "website": "https://www.stiebel-eltron.com",
+    "source_url": "https://www.stiebel-eltron.com/",
+    "categories": [
+      "heater",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Germany heat pumps / heaters",
+    "public_contact": ""
+  },
+  {
+    "name": "Vaillant Group",
+    "region": "Germany",
+    "website": "https://www.vaillant-group.com",
+    "source_url": "https://www.vaillant-group.com/",
+    "categories": [
+      "heater",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Germany heating / heat pumps",
+    "public_contact": ""
+  },
+  {
+    "name": "Viessmann Climate Solutions",
+    "region": "Germany",
+    "website": "https://www.viessmann-climatesolutions.com",
+    "source_url": "https://www.viessmann-climatesolutions.com/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Germany climate/heating",
+    "public_contact": ""
+  },
+  {
+    "name": "Bosch Thermotechnology",
+    "region": "Germany / EU",
+    "website": "https://www.bosch-thermotechnology.com",
+    "source_url": "https://www.bosch-thermotechnology.com/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Bosch heating / heat pumps EU",
+    "public_contact": ""
+  },
+  {
+    "name": "Systemair",
+    "region": "Sweden / EU",
+    "website": "https://www.systemair.com",
+    "source_url": "https://www.systemair.com/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:se"
+    ],
+    "notes": "EU ventilation/HVAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "FläktGroup",
+    "region": "Germany / EU",
+    "website": "https://www.flaktgroup.com",
+    "source_url": "https://www.flaktgroup.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "EU air technology",
+    "public_contact": ""
+  },
+  {
+    "name": "Kampmann GmbH",
+    "region": "Germany",
+    "website": "https://www.kampmann.de",
+    "source_url": "https://www.kampmann.de/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Germany HVAC/heating",
+    "public_contact": ""
+  },
+  {
+    "name": "Atlantic Group",
+    "region": "France",
+    "website": "https://www.atlantic-comfort.com",
+    "source_url": "https://www.atlantic-comfort.com/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "France heating / heat pumps",
+    "public_contact": ""
+  },
+  {
+    "name": "Thermor",
+    "region": "France",
+    "website": "https://www.thermor.fr",
+    "source_url": "https://www.thermor.fr/",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "France electric heaters",
+    "public_contact": ""
+  },
+  {
+    "name": "Glen Dimplex Group",
+    "region": "Ireland",
+    "website": "https://www.glendimplex.com",
+    "source_url": "https://www.glendimplex.com/",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:ie"
+    ],
+    "notes": "Major heating appliances OEM group",
+    "public_contact": ""
+  },
+  {
+    "name": "Dimplex",
+    "region": "Ireland / UK / EU",
+    "website": "https://www.dimplex.com",
+    "source_url": "https://www.dimplex.com/",
+    "categories": [
+      "heater",
+      "portable_ac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:ie"
+    ],
+    "notes": "Glen Dimplex heaters/PAC private label",
+    "public_contact": ""
+  },
+  {
+    "name": "Daikin Europe N.V.",
+    "region": "Belgium / EU",
+    "website": "https://www.daikin.eu",
+    "source_url": "https://www.daikin.eu/",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:be"
+    ],
+    "notes": "Daikin European manufacturing & HQ",
+    "public_contact": ""
+  },
+  {
+    "name": "Vestfrost Solutions",
+    "region": "Denmark / EU",
+    "website": "https://www.vestfrostsolutions.com",
+    "source_url": "https://www.vestfrostsolutions.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:dk"
+    ],
+    "notes": "EU refrigeration OEM heritage",
+    "public_contact": ""
+  },
+  {
+    "name": "Foster Refrigerator",
+    "region": "United Kingdom",
+    "website": "https://www.fosterrefrigerator.com",
+    "source_url": "https://www.fosterrefrigerator.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "UK commercial refrigeration",
+    "public_contact": ""
+  },
+  {
+    "name": "Williams Refrigeration",
+    "region": "United Kingdom",
+    "website": "https://www.williams-refrigeration.com",
+    "source_url": "https://www.williams-refrigeration.com/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "UK commercial fridge/cooler",
+    "public_contact": ""
+  },
+  {
+    "name": "Ferplast",
+    "region": "Italy",
+    "website": "https://www.ferplast.com",
+    "source_url": "https://www.ferplast.com/",
+    "categories": [
+      "pet_products",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy pet products manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Stefanplast",
+    "region": "Italy",
+    "website": "https://www.stefanplast.com",
+    "source_url": "https://www.stefanplast.com/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy pet products manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Savic",
+    "region": "Belgium",
+    "website": "https://www.savic.be",
+    "source_url": "https://www.savic.be/",
+    "categories": [
+      "pet_products",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:be"
+    ],
+    "notes": "Belgium pet products manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Trixie Heimtierbedarf",
+    "region": "Germany",
+    "website": "https://www.trixie.de",
+    "source_url": "https://www.trixie.de/",
+    "categories": [
+      "pet_products",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Germany pet products",
+    "public_contact": ""
+  },
+  {
+    "name": "Flamingo Pet Products",
+    "region": "Belgium",
+    "website": "https://www.flamingo.be",
+    "source_url": "https://www.flamingo.be/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:be"
+    ],
+    "notes": "Belgium pet products",
+    "public_contact": ""
+  },
+  {
+    "name": "Panasonic Manufacturing Indonesia",
+    "region": "Indonesia",
+    "website": "",
+    "source_url": "https://www.panasonic.com/id/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:id"
+    ],
+    "notes": "Panasonic Indonesia manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Sharp Electronics Indonesia",
+    "region": "Indonesia",
+    "website": "",
+    "source_url": "https://id.sharp/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:id"
+    ],
+    "notes": "Sharp Indonesia manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics Indonesia",
+    "region": "Indonesia",
+    "website": "",
+    "source_url": "https://www.samsung.com/id/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:id"
+    ],
+    "notes": "Samsung Indonesia manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "LG Electronics Indonesia",
+    "region": "Indonesia",
+    "website": "",
+    "source_url": "https://www.lg.com/id",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:id"
+    ],
+    "notes": "LG Indonesia manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Midea Indonesia",
+    "region": "Indonesia",
+    "website": "",
+    "source_url": "https://www.midea.com/id",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:id"
+    ],
+    "notes": "Midea Indonesia manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Polytron",
+    "region": "Indonesia",
+    "website": "https://www.polytron.co.id",
+    "source_url": "https://www.polytron.co.id/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:id"
+    ],
+    "notes": "Indonesia electronics & appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "Kolin Philippines",
+    "region": "Philippines",
+    "website": "https://www.kolinphil.com.ph",
+    "source_url": "https://www.kolinphil.com.ph/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ph"
+    ],
+    "notes": "Philippines AC/appliance manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Concepcion Carrier / Condura",
+    "region": "Philippines",
+    "website": "https://www.carrier.com.ph",
+    "source_url": "https://www.carrier.com.ph/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ph"
+    ],
+    "notes": "Philippines Carrier/Condura AC",
+    "public_contact": ""
+  },
+  {
+    "name": "duz (iMD) pet dryer Korea ODM",
+    "region": "South Korea",
+    "website": "",
+    "source_url": "https://tradekorea.com/product/detail/P810642/duz-V3-Dryer--iMD-2000D-.html",
+    "categories": [
+      "pet_products",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:kr"
+    ],
+    "notes": "Korea ODM pet dryer CE; TradeKorea",
+    "public_contact": ""
+  },
+  {
+    "name": "Coway",
+    "region": "South Korea",
+    "website": "https://www.coway.com",
+    "source_url": "https://www.coway.com/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:kr"
+    ],
+    "notes": "Korea air/water appliance manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "LG Electronics Korea plants",
+    "region": "South Korea",
+    "website": "https://www.lg.com",
+    "source_url": "https://www.lg.com/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:kr"
+    ],
+    "notes": "LG Korea AC/appliance factories",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics Korea appliance plants",
+    "region": "South Korea",
+    "website": "https://www.samsung.com",
+    "source_url": "https://www.samsung.com/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:kr"
+    ],
+    "notes": "Samsung Korea appliance manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "TECO Electric & Machinery",
+    "region": "Taiwan",
+    "website": "https://www.teco.com.tw",
+    "source_url": "https://www.teco.com.tw/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tw"
+    ],
+    "notes": "Taiwan motors/HVAC/appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "Sampo Corporation",
+    "region": "Taiwan",
+    "website": "https://www.sampo.com.tw",
+    "source_url": "https://www.sampo.com.tw/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tw"
+    ],
+    "notes": "Taiwan home appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "Tatung Company",
+    "region": "Taiwan",
+    "website": "https://www.tatung.com.tw",
+    "source_url": "https://www.tatung.com.tw/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tw"
+    ],
+    "notes": "Taiwan appliances manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Springer Carrier",
+    "region": "Brazil",
+    "website": "",
+    "source_url": "https://www.springercarrier.com.br/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Brazil Carrier Springer HVAC",
+    "public_contact": ""
+  },
+  {
+    "name": "Midea Carrier Brazil",
+    "region": "Brazil",
+    "website": "",
+    "source_url": "https://www.midea.com.br/",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Midea Carrier Brazil manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Electrolux Brazil",
+    "region": "Brazil",
+    "website": "",
+    "source_url": "https://www.electrolux.com.br/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Electrolux Brazil manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Fresh Electric Egypt",
+    "region": "Egypt",
+    "website": "",
+    "source_url": "https://www.fresh.com.eg/",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eg"
+    ],
+    "notes": "Egypt appliances manufacturer Fresh",
+    "public_contact": ""
+  },
+  {
+    "name": "Kiriazi",
+    "region": "Egypt",
+    "website": "https://www.kiriazi.com",
+    "source_url": "https://www.kiriazi.com/",
+    "categories": [
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eg"
+    ],
+    "notes": "Egypt refrigerator/appliance manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Unionaire",
+    "region": "Egypt",
+    "website": "",
+    "source_url": "https://www.unionaire.com/",
+    "categories": [
+      "hvac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:eg"
+    ],
+    "notes": "Egypt AC/appliances OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "LG Electronics Egypt",
+    "region": "Egypt",
+    "website": "",
+    "source_url": "https://www.lg.com/eg",
+    "categories": [
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eg"
+    ],
+    "notes": "LG Egypt manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "Samsung Electronics Egypt",
+    "region": "Egypt",
+    "website": "",
+    "source_url": "https://www.samsung.com/eg/",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eg"
+    ],
+    "notes": "Samsung Egypt manufacturing",
+    "public_contact": ""
+  },
+  {
+    "name": "HisoAir (Vietnam OEM plant)",
+    "region": "Binh Duong, Vietnam",
+    "website": "https://hisoair.com",
+    "source_url": "https://hisoair.com/factory-supply-chain-network/",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "home_appliance",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam OEM/ODM AC plant network; public factory page",
+    "public_contact": ""
+  },
+  {
+    "name": "Sersim",
+    "region": "Turkey",
+    "website": "https://www.sersim.com.tr",
+    "source_url": "https://www.sersim.com.tr/",
+    "categories": [
+      "home_appliance",
+      "export_supply",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkey cooking/cooling appliances custom OEM export",
+    "public_contact": ""
+  },
+  {
+    "name": "JMATEK México SAPI de CV",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.linkedin.com/company/jmatek-mexico-sapi-de-cv",
+    "categories": [
+      "portable_ac",
+      "hvac",
+      "heater",
+      "export_supply"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Mexico portable AC / evaporative cooler manufacturing (JMATEK)",
+    "public_contact": ""
+  },
+  {
+    "name": "MS Hometech",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.linkedin.com/company/ms-hometech",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Mexico OEM/ODM home tech / appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "SMP Four Seasons de Mexico",
+    "region": "Mexico",
+    "website": "",
+    "source_url": "https://www.linkedin.com/company/smp-four-seasons",
+    "categories": [
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Mexico AC exporter/manufacturer (customs export leader references)",
+    "public_contact": ""
+  },
+  {
+    "name": "FRAL S.r.l.",
+    "region": "Italy",
+    "website": "https://www.fral.it",
+    "source_url": "https://www.fral.it/",
+    "categories": [
+      "portable_ac",
+      "hvac",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italy dehumidifier / portable climate OEM",
+    "public_contact": ""
+  },
+  {
+    "name": "REMKO GmbH & Co. KG",
+    "region": "Germany",
+    "website": "https://www.remko.de",
+    "source_url": "https://www.remko.de/",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "heater",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Germany climate / heat pump / PAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Trotec GmbH",
+    "region": "Germany",
+    "website": "https://www.trotec.com",
+    "source_url": "https://www.trotec.com/",
+    "categories": [
+      "portable_ac",
+      "hvac",
+      "heater",
+      "export_supply"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Germany PAC/climate; Dantherm group",
+    "public_contact": ""
+  },
+  {
+    "name": "OceanAire Inc.",
+    "region": "United States",
+    "website": "https://www.oceanaire-inc.com",
+    "source_url": "https://www.oceanaire-inc.com/",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US portable/spot cooler manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "PVG International B.V. (Qlima)",
+    "region": "Netherlands",
+    "website": "https://www.qlima.com",
+    "source_url": "https://www.qlima.com/",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "type": "brand",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:nl"
+    ],
+    "notes": "EU climate appliances private-label brand group",
+    "public_contact": ""
+  }
+]
