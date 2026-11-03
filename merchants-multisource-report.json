@@ -1,28 +1,97 @@
 {
-  "before": 1475,
-  "after": 3414,
-  "net_new": 1939,
-  "after_by_source_tag": {
-    "source:linkedin": 960,
+  "before": 4292,
+  "after": 4379,
+  "net_new": 87,
+  "stats": {
+    "enriched": 5918,
+    "added": 87,
+    "overseas_oem": {
+      "before": 4379,
+      "after": 4379,
+      "added_curated": 0,
+      "added_crustdata": 0,
+      "added_portable_csv": 0,
+      "added_europages": 0,
+      "retag_touched": 83,
+      "skipped_china": 0,
+      "skipped_irrelevant": 0,
+      "net_new": 0
+    },
+    "customs_report": {
+      "customs_candidates": 903,
+      "added": 0,
+      "enriched_existing": 903,
+      "skipped_logistics": 0,
+      "total_after": 4379,
+      "by_type": {
+        "factory": 283,
+        "manufacturer": 1998,
+        "exporter": 749,
+        "importer": 138,
+        "brand": 329,
+        "wholesaler": 874,
+        "b2b_store": 8
+      },
+      "with_hs": 906,
+      "by_trade_role": {
+        "unset": 3473,
+        "exporter": 768,
+        "importer": 138
+      },
+      "sources_used": [
+        "importdoor",
+        "importyeti",
+        "zauba"
+      ]
+    }
+  },
+  "added_by_source_tag": {
+    "channel": 28,
+    "trade_show": 59
+  },
+  "before_by_source_tag": {
+    "source:overseas_oem": 1475,
+    "source:linkedin": 1617,
     "source:alibaba": 96,
     "source:channel": 618,
     "source:mic": 388,
     "source:trade_show": 314,
-    "source:unset": 4,
+    "source:unset": 82,
     "source:association": 248,
     "source:customs": 828,
     "source:maps": 205,
     "source:1688": 1
   },
+  "after_by_source_tag": {
+    "source:overseas_oem": 1519,
+    "source:linkedin": 1622,
+    "source:alibaba": 114,
+    "source:channel": 647,
+    "source:mic": 389,
+    "source:trade_show": 373,
+    "source:1688": 4,
+    "source:unset": 4,
+    "source:association": 248,
+    "source:customs": 906,
+    "source:maps": 205
+  },
   "by_type": {
-    "factory": 170,
-    "manufacturer": 1370,
-    "exporter": 671,
+    "factory": 283,
+    "manufacturer": 1998,
+    "exporter": 749,
     "importer": 138,
-    "brand": 243,
-    "wholesaler": 814,
+    "brand": 329,
+    "wholesaler": 874,
     "b2b_store": 8
   },
-  "with_website": 1726,
-  "with_hs": 828
+  "with_website": 2396,
+  "with_hs": 906,
+  "blockers": [
+    "Alibaba supplier pages often 404/JS-shell via plain curl; used WebFetch + HTML regex where available",
+    "1688 public search pages thin/blocked in this environment",
+    "CES 2026 GitHub raw JSON 404; skipped",
+    "Apollo mixed_companies_search skipped (requires per-credit user confirmation)",
+    "Apify monthly credits previously exhausted — not used this run",
+    "Some association/trade-show pages 403/login-walled (HARDI/ACCA)"
+  ]
 }

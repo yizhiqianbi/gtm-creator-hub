@@ -1,22 +1,22 @@
 {
-  "customs_candidates": 825,
-  "added": 824,
-  "enriched_existing": 1,
+  "customs_candidates": 903,
+  "added": 78,
+  "enriched_existing": 825,
   "skipped_logistics": 0,
-  "total_after": 1475,
+  "total_after": 4292,
   "by_type": {
-    "factory": 4,
-    "manufacturer": 424,
-    "exporter": 599,
-    "importer": 137,
-    "brand": 71,
-    "wholesaler": 232,
+    "factory": 283,
+    "manufacturer": 1954,
+    "exporter": 749,
+    "importer": 138,
+    "brand": 314,
+    "wholesaler": 846,
     "b2b_store": 8
   },
-  "with_hs": 825,
+  "with_hs": 906,
   "by_trade_role": {
-    "unset": 650,
-    "exporter": 687,
+    "unset": 3386,
+    "exporter": 768,
     "importer": 138
   },
   "sources_used": [
@@ -24,6 +24,6 @@
     "importyeti",
     "zauba"
   ],
-  "before": 651,
-  "net_new": 824
+  "before": 4214,
+  "net_new": 78
 }

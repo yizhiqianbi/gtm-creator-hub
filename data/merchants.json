@@ -1796,6 +1796,7 @@
       "pet_products",
       "portable_ac",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Eurgeen is one of the brands of Zhejiang Oulun Electric Co.Ltd that focuses on rotomolded dehumidifiers. LGR rotomolded dedhumidifiers are widely used in water damage restoration,flood recovery and ca",
@@ -2738,6 +2739,7 @@
       "home_appliance",
       "linkedin",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin",
       "wine_cooler"
     ],
@@ -3889,6 +3891,7 @@
       "private_label",
       "region:mx",
       "route:b2b_merchant",
+      "source:linkedin",
       "source:overseas_oem"
     ],
     "notes": "Mexico portable AC / evaporative cooler manufacturing (JMATEK)",
@@ -5505,6 +5508,7 @@
       "linkedin",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · 🔥 Pioneering Excellence in Pet Gears Since 2006🏭 Manufacturing Powerhouse√ 18+ Years Specialization in PVC & Technical Textiles√ 14,600m2 Smart Facility in Dongguan Industrial Cluster√ 100+ Production",
@@ -6829,6 +6833,7 @@
       "linkedin",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · We have more than 19-years experience on producing pet grooming tools.We always export our product to Europe and American, and receive customers' high evaluation,including Pet champion ,Oster,Dyson, E",
@@ -8501,6 +8506,7 @@
       "home_appliance",
       "linkedin",
       "route:b2b_merchant",
+      "source:1688",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Zhongshan Kitchen Appliance Factory is a kitchen appliance manufacturer based inZhongshan, Guangdong, China.We produce high-quality kitchen appliances including:🍳 Sous Vide Machines — precision cookin",
@@ -8687,6 +8693,39 @@
   },
   {
     "name": "5 STAR NORTH EAST LTD",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "5 STAR NORTH EAST LTD 2.1E30-31,2.1F14-15",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -12289,6 +12328,39 @@
     "trade_role": ""
   },
   {
+    "name": "ARROW FASTENER CO.,LLC 9.2J41-42,9.2K05-06",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Arwa Plastics & Electricals Pvt Ltd",
     "type": "manufacturer",
     "region": "Gokhiware, Rajawali, Juchandra, Pelhar, Sasun Navghar, Satiwai, Vasai East IE, Kaman, Valiv, Maharashtra, India",
@@ -12871,6 +12943,39 @@
   },
   {
     "name": "B&B Trends s.l.",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "B&B Trends s.l. 2.1E28-29,2.1F16-17",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -13676,6 +13781,39 @@
     "trade_role": ""
   },
   {
+    "name": "Berndes Kuche GmbH 2.1B25-28,2.1C17-20",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "BERRPLAS",
     "type": "manufacturer",
     "region": "International / Canton Fair",
@@ -14107,6 +14245,39 @@
   },
   {
     "name": "Blauberg Group",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Blauberg Group 2.1A08-09,2.1B16-17",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -14607,6 +14778,39 @@
   },
   {
     "name": "Bravo Kitchen LLC",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Bravo Kitchen LLC 2.1A01-04,2.1B21-24",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -15236,6 +15440,39 @@
     "trade_role": ""
   },
   {
+    "name": "CAMPER GAZ S.A. 2.1F26-27,2.1G18-19",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Candino Group of Industries",
     "type": "manufacturer",
     "region": "Pakistan",
@@ -15294,6 +15531,39 @@
   },
   {
     "name": "CANNON TOOLS LIMITED",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "CANNON TOOLS LIMITED 9.2J36-38,9.2K10-12",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -15510,6 +15780,39 @@
     "trade_role": ""
   },
   {
+    "name": "CASCADE HOLDINGS LTD 9.2I37-39,9.2J10-12",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Casper Electric (Thailand) Company Limited",
     "type": "manufacturer",
     "region": "Phra Khanong, Bang Na, Bangkok, Thailand",
@@ -15546,6 +15849,39 @@
   },
   {
     "name": "Caterpillar",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Caterpillar 2.1B31-34,2.1C11-14",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -16263,6 +16599,39 @@
   },
   {
     "name": "CHUNGHO NAIS",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "CHUNGHO NAIS 2.1E47-48,2.1F01-02",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -17880,6 +18249,39 @@
   },
   {
     "name": "CUCKOO ELECTRONICS CO.,LTD.",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "CUCKOO ELECTRONICS CO.,LTD. 2.1E37-38,2.1F09-10",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -19840,6 +20242,39 @@
     "trade_role": ""
   },
   {
+    "name": "Drabest Sp.z o.o. 9.2I40-41,9.2J08-09",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Dreame Technology (Suzhou) Co., Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -20892,6 +21327,39 @@
   },
   {
     "name": "ELECTRODOMESTICOS TAURUS SL",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "ELECTRODOMESTICOS TAURUS SL 2.1G40-41,2.1H08-09",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -22897,6 +23365,39 @@
     "trade_role": ""
   },
   {
+    "name": "EXOTICA FRESHENERS CO. 9.2G43-44,9.2H03-04",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Ezentech India",
     "type": "manufacturer",
     "region": "Greater Noida, India",
@@ -22921,6 +23422,7 @@
       "region:id",
       "region:in",
       "route:b2b_merchant",
+      "source:linkedin",
       "source:overseas_oem"
     ],
     "notes": "India AC ODM ~500k units/year",
@@ -23356,6 +23858,39 @@
     "trade_role": ""
   },
   {
+    "name": "FAPAPO. CO.LTD 9.2J39-40,9.2K07-09",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "FAST HEAT INTERNATIONAL (U.K.) LIMITED",
     "type": "manufacturer",
     "region": "Eastbourne, England, United Kingdom",
@@ -23545,6 +24080,39 @@
   },
   {
     "name": "FERRE - FEMAS METAL A.S.",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "FERRE - FEMAS METAL A.S. 2.1D25-36,2.1E13-24",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -24766,6 +25334,7 @@
       "linkedin",
       "manufacturer",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · With 350 million RMB sole investment from IKE Group, Guangdong IKE Industrial Co. Ltd (IKE Industrial for short) is located in high-tech development zone of Meizhou City, Guangdong Province. IKE Indus",
@@ -25837,6 +26406,39 @@
     "trade_role": ""
   },
   {
+    "name": "FRESH ELECTRIC COMPANY FOR HOME APPLIANCES 2.1C26-32,2.1D13-19",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Fresh Electric Egypt",
     "type": "manufacturer",
     "region": "Egypt",
@@ -26720,6 +27322,7 @@
       "customs:importyeti",
       "customs_source",
       "hs:841510",
+      "hs:841590",
       "hvac",
       "manufacturer",
       "portable_ac",
@@ -26727,10 +27330,11 @@
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841510 | HS 841510; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841510 | HS 841510; customs:importyeti | HS 841510/841590; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
-      "841510"
+      "841510",
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -28040,6 +28644,37 @@
     "trade_role": ""
   },
   {
+    "name": "Gua Ngdong Zemspro Hvac Equipment C",
+    "type": "manufacturer",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/guangdong-zemspro-hvac-equipment",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841590",
+      "hvac",
+      "manufacturer",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Guang Dong Xinbao Electrical Applia",
     "type": "manufacturer",
     "region": "Unknown",
@@ -28658,6 +29293,37 @@
     "trade_role": ""
   },
   {
+    "name": "Guangdong Sansheng Appliances Co",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/guangdong-sansheng-appliances",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841590",
+      "hvac",
+      "manufacturer",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Guangdong Sansheng Appliances Co., Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -29188,6 +29854,7 @@
       "linkedin",
       "manufacturer",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Guangdong Y.K.R New Energy Co., Ltd. is an Air-Source Heat Pump manufacturer focusing on all kinds of heat pump products R&D, manufacturing and sales in Industrial, Commercial and Residential Applicat",
@@ -32840,6 +33507,37 @@
     "trade_role": ""
   },
   {
+    "name": "Hitek Electrical",
+    "type": "manufacturer",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hitek-electrical",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841520",
+      "hvac",
+      "manufacturer",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "HO/M solutions.",
     "type": "manufacturer",
     "region": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
@@ -33144,6 +33842,70 @@
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
+  },
+  {
+    "name": "Honeywell International Inc. 2.1A10-12,2.1B13-15",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Hong Kong Gree Electric Appliance",
+    "type": "manufacturer",
+    "region": "Hong Kong",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hong-kong-gree-electric-appliances",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841590",
+      "hvac",
+      "manufacturer",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
   },
   {
     "name": "Hong Kong Gree Electric Appliances",
@@ -33568,6 +34330,39 @@
   },
   {
     "name": "HUA WEI INDUSTRIAL CO., LTD.",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "HUA WEI INDUSTRIAL CO., LTD. 2.1H47-48,2.1I01-02",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -35892,6 +36687,37 @@
     "trade_role": ""
   },
   {
+    "name": "Jiangxi Xintian Auto Industrial",
+    "type": "manufacturer",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/jiangxi-xintian-auto-industrial",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841590",
+      "hvac",
+      "manufacturer",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Jiejian Exhibition Equipment",
     "type": "manufacturer",
     "region": "Guangdong, Guangdong Province, China",
@@ -36479,6 +37305,39 @@
     "trade_role": ""
   },
   {
+    "name": "KAI SUH SUH ENTERPRISE CO., LTD. 2.1H37-39,2.1I08-10",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Kaifeng Kelon Air-Conditioner Co., Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -37019,6 +37878,39 @@
   },
   {
     "name": "KEN LIFESTYLES PRIVATE LIMITED",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "KEN LIFESTYLES PRIVATE LIMITED 2.1I33,2.1J10",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -38049,6 +38941,39 @@
     "trade_role": ""
   },
   {
+    "name": "KUMTEL 2.1F21-23,2.1G22-24",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "KUMTEL DAYANIKLI TUKETIM MALLARI PLAS. SAN. TIC. A.S",
     "type": "manufacturer",
     "region": "International / Canton Fair",
@@ -38551,6 +39476,7 @@
       "portable_ac",
       "region:mx",
       "route:b2b_merchant",
+      "source:linkedin",
       "source:overseas_oem"
     ],
     "notes": "Mexico portable/window AC, heaters manufacturer",
@@ -38928,6 +39854,39 @@
       "wine_cooler"
     ],
     "notes": "Manufacture and sale of temperature regulators, heat exchangers, chillers, filter test devices for the beverage industry.",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "List of exhibitors",
+    "type": "manufacturer",
+    "region": "International Hardware Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "export_supply",
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://www.eisenwarenmesse.com/eisenwarenmesse-exhibitors/",
+    "tags": [
+      "exhibitor",
+      "export_supply",
+      "hardware_fair",
+      "home_appliance",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ae",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "International Hardware Fair Cologne public exhibitor list",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -40019,6 +40978,39 @@
     "trade_role": ""
   },
   {
+    "name": "MAXFORCE TOOLS (CAMBODIA) CO.,LTD 9.2H43-44,9.2I03-04",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Maxitrol Company",
     "type": "manufacturer",
     "region": "United States",
@@ -40941,6 +41933,8 @@
       "heater",
       "home_appliance",
       "hs:841510",
+      "hs:841520",
+      "hs:841590",
       "hs:841861",
       "hs:851660",
       "hvac",
@@ -40950,12 +41944,45 @@
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841510/841861/851660 | HS 841510/841861/851660; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841510/841861/851660 | HS 841510/841861/851660; customs:importyeti | HS 841510/841520/841590/841861; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
       "841510",
+      "841520",
+      "841590",
       "841861",
       "851660"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Midea Electric Trade Singapore Co",
+    "type": "manufacturer",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/midea-electric-trade-singapore",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841590",
+      "hvac",
+      "manufacturer",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -40981,7 +42008,9 @@
       "customs_source",
       "home_appliance",
       "hs:841510",
+      "hs:841520",
       "hs:841581",
+      "hs:841590",
       "hs:841829",
       "hvac",
       "manufacturer",
@@ -40991,11 +42020,13 @@
       "trade_role:exporter",
       "wine_cooler"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841510/841581/841829 | HS 841510/841581/841829; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841510/841581/841829 | HS 841510/841581/841829; customs:importyeti | HS 841510/841520/841581/841590; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
       "841510",
+      "841520",
       "841581",
+      "841590",
       "841829"
     ],
     "trade_role": "exporter"
@@ -41280,6 +42311,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Mitsubishi Electric Consumer Produc",
+    "type": "manufacturer",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/mitsubishi-electric",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841590",
+      "hvac",
+      "manufacturer",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Mitsubishi Electric Corp",
     "type": "manufacturer",
     "region": "USA",
@@ -41299,6 +42361,7 @@
       "customs_source",
       "home_appliance",
       "hs:841459",
+      "hs:841590",
       "hs:841861",
       "hvac",
       "manufacturer",
@@ -41310,11 +42373,45 @@
       "source:overseas_oem",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841459/841861 | HS 841459/841861; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841459/841861 | HS 841459/841861; customs:importyeti | HS 841459/841590/841861; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
       "841459",
+      "841590",
       "841861"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Mitsubishi Electric Hydronics & It",
+    "type": "manufacturer",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/mitsubishi-electric-mechatronics-en",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841582",
+      "hvac",
+      "manufacturer",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -41814,6 +42911,7 @@
       "overseas",
       "region:mx",
       "route:b2b_merchant",
+      "source:linkedin",
       "source:overseas_oem"
     ],
     "notes": "Mexico OEM/ODM home tech / appliances",
@@ -42782,7 +43880,8 @@
       "manufacturer",
       "pet_products",
       "route:b2b_merchant",
-      "source:linkedin"
+      "source:linkedin",
+      "source:mic"
     ],
     "notes": "LinkedIn-indexed company · Newt is a a leading printing and packaging company, which provides one-to-one free graphic design to every customer.",
     "related_channel": "",
@@ -42855,6 +43954,39 @@
   },
   {
     "name": "Nida Ic ve Dis Ticaret A.S.",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Nida Ic ve Dis Ticaret A.S. 2.1C21-23,2.1D22-24",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -44456,6 +45588,39 @@
     "trade_role": ""
   },
   {
+    "name": "Nippon Electric Glass Co.,Ltd. 2.1B29-30,2.1C15-16",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Nirvana Chauffe Piscine Heat Pump Inc.",
     "type": "manufacturer",
     "region": "United States",
@@ -44853,6 +46018,39 @@
     "trade_role": ""
   },
   {
+    "name": "NUC Electronics Co., Ltd. 2.1E32-36,2.1F11-13",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Nulite New Energy (Guangzhou) Co., Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -44907,6 +46105,39 @@
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
+  },
+  {
+    "name": "Nvent Electrical Products China Co",
+    "type": "manufacturer",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/nvent-electrical-products-china",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "hs:841582",
+      "hvac",
+      "manufacturer",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
   },
   {
     "name": "NY Boiler, LLC, DBA, New York Boiler",
@@ -45547,6 +46778,39 @@
   },
   {
     "name": "ORSAN VALF SANAYI ANONIM SIRKETI",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "ORSAN VALF SANAYI ANONIM SIRKETI 9.2L45-46,9.2M01-02",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -46860,6 +48124,39 @@
     "trade_role": ""
   },
   {
+    "name": "PHPU “EXAR” Artur Kowejsza 9.2H45-46,9.2I01-02",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Phu Cuong Co., Ltd",
     "type": "manufacturer",
     "region": "Nhu Quynh Town, Viet Nam",
@@ -47982,6 +49279,39 @@
   },
   {
     "name": "PT NIKO ELEKTRONIK INDONESIA",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "PT NIKO ELEKTRONIK INDONESIA 2.1F24-25,2.1G20-21",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -49785,6 +51115,39 @@
     "trade_role": ""
   },
   {
+    "name": "RAJ COOLING SYSTEMS PVT. LTD. 2.1I31-32,2.1J11-12",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "RBI Water Heaters, Division of Mestek, Inc.",
     "type": "manufacturer",
     "region": "United States",
@@ -50848,6 +52211,39 @@
     "trade_role": ""
   },
   {
+    "name": "Ronix Gmbh 9.2H41-42,9.2I05-06",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Rox - Klimatechnik GmbH",
     "type": "manufacturer",
     "region": "Weitefeld, Rhineland-Palatinate, Germany",
@@ -51543,6 +52939,39 @@
     "trade_role": ""
   },
   {
+    "name": "SANAKY VIETNAM COMPANY LIMITED 2.1C24-25,2.1D20-21",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Sanden Air Conditioning (M) Pte. Ltd.",
     "type": "manufacturer",
     "region": "Shah Alam, Selangor, Malaysia",
@@ -51707,6 +53136,39 @@
   },
   {
     "name": "Saudi Ceramics",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Saudi Ceramics 2.1A05-07,2.1B18-20",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -52542,6 +54004,39 @@
     "trade_role": ""
   },
   {
+    "name": "Sersim Ic ve Dis Ticaret A.S 2.1G30-36,2.1H13-19",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "SERVI COOLER",
     "type": "manufacturer",
     "region": "Mexico",
@@ -53323,6 +54818,7 @@
       "linkedin",
       "manufacturer",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Shandong Zhongkeneng Artificial Environment Co.,Ltd, which is the professional manufacturer of central air conditioning,Set R & D , production , sales and engineering design , installation and after",
@@ -53990,6 +55486,7 @@
       "manufacturer",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · ★ Shenghui Electronic Technology Co., Ltd (KOTLIE | SUNHUI) ★ Established in 2015, and based in Dongguan, China, we specialize in pet products (cat litter boxes, pet grooming dryers, pet water fountai",
@@ -55380,6 +56877,7 @@
       "manufacturer",
       "portable_ac",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Founded in 2012, Sichuan Juesen Trading Co., Ltd. focuses on providing one-stop services including sales, installation and maintenance of household appliances. Juesen is located in Chengdu, Sichuan, C",
@@ -56129,6 +57627,39 @@
     "trade_role": ""
   },
   {
+    "name": "SMART HOME BY INNOTECH(USA) LTD 2.1G42-43,2.1H06-07",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Smartheat",
     "type": "manufacturer",
     "region": "Jakarta, Jakarta, Indonesia",
@@ -56280,6 +57811,7 @@
       "overseas",
       "region:mx",
       "route:b2b_merchant",
+      "source:linkedin",
       "source:overseas_oem"
     ],
     "notes": "Mexico AC exporter/manufacturer (customs export leader references)",
@@ -57557,6 +59089,39 @@
   },
   {
     "name": "SUN FAT (HOLDING) COMPANY LIMITED",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "SUN FAT (HOLDING) COMPANY LIMITED 2.1H25-27,2.1I18-20",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -59559,6 +61124,39 @@
     "trade_role": ""
   },
   {
+    "name": "TECNOSUPERIORE S.R.L 2.1G47-48,2.1H01-02",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "TECO Electric & Machinery",
     "type": "manufacturer",
     "region": "Taiwan",
@@ -60694,6 +62292,39 @@
     "trade_role": ""
   },
   {
+    "name": "Thimax Inc. 2.1G28-29,2.1H20-21",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Three Counties Heat Pumps Ltd",
     "type": "manufacturer",
     "region": "Herefordshire, England, United Kingdom",
@@ -61286,6 +62917,7 @@
     "public_contact": "",
     "categories": [
       "export_supply",
+      "heater",
       "hvac"
     ],
     "platforms": [
@@ -61294,7 +62926,9 @@
     ],
     "source_url": "https://www.linkedin.com/company/trane-technologies-poland",
     "tags": [
+      "channel_type:dealer",
       "export_supply",
+      "from_channels",
       "hvac",
       "manufacturer",
       "odm",
@@ -61304,8 +62938,10 @@
       "region:de",
       "region:pl",
       "route:b2b_merchant",
+      "source:channel",
       "source:linkedin",
-      "source:overseas_oem"
+      "source:overseas_oem",
+      "trade_channel"
     ],
     "notes": "Trane® is a world leader in air conditioning systems, services and solutions. Trane helps customers succeed by providing innovative solutions that optimize indoor environments through a broad portfolio of energy-efficient heating, ventilating and air conditioning systems, building, contracting and e",
     "related_channel": "",
@@ -61993,6 +63629,39 @@
   },
   {
     "name": "UNIONAIRE GROUP",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "UNIONAIRE GROUP 2.1G37-39,2.1H10-12",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -63877,6 +65546,7 @@
       "manufacturer",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · ShengKai Technology industry co,.ltd。we mainly produce Pet wipes,pet grooming wipe,pet foot cleaning foam,pet ear cleaning wipe,pet eye cleaning wipe",
@@ -64058,6 +65728,39 @@
   },
   {
     "name": "Westinghouse Electric Corporation",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Westinghouse Electric Corporation 2.1F28-32,2.1G13-17",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -64468,6 +66171,39 @@
     "trade_role": ""
   },
   {
+    "name": "WITA-Wilhelm Taake GmbH 2.1G25-27,2.1H22-24",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Wolf Steel Ltd",
     "type": "manufacturer",
     "region": "United States",
@@ -64532,6 +66268,39 @@
   },
   {
     "name": "WONBONG. CO., LTD.",
+    "type": "manufacturer",
+    "region": "International / Canton Fair",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://cmsfile.cantonfair.org.cn/",
+    "tags": [
+      "canton_fair",
+      "exhibitor",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:ca",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "WONBONG. CO., LTD. 2.1F33-34,2.1G11-12",
     "type": "manufacturer",
     "region": "International / Canton Fair",
     "website": "",
@@ -68678,6 +70447,7 @@
       "manufacturer",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · 嘉兴诺摩宠物用品有限公司 is a machinery company based out of 浙江省嘉兴市新丰镇新丰大道北侧2幢(嘉兴保利龙塑业有限公司内三楼301室), 嘉兴市, 浙江省, China.",
@@ -68734,6 +70504,7 @@
       "manufacturer",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Yangzhou Huating Brush Co.,ltd the direct manufacturer in China which was founded in 1996. We are specialized in pet grooming tools such as brushes, combs, nail clippers , pet drinkes, dog bowls,pet t",
@@ -68835,6 +70606,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Aga Kompozyty Sp Z O O Sp K",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/aga-kompozyty-z-o-o-k",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Agro Export Valle Del Sol",
     "type": "exporter",
     "region": "Unknown",
@@ -68893,6 +70695,37 @@
     "related_channel": "",
     "hs_codes": [
       "630790"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Air Con Puerto Rico",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/air-con-puerto-rico",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
     ],
     "trade_role": "exporter"
   },
@@ -68992,6 +70825,37 @@
     "related_channel": "",
     "hs_codes": [
       "841581"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Airsys Refrigeration Engineering",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/airsys-refrigeration-engineering",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -69128,6 +70992,39 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Aludra Lojistik Tic Ltd",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/aludra-lojistik-tic",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Amazon Com",
     "type": "exporter",
     "region": "Unknown",
@@ -69188,6 +71085,37 @@
     "related_channel": "",
     "hs_codes": [
       "841581"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Amos Qingdao Hainel Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/amos-qingdao-hainel",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -69372,12 +71300,48 @@
       "home_appliance",
       "linkedin",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Established as a trading company of small home appliance since 2008, Antronic Electrical Appliance Co., Ltd. are mainly exporting appliances including Kitchen Care, Home Care, Personal Care, now also",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
+  },
+  {
+    "name": "Apiste Corp",
+    "type": "exporter",
+    "region": "USA",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/apiste",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
   },
   {
     "name": "Ark Line Overseas Private Limited",
@@ -69566,6 +71530,41 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Atesi Elektrotechnik Gmbh",
+    "type": "exporter",
+    "region": "Germany",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/atesi-elektrotechnik",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:de",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "August Amber Hk Limited",
     "type": "exporter",
     "region": "Hong Kong",
@@ -69681,6 +71680,101 @@
     "related_channel": "",
     "hs_codes": [
       "841490"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Autoclima Spa A Socio Unico",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/autoclima-a-socio-unico",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Aux Cloud Commerce Pte Ltd",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/aux-cloud-commerce",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "B&A Air Conditioning Technology",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/b-a-air-conditioning-technology",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -70175,7 +72269,7 @@
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841510",
+    "notes": "Public customs/trade directory · role=exporter · HS 841510 | HS 841510; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
       "841510"
@@ -71877,15 +73971,17 @@
       "customs:importyeti",
       "customs_source",
       "exporter",
+      "hs:841520",
       "hs:841583",
       "hvac",
       "route:b2b_merchant",
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841583 | HS 841583; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841583 | HS 841583; customs:importyeti | HS 841520/841583; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
+      "841520",
       "841583"
     ],
     "trade_role": "exporter"
@@ -72021,6 +74117,39 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Custom Air Ventilation & Heating Of",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/custom-air-ventilation-heating-of",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Customs Control & Traffic Sl",
     "type": "exporter",
     "region": "Unknown",
@@ -72145,6 +74274,37 @@
     "related_channel": "",
     "hs_codes": [
       "841869"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Daikin Airconditioning Chile S A",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/daikin-airconditioning-chile-s-a",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -72279,6 +74439,41 @@
     "related_channel": "",
     "hs_codes": [
       "850811"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Delta Electronics Inc",
+    "type": "exporter",
+    "region": "USA",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/delta-electronics-jiangsu",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -72446,6 +74641,74 @@
     "related_channel": "",
     "hs_codes": [
       "392690"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Denso Corp",
+    "type": "exporter",
+    "region": "USA",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/denso",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Denso Electronics Thailand Co Lt",
+    "type": "exporter",
+    "region": "Thailand",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/denso-electronics-thailand-lt",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "overseas",
+      "region:th",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -72999,6 +75262,39 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Drez Guangzhou Intelligent Techno",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/drez-guangzhou-intelligent-techno",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Dsv Air & Sea Co Ltd Zhongshan",
     "type": "exporter",
     "region": "China",
@@ -73197,6 +75493,37 @@
     "hs_codes": [
       "732190",
       "841510"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Dynamic Technologies Spa",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/dynamic-technologies-china",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -73589,6 +75916,41 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Eminent Air Thailand Co Ltd",
+    "type": "exporter",
+    "region": "Thailand",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/eminent-air-thailand",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:th",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Empire Of Honduras Sa",
     "type": "exporter",
     "region": "Unknown",
@@ -73851,6 +76213,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Fcsg Cambodia Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/fcsg-cambodia",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Fengshi Metal Technology Malaysia S",
     "type": "exporter",
     "region": "Unknown",
@@ -74109,6 +76502,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Foryou Industries Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/foryou-industries",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Foshan Aoyinghui Trade Company Li",
     "type": "exporter",
     "region": "China",
@@ -74198,6 +76622,37 @@
     "related_channel": "",
     "hs_codes": [
       "841869"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Foshan Gwoyng Smp Vehicle Climate C",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/foshan-gwoyng-smp-vehicle-climate",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -74809,6 +77264,37 @@
     "related_channel": "",
     "hs_codes": [
       "841510"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Gd Midea Heating Ventilating Equipm",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/gd-midea-air-conditioning-equipment",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -76018,6 +78504,99 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Hangzhou Dong 1 Laser Systems Corp",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hangzhou-dong-1-laser-systems",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Hangzhou Dong 1 Laser Systerms Corp",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hangzhou-dong-1-laser-systems",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Hangzhou Everbright Import & Expor",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hangzhou-everbright-import-expor",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Hangzhou Havesino Import and Export CO.,LTD",
     "type": "exporter",
     "region": "Ningbo, Zhejiang, China",
@@ -76039,6 +78618,7 @@
       "home_appliance",
       "linkedin",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Welcome to my Linkedin company page.Our company is Ningbo Laomu Co.,ltd(Cixi East Electrical Appliance Factory ), located in Cixi, Ningbo, mainland China. We are specialized in making home appliances,",
@@ -76236,6 +78816,39 @@
     "related_channel": "",
     "hs_codes": [
       "850811"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Hanon Systems Thailand Co Ltd",
+    "type": "exporter",
+    "region": "Thailand",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hanon-systems-thailand",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "overseas",
+      "region:th",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -76745,6 +79358,70 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Hisense International Singapore Hol",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hisense-international-singapore-hol",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Hitachi Global Life Solutions Inc",
+    "type": "exporter",
+    "region": "USA",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hitachi-global-life-solutions",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Hk Hong Yuan Co Limited",
     "type": "exporter",
     "region": "Hong Kong",
@@ -77024,6 +79701,39 @@
     "trade_role": ""
   },
   {
+    "name": "Hongkong Astralys Furniture",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hongkong-astralys-furniture",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Hongkong Greatstar International",
     "type": "exporter",
     "region": "Unknown",
@@ -77117,6 +79827,39 @@
     "related_channel": "",
     "hs_codes": [
       "842139"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Hongkong Zephome Furniture",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/hongkong-zephome-furniture",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -77769,6 +80512,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Integral Transportation",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/integral-transportation-networks",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Interteam Sa De Cv",
     "type": "exporter",
     "region": "Mexico",
@@ -77961,6 +80735,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Itw Gse Aps",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/itw-gse",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "JaTen Pet Product",
     "type": "exporter",
     "region": "浙江, Zhejiang, China",
@@ -78118,6 +80923,101 @@
     "related_channel": "",
     "hs_codes": [
       "732111"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Jiangsu Sunrain Solar Energy Co",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/jiangsu-sunrain-solar-energy",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Jiangsu Sv Precision Components Co",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/jiangsu-sv-precision-components",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Jiangsu Sv Precision Die Casting Co",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/jiangsu-sv-precision-components",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -78807,6 +81707,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Kirin Transportation Intl Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/kirin-transportation-international",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Kjds Shanghai Network Technology",
     "type": "exporter",
     "region": "China",
@@ -79030,6 +81961,37 @@
     "related_channel": "",
     "hs_codes": [
       "841899"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Krn Hvac Products Private Limited",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/krn-hvac-products",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -79632,6 +82594,7 @@
       "customs_source",
       "exporter",
       "hs:841510",
+      "hs:841590",
       "hvac",
       "overseas",
       "portable_ac",
@@ -79640,10 +82603,11 @@
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841510 | HS 841510; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841510 | HS 841510; customs:importyeti | HS 841510/841590; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
-      "841510"
+      "841510",
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -79861,6 +82825,39 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Linkinpartner Europe Gmbh",
+    "type": "exporter",
+    "region": "Germany",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/linkinpartner-europe",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "LNE Network Systems (Asia) Sdn. Bhd.",
     "type": "exporter",
     "region": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
@@ -79991,6 +82988,39 @@
     "hs_codes": [
       "841459",
       "851660"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "M/T Kmarin Regard",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/m-t-kmarin-resolution",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -80127,6 +83157,39 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Master International",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/master-international-logistics",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Matrix Supply Chain Management",
     "type": "exporter",
     "region": "Unknown",
@@ -80189,6 +83252,39 @@
     "related_channel": "",
     "hs_codes": [
       "847960"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Medec Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/medec",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -80323,6 +83419,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Metaseval Site N",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/metaseval",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "MiicoFun",
     "type": "exporter",
     "region": "Foshan, Guangdong Province, China",
@@ -80405,15 +83532,17 @@
       "exporter",
       "home_appliance",
       "hs:841459",
+      "hs:841520",
       "hvac",
       "route:b2b_merchant",
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841459 | HS 841459; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841459 | HS 841459; customs:importyeti | HS 841459/841520; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
-      "841459"
+      "841459",
+      "841520"
     ],
     "trade_role": "exporter"
   },
@@ -81329,6 +84458,37 @@
     "trade_role": ""
   },
   {
+    "name": "Ningbo Future International",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/ningbo-future-international",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Ningbo Globalway",
     "type": "exporter",
     "region": "China",
@@ -81490,6 +84650,37 @@
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
+  },
+  {
+    "name": "Ningbo Homful Import & Export Co",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/ningbo-homful-import-export",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
   },
   {
     "name": "Ningbo Hoome Information Technology",
@@ -81710,6 +84901,37 @@
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
+  },
+  {
+    "name": "Ningbo Joysonquin Automotive System",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/ningbo-joysonquin-automotive-system",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
   },
   {
     "name": "Ningbo Lejia Auto Products Co Ltd",
@@ -81995,6 +85217,7 @@
       "home_appliance",
       "linkedin",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Ningbo SafePlus is a professional supplier, specialized in developing and exporting of Small Electrical Home Appliances, and As Seen On TV items.With more than 10 years experience of export to worldwi",
@@ -82550,6 +85773,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Pacific Freezone Nv",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/pacific-freezone",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Panasonic Hong Kong Co Ltd",
     "type": "exporter",
     "region": "Hong Kong",
@@ -82742,7 +85996,8 @@
     "website": "",
     "public_contact": "",
     "categories": [
-      "hvac"
+      "hvac",
+      "portable_ac"
     ],
     "platforms": [
       "customs_directory",
@@ -82753,16 +86008,19 @@
       "customs:importyeti",
       "customs_source",
       "exporter",
+      "hs:841582",
       "hs:841583",
       "hs:841861",
       "hvac",
+      "portable_ac",
       "route:b2b_merchant",
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841583/841861 | HS 841583/841861; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841583/841861 | HS 841583/841861; customs:importyeti | HS 841582/841583/841861; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
+      "841582",
       "841583",
       "841861"
     ],
@@ -82775,7 +86033,8 @@
     "website": "",
     "public_contact": "",
     "categories": [
-      "hvac"
+      "hvac",
+      "portable_ac"
     ],
     "platforms": [
       "customs_directory",
@@ -82786,16 +86045,19 @@
       "customs:importyeti",
       "customs_source",
       "exporter",
+      "hs:841582",
       "hs:841583",
       "hs:841861",
       "hvac",
+      "portable_ac",
       "route:b2b_merchant",
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841583/841861 | HS 841583/841861; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841583/841861 | HS 841583/841861; customs:importyeti | HS 841582/841583/841861; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
+      "841582",
       "841583",
       "841861"
     ],
@@ -83060,6 +86322,37 @@
     "related_channel": "",
     "hs_codes": [
       "732111"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Pv Czech S R O",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/pv-czech-s-r-o",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -84962,9 +88255,13 @@
       "linkedin",
       "odm",
       "oem",
+      "overseas",
       "region:cn",
+      "region:id",
+      "region:in",
       "route:b2b_merchant",
-      "source:linkedin"
+      "source:linkedin",
+      "source:overseas_oem"
     ],
     "notes": "LinkedIn-indexed company · Shenrong is a professional manufacturer and exporter of kitchen appliances, specializing in gas stoves, electric stoves, range hoods, gas water heaters, and related spare parts.Based in Zhongshan, Gua",
     "related_channel": "",
@@ -85205,6 +88502,68 @@
     "related_channel": "",
     "hs_codes": [
       "841459"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Shenzhen Infiled Electronics Co Lt",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/shenzhen-infiled-electronics",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Shenzhen Innovation Technology",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/shenzhen-innovation-technology",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
     ],
     "trade_role": "exporter"
   },
@@ -86290,6 +89649,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Siroco Hvac Sas",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/siroco-hvac",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "SJHI XIAMEN CO LTD",
     "type": "exporter",
     "region": "China",
@@ -86317,6 +89707,37 @@
     "related_channel": "",
     "hs_codes": [
       "851610"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Skg Italia Spa",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/skg-italia",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -87807,6 +91228,41 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Toyo Corp",
+    "type": "exporter",
+    "region": "USA",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/toyo-tire",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Toyota Motor Corp",
     "type": "exporter",
     "region": "USA",
@@ -87908,6 +91364,41 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Toyotsu Machinery Corp",
+    "type": "exporter",
+    "region": "USA",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/toyotsu-machinery",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Trailer Engineering Ag",
     "type": "exporter",
     "region": "Unknown",
@@ -87935,6 +91426,37 @@
     "related_channel": "",
     "hs_codes": [
       "841899"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Trane Technologies Intl Ltd",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/trane-technologies-galway",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
     ],
     "trade_role": "exporter"
   },
@@ -88199,6 +91721,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Valeo Siam Thermal Systems Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/valeo-siam-thermal-systems",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Valuelink Int L Limited",
     "type": "exporter",
     "region": "China",
@@ -88325,6 +91878,39 @@
     "related_channel": "",
     "hs_codes": [
       "841583"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Vertiv Slovakia A S",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/vertiv-slovakia-a-s",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -88552,6 +92138,70 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Vikinor Ict Kunshan Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/vikinor-ict-kunshan",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Virgin Voyages",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/virgin-voyages",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Volendam",
     "type": "exporter",
     "region": "Unknown",
@@ -88581,6 +92231,37 @@
     "related_channel": "",
     "hs_codes": [
       "392690"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Volvo Car Belgium Nv",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/volvo-car",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
     ],
     "trade_role": "exporter"
   },
@@ -88778,6 +92459,37 @@
     "trade_role": ""
   },
   {
+    "name": "Webasto Thermo Iklimlendirme Sistem",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/webasto-thermo-iklimlendirme-sistem",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Weifang G-Repu Imp. & Exp. Co., Ltd.",
     "type": "exporter",
     "region": "China",
@@ -88874,6 +92586,39 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Weltem Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/weltem",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Wencor M Sdn Bhd",
     "type": "exporter",
     "region": "Unknown",
@@ -88901,6 +92646,37 @@
     "related_channel": "",
     "hs_codes": [
       "850870"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Wenzhou Shuangzhan Machinery Co",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/wenzhou-shuangzhan-machinery",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -88965,6 +92741,70 @@
     "related_channel": "",
     "hs_codes": [
       "850870"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Wieland Werke Ag",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/wieland-werke",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Windmoeller Und Hoelscher Kg",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/windmoeller-hoelscher",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -89201,6 +93041,39 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Wuhan Hilite Automobile Air Cond",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/wuhan-hilite-automobile-air-cond",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841582",
+      "hvac",
+      "portable_ac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841582 | HS 841582; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841582"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Wuhan Lewei E Commerce Co Ltd",
     "type": "exporter",
     "region": "China",
@@ -89228,6 +93101,37 @@
     "related_channel": "",
     "hs_codes": [
       "630790"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Wuhu Maty Air Conditioning Equipmen",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/wuhu-maty-air-conditioning-equipmen",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841520",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841520 | HS 841520; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841520"
     ],
     "trade_role": "exporter"
   },
@@ -89292,6 +93196,37 @@
     "related_channel": "",
     "hs_codes": [
       "841490"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Wuxi Pro Face Co Ltd",
+    "type": "exporter",
+    "region": "China",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/wuxi-pro-face",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -89611,6 +93546,37 @@
     "related_channel": "",
     "hs_codes": [
       "392690"
+    ],
+    "trade_role": "exporter"
+  },
+  {
+    "name": "Xuancheng Yinming Auto Parts Manufa",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/xuancheng-yinming-auto-parts-manufa",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
     ],
     "trade_role": "exporter"
   },
@@ -90030,6 +93996,37 @@
     "trade_role": "exporter"
   },
   {
+    "name": "Zalesi A S",
+    "type": "exporter",
+    "region": "Unknown",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "customs_directory",
+      "importyeti"
+    ],
+    "source_url": "https://www.importyeti.com/supplier/zalesi-a-s",
+    "tags": [
+      "customs:importyeti",
+      "customs_source",
+      "exporter",
+      "hs:841590",
+      "hvac",
+      "route:b2b_merchant",
+      "source:customs",
+      "trade_role:exporter"
+    ],
+    "notes": "Public customs/trade directory · role=exporter · HS 841590 | HS 841590; customs:importyeti",
+    "related_channel": "",
+    "hs_codes": [
+      "841590"
+    ],
+    "trade_role": "exporter"
+  },
+  {
     "name": "Zhangjiagang Lowrie Internatinal Tr",
     "type": "exporter",
     "region": "Unknown",
@@ -90128,7 +94125,8 @@
     "website": "",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "hvac"
     ],
     "platforms": [
       "customs_directory",
@@ -90140,14 +94138,17 @@
       "customs_source",
       "exporter",
       "home_appliance",
+      "hs:841590",
       "hs:841899",
+      "hvac",
       "route:b2b_merchant",
       "source:customs",
       "trade_role:exporter"
     ],
-    "notes": "Public customs/trade directory · role=exporter · HS 841899 | HS 841899; customs:importyeti",
+    "notes": "Public customs/trade directory · role=exporter · HS 841899 | HS 841899; customs:importyeti | HS 841590/841899; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
+      "841590",
       "841899"
     ],
     "trade_role": "exporter"
@@ -97177,13 +101178,16 @@
     "source_url": "https://www.carrier.com/",
     "tags": [
       "brand",
+      "channel_type:dealer",
       "curated_public",
+      "from_channels",
       "hvac",
       "overseas",
       "portable_ac",
       "region:us",
       "route:b2b_merchant",
-      "source:channel"
+      "source:channel",
+      "trade_channel"
     ],
     "notes": "HVAC group",
     "related_channel": "",
@@ -98039,6 +102043,7 @@
       "brand_channel_expanded",
       "channel_overlap",
       "channel_type:brand",
+      "channel_type:dealer",
       "curated_overseas",
       "from_channels",
       "home_appliance",
@@ -99197,6 +103202,64 @@
     "trade_role": ""
   },
   {
+    "name": "Fink E 91 Take2-Design",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Firma Stand ja-unendlich",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "First Call Imports",
     "type": "brand",
     "region": "Unknown",
@@ -99318,6 +103381,7 @@
       "brand",
       "channel_overlap",
       "channel_type:brand",
+      "channel_type:dealer",
       "curated_overseas",
       "export_supply",
       "from_channels",
@@ -99340,6 +103404,35 @@
   },
   {
     "name": "FROHSTOFF",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "FROHSTOFF C 81 eigenart by Brüssel Steel",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -99512,6 +103605,35 @@
   },
   {
     "name": "GILDE HANDWERK",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "GILDE HANDWERK E 80 HALLE 9.0",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -99785,6 +103907,7 @@
       "linkedin",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Guangzhou Meiqi is Specialized in manufacturing pet accessories for 5 year. Products including dog clothes, collar, carrier, beds, toys etc. Now we have our own brands . MEIQIPETBABY and FEIPET, with",
@@ -99873,6 +103996,7 @@
       "customs:importyeti",
       "customs_source",
       "hs:841581",
+      "hs:841582",
       "hvac",
       "linkedin",
       "overseas",
@@ -99883,10 +104007,11 @@
       "source:linkedin",
       "trade_role:exporter"
     ],
-    "notes": "LinkedIn-indexed company · Hephzibah Co., Ltd. has Airrex brand for the industrial portable air conditioner and Veltz brand for the Dental business. | HS 841581; customs:importyeti",
+    "notes": "LinkedIn-indexed company · Hephzibah Co., Ltd. has Airrex brand for the industrial portable air conditioner and Veltz brand for the Dental business. | HS 841581; customs:importyeti | HS 841581/841582; customs:importyeti",
     "related_channel": "",
     "hs_codes": [
-      "841581"
+      "841581",
+      "841582"
     ],
     "trade_role": "exporter"
   },
@@ -100078,7 +104203,9 @@
     "public_contact": "",
     "categories": [
       "heater",
-      "portable_ac"
+      "hvac",
+      "portable_ac",
+      "smart_home"
     ],
     "platforms": [
       "official_site"
@@ -100086,13 +104213,16 @@
     "source_url": "https://www.honeywellhome.com/",
     "tags": [
       "brand",
+      "channel_type:dealer",
       "curated_public",
+      "from_channels",
       "heater",
       "overseas",
       "portable_ac",
       "region:us",
       "route:b2b_merchant",
-      "source:channel"
+      "source:channel",
+      "trade_channel"
     ],
     "notes": "Climate comfort brand umbrella",
     "related_channel": "",
@@ -100165,6 +104295,35 @@
   },
   {
     "name": "höfats",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "höfats H 70 GIFTS & HOME DECORATION",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -100430,6 +104589,35 @@
     "trade_role": ""
   },
   {
+    "name": "INTERIOR & DESIGN HALLE 9.1",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Inventum Huishoudelijke Apparaten B.V.",
     "type": "brand",
     "region": "Netherlands",
@@ -100555,6 +104743,35 @@
     "trade_role": ""
   },
   {
+    "name": "KAHEKU Schönes Wohnen F 83 Microplane International",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Kanion Co",
     "type": "brand",
     "region": "Yau Tsim Mong District, Hong Kong",
@@ -100618,6 +104835,35 @@
   },
   {
     "name": "Klatt objects",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Klatt objects D 10 Lurch AG",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -100843,6 +105089,35 @@
   },
   {
     "name": "Korsch Verlag",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Korsch Verlag C 60 HORECA",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -101178,6 +105453,35 @@
     "trade_role": ""
   },
   {
+    "name": "Lindauer Schreibgeräte & Lesehilfen E 59 HALLE 11.0",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "LOFRA",
     "type": "brand",
     "region": "Torreglia, Veneto, Italy",
@@ -101483,16 +105787,19 @@
     "source_url": "https://www.midea.com/us/air-conditioners/portable-air-conditioners",
     "tags": [
       "brand",
+      "channel_type:dealer",
       "crustdata_company_search",
       "curated_public",
       "export_supply",
+      "from_channels",
       "home_appliance",
       "hvac",
       "linkedin",
       "portable_ac",
       "route:b2b_merchant",
       "source:channel",
-      "source:linkedin"
+      "source:linkedin",
+      "trade_channel"
     ],
     "notes": "Major home appliance OEM/OBM; portable AC lines",
     "related_channel": "",
@@ -101586,6 +105893,35 @@
   },
   {
     "name": "Mossapour Interior Designs",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Mossapour Interior Designs E 28 MODERN KITCHEN & BAKING",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -102255,6 +106591,35 @@
   },
   {
     "name": "PHILIPPI",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "PHILIPPI E 70 Jet Papier GmbH",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -103058,6 +107423,35 @@
     "trade_role": ""
   },
   {
+    "name": "Relaxound H 35 Billiet Vanlaere NV",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "REMKO GmbH & Co. KG",
     "type": "brand",
     "region": "Germany",
@@ -103822,6 +108216,35 @@
     "trade_role": ""
   },
   {
+    "name": "Sompex E 60 koziol »ideas for friends",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Sound Around Inc. (SereneLife)",
     "type": "brand",
     "region": "USA",
@@ -104451,6 +108874,35 @@
   },
   {
     "name": "Top-Team Collection",
+    "type": "brand",
+    "region": "Germany / EU · Ambiente",
+    "website": "",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "trade_show"
+    ],
+    "source_url": "https://ambiente.messefrankfurt.com/",
+    "tags": [
+      "ambiente",
+      "brand",
+      "exhibitor",
+      "home_appliance",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:trade_show",
+      "trade_show"
+    ],
+    "notes": "Ambiente Frankfurt public exhibitor press list PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Top-Team Collection B 50 Norbert Woll",
     "type": "brand",
     "region": "Germany / EU · Ambiente",
     "website": "",
@@ -105152,6 +109604,7 @@
       "brand",
       "channel_overlap",
       "channel_type:brand",
+      "channel_type:dealer",
       "curated_overseas",
       "curated_public",
       "from_channels",
@@ -105853,6 +110306,7 @@
       "home_appliance",
       "portable_ac",
       "route:b2b_merchant",
+      "source:1688",
       "source:channel",
       "trade_channel",
       "wholesaler"
@@ -106234,6 +110688,36 @@
     "trade_role": ""
   },
   {
+    "name": "ACCAonline HVAC contractors",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.acca.org/",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.acca.org/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:mod_shop",
+      "from_channels",
+      "hvac",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Air Conditioning Contractors of America · daily_2026-11-03",
+    "related_channel": "ACCAonline HVAC contractors",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Ackuniversal",
     "type": "wholesaler",
     "region": "USA",
@@ -106549,6 +111033,40 @@
     "trade_role": ""
   },
   {
+    "name": "AHR Expo exhibitor search (public)",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.ahrexpo.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.ahrexpo.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "HVAC trade show · daily_2026-11-03",
+    "related_channel": "AHR Expo exhibitor search (public)",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "AHRI (HVAC manufacturers)",
     "type": "wholesaler",
     "region": "USA",
@@ -106575,6 +111093,38 @@
     ],
     "notes": "Trade association",
     "related_channel": "AHRI (HVAC manufacturers)",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "AHRI Find a Member directory",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.ahrinet.org/find-a-member",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "directory"
+    ],
+    "source_url": "https://www.ahrinet.org/find-a-member",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Public AHRI member finder · daily_2026-11-03",
+    "related_channel": "AHRI Find a Member directory",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -108558,6 +113108,38 @@
     "trade_role": ""
   },
   {
+    "name": "Avanti Products dealers",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.avantiproducts.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.avantiproducts.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "home_appliance",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler",
+      "wine_cooler"
+    ],
+    "notes": "Compact appliance brand channel · daily_2026-11-03",
+    "related_channel": "Avanti Products dealers",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Award Refrigeration & Air conditioning Ltd",
     "type": "wholesaler",
     "region": "Paignton, United Kingdom",
@@ -109332,6 +113914,38 @@
     ],
     "notes": "Maps public listing; Air conditioning contractor; medium — HVAC contractor/AC business",
     "related_channel": "Berliner Klima Klimaanlagen Technik & Service",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Best Buy appliances",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.bestbuy.com/site/home-appliances/portable-air-conditioners/pcmcat302200050020.c",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.bestbuy.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "CE retail portable AC · daily_2026-11-03",
+    "related_channel": "Best Buy appliances",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -112295,6 +116909,40 @@
     "trade_role": ""
   },
   {
+    "name": "Costco appliances / wine coolers",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.costco.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.costco.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler",
+      "wine_cooler"
+    ],
+    "notes": "Warehouse club channel · daily_2026-11-03",
+    "related_channel": "Costco appliances / wine coolers",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Cousins Air",
     "type": "wholesaler",
     "region": "FL",
@@ -113927,6 +118575,38 @@
     "trade_role": ""
   },
   {
+    "name": "EdgeStar / Summit Appliance dealers",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.summitappliance.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.summitappliance.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "home_appliance",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler",
+      "wine_cooler"
+    ],
+    "notes": "Compact appliance / wine specialty · daily_2026-11-03",
+    "related_channel": "EdgeStar / Summit Appliance dealers",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "EDI HVAC&R Wholesale Distributor",
     "type": "wholesaler",
     "region": "Fairfield, New Jersey, United States",
@@ -114573,6 +119253,7 @@
       "linkedin",
       "portable_ac",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin",
       "wholesaler"
     ],
@@ -114664,6 +119345,38 @@
     ],
     "notes": "LinkedIn-indexed company · EUROHEAT DISTRIBUTORS (H.B.S.) LIMITED is a wholesale company based out of UNIT 2 COURT FARM BUSINESS PARK BISHOPS FROME, WORCESTERSHIRE, United Kingdom.",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Europages air conditioning suppliers",
+    "type": "wholesaler",
+    "region": "EU",
+    "website": "https://www.europages.co.uk/companies/air%20conditioning.html",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.europages.co.uk/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:eu",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Europages HVAC suppliers · daily_2026-11-03",
+    "related_channel": "Europages air conditioning suppliers",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -114877,6 +119590,34 @@
     ],
     "notes": "LinkedIn-indexed company · Favorite Pet Products is a wholesale company based out of 10311 Jefferson Blvd, Culver City, California, United States.",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Fd",
+    "type": "wholesaler",
+    "region": "intl",
+    "website": "https://fd.cleantalk.org",
+    "public_contact": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://wineguardian.com/support/distributors/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler",
+      "wine_cooler"
+    ],
+    "notes": "Wine Guardian public distributor domain",
+    "related_channel": "Fd",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -115935,6 +120676,36 @@
     "trade_role": ""
   },
   {
+    "name": "Global Pet Expo exhibitor directory (public)",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.globalpetexpo.org/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.globalpetexpo.org/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:wholesaler",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Pet trade show exhibitor entry · daily_2026-11-03",
+    "related_channel": "Global Pet Expo exhibitor directory (public)",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Global Sources - Indonesia",
     "type": "wholesaler",
     "region": "South Jakarta, Jakarta, Indonesia",
@@ -116175,6 +120946,38 @@
     ],
     "notes": "Wine Guardian public distributor domain",
     "related_channel": "Googletagmanager",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Grainger portable cooling / heaters",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.grainger.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.grainger.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:wholesaler",
+      "from_channels",
+      "heater",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "MRO wholesale channel · daily_2026-11-03",
+    "related_channel": "Grainger portable cooling / heaters",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -117418,6 +122221,38 @@
     "trade_role": ""
   },
   {
+    "name": "Hisense where to buy",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://hisense-usa.com/where-to-buy/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://hisense-usa.com/where-to-buy/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Hisense retailer locator · daily_2026-11-03",
+    "related_channel": "Hisense where to buy",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Holbrook Heating Inc",
     "type": "wholesaler",
     "region": "Watervliet, New York, United States",
@@ -117443,6 +122278,40 @@
     ],
     "notes": "LinkedIn-indexed company · ABR Wholesalers, Inc. is a wholesale distributor of heating, air-conditioning, and hydronics products. We service the HVAC contractor trade in upstate, western, and southern New York State. We are the",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Home Depot Pro HVAC",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.homedepot.com/b/Heating-Venting-Cooling/N-5yc1vZc4l4",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.homedepot.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Big-box HVAC aisle · daily_2026-11-03",
+    "related_channel": "Home Depot Pro HVAC",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -118369,6 +123238,36 @@
     "trade_role": ""
   },
   {
+    "name": "Interzoo exhibitor directory (public)",
+    "type": "wholesaler",
+    "region": "EU",
+    "website": "https://www.interzoo.com/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.interzoo.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:wholesaler",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:eu",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "EU pet trade fair · daily_2026-11-03",
+    "related_channel": "Interzoo exhibitor directory (public)",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Inviniticellardesign",
     "type": "wholesaler",
     "region": "intl",
@@ -118421,6 +123320,38 @@
     ],
     "notes": "Wine Guardian public distributor domain",
     "related_channel": "Iq Home",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "ISH Frankfurt HVAC exhibitors (public)",
+    "type": "wholesaler",
+    "region": "EU",
+    "website": "https://ish.messefrankfurt.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "directory"
+    ],
+    "source_url": "https://ish.messefrankfurt.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "region:eu",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "EU HVAC trade fair · daily_2026-11-03",
+    "related_channel": "ISH Frankfurt HVAC exhibitors (public)",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -120635,6 +125566,38 @@
     "trade_role": ""
   },
   {
+    "name": "Lennox locate a dealer",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.lennox.com/locate/dealer",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.lennox.com/locate/dealer",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Lennox dealer locator · daily_2026-11-03",
+    "related_channel": "Lennox locate a dealer",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Lindab",
     "type": "wholesaler",
     "region": "Cardiff, United Kingdom",
@@ -120767,6 +125730,40 @@
     ],
     "notes": "LinkedIn-indexed company · Louisville Winair is a full-service HVAC Wholesaler. We carry a large inventory of high-quality products while serving Residential and Commercial HVAC Technicians. Our Louisville Winair Team shares yo",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Lowe's heating & cooling",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.lowes.com/c/Heating-cooling-Appliances",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.lowes.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Big-box heating/cooling · daily_2026-11-03",
+    "related_channel": "Lowe's heating & cooling",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -122018,6 +127015,38 @@
     "trade_role": ""
   },
   {
+    "name": "Mitsubishi Electric HVAC US contractors",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.mitsubishicomfort.com/find-a-contractor",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.mitsubishicomfort.com/find-a-contractor",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "OEM contractor locator · daily_2026-11-03",
+    "related_channel": "Mitsubishi Electric HVAC US contractors",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Mobil in Time Deutschland GmbH",
     "type": "wholesaler",
     "region": "EU/DE/AT/CH",
@@ -122713,6 +127742,38 @@
     ],
     "notes": "Maps public listing; Wholesaler; high — AC/HVAC wholesale/distributor/supplier",
     "related_channel": "NISSEL KÄLTE-KLIMA, Kälte- und Klimaanlagen",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Northern Tool heaters / portable AC",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.northerntool.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.northerntool.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Specialty tool/retail channel · daily_2026-11-03",
+    "related_channel": "Northern Tool heaters / portable AC",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -123431,6 +128492,66 @@
     "trade_role": ""
   },
   {
+    "name": "Pet Food Institute members",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.petfoodinstitute.org/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.petfoodinstitute.org/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Pet food trade association · daily_2026-11-03",
+    "related_channel": "Pet Food Institute members",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Pet Industry Distributors Association members",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://pida.fetchfind.com/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://pida.fetchfind.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "PIDA FetchFind public directory · daily_2026-11-03",
+    "related_channel": "Pet Industry Distributors Association members",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Pet Nutrition Products Inc.",
     "type": "wholesaler",
     "region": "United States",
@@ -124114,6 +129235,38 @@
     ],
     "notes": "LinkedIn-indexed company · PETSUPPLYFACTORY.COMA Leading, Online Distributor for the Small and Independent Pet RetailerWhen it first began nine years ago, PetSupplyFactory.com was in a 2500 square foot facility with three emplo",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "PHCC plumbing-heating-cooling contractors",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.phccweb.org/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.phccweb.org/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:mod_shop",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Plumbing-Heating-Cooling Contractors · daily_2026-11-03",
+    "related_channel": "PHCC plumbing-heating-cooling contractors",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -125277,6 +130430,36 @@
     "trade_role": ""
   },
   {
+    "name": "REHAU radiant / HVAC systems partners",
+    "type": "wholesaler",
+    "region": "global",
+    "website": "https://www.rehau.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.rehau.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "heater",
+      "hvac",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Radiant/HVAC systems brand channel · daily_2026-11-03",
+    "related_channel": "REHAU radiant / HVAC systems partners",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Reindl - Kältetechnik Ges.m.b.H.",
     "type": "wholesaler",
     "region": "EU/DE/AT/CH",
@@ -125400,6 +130583,36 @@
     ],
     "notes": "PIDA public directory domain",
     "related_channel": "Reptilesbymack",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Rexel electrical / HVAC EU-US",
+    "type": "wholesaler",
+    "region": "global",
+    "website": "https://www.rexel.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.rexel.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:wholesaler",
+      "from_channels",
+      "heater",
+      "hvac",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Electrical/HVAC distribution · daily_2026-11-03",
+    "related_channel": "Rexel electrical / HVAC EU-US",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -126540,6 +131753,7 @@
       "channel_type:distributor",
       "from_channels",
       "route:b2b_merchant",
+      "source:1688",
       "source:channel",
       "trade_channel",
       "wholesaler",
@@ -126829,6 +132043,36 @@
     ],
     "notes": "Maps public listing; HVAC contractor; medium — HVAC contractor/AC business",
     "related_channel": "solv Group Boiler Service & Repairs",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Sonepar electrical wholesale",
+    "type": "wholesaler",
+    "region": "global",
+    "website": "https://www.sonepar.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.sonepar.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:wholesaler",
+      "from_channels",
+      "heater",
+      "hvac",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Electrical wholesale group · daily_2026-11-03",
+    "related_channel": "Sonepar electrical wholesale",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -128762,6 +134006,9 @@
     "website": "https://thomasnet.com",
     "public_contact": "",
     "categories": [
+      "hvac",
+      "pet_products",
+      "portable_ac",
       "wine_cooler"
     ],
     "platforms": [
@@ -129323,6 +134570,38 @@
     ],
     "notes": "LinkedIn-indexed company · UKHVAC Supplies Ltd, ideally located in the middle on the UK, offer a range of industrial & commercial products from boilers, burners, flues & accessories. We can also source bespoke products for ind",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Uline climate / facility",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.uline.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.uline.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:wholesaler",
+      "from_channels",
+      "heater",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "Facility supplies wholesale · daily_2026-11-03",
+    "related_channel": "Uline climate / facility",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -130367,6 +135646,36 @@
     ],
     "notes": "Maps public listing; Movie theater; medium — wholesaler/distributor (weak AC signal)",
     "related_channel": "Vue Cinema Glasgow St. Enoch",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "W3",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://w3.org",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://pida.fetchfind.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:us",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "PIDA public directory domain",
+    "related_channel": "W3",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -132061,6 +137370,38 @@
     "trade_role": ""
   },
   {
+    "name": "WLW / Europages HVAC search (public)",
+    "type": "wholesaler",
+    "region": "EU",
+    "website": "https://www.wlw.de/en/search?q=portable+air+conditioner",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.wlw.de/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:distributor",
+      "from_channels",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:eu",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "EU B2B directory HVAC · daily_2026-11-03",
+    "related_channel": "WLW / Europages HVAC search (public)",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Wolseley Plumb & Parts",
     "type": "wholesaler",
     "region": "Wolverhampton, United Kingdom",
@@ -132452,6 +137793,7 @@
       "linkedin",
       "pet_products",
       "route:b2b_merchant",
+      "source:alibaba",
       "source:linkedin",
       "wholesaler"
     ],

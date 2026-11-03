@@ -1,16 +1,28 @@
 {
-  "before": 3414,
-  "after": 4214,
-  "net_new": 800,
+  "before": 4292,
+  "after": 4292,
+  "net_new": 0,
+  "expand_stats": {
+    "before": 4292,
+    "after": 4292,
+    "added_curated": 0,
+    "added_crustdata": 0,
+    "added_portable_csv": 0,
+    "added_europages": 0,
+    "retag_touched": 11,
+    "skipped_china": 0,
+    "skipped_irrelevant": 0,
+    "net_new": 0
+  },
   "before_flags": {
-    "overseas": 0,
-    "oem": 21,
-    "odm": 8,
-    "private_label": 0,
-    "overseas_factory_or_mfr": 0
+    "overseas": 2352,
+    "oem": 1472,
+    "odm": 410,
+    "private_label": 286,
+    "overseas_factory_or_mfr": 1304
   },
   "after_flags": {
-    "overseas": 2352,
+    "overseas": 2364,
     "oem": 1472,
     "odm": 410,
     "private_label": 286,
@@ -18,23 +30,22 @@
   },
   "by_type": {
     "factory": 283,
-    "manufacturer": 1945,
-    "exporter": 680,
+    "manufacturer": 1954,
+    "exporter": 749,
     "importer": 138,
     "brand": 314,
     "wholesaler": 846,
     "b2b_store": 8
   },
-  "source_overseas_oem": 1474,
   "region_tag_top": {
-    "region:us": 772,
-    "region:de": 259,
+    "region:us": 778,
+    "region:de": 261,
     "region:ca": 244,
     "region:gb": 217,
-    "region:in": 168,
+    "region:in": 169,
     "region:tr": 131,
-    "region:th": 124,
-    "region:id": 112,
+    "region:th": 127,
+    "region:id": 113,
     "region:vn": 107,
     "region:my": 89,
     "region:it": 83,
@@ -46,12 +57,17 @@
     "region:au": 9,
     "region:fr": 9,
     "region:eu": 8,
-    "region:es": 6
+    "region:es": 6,
+    "region:eg": 5,
+    "region:pt": 5,
+    "region:ae": 5,
+    "region:kr": 5,
+    "region:br": 3
   },
   "blockers": [
-    "Alibaba/GlobalSources/TradeKey/Kompass/Europages OEM dirs mostly JS-shell, 403, or 404 via plain fetch",
-    "Crustdata HVAC industry search hit out_of_credits; reused crustdata_merged_strict (~803 non-CN)",
-    "Industrystock 403; IndiaMart/ExportHub thin or 403",
-    "Mainland China excluded for this overseas OEM pass"
+    "Alibaba / GlobalSources / TradeKey / Kompass OEM directory pages mostly JS-shell or blocked",
+    "Crustdata HVAC industry search hit out_of_credits mid-run; used prior merged_strict dump",
+    "Industrystock 403; some association directories login-walled",
+    "Mainland China deliberately excluded for this overseas OEM pass"
   ]
 }
