@@ -12,6 +12,18 @@
     ]
   },
   {
+    "title": "Amazon Brand Store examples",
+    "url": "https://sell.amazon.com/brand-registry",
+    "niche": "general_sales_content",
+    "asset_type": "case",
+    "notes": "品牌旗舰店结构",
+    "tags": [
+      "case",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Amazon Climate Pledge Friendly (trust badge pattern)",
     "url": "https://www.amazon.com/b?node=21226913011",
     "niche": "general_sales_content",
@@ -19,6 +31,18 @@
     "notes": "信任徽章/认证展示模式",
     "tags": [
       "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "BBB business profile pattern",
+    "url": "https://www.bbb.org/",
+    "niche": "general_sales_content",
+    "asset_type": "case",
+    "notes": "第三方信誉背书入口",
+    "tags": [
+      "case",
       "general_sales_content",
       "route:brand_content"
     ]
@@ -43,186 +67,6 @@
     "notes": "销售演示模板入口",
     "tags": [
       "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Copywriting formulas (public blogs ok as method)",
-    "url": "https://blog.hubspot.com/marketing/copywriting",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "销售文案方法论入口",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "GS1 product identifiers",
-    "url": "https://www.gs1.org/",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "产品标识标准",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Google Merchant Center product data spec",
-    "url": "https://support.google.com/merchants/answer/7052112",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "产品属性字段规范——可映射销售资料字段",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "HowTo schema Google docs",
-    "url": "https://developers.google.com/search/docs/appearance/structured-data/how-to",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "HowTo 结构化文档",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Notion template gallery (ops content)",
-    "url": "https://www.notion.com/templates",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "可复用内容模板库思路",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Open Graph protocol",
-    "url": "https://ogp.me/",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "社交分享元数据标准",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Product schema Google docs",
-    "url": "https://developers.google.com/search/docs/appearance/structured-data/product",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "产品结构化数据",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Sales one-pager examples (public)",
-    "url": "https://blog.hubspot.com/sales/one-pager",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "一页纸销售资料结构",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Schema.org HowTo",
-    "url": "https://schema.org/HowTo",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "安装/使用步骤结构化",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Shopify product page best practices",
-    "url": "https://www.shopify.com/blog/product-page",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "产品页方法论",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "TikTok Shop Seller Center education",
-    "url": "https://seller-us.tiktok.com/",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "带货平台教育内容",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "W3C WCAG (content accessibility)",
-    "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "销售资料无障碍规范",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "抖音电商罗盘公开介绍",
-    "url": "https://fxg.jinritemai.com/",
-    "niche": "general_sales_content",
-    "asset_type": "brochure",
-    "notes": "国内带货数据后台入口说明",
-    "tags": [
-      "brochure",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Amazon Brand Store examples",
-    "url": "https://sell.amazon.com/brand-registry",
-    "niche": "general_sales_content",
-    "asset_type": "case",
-    "notes": "品牌旗舰店结构",
-    "tags": [
-      "case",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "BBB business profile pattern",
-    "url": "https://www.bbb.org/",
-    "niche": "general_sales_content",
-    "asset_type": "case",
-    "notes": "第三方信誉背书入口",
-    "tags": [
-      "case",
       "general_sales_content",
       "route:brand_content"
     ]
@@ -264,6 +108,42 @@
     ]
   },
   {
+    "title": "Copywriting formulas (public blogs ok as method)",
+    "url": "https://blog.hubspot.com/marketing/copywriting",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "销售文案方法论入口",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Costco member help",
+    "url": "https://www.costco.com/customer-service.html",
+    "niche": "general_sales_content",
+    "asset_type": "faq",
+    "notes": "会员制零售 FAQ",
+    "tags": [
+      "faq",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "FAQ schema Google docs",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/faqpage",
+    "niche": "general_sales_content",
+    "asset_type": "faq",
+    "notes": "FAQ 结构化搜索文档",
+    "tags": [
+      "faq",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "G2 category pages (B2B case pattern)",
     "url": "https://www.g2.com/",
     "niche": "general_sales_content",
@@ -271,6 +151,18 @@
     "notes": "评价站案例库结构参考",
     "tags": [
       "case",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "GS1 product identifiers",
+    "url": "https://www.gs1.org/",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "产品标识标准",
+    "tags": [
+      "brochure",
       "general_sales_content",
       "route:brand_content"
     ]
@@ -288,6 +180,18 @@
     ]
   },
   {
+    "title": "Google Merchant Center product data spec",
+    "url": "https://support.google.com/merchants/answer/7052112",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "产品属性字段规范——可映射销售资料字段",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Grin customer stories",
     "url": "https://grin.co/customers/",
     "niche": "general_sales_content",
@@ -295,6 +199,18 @@
     "notes": "创作者合作案例",
     "tags": [
       "case",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "HowTo schema Google docs",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/how-to",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "HowTo 结构化文档",
+    "tags": [
+      "brochure",
       "general_sales_content",
       "route:brand_content"
     ]
@@ -336,6 +252,30 @@
     ]
   },
   {
+    "title": "Notion template gallery (ops content)",
+    "url": "https://www.notion.com/templates",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "可复用内容模板库思路",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Objection handling frameworks",
+    "url": "https://blog.hubspot.com/sales/sales-objection-handling",
+    "niche": "general_sales_content",
+    "asset_type": "faq",
+    "notes": "异议处理框架——可映射 FAQ",
+    "tags": [
+      "faq",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Okendo reviews",
     "url": "https://okendo.io/",
     "niche": "general_sales_content",
@@ -343,6 +283,66 @@
     "notes": "Shopify 评价/UGC",
     "tags": [
       "case",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Open Graph protocol",
+    "url": "https://ogp.me/",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "社交分享元数据标准",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Product schema Google docs",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/product",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "产品结构化数据",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Sales one-pager examples (public)",
+    "url": "https://blog.hubspot.com/sales/one-pager",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "一页纸销售资料结构",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Schema.org FAQPage",
+    "url": "https://schema.org/FAQPage",
+    "niche": "general_sales_content",
+    "asset_type": "faq",
+    "notes": "FAQ 结构化标准，利于复用与 SEO",
+    "tags": [
+      "faq",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Schema.org HowTo",
+    "url": "https://schema.org/HowTo",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "安装/使用步骤结构化",
+    "tags": [
+      "brochure",
       "general_sales_content",
       "route:brand_content"
     ]
@@ -360,6 +360,54 @@
     ]
   },
   {
+    "title": "Shopify product page best practices",
+    "url": "https://www.shopify.com/blog/product-page",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "产品页方法论",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Shopify: how to write product FAQs",
+    "url": "https://www.shopify.com/blog/product-faq",
+    "niche": "general_sales_content",
+    "asset_type": "faq",
+    "notes": "产品 FAQ 写作框架（方法论，非竞品文案）",
+    "tags": [
+      "faq",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Target help",
+    "url": "https://help.target.com/",
+    "niche": "general_sales_content",
+    "asset_type": "faq",
+    "notes": "零售帮助中心",
+    "tags": [
+      "faq",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "TikTok Shop Seller Center education",
+    "url": "https://seller-us.tiktok.com/",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "带货平台教育内容",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Trustpilot business profiles",
     "url": "https://www.trustpilot.com/",
     "niche": "general_sales_content",
@@ -367,6 +415,30 @@
     "notes": "外部口碑入口模式",
     "tags": [
       "case",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "W3C WCAG (content accessibility)",
+    "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "销售资料无障碍规范",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Walmart help center",
+    "url": "https://www.walmart.com/help",
+    "niche": "general_sales_content",
+    "asset_type": "faq",
+    "notes": "大零售帮助中心",
+    "tags": [
+      "faq",
       "general_sales_content",
       "route:brand_content"
     ]
@@ -420,6 +492,18 @@
     ]
   },
   {
+    "title": "抖音电商罗盘公开介绍",
+    "url": "https://fxg.jinritemai.com/",
+    "niche": "general_sales_content",
+    "asset_type": "brochure",
+    "notes": "国内带货数据后台入口说明",
+    "tags": [
+      "brochure",
+      "general_sales_content",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "知乎产品评测话题（公开）",
     "url": "https://www.zhihu.com/",
     "niche": "general_sales_content",
@@ -432,87 +516,75 @@
     ]
   },
   {
-    "title": "Costco member help",
-    "url": "https://www.costco.com/customer-service.html",
-    "niche": "general_sales_content",
-    "asset_type": "faq",
-    "notes": "会员制零售 FAQ",
+    "title": "AfterShip influencer category pages (appliances)",
+    "url": "https://ecommerce.aftership.com/influencers/top-100-most-follower-household-appliances-us-tiktok-shop-influencers",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "第三方测评/带货达人榜——外部口碑入口参考",
     "tags": [
-      "faq",
-      "general_sales_content",
+      "case",
+      "home_appliance",
       "route:brand_content"
     ]
   },
   {
-    "title": "FAQ schema Google docs",
-    "url": "https://developers.google.com/search/docs/appearance/structured-data/faqpage",
-    "niche": "general_sales_content",
+    "title": "Beko",
+    "url": "https://www.beko.com/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "家电品牌站",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Best Buy Geek Squad help",
+    "url": "https://www.bestbuy.com/site/electronics/geek-squad/pcmcat138100050018.c",
+    "niche": "home_appliance",
     "asset_type": "faq",
-    "notes": "FAQ 结构化搜索文档",
+    "notes": "零售安装/支持服务叙事",
     "tags": [
       "faq",
-      "general_sales_content",
+      "home_appliance",
       "route:brand_content"
     ]
   },
   {
-    "title": "Objection handling frameworks",
-    "url": "https://blog.hubspot.com/sales/sales-objection-handling",
-    "niche": "general_sales_content",
+    "title": "Black+Decker FAQ pages",
+    "url": "https://www.blackanddecker.com/pages/faq",
+    "niche": "home_appliance",
     "asset_type": "faq",
-    "notes": "异议处理框架——可映射 FAQ",
+    "notes": "工具/家电 FAQ 模板，问答短句清晰",
     "tags": [
       "faq",
-      "general_sales_content",
+      "home_appliance",
       "route:brand_content"
     ]
   },
   {
-    "title": "Schema.org FAQPage",
-    "url": "https://schema.org/FAQPage",
-    "niche": "general_sales_content",
+    "title": "Blueair support",
+    "url": "https://www.blueair.com/us/support.html",
+    "niche": "home_appliance",
     "asset_type": "faq",
-    "notes": "FAQ 结构化标准，利于复用与 SEO",
+    "notes": "空净品牌支持",
     "tags": [
       "faq",
-      "general_sales_content",
+      "home_appliance",
       "route:brand_content"
     ]
   },
   {
-    "title": "Shopify: how to write product FAQs",
-    "url": "https://www.shopify.com/blog/product-faq",
-    "niche": "general_sales_content",
-    "asset_type": "faq",
-    "notes": "产品 FAQ 写作框架（方法论，非竞品文案）",
+    "title": "Bosch home US",
+    "url": "https://www.bosch-home.com/us/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "德系家电品牌站+支持",
     "tags": [
-      "faq",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Target help",
-    "url": "https://help.target.com/",
-    "niche": "general_sales_content",
-    "asset_type": "faq",
-    "notes": "零售帮助中心",
-    "tags": [
-      "faq",
-      "general_sales_content",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Walmart help center",
-    "url": "https://www.walmart.com/help",
-    "niche": "general_sales_content",
-    "asset_type": "faq",
-    "notes": "大零售帮助中心",
-    "tags": [
-      "faq",
-      "general_sales_content",
-      "route:brand_content"
+      "home_appliance",
+      "route:brand_content",
+      "site"
     ]
   },
   {
@@ -523,6 +595,114 @@
     "notes": "欧盟合规公开说明",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "CES exhibitors appliance",
+    "url": "https://www.ces.tech/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "消费电子展",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "CNET appliance reviews hub",
+    "url": "https://www.cnet.com/home/kitchen-and-household/",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "科技媒体家电评测入口",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Cafe Appliances",
+    "url": "https://www.cafeappliances.com/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "中高端家电生活方式叙事",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Candy Hoover",
+    "url": "https://www.candy-home.com/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "欧系家电品牌",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Canton Fair appliances",
+    "url": "https://www.cantonfair.org.cn/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "广交会公开入口",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Consumentenbond NL",
+    "url": "https://www.consumentenbond.nl/",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "荷系消费者测评",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Consumer Reports (public marketing)",
+    "url": "https://www.consumerreports.org/",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "第三方评测品牌",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Costway appliances",
+    "url": "https://www.costway.com/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "线上家电零售内容结构",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Coway support",
+    "url": "https://cowaymega.com/pages/support",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "空气净化器支持",
+    "tags": [
+      "faq",
       "home_appliance",
       "route:brand_content"
     ]
@@ -552,6 +732,19 @@
     ]
   },
   {
+    "title": "Dyson vacuum / air FAQ",
+    "url": "https://support.dyson.com/",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "戴森支持知识库 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "ETL / Intertek",
     "url": "https://www.intertek.com/",
     "niche": "home_appliance",
@@ -559,6 +752,42 @@
     "notes": "认证背书",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "EcomRide TTS household appliances ranking",
+    "url": "https://ecomride.com/blog/top-tiktok-shop-household-appliances-creators-september-2026/",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "带货效果公开榜，可作寄样对象池依据",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Ecovacs support",
+    "url": "https://www.ecovacs.com/global/support",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "清洁电器全球支持",
+    "tags": [
+      "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Electrolux US support",
+    "url": "https://www.electrolux.com/support/",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "支持/手册中心",
+    "tags": [
+      "faq",
       "home_appliance",
       "route:brand_content"
     ]
@@ -600,6 +829,79 @@
     ]
   },
   {
+    "title": "GE Appliances support",
+    "url": "https://www.geappliances.com/ge/service-and-support/",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "大家电服务与支持导航",
+    "tags": [
+      "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Good Housekeeping product reviews",
+    "url": "https://www.goodhousekeeping.com/appliances/",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "生活方式媒体评测",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Haier Europe",
+    "url": "https://www.haier-europe.com/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "欧洲家电站",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Haier US",
+    "url": "https://www.haier.com/us/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "家电集团品牌站",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Hisense Europe",
+    "url": "https://www.hisense.com/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "家电品牌全球",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Hisense US support",
+    "url": "https://hisense-usa.com/support/",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "海信北美支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Home Depot buying guides",
     "url": "https://www.homedepot.com/c/buying_guides",
     "niche": "home_appliance",
@@ -607,6 +909,30 @@
     "notes": "卖场导购指南模板",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "KBIS kitchen bath",
+    "url": "https://kbis.com/",
+    "niche": "home_appliance",
+    "asset_type": "site",
+    "notes": "厨卫展渠道",
+    "tags": [
+      "home_appliance",
+      "route:brand_content",
+      "site"
+    ]
+  },
+  {
+    "title": "Levoit / VeSync support",
+    "url": "https://vesync.com/support",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "空气/环境电器支持",
+    "tags": [
+      "faq",
       "home_appliance",
       "route:brand_content"
     ]
@@ -624,97 +950,37 @@
     ]
   },
   {
-    "title": "UL product safety",
-    "url": "https://www.ul.com/",
+    "title": "Midea Global",
+    "url": "https://www.midea.com/global",
     "niche": "home_appliance",
-    "asset_type": "brochure",
-    "notes": "安全认证背书源",
+    "asset_type": "site",
+    "notes": "集团全球站",
     "tags": [
-      "brochure",
       "home_appliance",
-      "route:brand_content"
+      "route:brand_content",
+      "site"
     ]
   },
   {
-    "title": "Wayfair appliance guides",
-    "url": "https://www.wayfair.com/idea-center",
+    "title": "Miele US",
+    "url": "https://www.mieleusa.com/",
     "niche": "home_appliance",
-    "asset_type": "brochure",
-    "notes": "零售商导购/灵感中心模式",
+    "asset_type": "site",
+    "notes": "高端家电案例与手册入口",
     "tags": [
-      "brochure",
       "home_appliance",
-      "route:brand_content"
+      "route:brand_content",
+      "site"
     ]
   },
   {
-    "title": "AfterShip influencer category pages (appliances)",
-    "url": "https://ecommerce.aftership.com/influencers/top-100-most-follower-household-appliances-us-tiktok-shop-influencers",
+    "title": "Molekule support",
+    "url": "https://molekule.com/pages/support",
     "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "第三方测评/带货达人榜——外部口碑入口参考",
+    "asset_type": "faq",
+    "notes": "空净 FAQ",
     "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "CNET appliance reviews hub",
-    "url": "https://www.cnet.com/home/kitchen-and-household/",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "科技媒体家电评测入口",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Consumentenbond NL",
-    "url": "https://www.consumentenbond.nl/",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "荷系消费者测评",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Consumer Reports (public marketing)",
-    "url": "https://www.consumerreports.org/",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "第三方评测品牌",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "EcomRide TTS household appliances ranking",
-    "url": "https://ecomride.com/blog/top-tiktok-shop-household-appliances-creators-september-2026/",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "带货效果公开榜，可作寄样对象池依据",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Good Housekeeping product reviews",
-    "url": "https://www.goodhousekeeping.com/appliances/",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "生活方式媒体评测",
-    "tags": [
-      "case",
+      "faq",
       "home_appliance",
       "route:brand_content"
     ]
@@ -756,156 +1022,13 @@
     ]
   },
   {
-    "title": "Stiftung Warentest",
-    "url": "https://www.test.de/",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "德系测评机构",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "TechRadar home appliances",
-    "url": "https://www.techradar.com/news/home-appliances",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "媒体品类新闻/评测",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Tom's Guide appliances",
-    "url": "https://www.tomsguide.com/us/best-appliances,review-6067.html",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "导购榜单模式",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Which? UK",
-    "url": "https://www.which.co.uk/",
-    "niche": "home_appliance",
-    "asset_type": "case",
-    "notes": "英系消费者评测",
-    "tags": [
-      "case",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Best Buy Geek Squad help",
-    "url": "https://www.bestbuy.com/site/electronics/geek-squad/pcmcat138100050018.c",
+    "title": "Roborock knowledge base",
+    "url": "https://support.roborock.com/hc/en-us",
     "niche": "home_appliance",
     "asset_type": "faq",
-    "notes": "零售安装/支持服务叙事",
+    "notes": "扫地机知识库 · daily_2026-11-03",
     "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Black+Decker FAQ pages",
-    "url": "https://www.blackanddecker.com/pages/faq",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "工具/家电 FAQ 模板，问答短句清晰",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Blueair support",
-    "url": "https://www.blueair.com/us/support.html",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "空净品牌支持",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Coway support",
-    "url": "https://cowaymega.com/pages/support",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "空气净化器支持",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Ecovacs support",
-    "url": "https://www.ecovacs.com/global/support",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "清洁电器全球支持",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Electrolux US support",
-    "url": "https://www.electrolux.com/support/",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "支持/手册中心",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "GE Appliances support",
-    "url": "https://www.geappliances.com/ge/service-and-support/",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "大家电服务与支持导航",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Levoit / VeSync support",
-    "url": "https://vesync.com/support",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "空气/环境电器支持",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Molekule support",
-    "url": "https://molekule.com/pages/support",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "空净 FAQ",
-    "tags": [
+      "daily_2026_11_03",
       "faq",
       "home_appliance",
       "route:brand_content"
@@ -936,183 +1059,15 @@
     ]
   },
   {
-    "title": "Whirlpool support",
-    "url": "https://www.whirlpool.com/services/support.html",
+    "title": "Stiftung Warentest",
+    "url": "https://www.test.de/",
     "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "家电服务支持",
+    "asset_type": "case",
+    "notes": "德系测评机构",
     "tags": [
-      "faq",
+      "case",
       "home_appliance",
       "route:brand_content"
-    ]
-  },
-  {
-    "title": "iRobot support",
-    "url": "https://homesupport.irobot.com/",
-    "niche": "home_appliance",
-    "asset_type": "faq",
-    "notes": "清洁电器帮助中心",
-    "tags": [
-      "faq",
-      "home_appliance",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Beko",
-    "url": "https://www.beko.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "家电品牌站",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Bosch home US",
-    "url": "https://www.bosch-home.com/us/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "德系家电品牌站+支持",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "CES exhibitors appliance",
-    "url": "https://www.ces.tech/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "消费电子展",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Cafe Appliances",
-    "url": "https://www.cafeappliances.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "中高端家电生活方式叙事",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Candy Hoover",
-    "url": "https://www.candy-home.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "欧系家电品牌",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Canton Fair appliances",
-    "url": "https://www.cantonfair.org.cn/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "广交会公开入口",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Costway appliances",
-    "url": "https://www.costway.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "线上家电零售内容结构",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Haier Europe",
-    "url": "https://www.haier-europe.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "欧洲家电站",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Haier US",
-    "url": "https://www.haier.com/us/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "家电集团品牌站",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Hisense Europe",
-    "url": "https://www.hisense.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "家电品牌全球",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "KBIS kitchen bath",
-    "url": "https://kbis.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "厨卫展渠道",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Midea Global",
-    "url": "https://www.midea.com/global",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "集团全球站",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
-    "title": "Miele US",
-    "url": "https://www.mieleusa.com/",
-    "niche": "home_appliance",
-    "asset_type": "site",
-    "notes": "高端家电案例与手册入口",
-    "tags": [
-      "home_appliance",
-      "route:brand_content",
-      "site"
     ]
   },
   {
@@ -1140,6 +1095,42 @@
     ]
   },
   {
+    "title": "TechRadar home appliances",
+    "url": "https://www.techradar.com/news/home-appliances",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "媒体品类新闻/评测",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Tom's Guide appliances",
+    "url": "https://www.tomsguide.com/us/best-appliances,review-6067.html",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "导购榜单模式",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "UL product safety",
+    "url": "https://www.ul.com/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "安全认证背书源",
+    "tags": [
+      "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Vremi",
     "url": "https://www.vremi.com/",
     "niche": "home_appliance",
@@ -1152,6 +1143,42 @@
     ]
   },
   {
+    "title": "Wayfair appliance guides",
+    "url": "https://www.wayfair.com/idea-center",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "零售商导购/灵感中心模式",
+    "tags": [
+      "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Which? UK",
+    "url": "https://www.which.co.uk/",
+    "niche": "home_appliance",
+    "asset_type": "case",
+    "notes": "英系消费者评测",
+    "tags": [
+      "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Whirlpool support",
+    "url": "https://www.whirlpool.com/services/support.html",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "家电服务支持",
+    "tags": [
+      "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "hOmeLabs",
     "url": "https://www.homelabs.com/",
     "niche": "home_appliance",
@@ -1161,6 +1188,18 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "iRobot support",
+    "url": "https://homesupport.irobot.com/",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "清洁电器帮助中心",
+    "tags": [
+      "faq",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -1236,54 +1275,6 @@
     ]
   },
   {
-    "title": "ASHRAE",
-    "url": "https://www.ashrae.org/",
-    "niche": "hvac",
-    "asset_type": "brochure",
-    "notes": "暖通标准与教育资源",
-    "tags": [
-      "brochure",
-      "hvac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "REHVA EU HVAC",
-    "url": "https://www.rehva.eu/",
-    "niche": "hvac",
-    "asset_type": "brochure",
-    "notes": "欧洲暖通协会资源",
-    "tags": [
-      "brochure",
-      "hvac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Honeywell Home support",
-    "url": "https://www.honeywellhome.com/us/en/support/",
-    "niche": "hvac",
-    "asset_type": "faq",
-    "notes": "智能温控/暖通支持",
-    "tags": [
-      "faq",
-      "hvac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Samsung HVAC support",
-    "url": "https://www.samsung.com/us/support/",
-    "niche": "hvac",
-    "asset_type": "faq",
-    "notes": "支持搜索+产品选择器",
-    "tags": [
-      "faq",
-      "hvac",
-      "route:brand_content"
-    ]
-  },
-  {
     "title": "AHR Expo",
     "url": "https://www.ahrexpo.com/",
     "niche": "hvac",
@@ -1293,6 +1284,31 @@
       "hvac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "AHRI standards & resources",
+    "url": "https://www.ahrinet.org/resources",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "行业协会公开标准/资源入口 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "ASHRAE",
+    "url": "https://www.ashrae.org/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "暖通标准与教育资源",
+    "tags": [
+      "brochure",
+      "hvac",
+      "route:brand_content"
     ]
   },
   {
@@ -1320,6 +1336,19 @@
     ]
   },
   {
+    "title": "Carrier residential learning center",
+    "url": "https://www.carrier.com/residential/en/us/resources/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "暖通品牌教育资源 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Daikin dealer locator",
     "url": "https://www.daikincomfort.com/find-a-dealer",
     "niche": "hvac",
@@ -1329,6 +1358,31 @@
       "hvac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Ferguson HVAC catalog public",
+    "url": "https://www.ferguson.com/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "贸易批发目录入口 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Honeywell Home support",
+    "url": "https://www.honeywellhome.com/us/en/support/",
+    "niche": "hvac",
+    "asset_type": "faq",
+    "notes": "智能温控/暖通支持",
+    "tags": [
+      "faq",
+      "hvac",
+      "route:brand_content"
     ]
   },
   {
@@ -1344,6 +1398,32 @@
     ]
   },
   {
+    "title": "ISH Frankfurt trend reports (public marketing)",
+    "url": "https://ish.messefrankfurt.com/frankfurt/en.html",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "欧系暖通展趋势入口 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Johnstone Supply learning",
+    "url": "https://www.johnstonesupply.com/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "HVAC 批发学习/产品入口 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Lennox dealers",
     "url": "https://www.lennox.com/locate-dealer",
     "niche": "hvac",
@@ -1356,6 +1436,19 @@
     ]
   },
   {
+    "title": "Lennox learning center",
+    "url": "https://www.lennox.com/learn",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "HVAC 学习中心 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Mitsubishi Electric HVAC dealers",
     "url": "https://www.mitsubishicomfort.com/find-a-contractor",
     "niche": "hvac",
@@ -1365,6 +1458,19 @@
       "hvac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Mitsubishi Electric comfort guides",
+    "url": "https://www.mitsubishicomfort.com/guides",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "舒适系统选型指南 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
     ]
   },
   {
@@ -1389,6 +1495,43 @@
       "hvac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "REHVA EU HVAC",
+    "url": "https://www.rehva.eu/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "欧洲暖通协会资源",
+    "tags": [
+      "brochure",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Samsung HVAC support",
+    "url": "https://www.samsung.com/us/support/",
+    "niche": "hvac",
+    "asset_type": "faq",
+    "notes": "支持搜索+产品选择器",
+    "tags": [
+      "faq",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Trane educational resources",
+    "url": "https://www.trane.com/residential/en/resources.html",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "品牌教育/选型内容 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
     ]
   },
   {
@@ -1464,6 +1607,19 @@
     ]
   },
   {
+    "title": "APPA pet industry research (public marketing)",
+    "url": "https://americanpetproducts.org/research",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物行业协会研究入口 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "ASPCA pet care",
     "url": "https://www.aspca.org/pet-care",
     "niche": "pet_gear",
@@ -1488,85 +1644,26 @@
     ]
   },
   {
-    "title": "Dogster / Catster",
-    "url": "https://www.dogster.com/",
+    "title": "Chewy Connect / brand hub",
+    "url": "https://www.chewy.com/brands",
     "niche": "pet_gear",
-    "asset_type": "brochure",
-    "notes": "宠物杂志型内容",
+    "asset_type": "site",
+    "notes": "品牌墙/第三方内容入口",
     "tags": [
-      "brochure",
       "pet_gear",
-      "route:brand_content"
+      "route:brand_content",
+      "site"
     ]
   },
   {
-    "title": "Hills Pet science",
-    "url": "https://www.hillspet.com/",
-    "niche": "pet_gear",
-    "asset_type": "brochure",
-    "notes": "科学背书型品牌内容",
-    "tags": [
-      "brochure",
-      "pet_gear",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "PetMD",
-    "url": "https://www.petmd.com/",
-    "niche": "pet_gear",
-    "asset_type": "brochure",
-    "notes": "宠物健康教育内容",
-    "tags": [
-      "brochure",
-      "pet_gear",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Rachael Ray Nutrish (pet brand story)",
-    "url": "https://www.nutrish.com/",
-    "niche": "pet_gear",
-    "asset_type": "brochure",
-    "notes": "宠物品牌故事页模式",
-    "tags": [
-      "brochure",
-      "pet_gear",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Royal Canin breed advice",
-    "url": "https://www.royalcanin.com/",
-    "niche": "pet_gear",
-    "asset_type": "brochure",
-    "notes": "专业宠物营养叙事",
-    "tags": [
-      "brochure",
-      "pet_gear",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "The Spruce pets",
-    "url": "https://www.thesprucepets.com/",
-    "niche": "pet_gear",
-    "asset_type": "brochure",
-    "notes": "宠物垂直内容站",
-    "tags": [
-      "brochure",
-      "pet_gear",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Rover blog (pet education)",
-    "url": "https://www.rover.com/blog/",
+    "title": "Chewy Connect brand resources",
+    "url": "https://www.chewy.com/app/content/connect",
     "niche": "pet_gear",
     "asset_type": "case",
-    "notes": "宠物场景内容/案例型博客",
+    "notes": "零售渠道品牌合作入口 · daily_2026-11-03",
     "tags": [
       "case",
+      "daily_2026_11_03",
       "pet_gear",
       "route:brand_content"
     ]
@@ -1584,42 +1681,6 @@
     ]
   },
   {
-    "title": "Petco FAQs entry",
-    "url": "https://www.petco.com/shop/en/petcostore/c/faqs",
-    "niche": "pet_gear",
-    "asset_type": "faq",
-    "notes": "宠物零售 FAQ",
-    "tags": [
-      "faq",
-      "pet_gear",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Purina FAQ / nutrition",
-    "url": "https://www.purina.com/",
-    "niche": "pet_gear",
-    "asset_type": "faq",
-    "notes": "宠物食品品牌内容结构",
-    "tags": [
-      "faq",
-      "pet_gear",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Chewy Connect / brand hub",
-    "url": "https://www.chewy.com/brands",
-    "niche": "pet_gear",
-    "asset_type": "site",
-    "notes": "品牌墙/第三方内容入口",
-    "tags": [
-      "pet_gear",
-      "route:brand_content",
-      "site"
-    ]
-  },
-  {
     "title": "Chewy brand about",
     "url": "https://www.chewy.com/",
     "niche": "pet_gear",
@@ -1632,6 +1693,18 @@
     ]
   },
   {
+    "title": "Dogster / Catster",
+    "url": "https://www.dogster.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物杂志型内容",
+    "tags": [
+      "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Fi Collar",
     "url": "https://tryfi.com/",
     "niche": "pet_gear",
@@ -1641,6 +1714,19 @@
       "pet_gear",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Fi Collar help center",
+    "url": "https://support.tryfi.com/",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物可穿戴帮助中心 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "pet_gear",
+      "route:brand_content"
     ]
   },
   {
@@ -1668,6 +1754,31 @@
     ]
   },
   {
+    "title": "Global Pet Expo education (public)",
+    "url": "https://www.globalpetexpo.org/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物展会公开教育入口 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Hills Pet science",
+    "url": "https://www.hillspet.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "科学背书型品牌内容",
+    "tags": [
+      "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Homerunpet",
     "url": "https://www.homerunpet.com/",
     "niche": "pet_gear",
@@ -1689,6 +1800,19 @@
       "pet_gear",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Interzoo trend hub (public)",
+    "url": "https://www.interzoo.com/en",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物展趋势公开页 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "pet_gear",
+      "route:brand_content"
     ]
   },
   {
@@ -1716,6 +1840,18 @@
     ]
   },
   {
+    "title": "PetMD",
+    "url": "https://www.petmd.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物健康教育内容",
+    "tags": [
+      "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "PetSafe",
     "url": "https://www.petsafe.com/",
     "niche": "pet_gear",
@@ -1725,6 +1861,31 @@
       "pet_gear",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "PetSafe support center",
+    "url": "https://support.petsafe.com/",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物智能硬件支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Petco FAQs entry",
+    "url": "https://www.petco.com/shop/en/petcostore/c/faqs",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物零售 FAQ",
+    "tags": [
+      "faq",
+      "pet_gear",
+      "route:brand_content"
     ]
   },
   {
@@ -1764,6 +1925,67 @@
     ]
   },
   {
+    "title": "Petlibro help center",
+    "url": "https://www.petlibro.com/pages/support",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物喂食器支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Purina FAQ / nutrition",
+    "url": "https://www.purina.com/",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物食品品牌内容结构",
+    "tags": [
+      "faq",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Rachael Ray Nutrish (pet brand story)",
+    "url": "https://www.nutrish.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物品牌故事页模式",
+    "tags": [
+      "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Rover blog (pet education)",
+    "url": "https://www.rover.com/blog/",
+    "niche": "pet_gear",
+    "asset_type": "case",
+    "notes": "宠物场景内容/案例型博客",
+    "tags": [
+      "case",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Royal Canin breed advice",
+    "url": "https://www.royalcanin.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "专业宠物营养叙事",
+    "tags": [
+      "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Sure Petcare",
     "url": "https://www.surepetcare.com/",
     "niche": "pet_gear",
@@ -1776,6 +1998,31 @@
     ]
   },
   {
+    "title": "Sure Petcare support",
+    "url": "https://www.surepetcare.com/support",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物智能门支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "The Spruce pets",
+    "url": "https://www.thesprucepets.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物垂直内容站",
+    "tags": [
+      "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Tractive",
     "url": "https://tractive.com/",
     "niche": "pet_gear",
@@ -1785,6 +2032,19 @@
       "pet_gear",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Tractive help center",
+    "url": "https://help.tractive.com/",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物 GPS 帮助中心 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "pet_gear",
+      "route:brand_content"
     ]
   },
   {
@@ -1836,138 +2096,6 @@
     ]
   },
   {
-    "title": "Dual Hose vs Single Hose explainer pattern (EnergyStar)",
-    "url": "https://www.energystar.gov/products/heating_cooling",
-    "niche": "portable_ac",
-    "asset_type": "brochure",
-    "notes": "能效/选型公共教育内容，可作销售附件依据",
-    "tags": [
-      "brochure",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Midea US air care",
-    "url": "https://www.midea.com/us/air-conditioners",
-    "niche": "portable_ac",
-    "asset_type": "brochure",
-    "notes": "空调品类页",
-    "tags": [
-      "brochure",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Whynter product manuals index",
-    "url": "https://www.whynter.com/",
-    "niche": "portable_ac",
-    "asset_type": "brochure",
-    "notes": "手册/规格入口",
-    "tags": [
-      "brochure",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Portable AC buying guide Wirecutter",
-    "url": "https://www.nytimes.com/wirecutter/reviews/best-portable-air-conditioner/",
-    "niche": "portable_ac",
-    "asset_type": "case",
-    "notes": "第三方测评长文结构（仅链到公开页）",
-    "tags": [
-      "case",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Frigidaire Portable AC support articles",
-    "url": "https://www.frigidaire.com/en/support/product-support",
-    "niche": "portable_ac",
-    "asset_type": "faq",
-    "notes": "产品支持文章树",
-    "tags": [
-      "faq",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Frigidaire portable AC support",
-    "url": "https://www.frigidaire.com/en/support",
-    "niche": "portable_ac",
-    "asset_type": "faq",
-    "notes": "品牌支持中心",
-    "tags": [
-      "faq",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Honeywell Store FAQ",
-    "url": "https://www.honeywellstore.com/store/pages/faq.htm",
-    "niche": "portable_ac",
-    "asset_type": "faq",
-    "notes": "空气处理产品零售 FAQ",
-    "tags": [
-      "faq",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "LG Portable AC product help",
-    "url": "https://www.lg.com/us/support/product-help/CT20096005-2013822040",
-    "niche": "portable_ac",
-    "asset_type": "faq",
-    "notes": "大品牌产品帮助中心：故障排查树状结构",
-    "tags": [
-      "faq",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "LG ThinQ / AC support",
-    "url": "https://www.lg.com/us/support",
-    "niche": "portable_ac",
-    "asset_type": "faq",
-    "notes": "大品牌综合支持门户",
-    "tags": [
-      "faq",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Midea US Support FAQs",
-    "url": "https://www.midea.com/us/support/faqs",
-    "niche": "portable_ac",
-    "asset_type": "faq",
-    "notes": "家电品牌 FAQ 结构：品类筛选 + 售后/安装问答，可复用为销售资料骨架",
-    "tags": [
-      "faq",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
-    "title": "Whynter FAQ",
-    "url": "https://www.whynter.com/faq/",
-    "niche": "portable_ac",
-    "asset_type": "faq",
-    "notes": "中小家电品牌 FAQ 密度高，覆盖安装排气/排水常见异议",
-    "tags": [
-      "faq",
-      "portable_ac",
-      "route:brand_content"
-    ]
-  },
-  {
     "title": "ArgoClima portable AC EN",
     "url": "https://www.argoclima.com/en/",
     "niche": "portable_ac",
@@ -1989,6 +2117,19 @@
       "portable_ac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Best Buy portable AC help",
+    "url": "https://www.bestbuy.com/site/home-appliances/air-conditioners/pcmcat302200050017.c",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "CE 零售品类帮助 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -2028,6 +2169,31 @@
     ]
   },
   {
+    "title": "Dual Hose vs Single Hose explainer pattern (EnergyStar)",
+    "url": "https://www.energystar.gov/products/heating_cooling",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "能效/选型公共教育内容，可作销售附件依据",
+    "tags": [
+      "brochure",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Energy Star room AC buyers guide",
+    "url": "https://www.energystar.gov/products/room_air_conditioners",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "能效选购公开指南 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Friedrich Air Conditioning",
     "url": "https://www.friedrich.com/",
     "niche": "portable_ac",
@@ -2037,6 +2203,56 @@
       "portable_ac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Friedrich product support",
+    "url": "https://www.friedrich.com/support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "房间空调支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Frigidaire Portable AC support articles",
+    "url": "https://www.frigidaire.com/en/support/product-support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "产品支持文章树",
+    "tags": [
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Frigidaire portable AC support",
+    "url": "https://www.frigidaire.com/en/support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "品牌支持中心",
+    "tags": [
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Grainger portable AC category",
+    "url": "https://www.grainger.com/category/hvac-and-refrigeration/air-conditioners-and-fans/air-conditioners",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "MRO 品类页 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -2076,6 +2292,19 @@
     ]
   },
   {
+    "title": "Home Depot portable AC buying guide",
+    "url": "https://www.homedepot.com/c/ab/best-portable-air-conditioners/9ba683603be9fa5395fab9018e0b4d4",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "大零售选购指南 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Honeywell Air comfort products",
     "url": "https://www.honeywellstore.com/",
     "niche": "portable_ac",
@@ -2085,6 +2314,42 @@
       "portable_ac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Honeywell Store FAQ",
+    "url": "https://www.honeywellstore.com/store/pages/faq.htm",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "空气处理产品零售 FAQ",
+    "tags": [
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "LG Portable AC product help",
+    "url": "https://www.lg.com/us/support/product-help/CT20096005-2013822040",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "大品牌产品帮助中心：故障排查树状结构",
+    "tags": [
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "LG ThinQ / AC support",
+    "url": "https://www.lg.com/us/support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "大品牌综合支持门户",
+    "tags": [
+      "faq",
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -2100,6 +2365,43 @@
     ]
   },
   {
+    "title": "Midea US Support FAQs",
+    "url": "https://www.midea.com/us/support/faqs",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "家电品牌 FAQ 结构：品类筛选 + 售后/安装问答，可复用为销售资料骨架",
+    "tags": [
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Midea US air care",
+    "url": "https://www.midea.com/us/air-conditioners",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "空调品类页",
+    "tags": [
+      "brochure",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Midea US support",
+    "url": "https://www.midea.com/us/support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "美的北美支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Olimpia Splendid brand site",
     "url": "https://www.olimpiasplendid.com/en/",
     "niche": "portable_ac",
@@ -2109,6 +2411,18 @@
       "portable_ac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Portable AC buying guide Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-portable-air-conditioner/",
+    "niche": "portable_ac",
+    "asset_type": "case",
+    "notes": "第三方测评长文结构（仅链到公开页）",
+    "tags": [
+      "case",
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -2160,27 +2474,40 @@
     ]
   },
   {
-    "title": "Ecobee support",
-    "url": "https://www.ecobee.com/en-us/support/",
-    "niche": "smart_home",
+    "title": "Whynter FAQ",
+    "url": "https://www.whynter.com/faq/",
+    "niche": "portable_ac",
     "asset_type": "faq",
-    "notes": "智能温控支持",
+    "notes": "中小家电品牌 FAQ 密度高，覆盖安装排气/排水常见异议",
     "tags": [
       "faq",
-      "route:brand_content",
-      "smart_home"
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
-    "title": "Nest / Google Nest help",
-    "url": "https://support.google.com/googlenest/",
-    "niche": "smart_home",
-    "asset_type": "faq",
-    "notes": "智能家居帮助中心",
+    "title": "Whynter product manuals index",
+    "url": "https://www.whynter.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "手册/规格入口",
     "tags": [
+      "brochure",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Whynter support / manuals",
+    "url": "https://www.whynter.com/pages/support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "便携空调/酒柜手册入口 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
       "faq",
-      "route:brand_content",
-      "smart_home"
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -2196,6 +2523,31 @@
     ]
   },
   {
+    "title": "Ecobee support",
+    "url": "https://www.ecobee.com/en-us/support/",
+    "niche": "smart_home",
+    "asset_type": "faq",
+    "notes": "智能温控支持",
+    "tags": [
+      "faq",
+      "route:brand_content",
+      "smart_home"
+    ]
+  },
+  {
+    "title": "Google Nest community help",
+    "url": "https://support.google.com/googlenest/community",
+    "niche": "smart_home",
+    "asset_type": "faq",
+    "notes": "智能家居社区支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "route:brand_content",
+      "smart_home"
+    ]
+  },
+  {
     "title": "Govee",
     "url": "https://us.govee.com/",
     "niche": "smart_home",
@@ -2204,6 +2556,18 @@
     "tags": [
       "route:brand_content",
       "site",
+      "smart_home"
+    ]
+  },
+  {
+    "title": "Nest / Google Nest help",
+    "url": "https://support.google.com/googlenest/",
+    "niche": "smart_home",
+    "asset_type": "faq",
+    "notes": "智能家居帮助中心",
+    "tags": [
+      "faq",
+      "route:brand_content",
       "smart_home"
     ]
   },
@@ -2232,6 +2596,19 @@
     ]
   },
   {
+    "title": "ecobee energy reports blog (public)",
+    "url": "https://www.ecobee.com/en-us/blog/",
+    "niche": "smart_home",
+    "asset_type": "case",
+    "notes": "智能温控案例/博客 · daily_2026-11-03",
+    "tags": [
+      "case",
+      "daily_2026_11_03",
+      "route:brand_content",
+      "smart_home"
+    ]
+  },
+  {
     "title": "Cantherm / Arcotherm about",
     "url": "https://canthermheaters.com/about/",
     "niche": "space_heater",
@@ -2256,30 +2633,6 @@
     ]
   },
   {
-    "title": "Dyson heaters / air treatment",
-    "url": "https://www.dyson.com/heaters",
-    "niche": "space_heater",
-    "asset_type": "brochure",
-    "notes": "取暖产品线落地页结构",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "space_heater"
-    ]
-  },
-  {
-    "title": "Space heater Wirecutter",
-    "url": "https://www.nytimes.com/wirecutter/reviews/best-space-heater/",
-    "niche": "space_heater",
-    "asset_type": "case",
-    "notes": "取暖器测评结构参考",
-    "tags": [
-      "case",
-      "route:brand_content",
-      "space_heater"
-    ]
-  },
-  {
     "title": "Dyson Support FAQ",
     "url": "https://www.dyson.com/support/faq",
     "niche": "space_heater",
@@ -2292,13 +2645,13 @@
     ]
   },
   {
-    "title": "Vornado FAQ",
-    "url": "https://www.vornado.com/pages/faq",
+    "title": "Dyson heaters / air treatment",
+    "url": "https://www.dyson.com/heaters",
     "niche": "space_heater",
-    "asset_type": "faq",
-    "notes": "空气循环/取暖 FAQ",
+    "asset_type": "brochure",
+    "notes": "取暖产品线落地页结构",
     "tags": [
-      "faq",
+      "brochure",
       "route:brand_content",
       "space_heater"
     ]
@@ -2316,6 +2669,31 @@
     ]
   },
   {
+    "title": "Lowe's space heater buying guide",
+    "url": "https://www.lowes.com/n/buying-guide/space-heater-buying-guide",
+    "niche": "space_heater",
+    "asset_type": "brochure",
+    "notes": "取暖器选购指南 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "route:brand_content",
+      "space_heater"
+    ]
+  },
+  {
+    "title": "Space heater Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-space-heater/",
+    "niche": "space_heater",
+    "asset_type": "case",
+    "notes": "取暖器测评结构参考",
+    "tags": [
+      "case",
+      "route:brand_content",
+      "space_heater"
+    ]
+  },
+  {
     "title": "ThomasNet portable heaters",
     "url": "https://www.thomasnet.com/suppliers/usa/portable-heaters-37780400",
     "niche": "space_heater",
@@ -2324,6 +2702,18 @@
     "tags": [
       "route:brand_content",
       "site",
+      "space_heater"
+    ]
+  },
+  {
+    "title": "Vornado FAQ",
+    "url": "https://www.vornado.com/pages/faq",
+    "niche": "space_heater",
+    "asset_type": "faq",
+    "notes": "空气循环/取暖 FAQ",
+    "tags": [
+      "faq",
+      "route:brand_content",
       "space_heater"
     ]
   },
@@ -2400,131 +2790,11 @@
     ]
   },
   {
-    "title": "Decanter guides",
-    "url": "https://www.decanter.com/",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "英系葡萄酒媒体",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "EuroCave advice / guides",
-    "url": "https://www.eurocave.com/en/advice",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "选型建议内容",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "Vinotemp learning center",
-    "url": "https://www.vinotemp.com/learning-center/",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "储酒教育中心",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "Wine Enthusiast buying guides",
-    "url": "https://www.wineenthusiast.com/buying-guide/",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "导购指南模式",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "Wine Enthusiast education / guides hub",
-    "url": "https://www.wineenthusiast.com/calendar/",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "酒柜/储酒教育内容入口（公开导购向）",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "Wine Folly",
-    "url": "https://winefolly.com/",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "葡萄酒教育可视化内容",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "Wine Guardian resources",
-    "url": "https://wineguardian.com/resources/",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "技术资源/安装资料入口",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "Wine Spectator education",
-    "url": "https://www.winespectator.com/",
-    "niche": "wine_cooler",
-    "asset_type": "brochure",
-    "notes": "葡萄酒媒体教育内容",
-    "tags": [
-      "brochure",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "Wine fridge Wirecutter",
-    "url": "https://www.nytimes.com/wirecutter/reviews/best-wine-fridge/",
-    "niche": "wine_cooler",
-    "asset_type": "case",
-    "notes": "酒柜测评结构参考",
-    "tags": [
-      "case",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
     "title": "Breezaire FAQ",
     "url": "https://breezaire.com/faq/",
     "niche": "wine_cooler",
     "asset_type": "faq",
     "notes": "酒窖制冷 FAQ + 经销政策相关公开说明",
-    "tags": [
-      "faq",
-      "route:brand_content",
-      "wine_cooler"
-    ]
-  },
-  {
-    "title": "EuroCave FAQ",
-    "url": "https://www.eurocave.com/en/faq",
-    "niche": "wine_cooler",
-    "asset_type": "faq",
-    "notes": "高端酒柜 FAQ：储存条件/选型，可转销售异议手册",
     "tags": [
       "faq",
       "route:brand_content",
@@ -2556,6 +2826,31 @@
     ]
   },
   {
+    "title": "Danby product support",
+    "url": "https://www.danby.com/support/",
+    "niche": "wine_cooler",
+    "asset_type": "faq",
+    "notes": "Danby 支持中心 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Decanter guides",
+    "url": "https://www.decanter.com/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "英系葡萄酒媒体",
+    "tags": [
+      "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "EdgeStar specialty cooling",
     "url": "https://www.edgestar.com/",
     "niche": "wine_cooler",
@@ -2564,6 +2859,30 @@
     "tags": [
       "route:brand_content",
       "site",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "EuroCave FAQ",
+    "url": "https://www.eurocave.com/en/faq",
+    "niche": "wine_cooler",
+    "asset_type": "faq",
+    "notes": "高端酒柜 FAQ：储存条件/选型，可转销售异议手册",
+    "tags": [
+      "faq",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "EuroCave advice / guides",
+    "url": "https://www.eurocave.com/en/advice",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "选型建议内容",
+    "tags": [
+      "brochure",
+      "route:brand_content",
       "wine_cooler"
     ]
   },
@@ -2604,6 +2923,19 @@
     ]
   },
   {
+    "title": "NewAir learning / support",
+    "url": "https://www.newair.com/pages/support",
+    "niche": "wine_cooler",
+    "asset_type": "faq",
+    "notes": "酒柜/制冷支持 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "NewAir specialty appliances",
     "url": "https://www.newair.com/",
     "niche": "wine_cooler",
@@ -2612,6 +2944,19 @@
     "tags": [
       "route:brand_content",
       "site",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Summit Appliance manuals",
+    "url": "https://www.summitappliance.com/support",
+    "niche": "wine_cooler",
+    "asset_type": "faq",
+    "notes": "紧凑家电手册 · daily_2026-11-03",
+    "tags": [
+      "daily_2026_11_03",
+      "faq",
+      "route:brand_content",
       "wine_cooler"
     ]
   },
@@ -2664,6 +3009,18 @@
     ]
   },
   {
+    "title": "Vinotemp learning center",
+    "url": "https://www.vinotemp.com/learning-center/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "储酒教育中心",
+    "tags": [
+      "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "Vivino",
     "url": "https://www.vivino.com/",
     "niche": "wine_cooler",
@@ -2676,6 +3033,55 @@
     ]
   },
   {
+    "title": "Wine Enthusiast buying guides",
+    "url": "https://www.wineenthusiast.com/buying-guide/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "导购指南模式",
+    "tags": [
+      "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine Enthusiast cellar education",
+    "url": "https://www.wineenthusiast.com/weblog/category/wine-storage/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "储酒教育博客入口 · daily_2026-11-03",
+    "tags": [
+      "brochure",
+      "daily_2026_11_03",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine Enthusiast education / guides hub",
+    "url": "https://www.wineenthusiast.com/calendar/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "酒柜/储酒教育内容入口（公开导购向）",
+    "tags": [
+      "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine Folly",
+    "url": "https://winefolly.com/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "葡萄酒教育可视化内容",
+    "tags": [
+      "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "Wine Guardian distributor finder",
     "url": "https://wineguardian.com/support/distributors/",
     "niche": "wine_cooler",
@@ -2684,6 +3090,42 @@
     "tags": [
       "route:brand_content",
       "site",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine Guardian resources",
+    "url": "https://wineguardian.com/resources/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "技术资源/安装资料入口",
+    "tags": [
+      "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine Spectator education",
+    "url": "https://www.winespectator.com/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "葡萄酒媒体教育内容",
+    "tags": [
+      "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine fridge Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-wine-fridge/",
+    "niche": "wine_cooler",
+    "asset_type": "case",
+    "notes": "酒柜测评结构参考",
+    "tags": [
+      "case",
+      "route:brand_content",
       "wine_cooler"
     ]
   },
