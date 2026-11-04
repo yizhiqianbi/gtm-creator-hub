@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-04",
+  "silent_no_change": false,
+  "creators_before": 30735,
+  "creators_after": 30823,
+  "net_new": 88,
+  "platform_breakdown_after": {
+    "tiktok": 12154,
+    "instagram": 6442,
+    "bilibili": 5349,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 749,
+    "wechat_store": 200
+  },
+  "channels_before": 626,
+  "channels_after": 657,
+  "channels_net_new": 31,
+  "brand_before": 259,
+  "brand_after": 290,
+  "brand_net_new": 31,
+  "sources": {
+    "feedspot_tiktok_contractor": 21,
+    "feedspot_tiktok_gardening": 69,
+    "feedspot_tiktok_home_decor": 81,
+    "feedspot_tiktok_hvac": 28,
+    "feedspot_tiktok_mom": 155,
+    "feedspot_tiktok_pet": 128,
+    "feedspot_tiktok_tiny_house": 37,
+    "feedspot_tiktok_whiskey": 51,
+    "aftership6b_baby-maternity": 20,
+    "aftership6b_beauty": 20,
+    "aftership6b_electronics": 20,
+    "aftership6b_fashion": 20,
+    "aftership6b_food-beverages": 20,
+    "aftership6b_health": 19,
+    "aftership6b_jewelry-accessories": 20,
+    "aftership6b_kitchen-dining": 20,
+    "aftership6b_sports-outdoor": 20,
+    "aftership6b_tools-home-improvement": 19,
+    "aftership6b_toys-hobbies": 20,
+    "bilibili_daily_api": 115,
+    "x_mcp_public": 16,
+    "channels_curated_daily": 31,
+    "brand_curated_daily": 31
+  },
+  "dedupe_drops": {
+    "dup": 778
+  },
+  "blockers": [
+    "Feedspot soft-empty (52 pages); only large dumps parsed",
+    "Apify: skipped (prefer free public lists; Feedspot+AfterShip+Bili+X used)",
+    "Most Instagram Feedspot pages soft-empty / anti-bot (<40KB)",
+    "CN Chanmama/Feigua open pages fetched but not parsed as creator lists (login walls / no public handles)",
+    "CN weekly CSV skipped (already absorbed 2026-11-03)"
+  ],
+  "artifacts": [
+    "/workspace/creators.json",
+    "/workspace/creators.csv",
+    "/workspace/channels.json",
+    "/workspace/channels.csv",
+    "/workspace/brand_content_sources.json",
+    "/workspace/brand_content_sources.csv",
+    "/workspace/daily-refresh-2026-11-04-report.json",
+    "/workspace/daily-refresh-report.md",
+    "/workspace/raw_lists_daily_2026-11-04/",
+    "/workspace/gtm-creator-hub-push/data/"
+  ],
+  "commit": null,
+  "commit_short": null,
+  "push": "no push"
+}

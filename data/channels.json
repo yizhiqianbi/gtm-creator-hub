@@ -1511,6 +1511,25 @@
     "notes": "medium — HVAC contractor/installer channel"
   },
   {
+    "name": "B&Q heating & cooling (UK)",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.diy.com/departments/heating-cooling/DIY589382.cat",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.diy.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK big-box heating/cooling · daily_2026-11-04"
+  },
+  {
     "name": "Baganz Lüftungstechnik & Dienstleistungen GmbH",
     "type": "dealer",
     "region": "Wandlitz, Germany",
@@ -1737,6 +1756,26 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Beijer Ref HVAC wholesale (EU)",
+    "type": "wholesaler",
+    "region": "EU",
+    "website": "https://www.beijerref.com/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.beijerref.com/",
+    "tags": [
+      "eu",
+      "hvac",
+      "route:channel_coop",
+      "wholesaler"
+    ],
+    "notes": "EU HVAC wholesale group · daily_2026-11-04"
+  },
+  {
     "name": "Bel-Air Services (NI) Limited",
     "type": "mod_shop",
     "region": "Newtownabbey, United Kingdom",
@@ -1779,6 +1818,23 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Belling / Glen Dimplex heaters (UK)",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.glendimplex.com/",
+    "contact_email": "",
+    "categories": [
+      "heater"
+    ],
+    "source_url": "https://www.glendimplex.com/",
+    "tags": [
+      "heater",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK heating brand group · daily_2026-11-04"
   },
   {
     "name": "Berliner Klima Klimaanlagen Technik & Service",
@@ -2527,6 +2583,23 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "CellarCool / WhisperKOOL dealers",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://whisperkool.com/find-a-dealer/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://whisperkool.com/find-a-dealer/",
+    "tags": [
+      "dealer_locator",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "Wine cellar cooling dealer locator · daily_2026-11-04"
+  },
+  {
     "name": "Cellarsandsaunas",
     "type": "distributor",
     "region": "intl",
@@ -2632,6 +2705,23 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Central Garden & Pet distributors",
+    "type": "distributor",
+    "region": "USA",
+    "website": "https://www.central.com/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.central.com/",
+    "tags": [
+      "distributor",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "US pet products distribution · daily_2026-11-04"
   },
   {
     "name": "Certifiedwinecellars",
@@ -3116,6 +3206,26 @@
     "notes": "medium — HVAC contractor/installer channel"
   },
   {
+    "name": "Coolblue airco (NL/BE)",
+    "type": "dealer",
+    "region": "EU",
+    "website": "https://www.coolblue.nl/luchtbehandeling",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://www.coolblue.nl/",
+    "tags": [
+      "dealer",
+      "eu",
+      "nl",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NL/BE specialty CE climate · daily_2026-11-04"
+  },
+  {
     "name": "Coolwinecellar",
     "type": "distributor",
     "region": "intl",
@@ -3411,6 +3521,24 @@
       "route:channel_coop"
     ],
     "notes": "Store locator channel"
+  },
+  {
+    "name": "De'Longhi dealers / heaters",
+    "type": "dealer",
+    "region": "global",
+    "website": "https://www.delonghi.com/en-us/where-to-buy",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.delonghi.com/",
+    "tags": [
+      "dealer_locator",
+      "heater",
+      "route:channel_coop"
+    ],
+    "notes": "Heater/coffee appliance dealer locator · daily_2026-11-04"
   },
   {
     "name": "De'Longhi S.p.A. (Pinguino)",
@@ -3727,6 +3855,24 @@
     "notes": "Electric heating brand"
   },
   {
+    "name": "Dimplex where to buy",
+    "type": "dealer",
+    "region": "UK/EU",
+    "website": "https://www.dimplex.co.uk/",
+    "contact_email": "",
+    "categories": [
+      "heater"
+    ],
+    "source_url": "https://www.dimplex.co.uk/",
+    "tags": [
+      "dealer",
+      "heater",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "Electric heater brand channel · daily_2026-11-04"
+  },
+  {
     "name": "Distincteddesigns",
     "type": "distributor",
     "region": "intl",
@@ -3743,6 +3889,24 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Dometic wine / outdoor cooling",
+    "type": "dealer",
+    "region": "global",
+    "website": "https://www.dometic.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler",
+      "portable_ac"
+    ],
+    "source_url": "https://www.dometic.com/",
+    "tags": [
+      "portable_ac",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "Mobile/outdoor cooling brand channel · daily_2026-11-04"
   },
   {
     "name": "DORR KÄLTETECHNIK GMBH",
@@ -3845,6 +4009,43 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Dyson Pure Cool / heater support partners",
+    "type": "dealer",
+    "region": "global",
+    "website": "https://www.dyson.com/support",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.dyson.com/",
+    "tags": [
+      "heater",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Global air/heater brand support channel · daily_2026-11-04"
+  },
+  {
+    "name": "Dyson UK where to buy",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.dyson.co.uk/inside-dyson/where-to-buy",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "source_url": "https://www.dyson.co.uk/",
+    "tags": [
+      "dealer_locator",
+      "heater",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK heater/air brand locator · daily_2026-11-04"
   },
   {
     "name": "EcoAir (EcoAir GB)",
@@ -4233,6 +4434,25 @@
     "notes": "Brand market site"
   },
   {
+    "name": "EuroCave UK / EU dealers",
+    "type": "dealer",
+    "region": "EU/UK",
+    "website": "https://www.eurocave.co.uk/find-a-store",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.eurocave.co.uk/",
+    "tags": [
+      "dealer_locator",
+      "eu",
+      "route:channel_coop",
+      "uk",
+      "wine_cooler"
+    ],
+    "notes": "Wine cellar specialist dealer locator · daily_2026-11-04"
+  },
+  {
     "name": "Eurom",
     "type": "brand",
     "region": "Netherlands",
@@ -4462,6 +4682,26 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Fnac Darty climatisation (FR)",
+    "type": "dealer",
+    "region": "EU",
+    "website": "https://www.darty.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "home_appliance"
+    ],
+    "source_url": "https://www.darty.com/",
+    "tags": [
+      "dealer",
+      "eu",
+      "fr",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "FR appliance retail · daily_2026-11-04"
   },
   {
     "name": "Focuswinecellars",
@@ -5105,6 +5345,24 @@
     "notes": "NEW; exclusive GREE importer FR; published order/sales emails — channel for portable + split"
   },
   {
+    "name": "Gree where to buy / partners",
+    "type": "dealer",
+    "region": "global",
+    "website": "https://global.gree.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://global.gree.com/",
+    "tags": [
+      "hvac",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "Portable/room AC OEM channel · daily_2026-11-04"
+  },
+  {
     "name": "Grill-Welten GmbH",
     "type": "distributor",
     "region": "EU/DE/AT/CH",
@@ -5204,6 +5462,25 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Haier Europe climate dealers",
+    "type": "dealer",
+    "region": "EU",
+    "website": "https://www.haier-europe.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "home_appliance"
+    ],
+    "source_url": "https://www.haier-europe.com/",
+    "tags": [
+      "dealer",
+      "eu",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "EU Haier climate retail · daily_2026-11-04"
   },
   {
     "name": "Handelshof Riesa GmbH - Partner für Technik",
@@ -5487,6 +5764,26 @@
       "route:channel_coop"
     ],
     "notes": "Brand dealer locator · daily_2026-11-03"
+  },
+  {
+    "name": "Hornbach EU DIY climate",
+    "type": "dealer",
+    "region": "EU",
+    "website": "https://www.hornbach.de/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://www.hornbach.de/",
+    "tags": [
+      "dealer",
+      "eu",
+      "heater",
+      "route:channel_coop"
+    ],
+    "notes": "DE DIY climate aisle · daily_2026-11-04"
   },
   {
     "name": "HVAC WHOLESALE LTD",
@@ -6797,6 +7094,41 @@
     "notes": "WLW directory listing"
   },
   {
+    "name": "Lasko products where to buy",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://www.lasko.com/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.lasko.com/",
+    "tags": [
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "US fan/heater brand channel · daily_2026-11-04"
+  },
+  {
+    "name": "Le Cache wine cabinets dealers",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://www.lecache.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.lecache.com/",
+    "tags": [
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "Premium wine cabinet brand channel · daily_2026-11-04"
+  },
+  {
     "name": "Lechler GmbH",
     "type": "dealer",
     "region": "Metzingen, Germany",
@@ -6852,6 +7184,24 @@
       "route:channel_coop"
     ],
     "notes": "Lennox dealer locator · daily_2026-11-03"
+  },
+  {
+    "name": "LG HVAC partner locator",
+    "type": "distributor",
+    "region": "global",
+    "website": "https://www.lghvac.com/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.lghvac.com/",
+    "tags": [
+      "dealer_locator",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "LG HVAC partner network · daily_2026-11-04"
   },
   {
     "name": "Lindab",
@@ -7250,6 +7600,25 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "MediaMarkt EU portable AC",
+    "type": "dealer",
+    "region": "EU",
+    "website": "https://www.mediamarkt.de/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "home_appliance"
+    ],
+    "source_url": "https://www.mediamarkt.de/",
+    "tags": [
+      "dealer",
+      "eu",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "EU CE retail climate · daily_2026-11-04"
+  },
+  {
     "name": "Mercury Hvac",
     "type": "distributor",
     "region": "intl",
@@ -7443,6 +7812,25 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Mill heat (NO/EU) dealers",
+    "type": "dealer",
+    "region": "EU",
+    "website": "https://www.millheat.com/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "smart_home"
+    ],
+    "source_url": "https://www.millheat.com/",
+    "tags": [
+      "eu",
+      "heater",
+      "route:channel_coop",
+      "smart_home"
+    ],
+    "notes": "Nordic smart heater brand · daily_2026-11-04"
   },
   {
     "name": "Mitsubishi Electric HVAC US contractors",
@@ -7796,6 +8184,25 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "OBI Baumarkt Klimageräte",
+    "type": "dealer",
+    "region": "EU",
+    "website": "https://www.obi.de/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.obi.de/",
+    "tags": [
+      "dealer",
+      "eu",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "DE DIY portable AC/heater · daily_2026-11-04"
+  },
+  {
     "name": "OceanAire Inc.",
     "type": "brand",
     "region": "USA",
@@ -7927,6 +8334,24 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Panasonic Heating & Cooling EU",
+    "type": "distributor",
+    "region": "EU",
+    "website": "https://www.aircon.panasonic.eu/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.aircon.panasonic.eu/",
+    "tags": [
+      "eu",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "EU HVAC OEM channel · daily_2026-11-04"
   },
   {
     "name": "Paprowinecellars",
@@ -8101,6 +8526,24 @@
     "notes": "Franchise pet retail"
   },
   {
+    "name": "Pet Valu Canada dealers",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.petvalu.com/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petvalu.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "CA pet specialty retail · daily_2026-11-04"
+  },
+  {
     "name": "Petagree",
     "type": "distributor",
     "region": "USA",
@@ -8182,6 +8625,24 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "PetPlanet UK wholesale / retail",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.petplanet.co.uk/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petplanet.co.uk/",
+    "tags": [
+      "dealer",
+      "pet",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK pet specialty retail · daily_2026-11-04"
   },
   {
     "name": "PetSmart",
@@ -9051,6 +9512,24 @@
     "notes": "medium — HVAC contractor/installer channel"
   },
   {
+    "name": "Samsung Climate Solutions partners",
+    "type": "distributor",
+    "region": "global",
+    "website": "https://www.samsung.com/us/business/hvac/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.samsung.com/us/business/hvac/",
+    "tags": [
+      "distributor",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "HVAC OEM B2B channel · daily_2026-11-04"
+  },
+  {
     "name": "San Diego Refrigeration",
     "type": "wholesaler",
     "region": "CA",
@@ -9185,6 +9664,26 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Screwfix Trade HVAC/heating",
+    "type": "wholesaler",
+    "region": "UK",
+    "website": "https://www.screwfix.com/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.screwfix.com/",
+    "tags": [
+      "heater",
+      "route:channel_coop",
+      "uk",
+      "wholesaler"
+    ],
+    "notes": "UK trade DIY/HVAC channel · daily_2026-11-04"
   },
   {
     "name": "Secure",
@@ -9833,6 +10332,25 @@
       "route:channel_coop"
     ],
     "notes": "Electric heating brand/distributors"
+  },
+  {
+    "name": "Stiebel Eltron partners",
+    "type": "distributor",
+    "region": "EU/USA",
+    "website": "https://www.stiebel-eltron.com/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "source_url": "https://www.stiebel-eltron.com/",
+    "tags": [
+      "distributor",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "Heat pump / water heater OEM · daily_2026-11-04"
   },
   {
     "name": "Stiel Kälte + Klima GmbH",
@@ -10793,6 +11311,23 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "United Pet Group / Spectrum brands pet",
+    "type": "distributor",
+    "region": "USA",
+    "website": "https://www.spectrumbrands.com/our-brands/pet",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.spectrumbrands.com/",
+    "tags": [
+      "distributor",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "Pet brand house / channel · daily_2026-11-04"
+  },
+  {
     "name": "United Refrigeration",
     "type": "wholesaler",
     "region": "USA/Canada",
@@ -10880,6 +11415,26 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Vaillant installer finder (EU)",
+    "type": "mod_shop",
+    "region": "EU",
+    "website": "https://www.vaillant.co.uk/find-an-installer/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "source_url": "https://www.vaillant.co.uk/",
+    "tags": [
+      "eu",
+      "heater",
+      "mod_shop",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "EU boiler/heat-pump installer network · daily_2026-11-04"
   },
   {
     "name": "Vbosch",
@@ -11104,6 +11659,23 @@
       "route:channel_coop"
     ],
     "notes": "medium — wholesaler/distributor (weak AC signal)"
+  },
+  {
+    "name": "Vornado where to buy",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://www.vornado.com/where-to-buy",
+    "contact_email": "",
+    "categories": [
+      "heater"
+    ],
+    "source_url": "https://www.vornado.com/",
+    "tags": [
+      "dealer_locator",
+      "heater",
+      "route:channel_coop"
+    ],
+    "notes": "US heater/circulator dealers · daily_2026-11-04"
   },
   {
     "name": "Vsi",

@@ -516,6 +516,84 @@
     ]
   },
   {
+    "title": "City Plumbing boiler & heating guides",
+    "url": "https://www.cityplumbing.co.uk/advice",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "UK 供暖选购建议 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Energy Saving Trust heating (UK)",
+    "url": "https://energysavingtrust.org.uk/energy-at-home/heating-your-home/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "UK 家庭取暖节能公开指南 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Screwfix heating buying guide",
+    "url": "https://www.screwfix.com/c/heating-plumbing/cat840008",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "UK 取暖品类页 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Stiebel Eltron planning guides",
+    "url": "https://www.stiebel-eltron.com/en/home/service/downloads.html",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "热泵/热水规划资料 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Vaillant installer & homeowner guides",
+    "url": "https://www.vaillant.co.uk/for-homeowners/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "锅炉/热泵用户指南 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Wolseley UK heating advice hub",
+    "url": "https://www.wolseley.co.uk/knowledge/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "UK 贸易暖通知识入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "AfterShip influencer category pages (appliances)",
     "url": "https://ecommerce.aftership.com/influencers/top-100-most-follower-household-appliances-us-tiktok-shop-influencers",
     "niche": "home_appliance",
@@ -862,6 +940,19 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Haier Europe support",
+    "url": "https://www.haier-europe.com/support/",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "海尔欧洲支持 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
+      "faq",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -1324,6 +1415,32 @@
     ]
   },
   {
+    "title": "Beijer Ref sustainability / HVAC resources",
+    "url": "https://www.beijerref.com/sustainability/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "EU 暖通批发公开可持续发展入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Bob Vila heating & cooling",
+    "url": "https://www.bobvila.com/category/heating-cooling/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "家庭暖通内容入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Carrier residential",
     "url": "https://www.carrier.com/residential/en/us/",
     "niche": "hvac",
@@ -1344,6 +1461,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Daikin Europe energy tips",
+    "url": "https://www.daikin.eu/en_us/about/sustainability.html",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "欧系暖通节能入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
       "hvac",
       "route:brand_content"
     ]
@@ -1424,6 +1554,19 @@
     ]
   },
   {
+    "title": "LG HVAC resources",
+    "url": "https://www.lghvac.com/resources/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "LG 暖通资源中心 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Lennox dealers",
     "url": "https://www.lennox.com/locate-dealer",
     "niche": "hvac",
@@ -1498,6 +1641,19 @@
     ]
   },
   {
+    "title": "Panasonic Heating Cooling case studies",
+    "url": "https://www.aircon.panasonic.eu/GB_en/cases/",
+    "niche": "hvac",
+    "asset_type": "case",
+    "notes": "欧系 HVAC 案例入口 · daily_2026-11-04",
+    "tags": [
+      "case",
+      "daily_2026_11_04",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "REHVA EU HVAC",
     "url": "https://www.rehva.eu/",
     "niche": "hvac",
@@ -1510,6 +1666,19 @@
     ]
   },
   {
+    "title": "Samsung HVAC solutions overview",
+    "url": "https://www.samsung.com/us/business/hvac/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "三星暖通方案公开页 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Samsung HVAC support",
     "url": "https://www.samsung.com/us/support/",
     "niche": "hvac",
@@ -1517,6 +1686,19 @@
     "notes": "支持搜索+产品选择器",
     "tags": [
       "faq",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "This Old House HVAC guides",
+    "url": "https://www.thisoldhouse.com/heating-cooling",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "家装暖通指南入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
       "hvac",
       "route:brand_content"
     ]
@@ -1639,6 +1821,19 @@
     "notes": "权威内容/教育素材源",
     "tags": [
       "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Central Garden & Pet brand stories",
+    "url": "https://www.central.com/",
+    "niche": "pet_gear",
+    "asset_type": "case",
+    "notes": "宠物分销品牌故事入口 · daily_2026-11-04",
+    "tags": [
+      "case",
+      "daily_2026_11_04",
       "pet_gear",
       "route:brand_content"
     ]
@@ -1840,6 +2035,19 @@
     ]
   },
   {
+    "title": "Pet Supplies Plus pet tips",
+    "url": "https://www.petsuppliesplus.com/pet-tips",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物零售护理贴士 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "PetMD",
     "url": "https://www.petmd.com/",
     "niche": "pet_gear",
@@ -1847,6 +2055,19 @@
     "notes": "宠物健康教育内容",
     "tags": [
       "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "PetPlanet advice centre",
+    "url": "https://www.petplanet.co.uk/advice/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "UK 宠物护理建议 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
       "pet_gear",
       "route:brand_content"
     ]
@@ -2084,6 +2305,19 @@
     ]
   },
   {
+    "title": "Zooplus pet care magazine",
+    "url": "https://www.zooplus.com/magazine/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "宠物护理杂志入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "AHAM portable AC guidance",
     "url": "https://aham.org/",
     "niche": "portable_ac",
@@ -2154,6 +2388,32 @@
       "portable_ac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Consumer Reports room AC hub",
+    "url": "https://www.consumerreports.org/appliances/air-conditioners/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "CR 空调品类入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Coolblue airco buying guide (NL)",
+    "url": "https://www.coolblue.nl/advies/airco.html",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "荷比便携/分体空调选购指南 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -2265,6 +2525,19 @@
       "portable_ac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Gree product support global",
+    "url": "https://global.gree.com/support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "格力全球支持入口 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
+      "faq",
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -2474,6 +2747,19 @@
     ]
   },
   {
+    "title": "Which? air conditioner advice (UK)",
+    "url": "https://www.which.co.uk/reviews/air-conditioners",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "UK 消费者空调建议入口 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Whynter FAQ",
     "url": "https://www.whynter.com/faq/",
     "niche": "portable_ac",
@@ -2633,6 +2919,19 @@
     ]
   },
   {
+    "title": "Dimplex heating advice",
+    "url": "https://www.dimplex.co.uk/advice",
+    "niche": "space_heater",
+    "asset_type": "brochure",
+    "notes": "电暖器选购建议 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "route:brand_content",
+      "space_heater"
+    ]
+  },
+  {
     "title": "Dyson Support FAQ",
     "url": "https://www.dyson.com/support/faq",
     "niche": "space_heater",
@@ -2652,6 +2951,19 @@
     "notes": "取暖产品线落地页结构",
     "tags": [
       "brochure",
+      "route:brand_content",
+      "space_heater"
+    ]
+  },
+  {
+    "title": "Lasko product support",
+    "url": "https://www.lasko.com/support/",
+    "niche": "space_heater",
+    "asset_type": "faq",
+    "notes": "Lasko 支持中心 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
+      "faq",
       "route:brand_content",
       "space_heater"
     ]
@@ -2677,6 +2989,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "route:brand_content",
+      "space_heater"
+    ]
+  },
+  {
+    "title": "Mill heat help center",
+    "url": "https://www.millheat.com/support",
+    "niche": "space_heater",
+    "asset_type": "faq",
+    "notes": "北欧智能暖气支持 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
+      "faq",
       "route:brand_content",
       "space_heater"
     ]
@@ -2712,6 +3037,19 @@
     "asset_type": "faq",
     "notes": "空气循环/取暖 FAQ",
     "tags": [
+      "faq",
+      "route:brand_content",
+      "space_heater"
+    ]
+  },
+  {
+    "title": "Vornado knowledge base",
+    "url": "https://www.vornado.com/support",
+    "niche": "space_heater",
+    "asset_type": "faq",
+    "notes": "Vornado 支持知识库 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
       "faq",
       "route:brand_content",
       "space_heater"
@@ -2851,6 +3189,19 @@
     ]
   },
   {
+    "title": "Dometic wine cellar cooling FAQ",
+    "url": "https://www.dometic.com/en-us/outdoor/coolers",
+    "niche": "wine_cooler",
+    "asset_type": "faq",
+    "notes": "移动制冷公开品类 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
+      "faq",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "EdgeStar specialty cooling",
     "url": "https://www.edgestar.com/",
     "niche": "wine_cooler",
@@ -2923,6 +3274,19 @@
     ]
   },
   {
+    "title": "Le Cache care & warranty",
+    "url": "https://www.lecache.com/support/",
+    "niche": "wine_cooler",
+    "asset_type": "faq",
+    "notes": "酒柜保养/保修入口 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
+      "faq",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "NewAir learning / support",
     "url": "https://www.newair.com/pages/support",
     "niche": "wine_cooler",
@@ -2944,6 +3308,19 @@
     "tags": [
       "route:brand_content",
       "site",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Spiral Cellars design guide",
+    "url": "https://www.spiralcellars.com/wine-cellar-design/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "酒窖设计公开指南 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
+      "route:brand_content",
       "wine_cooler"
     ]
   },
@@ -3033,6 +3410,19 @@
     ]
   },
   {
+    "title": "WhisperKOOL installation resources",
+    "url": "https://whisperkool.com/resources/",
+    "niche": "wine_cooler",
+    "asset_type": "faq",
+    "notes": "酒窖制冷安装资源 · daily_2026-11-04",
+    "tags": [
+      "daily_2026_11_04",
+      "faq",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "Wine Enthusiast buying guides",
     "url": "https://www.wineenthusiast.com/buying-guide/",
     "niche": "wine_cooler",
@@ -3077,6 +3467,19 @@
     "notes": "葡萄酒教育可视化内容",
     "tags": [
       "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine Folly storage basics",
+    "url": "https://winefolly.com/tips/wine-storage-temperature/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "储酒温度公开指南 · daily_2026-11-04",
+    "tags": [
+      "brochure",
+      "daily_2026_11_04",
       "route:brand_content",
       "wine_cooler"
     ]
