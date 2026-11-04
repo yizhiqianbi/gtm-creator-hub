@@ -380,6 +380,14 @@ def ingest_europages_html(db: MerchantDB) -> int:
             html, re.I,
         ):
             names.add(norm_space(m.group(2)))
+        # Generic directory company-name anchors (ExportersIndia / TradeIndia / similar)
+        for m in re.finditer(
+            r'>([^<]{3,90}(?:Pvt\.?\s*Ltd\.?|Private Limited|Ltd\.?|Limited|Inc\.?|LLC|GmbH|S\.A\.?))<',
+            html, re.I,
+        ):
+            cand = norm_space(m.group(1))
+            if 3 <= len(cand) <= 90:
+                names.add(cand)
         # JSON-LD
         for m in re.finditer(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', html, re.I | re.S):
             try:

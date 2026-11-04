@@ -358,16 +358,19 @@ def ingest_channels(db: MerchantDB):
 def parse_mic_html(path: Path, category_hint: str, region_default="China"):
     html = path.read_text(errors="ignore")
     out = []
-    for m in re.finditer(
-        r'class="company-name-link"[^>]*href="([^"]*)"[^>]*>([\s\S]*?)</a>',
-        html, re.I,
-    ):
-        href, raw = m.group(1), m.group(2)
-        name = norm_space(re.sub(r"<[^>]+>", "", raw))
+    seen = set()
+
+    def add_row(name, href, chunk):
+        name = norm_space(name)
         if not name:
-            continue
-        href = href if href.startswith("http") else ("https:" + href if href.startswith("//") else href)
-        chunk = html[max(0, m.start() - 500): m.end() + 800]
+            return
+        key = name.lower()
+        if key in seen:
+            return
+        seen.add(key)
+        href = href or ""
+        if href and not href.startswith("http"):
+            href = ("https:" + href) if href.startswith("//") else href
         region = region_default
         rm = re.search(r"City/Province:\s*([^<\n]+)", chunk)
         if rm:
@@ -388,6 +391,33 @@ def parse_mic_html(path: Path, category_hint: str, region_default="China"):
             "notes": notes,
             "tags": ["made_in_china", "public_directory", category_hint],
         })
+
+    # Legacy MIC markup
+    for m in re.finditer(
+        r'class="company-name-link"[^>]*href="([^"]*)"[^>]*>([\s\S]*?)</a>',
+        html, re.I,
+    ):
+        href, raw = m.group(1), m.group(2)
+        name = norm_space(re.sub(r"<[^>]+>", "", raw))
+        chunk = html[max(0, m.start() - 500): m.end() + 800]
+        add_row(name, href, chunk)
+
+    # 2026 MIC markup: class="company-name ellipsis" > <a href title="Name"
+    for m in re.finditer(
+        r'class="company-name(?:\s+ellipsis)?"[^>]*>\s*<a\s+href="([^"]*)"[^>]*title="([^"]+)"',
+        html, re.I,
+    ):
+        href, name = m.group(1), m.group(2)
+        chunk = html[max(0, m.start() - 500): m.end() + 800]
+        add_row(name, href, chunk)
+
+    # JSON-LD Organization fallback
+    for m in re.finditer(
+        r'"@type"\s*:\s*"Organization"\s*,\s*"name"\s*:\s*"([^"]+)"',
+        html,
+    ):
+        add_row(m.group(1), "", html[max(0, m.start()-200): m.end()+200])
+
     return out
 
 
