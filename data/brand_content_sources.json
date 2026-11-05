@@ -516,6 +516,32 @@
     ]
   },
   {
+    "title": "BLACK+DECKER product support",
+    "url": "https://www.blackanddecker.com/support",
+    "niche": "heater",
+    "asset_type": "faq",
+    "notes": "美 BLACK+DECKER 支持 · daily_2026-11-05",
+    "tags": [
+      "daily_2026_11_05",
+      "faq",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Canadian Tire heating buying",
+    "url": "https://www.canadiantire.ca/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "加 Canadian Tire 取暖入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "City Plumbing boiler & heating guides",
     "url": "https://www.cityplumbing.co.uk/advice",
     "niche": "heater",
@@ -537,6 +563,45 @@
     "tags": [
       "brochure",
       "daily_2026_11_04",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Home Hardware CA heating",
+    "url": "https://www.homehardware.ca/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "加五金取暖入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Rheem Australia support",
+    "url": "https://www.rheem.com.au/support",
+    "niche": "heater",
+    "asset_type": "faq",
+    "notes": "澳 Rheem 热水/取暖支持 · daily_2026-11-05",
+    "tags": [
+      "daily_2026_11_05",
+      "faq",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Rinnai AU heating guides",
+    "url": "https://www.rinnai.com.au/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "澳林内取暖入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "heater",
       "route:brand_content"
     ]
@@ -697,6 +762,19 @@
     "notes": "科技媒体家电评测入口",
     "tags": [
       "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "CNET space heater / climate reviews hub",
+    "url": "https://www.cnet.com/home/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "CNET 家电测评入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "home_appliance",
       "route:brand_content"
     ]
@@ -931,6 +1009,19 @@
     ]
   },
   {
+    "title": "Haier America support",
+    "url": "https://www.haierappliances.com/support",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "海尔美国支持 · daily_2026-11-05",
+    "tags": [
+      "daily_2026_11_05",
+      "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Haier Europe",
     "url": "https://www.haier-europe.com/",
     "niche": "home_appliance",
@@ -1133,6 +1224,19 @@
     "notes": "扫地机支持",
     "tags": [
       "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Samsung US HVAC / appliances hub",
+    "url": "https://www.samsung.com/us/home-appliances/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "三星美国家电入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1366,6 +1470,19 @@
     ]
   },
   {
+    "title": "AAD AU HVAC trade resources",
+    "url": "https://www.aad.net.au/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "澳系暖通批发公开首页 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "AHR Expo",
     "url": "https://www.ahrexpo.com/",
     "niche": "hvac",
@@ -1403,6 +1520,19 @@
     ]
   },
   {
+    "title": "ActronAir AU resources",
+    "url": "https://www.actronair.com.au/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "澳 ActronAir 暖通入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Air Conditioning Contractors of America",
     "url": "https://www.acca.org/",
     "niche": "hvac",
@@ -1412,6 +1542,19 @@
       "hvac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "AprilAire healthy air resources",
+    "url": "https://www.aprilaire.com/healthy-air",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "美系健康空气/暖通资源 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "hvac",
+      "route:brand_content"
     ]
   },
   {
@@ -1466,6 +1609,19 @@
     ]
   },
   {
+    "title": "Daikin Australia support / resources",
+    "url": "https://www.daikin.com.au/support",
+    "niche": "hvac",
+    "asset_type": "faq",
+    "notes": "澳大金支持入口 · daily_2026-11-05",
+    "tags": [
+      "daily_2026_11_05",
+      "faq",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Daikin Europe energy tips",
     "url": "https://www.daikin.eu/en_us/about/sustainability.html",
     "niche": "hvac",
@@ -1499,6 +1655,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Fujitsu General AU product support",
+    "url": "https://www.fujitsugeneral.com.au/support",
+    "niche": "hvac",
+    "asset_type": "faq",
+    "notes": "澳富士通支持 · daily_2026-11-05",
+    "tags": [
+      "daily_2026_11_05",
+      "faq",
       "hvac",
       "route:brand_content"
     ]
@@ -1592,6 +1761,19 @@
     ]
   },
   {
+    "title": "Mitsubishi Electric AU aircon hub",
+    "url": "https://www.mitsubishielectric.com.au/air-conditioning/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "澳三菱电机空调入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Mitsubishi Electric HVAC dealers",
     "url": "https://www.mitsubishicomfort.com/find-a-contractor",
     "niche": "hvac",
@@ -1661,6 +1843,19 @@
     "notes": "欧洲暖通协会资源",
     "tags": [
       "brochure",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Rona CA heating & cooling",
+    "url": "https://www.rona.ca/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "加 Rona 暖通入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "hvac",
       "route:brand_content"
     ]
@@ -1785,6 +1980,19 @@
     "tags": [
       "brochure",
       "outdoor",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "AEON Pet JP care",
+    "url": "https://www.aeonpet.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "日 AEON 宠物入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "pet_gear",
       "route:brand_content"
     ]
   },
@@ -2035,6 +2243,19 @@
     ]
   },
   {
+    "title": "Pet Lovers Centre SG tips",
+    "url": "https://www.petloverscentre.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "新宠物护理入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Pet Supplies Plus pet tips",
     "url": "https://www.petsuppliesplus.com/pet-tips",
     "niche": "pet_gear",
@@ -2093,6 +2314,19 @@
     "tags": [
       "daily_2026_11_03",
       "faq",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Petbarn AU pet care advice",
+    "url": "https://www.petbarn.com.au/petspot",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "澳宠物护理内容入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "pet_gear",
       "route:brand_content"
     ]
@@ -2159,6 +2393,19 @@
     ]
   },
   {
+    "title": "Petstock AU pet advice",
+    "url": "https://www.petstock.com.au/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "澳宠物零售内容入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Purina FAQ / nutrition",
     "url": "https://www.purina.com/",
     "niche": "pet_gear",
@@ -2202,6 +2449,19 @@
     "notes": "专业宠物营养叙事",
     "tags": [
       "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Ruggable pet-friendly home care",
+    "url": "https://ruggable.com/pages/care",
+    "niche": "pet_gear",
+    "asset_type": "faq",
+    "notes": "宠物友好家居护理 · daily_2026-11-05",
+    "tags": [
+      "daily_2026_11_05",
+      "faq",
       "pet_gear",
       "route:brand_content"
     ]
@@ -2314,6 +2574,19 @@
       "brochure",
       "daily_2026_11_04",
       "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "ACE HVAC Dist portable AC category",
+    "url": "https://www.acedist.com.au/product-category/air-conditioning-systems/portable-air-conditioners/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "澳暖通分销便携空调 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "portable_ac",
       "route:brand_content"
     ]
   },
@@ -2441,6 +2714,19 @@
     ]
   },
   {
+    "title": "EE Group Zero-Breeze AU distributor page",
+    "url": "https://www.eegroup.com.au/zero-breeze-distributor-1",
+    "niche": "portable_ac",
+    "asset_type": "case",
+    "notes": "澳 Zero-Breeze 授权分销公开页 · daily_2026-11-05",
+    "tags": [
+      "case",
+      "daily_2026_11_05",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Energy Star room AC buyers guide",
     "url": "https://www.energystar.gov/products/room_air_conditioners",
     "niche": "portable_ac",
@@ -2449,6 +2735,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Factory Plus portable AC category",
+    "url": "https://www.factoryplus.com.au/product-categories/portable",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "澳便携空调零售品类 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "portable_ac",
       "route:brand_content"
     ]
@@ -2675,6 +2974,32 @@
     ]
   },
   {
+    "title": "Midea global support",
+    "url": "https://www.midea.com/global/support",
+    "niche": "portable_ac",
+    "asset_type": "faq",
+    "notes": "美的全球支持入口 · daily_2026-11-05",
+    "tags": [
+      "daily_2026_11_05",
+      "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "North East SG portable AC wholesale",
+    "url": "https://northeast.com.sg/product-category/portable/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "新加坡便携空调批发品类 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Olimpia Splendid brand site",
     "url": "https://www.olimpiasplendid.com/en/",
     "niche": "portable_ac",
@@ -2694,6 +3019,19 @@
     "notes": "第三方测评长文结构（仅链到公开页）",
     "tags": [
       "case",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Prime Wholesale AU shop / portable AC",
+    "url": "https://www.primewholesale.com.au/shop/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "澳贸易便携空调品类 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "portable_ac",
       "route:brand_content"
     ]
@@ -2792,6 +3130,19 @@
     "tags": [
       "daily_2026_11_03",
       "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Yodobashi climate category public",
+    "url": "https://www.yodobashi.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "日友都八喜气候品类入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3238,6 +3589,32 @@
     ]
   },
   {
+    "title": "Friax Australia cellar systems",
+    "url": "https://friax.com.au/friax-australia/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "澳 Friax 酒窖空调入口 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Genuwine Cellars design",
+    "url": "https://www.genuwinecellars.com/",
+    "niche": "wine_cooler",
+    "asset_type": "case",
+    "notes": "加定制酒窖公开页 · daily_2026-11-05",
+    "tags": [
+      "case",
+      "daily_2026_11_05",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "Host Milano / hospitality cooling",
     "url": "https://www.host.fieramilano.it/",
     "niche": "wine_cooler",
@@ -3246,6 +3623,19 @@
     "tags": [
       "route:brand_content",
       "site",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Humiscope HiDew wine cellar climate",
+    "url": "https://www.humiscope.com.au/wine-cellar-air-conditioner-dehumidifier",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "澳酒窖温湿度系统 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "route:brand_content",
       "wine_cooler"
     ]
   },
@@ -3338,6 +3728,19 @@
     ]
   },
   {
+    "title": "Thenow Air wine cellar cooling",
+    "url": "https://thenowair.com.au/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "澳新 Thenow 酒窖制冷 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "Transtherm points of sale",
     "url": "https://www.transthermfridges.com/points-of-sale/",
     "niche": "wine_cooler",
@@ -3393,6 +3796,19 @@
     "notes": "储酒教育中心",
     "tags": [
       "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Vinum Design Montreal cellar",
+    "url": "https://www.vinumdesign.com/",
+    "niche": "wine_cooler",
+    "asset_type": "case",
+    "notes": "蒙城酒窖设计案例入口 · daily_2026-11-05",
+    "tags": [
+      "case",
+      "daily_2026_11_05",
       "route:brand_content",
       "wine_cooler"
     ]
@@ -3455,6 +3871,19 @@
     "notes": "酒柜/储酒教育内容入口（公开导购向）",
     "tags": [
       "brochure",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine Enthusiast storage guides",
+    "url": "https://www.wineenthusiast.com/collections/wine-storage",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "Wine Enthusiast 储酒品类 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "route:brand_content",
       "wine_cooler"
     ]
@@ -3528,6 +3957,19 @@
     "notes": "酒柜测评结构参考",
     "tags": [
       "case",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wine-R Canada dealer map",
+    "url": "https://wine-r.com/en/distributor",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "加 Wine-R 经销商公开名录 · daily_2026-11-05",
+    "tags": [
+      "brochure",
+      "daily_2026_11_05",
       "route:brand_content",
       "wine_cooler"
     ]

@@ -81,6 +81,26 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "AAD HVAC wholesale AU",
+    "type": "wholesaler",
+    "region": "AU",
+    "website": "https://www.aad.net.au/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.aad.net.au/",
+    "tags": [
+      "au",
+      "hvac",
+      "route:channel_coop",
+      "wholesaler"
+    ],
+    "notes": "AU HVAC trade wholesale (Melbourne/Sydney/Adelaide) · daily_2026-11-05"
+  },
+  {
     "name": "abacon Gesellschaft für Meß-, Steuer- und Regeltechnik mbH",
     "type": "dealer",
     "region": "Eschborn, Germany",
@@ -159,6 +179,26 @@
     "notes": "Air Conditioning Contractors of America · daily_2026-11-03"
   },
   {
+    "name": "ACE HVAC Dist AU",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://www.acedist.com.au/",
+    "contact_email": "info@acedist.com.au",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://www.acedist.com.au/product-category/air-conditioning-systems/portable-air-conditioners/",
+    "tags": [
+      "au",
+      "distributor",
+      "hvac",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AU HVAC distributor TECO portable line · daily_2026-11-05"
+  },
+  {
     "name": "Ackuniversal",
     "type": "distributor",
     "region": "USA",
@@ -174,6 +214,24 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "ActronAir AU",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://www.actronair.com.au/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.actronair.com.au/",
+    "tags": [
+      "au",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "AU residential/commercial HVAC OEM · daily_2026-11-05"
   },
   {
     "name": "Ad Vinum",
@@ -255,6 +313,24 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "AEON Pet Japan",
+    "type": "dealer",
+    "region": "JP",
+    "website": "https://www.aeonpet.com/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.aeonpet.com/",
+    "tags": [
+      "dealer",
+      "jp",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "JP AEON pet specialty · daily_2026-11-05"
   },
   {
     "name": "Afcodistribution",
@@ -1292,6 +1368,25 @@
     "notes": "Transtherm point of sale"
   },
   {
+    "name": "AprilAire dealer locator",
+    "type": "distributor",
+    "region": "USA",
+    "website": "https://www.aprilaire.com/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.aprilaire.com/where-to-buy",
+    "tags": [
+      "dealer_locator",
+      "hvac",
+      "route:channel_coop",
+      "us"
+    ],
+    "notes": "US healthy-air HVAC dealer network · daily_2026-11-05"
+  },
+  {
     "name": "Archermech",
     "type": "distributor",
     "region": "intl",
@@ -1914,6 +2009,26 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Bic Camera climate JP",
+    "type": "dealer",
+    "region": "JP",
+    "website": "https://www.biccamera.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.biccamera.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "jp",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "JP Bic Camera climate products · daily_2026-11-05"
+  },
+  {
     "name": "Bienert Kälte-und Klimaanlagen GmbH",
     "type": "dealer",
     "region": "Berlin, Germany",
@@ -1968,6 +2083,25 @@
       "route:channel_coop"
     ],
     "notes": "EU pet ecommerce"
+  },
+  {
+    "name": "BLACK+DECKER where to buy",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://www.blackanddecker.com/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.blackanddecker.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "route:channel_coop",
+      "us"
+    ],
+    "notes": "US BLACK+DECKER heater/home channel · daily_2026-11-05"
   },
   {
     "name": "Blue Ocean Air Hygiene Ltd",
@@ -2357,6 +2491,25 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Canadian Tire heaters",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.canadiantire.ca/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.canadiantire.ca/",
+    "tags": [
+      "ca",
+      "dealer",
+      "heater",
+      "route:channel_coop"
+    ],
+    "notes": "CA big-box heaters / seasonal climate · daily_2026-11-05"
   },
   {
     "name": "Canopy Ventilations Ltd",
@@ -3122,6 +3275,24 @@
     "notes": "HVAC distributor"
   },
   {
+    "name": "Concept Cellier QC",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.conceptcellier.ca/",
+    "contact_email": "info@conceptcellier.ca",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.conceptcellier.ca/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "QC wine cellar retailer · daily_2026-11-05"
+  },
+  {
     "name": "Connect",
     "type": "distributor",
     "region": "intl",
@@ -3444,6 +3615,26 @@
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
+  },
+  {
+    "name": "Daikin Australia",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://www.daikin.com.au/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.daikin.com.au/",
+    "tags": [
+      "au",
+      "dealer_locator",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "AU HVAC OEM dealer network · daily_2026-11-05"
   },
   {
     "name": "Daikin Europe dealers",
@@ -4086,6 +4277,24 @@
     "notes": "Compact appliance / wine specialty · daily_2026-11-03"
   },
   {
+    "name": "EE Group AU Zero-Breeze distributor",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://www.eegroup.com.au/",
+    "contact_email": "info@eegroup.com.au",
+    "categories": [
+      "portable_ac"
+    ],
+    "source_url": "https://www.eegroup.com.au/zero-breeze-distributor-1",
+    "tags": [
+      "au",
+      "distributor",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AU authorised Zero-Breeze portable AC distributor · daily_2026-11-05"
+  },
+  {
     "name": "Eisen Rupp OHG",
     "type": "dealer",
     "region": "Schifferstadt, Germany",
@@ -4453,6 +4662,25 @@
     "notes": "Wine cellar specialist dealer locator · daily_2026-11-04"
   },
   {
+    "name": "EuroCel Canada Wine-R distributor",
+    "type": "distributor",
+    "region": "CA",
+    "website": "https://wine-r.com/en/distributor",
+    "contact_email": "ventes@eurocelcanada.com",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://wine-r.com/en/distributor",
+    "tags": [
+      "ca",
+      "dealer_locator",
+      "distributor",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "CA official Wine-R cellar cooling distributor · daily_2026-11-05"
+  },
+  {
     "name": "Eurom",
     "type": "brand",
     "region": "Netherlands",
@@ -4568,6 +4796,25 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Factory Plus AU portable AC",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.factoryplus.com.au/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.factoryplus.com.au/product-categories/portable",
+    "tags": [
+      "au",
+      "dealer",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AU multi-branch portable AC retail · daily_2026-11-05"
   },
   {
     "name": "Fairhaven Ventilation",
@@ -4896,6 +5143,24 @@
     "notes": "EU pet retail chain"
   },
   {
+    "name": "Friax Australia wine cellar",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://friax.com.au/",
+    "contact_email": "info@friax.com.au",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://friax.com.au/friax-australia/",
+    "tags": [
+      "au",
+      "distributor",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "AU distributor Friax cellar conditioners · daily_2026-11-05"
+  },
+  {
     "name": "Friedrich Air Conditioning (Rheem)",
     "type": "brand",
     "region": "USA",
@@ -4952,6 +5217,26 @@
     "notes": "HVAC distribution Iberia"
   },
   {
+    "name": "Frigidaire where to buy",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://www.frigidaire.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.frigidaire.com/en/where-to-buy",
+    "tags": [
+      "dealer_locator",
+      "portable_ac",
+      "route:channel_coop",
+      "us"
+    ],
+    "notes": "US Frigidaire portable AC/heater channel · daily_2026-11-05"
+  },
+  {
     "name": "Frigotechnik Handels GmbH - Niederlassung Berlin",
     "type": "distributor",
     "region": "Berlin, Germany",
@@ -4989,6 +5274,24 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Fujitsu General AU",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://www.fujitsugeneral.com.au/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.fujitsugeneral.com.au/",
+    "tags": [
+      "au",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "AU Fujitsu HVAC channel · daily_2026-11-05"
   },
   {
     "name": "Gaia Smart Energy",
@@ -5117,6 +5420,24 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Genuwine Cellars",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.genuwinecellars.com/",
+    "contact_email": "design@genuwinecellars.com",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.genuwinecellars.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "CA custom wine cellars / cooling · daily_2026-11-05"
   },
   {
     "name": "Genuwinecellars",
@@ -5711,6 +6032,25 @@
     "notes": "Big-box HVAC aisle · daily_2026-11-03"
   },
   {
+    "name": "Home Hardware CA heating",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.homehardware.ca/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "source_url": "https://www.homehardware.ca/",
+    "tags": [
+      "ca",
+      "dealer",
+      "heater",
+      "route:channel_coop"
+    ],
+    "notes": "CA independent hardware heating aisle · daily_2026-11-05"
+  },
+  {
     "name": "HomeAdvisor HVAC",
     "type": "mod_shop",
     "region": "USA",
@@ -5784,6 +6124,24 @@
       "route:channel_coop"
     ],
     "notes": "DE DIY climate aisle · daily_2026-11-04"
+  },
+  {
+    "name": "Humiscope AU wine cellar climate",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://www.humiscope.com.au/",
+    "contact_email": "contact@humiscope.com.au",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.humiscope.com.au/wine-cellar-air-conditioner-dehumidifier",
+    "tags": [
+      "au",
+      "distributor",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "AU HiDew wine cellar climate systems · daily_2026-11-05"
   },
   {
     "name": "HVAC WHOLESALE LTD",
@@ -6264,6 +6622,24 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Kakuyasu wine JP",
+    "type": "dealer",
+    "region": "JP",
+    "website": "https://www.kakuyasu.co.jp/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.kakuyasu.co.jp/",
+    "tags": [
+      "dealer",
+      "jp",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "JP liquor retail wine storage · daily_2026-11-05"
   },
   {
     "name": "Kane Group",
@@ -7112,6 +7488,24 @@
     "notes": "US fan/heater brand channel · daily_2026-11-04"
   },
   {
+    "name": "LCBO wine accessories CA",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.lcbo.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.lcbo.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "ON liquor board wine accessories channel · daily_2026-11-05"
+  },
+  {
     "name": "Le Cache wine cabinets dealers",
     "type": "dealer",
     "region": "USA",
@@ -7833,6 +8227,24 @@
     "notes": "Nordic smart heater brand · daily_2026-11-04"
   },
   {
+    "name": "Mitsubishi Electric AU HVAC",
+    "type": "distributor",
+    "region": "AU",
+    "website": "https://www.mitsubishielectric.com.au/air-conditioning/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.mitsubishielectric.com.au/air-conditioning/",
+    "tags": [
+      "au",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "AU Mitsubishi Electric climate · daily_2026-11-05"
+  },
+  {
     "name": "Mitsubishi Electric HVAC US contractors",
     "type": "distributor",
     "region": "USA",
@@ -8141,6 +8553,25 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "North East Aircon SG wholesale",
+    "type": "wholesaler",
+    "region": "SG",
+    "website": "https://northeast.com.sg/",
+    "contact_email": "sales@northeast.com.sg",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://northeast.com.sg/product-category/portable/",
+    "tags": [
+      "portable_ac",
+      "route:channel_coop",
+      "sg",
+      "wholesaler"
+    ],
+    "notes": "Singapore portable AC wholesale · daily_2026-11-05"
   },
   {
     "name": "Northern Tool heaters / portable AC",
@@ -8510,6 +8941,24 @@
     "notes": "PIDA FetchFind public directory · daily_2026-11-03"
   },
   {
+    "name": "Pet Lovers Centre SG",
+    "type": "dealer",
+    "region": "SG",
+    "website": "https://www.petloverscentre.com/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petloverscentre.com/",
+    "tags": [
+      "dealer",
+      "pet",
+      "route:channel_coop",
+      "sg"
+    ],
+    "notes": "SG pet specialty retail · daily_2026-11-05"
+  },
+  {
     "name": "Pet Supplies Plus",
     "type": "dealer",
     "region": "USA",
@@ -8559,6 +9008,24 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Petbarn AU",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.petbarn.com.au/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petbarn.com.au/",
+    "tags": [
+      "au",
+      "dealer",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "AU pet specialty chain · daily_2026-11-05"
   },
   {
     "name": "Petco",
@@ -8659,6 +9126,24 @@
       "route:channel_coop"
     ],
     "notes": "National pet retail"
+  },
+  {
+    "name": "Petstock AU",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.petstock.com.au/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petstock.com.au/",
+    "tags": [
+      "au",
+      "dealer",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "AU pet specialty retail · daily_2026-11-05"
   },
   {
     "name": "PHCC plumbing-heating-cooling contractors",
@@ -8860,6 +9345,26 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Prime Wholesale AU HVAC",
+    "type": "wholesaler",
+    "region": "AU",
+    "website": "https://www.primewholesale.com.au/",
+    "contact_email": "sales@primewholesale.com.au",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://www.primewholesale.com.au/shop/",
+    "tags": [
+      "au",
+      "hvac",
+      "portable_ac",
+      "route:channel_coop",
+      "wholesaler"
+    ],
+    "notes": "AU trade HVAC / TECO portable AC wholesale · daily_2026-11-05"
   },
   {
     "name": "Prime Wine Coolers",
@@ -9254,6 +9759,42 @@
     "notes": "Electrical/HVAC distribution · daily_2026-11-03"
   },
   {
+    "name": "Rheem Australia",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.rheem.com.au/",
+    "contact_email": "",
+    "categories": [
+      "heater"
+    ],
+    "source_url": "https://www.rheem.com.au/",
+    "tags": [
+      "au",
+      "heater",
+      "route:channel_coop"
+    ],
+    "notes": "AU water/space heating brand · daily_2026-11-05"
+  },
+  {
+    "name": "Rinnai AU heaters",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.rinnai.com.au/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "source_url": "https://www.rinnai.com.au/",
+    "tags": [
+      "au",
+      "dealer_locator",
+      "heater",
+      "route:channel_coop"
+    ],
+    "notes": "AU gas/electric heating brand channel · daily_2026-11-05"
+  },
+  {
     "name": "Riograndeservicecenter",
     "type": "distributor",
     "region": "USA",
@@ -9371,6 +9912,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Rona CA HVAC",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.rona.ca/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.rona.ca/",
+    "tags": [
+      "ca",
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "CA home improvement climate · daily_2026-11-05"
+  },
+  {
     "name": "Rosehillwinecellars",
     "type": "distributor",
     "region": "intl",
@@ -9426,6 +9988,25 @@
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
+  },
+  {
+    "name": "Ruggable retail / wholesale",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://ruggable.com/",
+    "contact_email": "",
+    "categories": [
+      "pet_products",
+      "home_decor"
+    ],
+    "source_url": "https://ruggable.com/",
+    "tags": [
+      "dealer",
+      "pet",
+      "route:channel_coop",
+      "us"
+    ],
+    "notes": "US pet-friendly home textiles DTC · daily_2026-11-05"
   },
   {
     "name": "Run Hvac",
@@ -9548,6 +10129,24 @@
       "wine_cooler"
     ],
     "notes": "Breezaire authorized wholesale dealer"
+  },
+  {
+    "name": "SAQ cave a vin accessories",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.saq.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.saq.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "QC liquor board wine storage accessories · daily_2026-11-05"
   },
   {
     "name": "Sauder Kälte-Klima GmbH",
@@ -10394,6 +10993,24 @@
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
   },
   {
+    "name": "Strictly Cellars BC",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.strictlycellars.com/",
+    "contact_email": "inquiry@strictlycellars.com",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.strictlycellars.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "BC wine cellar specialty · daily_2026-11-05"
+  },
+  {
     "name": "Sub Zero Climate Control Ltd",
     "type": "dealer",
     "region": "Rotherham, United Kingdom",
@@ -10780,6 +11397,24 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Tendance Cellier QC",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.tendancecellier.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.tendancecellier.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "QC wine cellar trend retail · daily_2026-11-05"
+  },
+  {
     "name": "Tendancecellier",
     "type": "distributor",
     "region": "intl",
@@ -10879,6 +11514,26 @@
       "wine_cooler"
     ],
     "notes": "Vinotemp linked retailer"
+  },
+  {
+    "name": "Thenow Air Australasia",
+    "type": "distributor",
+    "region": "AU/NZ",
+    "website": "https://thenowair.com.au/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler",
+      "hvac"
+    ],
+    "source_url": "https://thenowair.com.au/",
+    "tags": [
+      "au",
+      "distributor",
+      "nz",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "AU/NZ exclusive Thenow wine cellar cooling · daily_2026-11-05"
   },
   {
     "name": "Thermal Dynamic Technical Services",
@@ -11621,6 +12276,24 @@
     "notes": "Transtherm point of sale"
   },
   {
+    "name": "Vinum Design Montreal",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.vinumdesign.com/",
+    "contact_email": "info@vinumdesign.com",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.vinumdesign.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "QC wine cellar design / cooling dealer · daily_2026-11-05"
+  },
+  {
     "name": "Vinumdesign",
     "type": "dealer",
     "region": "intl",
@@ -11956,6 +12629,24 @@
       "route:channel_coop"
     ],
     "notes": "Wine wholesale association"
+  },
+  {
+    "name": "Wine Cave Ontario",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.winecave.ca/",
+    "contact_email": "info@winecave.ca",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.winecave.ca/",
+    "tags": [
+      "ca",
+      "dealer",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "ON wine cellar solutions dealer · daily_2026-11-05"
   },
   {
     "name": "Wine Cellar Creations",
@@ -12629,6 +13320,24 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Yamaya wine JP",
+    "type": "dealer",
+    "region": "JP",
+    "website": "https://www.yamaya.jp/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.yamaya.jp/",
+    "tags": [
+      "dealer",
+      "jp",
+      "route:channel_coop",
+      "wine_cooler"
+    ],
+    "notes": "JP liquor chain wine accessories · daily_2026-11-05"
+  },
+  {
     "name": "Yoast",
     "type": "distributor",
     "region": "intl",
@@ -12645,6 +13354,27 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Yodobashi Camera climate JP",
+    "type": "dealer",
+    "region": "JP",
+    "website": "https://www.yodobashi.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.yodobashi.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "jp",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "JP electronics big-box climate aisle · daily_2026-11-05"
   },
   {
     "name": "Young Supply",
