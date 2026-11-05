@@ -3405,5 +3405,366 @@
     ],
     "notes": "EU climate appliances private-label brand group",
     "public_contact": ""
+  },
+  {
+    "name": "Uğur Soğutma / Ugur Cooling",
+    "region": "Turkey",
+    "website": "https://www.ugur.com.tr/",
+    "source_url": "https://www.ugur.com.tr/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkish commercial refrigeration manufacturer (public company site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Saijo Denki International Co., Ltd.",
+    "region": "Thailand",
+    "website": "https://www.saijo-denki.com/",
+    "source_url": "https://www.saijo-denki.com/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Thai air-conditioner manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Olimpia Splendid S.p.A.",
+    "region": "Italy",
+    "website": "https://www.olimpiasplendid.com/",
+    "source_url": "https://www.olimpiasplendid.com/",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian portable AC / climate manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Argoclima S.p.A.",
+    "region": "Italy",
+    "website": "https://www.argoclima.com/",
+    "source_url": "https://www.argoclima.com/",
+    "categories": [
+      "portable_ac",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian portable AC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Klimaire Products Inc.",
+    "region": "United States",
+    "website": "https://www.klimaire.com/",
+    "source_url": "https://www.klimaire.com/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US HVAC supplier-manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Inventor AG",
+    "region": "Greece",
+    "website": "https://www.inventor.ac/",
+    "source_url": "https://www.inventor.ac/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu"
+    ],
+    "notes": "EU AC brand-manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Airwell Residential SAS",
+    "region": "France",
+    "website": "https://www.airwell.com/",
+    "source_url": "https://www.airwell.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "French HVAC manufacturer/brand (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Daikin Applied Americas",
+    "region": "United States",
+    "website": "https://www.daikinapplied.com/",
+    "source_url": "https://www.daikinapplied.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Daikin Applied US manufacturing/HVAC (public)",
+    "public_contact": ""
+  },
+  {
+    "name": "Midea America Corp",
+    "region": "United States",
+    "website": "https://www.midea.com/us",
+    "source_url": "https://www.midea.com/us",
+    "categories": [
+      "portable_ac",
+      "hvac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Midea America public commercial site — portable AC / appliances",
+    "public_contact": ""
+  },
+  {
+    "name": "Gree Brasil",
+    "region": "Brazil",
+    "website": "https://www.gree.com.br/",
+    "source_url": "https://www.gree.com.br/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Gree Brazil public site / local manufacturing presence",
+    "public_contact": ""
+  },
+  {
+    "name": "Ferroli S.p.A.",
+    "region": "Italy",
+    "website": "https://www.ferroli.com/",
+    "source_url": "https://www.ferroli.com/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian boiler / heating manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Ariston Holding N.V.",
+    "region": "Italy",
+    "website": "https://www.aristongroup.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Ariston_Group",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it",
+      "wiki_public"
+    ],
+    "notes": "Italian water heating / comfort manufacturer (public)",
+    "public_contact": ""
+  },
+  {
+    "name": "Haier Europe Appliances",
+    "region": "Europe",
+    "website": "https://www.haier-europe.com/",
+    "source_url": "https://www.haier-europe.com/",
+    "categories": [
+      "home_appliance",
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:eu"
+    ],
+    "notes": "Haier Europe public appliance operations",
+    "public_contact": ""
+  },
+  {
+    "name": "Panasonic Heating & Cooling Europe",
+    "region": "Europe",
+    "website": "https://www.aircon.panasonic.eu/",
+    "source_url": "https://www.aircon.panasonic.eu/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu"
+    ],
+    "notes": "Panasonic H&C Europe public HVAC site",
+    "public_contact": ""
+  },
+  {
+    "name": "Mitsubishi Electric Hydronics & IT Cooling Systems S.p.A.",
+    "region": "Italy",
+    "website": "https://www.melcohit.com/",
+    "source_url": "https://www.melcohit.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Mitsubishi Electric HIT cooling systems (public)",
+    "public_contact": ""
+  },
+  {
+    "name": "Systemair AB",
+    "region": "Sweden",
+    "website": "https://www.systemair.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Systemair",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "wiki_public"
+    ],
+    "notes": "Swedish ventilation / HVAC manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Nibe Industrier AB",
+    "region": "Sweden",
+    "website": "https://www.nibe.com/",
+    "source_url": "https://en.wikipedia.org/wiki/NIBE_Industrier",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "wiki_public"
+    ],
+    "notes": "Swedish heat pump / heating manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Stiebel Eltron GmbH & Co. KG",
+    "region": "Germany",
+    "website": "https://www.stiebel-eltron.com/",
+    "source_url": "https://www.stiebel-eltron.com/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "German heat pump / water heater manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "Vinotemp International",
+    "region": "United States",
+    "website": "https://www.vinotemp.com/",
+    "source_url": "https://www.vinotemp.com/",
+    "categories": [
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US wine cellar / cooler manufacturer",
+    "public_contact": ""
+  },
+  {
+    "name": "EuroCave SA",
+    "region": "France",
+    "website": "https://www.eurocave.com/",
+    "source_url": "https://www.eurocave.com/",
+    "categories": [
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "French wine cellar manufacturer",
+    "public_contact": ""
   }
 ]

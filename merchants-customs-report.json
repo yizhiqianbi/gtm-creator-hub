@@ -1,28 +1,28 @@
 {
   "customs_candidates": 926,
-  "added": 26,
-  "enriched_existing": 900,
+  "added": 0,
+  "enriched_existing": 926,
   "skipped_logistics": 0,
-  "total_after": 4405,
+  "total_after": 4546,
   "by_type": {
     "factory": 283,
-    "manufacturer": 2000,
-    "exporter": 751,
+    "manufacturer": 2112,
+    "exporter": 760,
     "importer": 160,
     "brand": 329,
-    "wholesaler": 874,
+    "wholesaler": 894,
     "b2b_store": 8
   },
-  "with_hs": 932,
+  "with_hs": 933,
   "by_trade_role": {
-    "unset": 3473,
-    "exporter": 772,
+    "unset": 3613,
+    "exporter": 773,
     "importer": 160
   },
   "sources_used": [
     "importdoor",
     "importyeti"
   ],
-  "before": 4379,
-  "net_new": 26
+  "before": 4546,
+  "net_new": 0
 }

@@ -208,7 +208,8 @@ def parse_customs_dir(raw: Path) -> dict:
         return companies
 
     # ImportYeti HS / supplier pages
-    for p in sorted(raw.glob("yeti-*.html")):
+    yeti_files = list(raw.glob("yeti-*.html")) + list(raw.glob("daily_*/yeti-*.html"))
+    for p in sorted(set(yeti_files)):
         m = re.search(r"yeti-(\d{4,10})", p.name)
         hs = m.group(1) if m else ""
         t = p.read_text(encoding="utf-8", errors="replace")
@@ -218,7 +219,8 @@ def parse_customs_dir(raw: Path) -> dict:
             add(name, "importer", hs, "importyeti", f"https://www.importyeti.com{href}")
 
     # ImportDoor product / heading pages
-    for p in sorted(list(raw.glob("products_*.html")) + list(raw.glob("id-*.html"))):
+    prod_files = list(raw.glob("products_*.html")) + list(raw.glob("id-*.html")) + list(raw.glob("daily_*/products_*.html")) + list(raw.glob("daily_*/id-*.html"))
+    for p in sorted(set(prod_files)):
         t = p.read_text(encoding="utf-8", errors="replace")
         hm = re.search(r"(?:products_|HS |hs[_ ]?code[^0-9]{0,12}|heading/)(\d{4,10})", p.name + " " + t[:2500], re.I)
         hs = hm.group(1) if hm else ""

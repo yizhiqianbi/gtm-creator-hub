@@ -1,18 +1,18 @@
 {
-  "before": 4406,
-  "after": 4546,
-  "net_new": 140,
+  "before": 4557,
+  "after": 4603,
+  "net_new": 46,
   "stats": {
-    "enriched": 5931,
-    "added": 140,
+    "enriched": 6575,
+    "added": 46,
     "overseas_oem": {
-      "before": 4546,
-      "after": 4546,
+      "before": 4603,
+      "after": 4603,
       "added_curated": 0,
       "added_crustdata": 0,
       "added_portable_csv": 0,
       "added_europages": 0,
-      "retag_touched": 18,
+      "retag_touched": 31,
       "skipped_china": 0,
       "skipped_irrelevant": 0,
       "net_new": 0
@@ -22,19 +22,19 @@
       "added": 0,
       "enriched_existing": 926,
       "skipped_logistics": 0,
-      "total_after": 4546,
+      "total_after": 4603,
       "by_type": {
-        "factory": 283,
-        "manufacturer": 2112,
+        "factory": 284,
+        "manufacturer": 2136,
         "exporter": 760,
         "importer": 160,
         "brand": 329,
-        "wholesaler": 894,
+        "wholesaler": 926,
         "b2b_store": 8
       },
       "with_hs": 933,
       "by_trade_role": {
-        "unset": 3613,
+        "unset": 3670,
         "exporter": 773,
         "importer": 160
       },
@@ -45,26 +45,11 @@
     }
   },
   "added_by_source_tag": {
-    "channel": 20,
-    "mic": 118,
-    "trade_show": 2
+    "channel": 32,
+    "mic": 14
   },
   "before_by_source_tag": {
-    "source:overseas_oem": 1520,
-    "source:linkedin": 1622,
-    "source:alibaba": 114,
-    "source:channel": 647,
-    "source:mic": 389,
-    "source:trade_show": 373,
-    "source:1688": 4,
-    "source:unset": 30,
-    "source:association": 248,
-    "source:customs": 906,
-    "source:maps": 205,
-    "source:directory": 1
-  },
-  "after_by_source_tag": {
-    "source:overseas_oem": 1520,
+    "source:overseas_oem": 1535,
     "source:linkedin": 1622,
     "source:alibaba": 114,
     "source:channel": 670,
@@ -75,18 +60,32 @@
     "source:association": 248,
     "source:customs": 933,
     "source:maps": 205,
-    "source:directory": 1
+    "source:directory": 2
+  },
+  "after_by_source_tag": {
+    "source:overseas_oem": 1535,
+    "source:linkedin": 1622,
+    "source:alibaba": 114,
+    "source:channel": 705,
+    "source:mic": 522,
+    "source:trade_show": 375,
+    "source:1688": 4,
+    "source:unset": 4,
+    "source:association": 248,
+    "source:customs": 933,
+    "source:maps": 205,
+    "source:directory": 2
   },
   "by_type": {
-    "factory": 283,
-    "manufacturer": 2112,
+    "factory": 284,
+    "manufacturer": 2136,
     "exporter": 760,
     "importer": 160,
     "brand": 329,
-    "wholesaler": 894,
+    "wholesaler": 926,
     "b2b_store": 8
   },
-  "with_website": 2417,
+  "with_website": 2473,
   "with_hs": 933,
   "blockers": [
     "Alibaba supplier pages often 404/JS-shell via plain curl; used WebFetch + HTML regex where available",

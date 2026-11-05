@@ -449,7 +449,10 @@ def ingest_mic(db: MerchantDB):
         if not path.exists() or path.stat().st_size < 5000:
             continue
         stem = path.stem
-        hint = hint_map.get(stem, stem.replace("-", "_"))
+        # normalize daily/page suffixes: portable-ac-daily-2026-11-05 -> portable-ac
+        stem_norm = re.sub(r"-daily-\d{4}-\d{2}-\d{2}$", "", stem)
+        stem_norm = re.sub(r"-p\d+$", "", stem_norm)
+        hint = hint_map.get(stem, hint_map.get(stem_norm, stem_norm.replace("-", "_")))
         for item in parse_mic_html(path, hint):
             db.add(
                 name=item["name"], type_=item["type"], region=item["region"],
