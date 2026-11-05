@@ -62,7 +62,7 @@
     "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML",
     "Customs net_new 0 after enrich-only pass (926 candidates already present)"
   ],
-  "commit_sha": null,
+  "commit_sha": "ddbabb280b5b31604d04419745d8f4846f11f4e7",
   "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
   "stay_silent": false
 }
