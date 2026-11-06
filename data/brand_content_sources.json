@@ -516,6 +516,19 @@
     ]
   },
   {
+    "title": "B&Q UK heating hub",
+    "url": "https://www.diy.com/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "英 B&Q 取暖入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "BLACK+DECKER product support",
     "url": "https://www.blackanddecker.com/support",
     "niche": "heater",
@@ -568,6 +581,19 @@
     ]
   },
   {
+    "title": "Gamma NL DIY climate",
+    "url": "https://www.gamma.nl/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "荷 Gamma 气候入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Home Hardware CA heating",
     "url": "https://www.homehardware.ca/",
     "niche": "heater",
@@ -576,6 +602,58 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "HomePro TH climate",
+    "url": "https://www.homepro.co.th/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "泰 HomePro 气候入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Leroy Merlin FR heating",
+    "url": "https://www.leroymerlin.fr/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "法乐华梅兰取暖入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Mitre 10 NZ heating",
+    "url": "https://www.mitre10.co.nz/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "新西兰 Mitre10 取暖 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Obi DE climate category",
+    "url": "https://www.obi.de/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "德 OBI 气候品类 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "heater",
       "route:brand_content"
     ]
@@ -594,6 +672,19 @@
     ]
   },
   {
+    "title": "Rheem US support hub",
+    "url": "https://www.rheem.com/support/",
+    "niche": "heater",
+    "asset_type": "faq",
+    "notes": "Rheem 美取暖支持 · daily_2026-11-06",
+    "tags": [
+      "daily_2026_11_06",
+      "faq",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Rinnai AU heating guides",
     "url": "https://www.rinnai.com.au/",
     "niche": "heater",
@@ -602,6 +693,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Screwfix UK heating category",
+    "url": "https://www.screwfix.com/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "英 Screwfix 取暖入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "heater",
       "route:brand_content"
     ]
@@ -713,6 +817,19 @@
     "asset_type": "faq",
     "notes": "空净品牌支持",
     "tags": [
+      "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Bosch Home US support",
+    "url": "https://www.bosch-home.com/us/support",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "Bosch 美国家电支持 · daily_2026-11-06",
+    "tags": [
+      "daily_2026_11_06",
       "faq",
       "home_appliance",
       "route:brand_content"
@@ -871,6 +988,19 @@
     "notes": "能效标准公开库",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Darty FR climate support",
+    "url": "https://www.darty.com/",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "法 Darty 家电入口 · daily_2026-11-06",
+    "tags": [
+      "daily_2026_11_06",
+      "faq",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1168,6 +1298,19 @@
     ]
   },
   {
+    "title": "Noel Leeming NZ appliances",
+    "url": "https://www.noelleeming.co.nz/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "新西兰 Noel Leeming 家电 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "RTINGS dehumidifier",
     "url": "https://www.rtings.com/dehumidifier",
     "niche": "home_appliance",
@@ -1369,6 +1512,19 @@
     "notes": "家电服务支持",
     "tags": [
       "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Wirecutter home climate picks",
+    "url": "https://www.nytimes.com/wirecutter/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Wirecutter 家电选购入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1609,6 +1765,19 @@
     ]
   },
   {
+    "title": "City Plumbing UK HVAC trade hub",
+    "url": "https://www.cityplumbing.co.uk/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "英贸易暖通入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Daikin Australia support / resources",
     "url": "https://www.daikin.com.au/support",
     "niche": "hvac",
@@ -1680,6 +1849,19 @@
     "notes": "智能温控/暖通支持",
     "tags": [
       "faq",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Hornbach DE HVAC hub",
+    "url": "https://www.hornbach.de/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "德 Hornbach 暖通入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "hvac",
       "route:brand_content"
     ]
@@ -1886,6 +2068,19 @@
     ]
   },
   {
+    "title": "Thai Watsadu HVAC",
+    "url": "https://www.thaiwatsadu.com/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "泰建材暖通入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "This Old House HVAC guides",
     "url": "https://www.thisoldhouse.com/heating-cooling",
     "niche": "hvac",
@@ -1921,6 +2116,19 @@
       "hvac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Wolseley UK trade resources",
+    "url": "https://www.wolseley.co.uk/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "英 Wolseley 贸易入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "hvac",
+      "route:brand_content"
     ]
   },
   {
@@ -2029,6 +2237,19 @@
     "notes": "权威内容/教育素材源",
     "tags": [
       "brochure",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Animates NZ pet care",
+    "url": "https://www.animates.co.nz/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "新西兰宠物护理入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "pet_gear",
       "route:brand_content"
     ]
@@ -2603,6 +2824,19 @@
     ]
   },
   {
+    "title": "AO.com UK portable AC hub",
+    "url": "https://ao.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "英 AO 便携空调入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "ArgoClima portable AC EN",
     "url": "https://www.argoclima.com/en/",
     "niche": "portable_ac",
@@ -2652,6 +2886,32 @@
     ]
   },
   {
+    "title": "Boulanger FR climate",
+    "url": "https://www.boulanger.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "法 Boulanger 气候入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Bunnings NZ climate",
+    "url": "https://www.bunnings.co.nz/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "新西兰 Bunnings 气候 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Chigo",
     "url": "https://www.chigo.com/",
     "niche": "portable_ac",
@@ -2677,6 +2937,19 @@
     ]
   },
   {
+    "title": "Coolblue NL climate advice",
+    "url": "https://www.coolblue.nl/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "荷 Coolblue 气候建议 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Coolblue airco buying guide (NL)",
     "url": "https://www.coolblue.nl/advies/airco.html",
     "niche": "portable_ac",
@@ -2685,6 +2958,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_04",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Currys UK cooling guides",
+    "url": "https://www.currys.co.uk/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "英 Currys 制冷入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "portable_ac",
       "route:brand_content"
     ]
@@ -2852,6 +3138,19 @@
     ]
   },
   {
+    "title": "Harvey Norman MY climate",
+    "url": "https://www.harveynorman.com.my/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "马 Harvey Norman 气候 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Hisense US air products",
     "url": "https://www.hisense-usa.com/",
     "niche": "portable_ac",
@@ -2920,6 +3219,19 @@
     "notes": "大品牌综合支持门户",
     "tags": [
       "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "MediaMarkt DE appliances",
+    "url": "https://www.mediamarkt.de/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "德 MediaMarkt 家电入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3024,6 +3336,19 @@
     ]
   },
   {
+    "title": "Power Buy TH appliances",
+    "url": "https://www.powerbuy.co.th/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "泰 Power Buy 家电 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Prime Wholesale AU shop / portable AC",
     "url": "https://www.primewholesale.com.au/shop/",
     "niche": "portable_ac",
@@ -3032,6 +3357,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Senheng MY appliances hub",
+    "url": "https://www.senheng.com.my/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "马 Senheng 家电入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3479,6 +3817,19 @@
     ]
   },
   {
+    "title": "Bol.com NL wine coolers",
+    "url": "https://www.bol.com/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "荷 Bol 酒柜入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "Breezaire FAQ",
     "url": "https://breezaire.com/faq/",
     "niche": "wine_cooler",
@@ -3589,6 +3940,19 @@
     ]
   },
   {
+    "title": "EuroCave cellar systems",
+    "url": "https://www.eurocave.com/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "欧系酒窖系统入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "Friax Australia cellar systems",
     "url": "https://friax.com.au/friax-australia/",
     "niche": "wine_cooler",
@@ -3677,6 +4041,19 @@
     ]
   },
   {
+    "title": "Majestic Wine UK storage tips",
+    "url": "https://www.majestic.co.uk/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "英 Majestic 储酒入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "NewAir learning / support",
     "url": "https://www.newair.com/pages/support",
     "niche": "wine_cooler",
@@ -3736,6 +4113,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Total Wine storage aisle",
+    "url": "https://www.totalwine.com/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "美 Total Wine 储酒入口 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "route:brand_content",
       "wine_cooler"
     ]
@@ -3970,6 +4360,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Wineware UK cellar cooling",
+    "url": "https://www.wineware.co.uk/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "英酒窖制冷专科 · daily_2026-11-06",
+    "tags": [
+      "brochure",
+      "daily_2026_11_06",
       "route:brand_content",
       "wine_cooler"
     ]

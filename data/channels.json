@@ -1259,6 +1259,45 @@
     "notes": "PIDA public directory domain"
   },
   {
+    "name": "Animates NZ pet",
+    "type": "dealer",
+    "region": "NZ",
+    "website": "https://www.animates.co.nz/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.animates.co.nz/",
+    "tags": [
+      "dealer",
+      "nz",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "NZ Animates pet specialty · daily_2026-11-06"
+  },
+  {
+    "name": "AO.com UK appliances",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://ao.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://ao.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK AO.com climate appliances · daily_2026-11-06"
+  },
+  {
     "name": "Aosom / HOMCOM (B2B)",
     "type": "brand",
     "region": "United Kingdom/EU",
@@ -1623,6 +1662,27 @@
       "uk"
     ],
     "notes": "UK big-box heating/cooling · daily_2026-11-04"
+  },
+  {
+    "name": "B&Q UK heating",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.diy.com/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.diy.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK B&Q DIY heating/cooling · daily_2026-11-06"
   },
   {
     "name": "Baganz Lüftungstechnik & Dienstleistungen GmbH",
@@ -2170,6 +2230,48 @@
     "notes": "medium — wholesaler/distributor (weak AC signal)"
   },
   {
+    "name": "Bol.com NL climate",
+    "type": "dealer",
+    "region": "NL",
+    "website": "https://www.bol.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "wine_cooler"
+    ],
+    "source_url": "https://www.bol.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nl",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NL Bol.com climate / wine coolers · daily_2026-11-06"
+  },
+  {
+    "name": "Boulanger FR appliances",
+    "type": "dealer",
+    "region": "FR",
+    "website": "https://www.boulanger.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.boulanger.com/",
+    "tags": [
+      "dealer",
+      "fr",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "FR Boulanger climate appliances · daily_2026-11-06"
+  },
+  {
     "name": "Boutique Transtherm",
     "type": "dealer",
     "region": "intl",
@@ -2342,6 +2444,27 @@
       "shopify"
     ],
     "notes": "Tech lookup for storefronts"
+  },
+  {
+    "name": "Bunnings NZ climate",
+    "type": "dealer",
+    "region": "NZ",
+    "website": "https://www.bunnings.co.nz/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://www.bunnings.co.nz/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nz",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NZ Bunnings climate · daily_2026-11-06"
   },
   {
     "name": "Business Edge",
@@ -3397,6 +3520,27 @@
     "notes": "NL/BE specialty CE climate · daily_2026-11-04"
   },
   {
+    "name": "Coolblue NL appliances",
+    "type": "dealer",
+    "region": "NL",
+    "website": "https://www.coolblue.nl/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.coolblue.nl/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nl",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NL Coolblue climate CE · daily_2026-11-06"
+  },
+  {
     "name": "Coolwinecellar",
     "type": "distributor",
     "region": "intl",
@@ -3453,6 +3597,25 @@
       "wine_cooler"
     ],
     "notes": "Warehouse club channel · daily_2026-11-03"
+  },
+  {
+    "name": "Courts Mammoth MY",
+    "type": "dealer",
+    "region": "MY",
+    "website": "https://www.courts.com.my/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "home_appliance"
+    ],
+    "source_url": "https://www.courts.com.my/",
+    "tags": [
+      "dealer",
+      "my",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "MY Courts Mammoth appliances · daily_2026-11-06"
   },
   {
     "name": "Cousins Air",
@@ -3575,6 +3738,27 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Currys UK cooling/heating",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.currys.co.uk/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.currys.co.uk/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK Currys CE climate · daily_2026-11-06"
   },
   {
     "name": "Custom Wine Cellars",
@@ -4643,6 +4827,25 @@
     "notes": "Brand market site"
   },
   {
+    "name": "EuroCave UK / EU cellar",
+    "type": "distributor",
+    "region": "UK/EU",
+    "website": "https://www.eurocave.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.eurocave.com/",
+    "tags": [
+      "distributor",
+      "eu",
+      "route:channel_coop",
+      "uk",
+      "wine_cooler"
+    ],
+    "notes": "EuroCave wine cellar systems · daily_2026-11-06"
+  },
+  {
     "name": "EuroCave UK / EU dealers",
     "type": "dealer",
     "region": "EU/UK",
@@ -5316,6 +5519,27 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Gamma NL DIY climate",
+    "type": "dealer",
+    "region": "NL",
+    "website": "https://www.gamma.nl/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://www.gamma.nl/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nl",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NL Gamma DIY climate · daily_2026-11-06"
+  },
+  {
     "name": "GC Group / Condair dealers EU",
     "type": "distributor",
     "region": "EU",
@@ -5882,6 +6106,26 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Harvey Norman MY climate",
+    "type": "dealer",
+    "region": "MY",
+    "website": "https://www.harveynorman.com.my/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.harveynorman.com.my/",
+    "tags": [
+      "dealer",
+      "my",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "MY Harvey Norman climate · daily_2026-11-06"
+  },
+  {
     "name": "Heat Storm",
     "type": "brand",
     "region": "USA",
@@ -6066,6 +6310,27 @@
       "route:channel_coop"
     ],
     "notes": "Install matching"
+  },
+  {
+    "name": "HomePro TH climate",
+    "type": "dealer",
+    "region": "TH",
+    "website": "https://www.homepro.co.th/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "portable_ac",
+      "hvac"
+    ],
+    "source_url": "https://www.homepro.co.th/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "th"
+    ],
+    "notes": "TH HomePro climate aisle · daily_2026-11-06"
   },
   {
     "name": "Homery Luxury",
@@ -7580,6 +7845,27 @@
     "notes": "Lennox dealer locator · daily_2026-11-03"
   },
   {
+    "name": "Leroy Merlin FR HVAC",
+    "type": "dealer",
+    "region": "FR",
+    "website": "https://www.leroymerlin.fr/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.leroymerlin.fr/",
+    "tags": [
+      "dealer",
+      "fr",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "FR Leroy Merlin heating/cooling · daily_2026-11-06"
+  },
+  {
     "name": "LG HVAC partner locator",
     "type": "distributor",
     "region": "global",
@@ -7832,6 +8118,24 @@
       "wlw"
     ],
     "notes": "WLW directory listing"
+  },
+  {
+    "name": "Majestic Wine UK stores",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.majestic.co.uk/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.majestic.co.uk/",
+    "tags": [
+      "dealer",
+      "route:channel_coop",
+      "uk",
+      "wine_cooler"
+    ],
+    "notes": "UK Majestic Wine retail · daily_2026-11-06"
   },
   {
     "name": "Marshallferrets",
@@ -8227,6 +8531,27 @@
     "notes": "Nordic smart heater brand · daily_2026-11-04"
   },
   {
+    "name": "Mitre 10 NZ heating",
+    "type": "dealer",
+    "region": "NZ",
+    "website": "https://www.mitre10.co.nz/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.mitre10.co.nz/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "nz",
+      "route:channel_coop"
+    ],
+    "notes": "NZ Mitre 10 climate aisle · daily_2026-11-06"
+  },
+  {
     "name": "Mitsubishi Electric AU HVAC",
     "type": "distributor",
     "region": "AU",
@@ -8553,6 +8878,27 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Noel Leeming NZ appliances",
+    "type": "dealer",
+    "region": "NZ",
+    "website": "https://www.noelleeming.co.nz/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.noelleeming.co.nz/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nz",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NZ Noel Leeming climate CE · daily_2026-11-06"
   },
   {
     "name": "North East Aircon SG wholesale",
@@ -8941,6 +9287,24 @@
     "notes": "PIDA FetchFind public directory · daily_2026-11-03"
   },
   {
+    "name": "Pet Lovers Centre MY",
+    "type": "dealer",
+    "region": "MY",
+    "website": "https://www.petloverscentre.com.my/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petloverscentre.com.my/",
+    "tags": [
+      "dealer",
+      "my",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "MY Pet Lovers Centre · daily_2026-11-06"
+  },
+  {
     "name": "Pet Lovers Centre SG",
     "type": "dealer",
     "region": "SG",
@@ -8991,6 +9355,24 @@
       "route:channel_coop"
     ],
     "notes": "CA pet specialty retail · daily_2026-11-04"
+  },
+  {
+    "name": "Pet.co.nz NZ",
+    "type": "dealer",
+    "region": "NZ",
+    "website": "https://www.pet.co.nz/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.pet.co.nz/",
+    "tags": [
+      "dealer",
+      "nz",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "NZ Pet.co.nz specialty · daily_2026-11-06"
   },
   {
     "name": "Petagree",
@@ -9251,6 +9633,25 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Plumb Center UK",
+    "type": "wholesaler",
+    "region": "UK",
+    "website": "https://www.plumbcenter.co.uk/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.plumbcenter.co.uk/",
+    "tags": [
+      "hvac",
+      "route:channel_coop",
+      "uk",
+      "wholesaler"
+    ],
+    "notes": "UK Plumb Center heating · daily_2026-11-06"
+  },
+  {
     "name": "Portable Air Conditioning Hire UK",
     "type": "dealer",
     "region": "UK",
@@ -9265,6 +9666,26 @@
       "route:channel_coop"
     ],
     "notes": "UK hire/sales"
+  },
+  {
+    "name": "Power Buy TH appliances",
+    "type": "dealer",
+    "region": "TH",
+    "website": "https://www.powerbuy.co.th/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.powerbuy.co.th/",
+    "tags": [
+      "dealer",
+      "portable_ac",
+      "route:channel_coop",
+      "th"
+    ],
+    "notes": "TH Power Buy climate CE · daily_2026-11-06"
   },
   {
     "name": "Pps Heating",
@@ -9305,6 +9726,25 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Praxis NL heating",
+    "type": "dealer",
+    "region": "NL",
+    "website": "https://www.praxis.nl/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "source_url": "https://www.praxis.nl/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nl",
+      "route:channel_coop"
+    ],
+    "notes": "NL Praxis heating aisle · daily_2026-11-06"
   },
   {
     "name": "PREMIAIR HVAC LTD",
@@ -10149,6 +10589,26 @@
     "notes": "QC liquor board wine storage accessories · daily_2026-11-05"
   },
   {
+    "name": "Saturn DE climate",
+    "type": "dealer",
+    "region": "DE",
+    "website": "https://www.saturn.de/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.saturn.de/",
+    "tags": [
+      "de",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "DE Saturn climate products · daily_2026-11-06"
+  },
+  {
     "name": "Sauder Kälte-Klima GmbH",
     "type": "dealer",
     "region": "Aachen, Germany",
@@ -10341,6 +10801,27 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Senheng MY appliances",
+    "type": "dealer",
+    "region": "MY",
+    "website": "https://www.senheng.com.my/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.senheng.com.my/",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "my",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "MY Senheng climate CE · daily_2026-11-06"
   },
   {
     "name": "Sensisworld",
@@ -11455,6 +11936,27 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Thai Watsadu TH HVAC",
+    "type": "dealer",
+    "region": "TH",
+    "website": "https://www.thaiwatsadu.com/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.thaiwatsadu.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop",
+      "th"
+    ],
+    "notes": "TH Thai Watsadu building materials climate · daily_2026-11-06"
+  },
+  {
     "name": "THAUER Technology",
     "type": "dealer",
     "region": "Berlin, Germany",
@@ -11727,6 +12229,43 @@
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
+  },
+  {
+    "name": "Toolstation UK heaters",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.toolstation.com/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "source_url": "https://www.toolstation.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "route:channel_coop",
+      "uk"
+    ],
+    "notes": "UK Toolstation heating tools · daily_2026-11-06"
+  },
+  {
+    "name": "Total Wine & More US",
+    "type": "dealer",
+    "region": "USA",
+    "website": "https://www.totalwine.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.totalwine.com/",
+    "tags": [
+      "dealer",
+      "route:channel_coop",
+      "us",
+      "wine_cooler"
+    ],
+    "notes": "US Total Wine retail · daily_2026-11-06"
   },
   {
     "name": "Toyotomi (EU: Toyotomi Europe)",
@@ -12701,6 +13240,24 @@
     "notes": "Breezaire authorized dealer"
   },
   {
+    "name": "Wine Cooling Direct UK",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.winecoolingdirect.com/",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.winecoolingdirect.com/",
+    "tags": [
+      "dealer",
+      "route:channel_coop",
+      "uk",
+      "wine_cooler"
+    ],
+    "notes": "UK wine cooler DTC · daily_2026-11-06"
+  },
+  {
     "name": "Wine Corner NL",
     "type": "dealer",
     "region": "NL",
@@ -13165,6 +13722,24 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Wineware UK cellar cooling",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.wineware.co.uk/",
+    "contact_email": "sales@wineware.co.uk",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.wineware.co.uk/",
+    "tags": [
+      "dealer",
+      "route:channel_coop",
+      "uk",
+      "wine_cooler"
+    ],
+    "notes": "UK wine cellar cooling specialist · daily_2026-11-06"
+  },
+  {
     "name": "Wingdom",
     "type": "distributor",
     "region": "USA",
@@ -13198,6 +13773,25 @@
       "route:channel_coop"
     ],
     "notes": "Local wholesale network"
+  },
+  {
+    "name": "WinWholesale US HVAC",
+    "type": "wholesaler",
+    "region": "USA",
+    "website": "https://www.winwholesale.com/",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.winwholesale.com/",
+    "tags": [
+      "hvac",
+      "route:channel_coop",
+      "us",
+      "wholesaler"
+    ],
+    "notes": "US WinWholesale HVAC network · daily_2026-11-06"
   },
   {
     "name": "WLW / Europages HVAC search (public)",
