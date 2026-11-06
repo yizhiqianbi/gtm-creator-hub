@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-06",
+  "timezone": "Asia/Shanghai",
+  "before": 4603,
+  "after": 4686,
+  "net_delta": 83,
+  "overseas_oemish_before": 2550,
+  "overseas_oemish_after": 2604,
+  "overseas_oemish_delta": 54,
+  "flags_before": {
+    "overseas": 2530,
+    "oem": 1533,
+    "odm": 413,
+    "private_label": 287,
+    "source_overseas_oem": 1535,
+    "overseas_oemish": 2550
+  },
+  "flags_after": {
+    "overseas": 2584,
+    "oem": 1561,
+    "odm": 416,
+    "private_label": 289,
+    "source_overseas_oem": 1563,
+    "overseas_oemish": 2604
+  },
+  "sources_attempted": [
+    "customs",
+    "channel",
+    "trade_show",
+    "linkedin",
+    "maps",
+    "alibaba",
+    "1688",
+    "association",
+    "mic",
+    "overseas_oem"
+  ],
+  "sources_succeeded": [
+    "overseas_oem",
+    "channel",
+    "mic",
+    "customs_enrich_only"
+  ],
+  "added_by_source_tag": {
+    "overseas_oem_standalone": 28,
+    "channel": 26,
+    "mic": 29
+  },
+  "notes": [
+    "Fresh ImportDoor HS pages staged for 2026-11-06 (13 product pages); ImportYeti HS 841510 still 404; search pages JS-thin",
+    "MIC category pages re-fetched for 2026-11-06 (+29 net after dedupe): portable-ac, wine-cooler, space-heater, pet, beverage-cooler, dehumidifier, heat-pump, mini-fridge, pet-feeder, pet-dryer",
+    "Canton Fair HEA page refreshed; AHRI members HTML refreshed; AHAM page fetched (prior Cloudflare issues may persist)",
+    "Overseas OEM: +30 curated public manufacturers staged; +27 curated net +1 europages parse = +28 standalone after dedupe; Europages HTTP 202 challenge; ThomasNet/TradeIndia/Kompass/GlobalSources blocked",
+    "Crustdata account balance 0 credits — LinkedIn live expand skipped; reused prior linkedin/crustdata dump",
+    "Channels: +26 net from updated channels.json (creator hub refresh earlier same day)",
+    "Ran expand_merchants_customs.py then overseas_oem then multisource",
+    "Alibaba/1688 mostly 410/JS-shell/403; Apify not used; Apollo skipped"
+  ],
+  "blockers": [
+    "ImportYeti /hs-code/* returns 404 shell pages (search pages JS-thin)",
+    "Crustdata account balance 0 credits",
+    "Europages HTTP 202 challenge; ThomasNet/Alibaba/GlobalSources/TradeIndia/Kompass mostly blocked or JS-shell",
+    "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML",
+    "Customs net_new 0 after enrich-only pass (926 candidates already present)"
+  ],
+  "commit_sha": null,
+  "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
+  "stay_silent": false
+}

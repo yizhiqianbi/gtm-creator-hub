@@ -3766,5 +3766,548 @@
     ],
     "notes": "French wine cellar manufacturer",
     "public_contact": ""
+  },
+  {
+    "name": "B.Grimm Group",
+    "region": "Thailand",
+    "website": "https://www.bgrimmgroup.com/",
+    "source_url": "https://en.wikipedia.org/wiki/B.Grimm",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:th"
+    ],
+    "notes": "Thailand conglomerate; manufactures Carrier commercial/light-commercial AC systems (public wiki + corporate site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş.",
+    "region": "Turkey",
+    "website": "https://www.vestel.com.tr/",
+    "source_url": "https://www.vestel.com.tr/",
+    "categories": [
+      "home_appliance",
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "private_label",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Major Turkish OEM/ODM white-goods manufacturer (public corporate site)",
+    "public_contact": ""
+  },
+  {
+    "name": "VTS Group",
+    "region": "Poland",
+    "website": "https://www.vtsgroup.com/",
+    "source_url": "https://www.vtsgroup.com/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pl"
+    ],
+    "notes": "Polish HVAC air handling / ventilation manufacturer (public corporate site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Baxi Heating UK Ltd",
+    "region": "United Kingdom",
+    "website": "https://www.baxi.co.uk/",
+    "source_url": "https://www.baxi.co.uk/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "UK boiler/heating manufacturer (Baxi public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Smeg S.p.A.",
+    "region": "Italy",
+    "website": "https://www.smeg.com/",
+    "source_url": "https://www.smeg.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian home appliance manufacturer (public corporate site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Asko Appliances AB",
+    "region": "Sweden",
+    "website": "https://www.asko.com/",
+    "source_url": "https://www.asko.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:se"
+    ],
+    "notes": "Swedish premium appliance manufacturer (Gorenje/Hisense group; public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Faber S.p.A.",
+    "region": "Italy",
+    "website": "https://www.faberspa.com/",
+    "source_url": "https://www.faberspa.com/",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian cooker hood / kitchen appliance manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Robur S.p.A.",
+    "region": "Italy",
+    "website": "https://www.robur.com/",
+    "source_url": "https://www.robur.com/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian gas heat pump / HVAC manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Saunier Duval",
+    "region": "France",
+    "website": "https://www.saunierduval.fr/",
+    "source_url": "https://www.saunierduval.fr/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "French heating / boiler brand-manufacturer (Vaillant Group; public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "De Dietrich Thermique",
+    "region": "France",
+    "website": "https://www.dedietrich-thermique.fr/",
+    "source_url": "https://www.dedietrich-thermique.fr/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "French heating systems manufacturer (BDR Thermea; public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Cosmogas S.r.l.",
+    "region": "Italy",
+    "website": "https://www.cosmogas.com/",
+    "source_url": "https://www.cosmogas.com/",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian condensing boiler / heating OEM (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Italtherm S.r.l.",
+    "region": "Italy",
+    "website": "https://www.italtherm.it/",
+    "source_url": "https://www.italtherm.it/",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian boiler manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Fondital S.p.A.",
+    "region": "Italy",
+    "website": "https://www.fondital.com/",
+    "source_url": "https://www.fondital.com/",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian radiator / heating manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Radiant Bruciatori S.p.A.",
+    "region": "Italy",
+    "website": "https://www.radiant.it/",
+    "source_url": "https://www.radiant.it/",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian burner / boiler manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Baxi S.p.A.",
+    "region": "Italy",
+    "website": "https://www.baxi.it/",
+    "source_url": "https://www.baxi.it/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Italian Baxi heating manufacturer (BDR Thermea; public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Zehnder Group AG",
+    "region": "Switzerland",
+    "website": "https://www.zehndergroup.com/",
+    "source_url": "https://www.zehndergroup.com/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch"
+    ],
+    "notes": "Swiss HVAC / radiant heating / ventilation manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Hitachi Cooling & Heating Europe",
+    "region": "Europe",
+    "website": "https://www.hitachiaircon.com/",
+    "source_url": "https://www.hitachiaircon.com/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu"
+    ],
+    "notes": "Hitachi Cooling & Heating Europe public HVAC site",
+    "public_contact": ""
+  },
+  {
+    "name": "Metalfrio Solutions S.A.",
+    "region": "Brazil",
+    "website": "https://www.metalfrio.com.br/",
+    "source_url": "https://www.metalfrio.com.br/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Brazilian commercial refrigeration / beverage cooler OEM (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Elgin S/A",
+    "region": "Brazil",
+    "website": "https://www.elgin.com.br/",
+    "source_url": "https://www.elgin.com.br/",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Brazilian HVAC / refrigeration / appliance manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Komeco",
+    "region": "Brazil",
+    "website": "https://www.komeco.com.br/",
+    "source_url": "https://www.komeco.com.br/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Brazilian air conditioning manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Agratto",
+    "region": "Brazil",
+    "website": "https://www.agratto.com.br/",
+    "source_url": "https://www.agratto.com.br/",
+    "categories": [
+      "portable_ac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Brazilian portable AC / appliance brand-manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Minh Anh Manufacturing",
+    "region": "Vietnam",
+    "website": "https://minhanhfactory.com/",
+    "source_url": "https://minhanhfactory.com/en/oem-odm/",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "type": "factory",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam OEM/ODM for heaters, air coolers, fans (public factory site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Green Cooler (Energium)",
+    "region": "Turkey",
+    "website": "https://www.greencooler.com.tr/",
+    "source_url": "https://greencooler.com.tr/custom-made/",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Turkish wine cooler manufacturer with custom/OEM capability (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Homichi Co., Ltd.",
+    "region": "Vietnam",
+    "website": "https://www.homichi.com/",
+    "source_url": "https://www.homichi.com/",
+    "categories": [
+      "hvac",
+      "heater",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:vn"
+    ],
+    "notes": "Vietnam OEM/ODM for AC, fans, water heaters, range hoods (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "AHT Cooling Systems GmbH",
+    "region": "Austria",
+    "website": "https://www.aht.at/",
+    "source_url": "https://en.wikipedia.org/wiki/AHT_Cooling_Systems",
+    "categories": [
+      "wine_cooler",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:at"
+    ],
+    "notes": "Austrian commercial refrigeration / freezer manufacturer (Daikin; public wiki + site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Lloyd (Havells Lloyd Appliances)",
+    "region": "India",
+    "website": "https://www.havells.com/",
+    "source_url": "https://www.havells.com/",
+    "categories": [
+      "portable_ac",
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Indian AC/appliance brand under Havells with manufacturing (public Havells Lloyd page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Elco Heating Solutions",
+    "region": "Switzerland",
+    "website": "https://www.ariston.com/",
+    "source_url": "https://www.ariston.com/",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch"
+    ],
+    "notes": "ELCO heating solutions brand under Ariston Group (public Ariston corporate site)",
+    "public_contact": ""
+  },
+  {
+    "name": "CTA AG Climate Technology",
+    "region": "Switzerland",
+    "website": "https://www.cta.ch/",
+    "source_url": "https://www.cta.ch/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch"
+    ],
+    "notes": "Swiss heat pump / climate technology manufacturer (public site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Whirlpool México",
+    "region": "Mexico",
+    "website": "https://www.whirlpool.com.mx/",
+    "source_url": "https://www.whirlpool.com.mx/",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:mx"
+    ],
+    "notes": "Whirlpool Mexico appliance manufacturing / market site (public)",
+    "public_contact": ""
+  },
+  {
+    "name": "Tadiran Appliances",
+    "region": "Israel",
+    "website": "https://www.tadiran-international.com/",
+    "source_url": "https://www.tadiran-international.com/",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:il"
+    ],
+    "notes": "Israeli AC manufacturer (public international site if reachable; well-known OEM)",
+    "public_contact": ""
   }
 ]
