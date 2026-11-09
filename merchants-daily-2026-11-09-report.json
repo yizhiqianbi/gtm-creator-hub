@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "before": 4686,
+  "after": 4749,
+  "net_delta": 63,
+  "overseas_oemish_before": 2604,
+  "overseas_oemish_after": 2659,
+  "overseas_oemish_delta": 55,
+  "flags_before": {
+    "overseas": 2584,
+    "oem": 1561,
+    "odm": 416,
+    "private_label": 289,
+    "source_overseas_oem": 1563,
+    "overseas_oemish": 2604
+  },
+  "flags_after": {
+    "overseas": 2639,
+    "oem": 1583,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1585,
+    "overseas_oemish": 2659
+  },
+  "sources_attempted": [
+    "customs",
+    "channel",
+    "trade_show",
+    "linkedin",
+    "maps",
+    "alibaba",
+    "1688",
+    "association",
+    "mic",
+    "overseas_oem"
+  ],
+  "sources_succeeded": [
+    "overseas_oem",
+    "channel",
+    "mic",
+    "customs_enrich_only"
+  ],
+  "added_by_source_tag": {
+    "overseas_oem_standalone": 22,
+    "channel": 33,
+    "mic": 8
+  },
+  "notes": [
+    "Fresh ImportDoor HS pages staged for 2026-11-09 (13 product pages); ImportYeti HS 841510 still 404",
+    "MIC category pages re-fetched for 2026-11-09 (+8 net after dedupe): portable-ac, wine-cooler, space-heater, pet, beverage-cooler, dehumidifier, heat-pump, mini-fridge, pet-feeder, pet-dryer",
+    "Canton Fair HEA page refreshed (exhibitors already present); AHRI members HTML refreshed; AHAM public directory page fetched (same size as prior snapshot)",
+    "Overseas OEM: +22 curated public manufacturers staged from Wikipedia HVAC/home-appliance manufacturer category pages and verified official sites (Airedale, Artel, BDR Thermea, CIAT, CaptiveAire, Embraco, GEA Refrigeration, Groupe SEB, J & E Hall, Jøtul, Mirgor, Temperzone, Walton, Winia, Stelrad, Thermax, Singer Bangladesh, BPL Limited, MarinAire, Mitsubishi Heavy Industries, American Standard Heating & Air Conditioning, Hamilton Beach Brands); Europages HTTP 202 challenge; ThomasNet/TradeIndia/Kompass/GlobalSources blocked",
+    "Crustdata account balance 0 credits — LinkedIn live expand skipped; reused prior linkedin/crustdata dump",
+    "Channels: +33 net from updated channels.json (creator hub refresh earlier same day)",
+    "Ran expand_merchants_customs.py then overseas_oem then multisource",
+    "Alibaba/1688 mostly 410/JS-shell/403; Wikipedia manufacturer-list titles 404 (noarticletext); Apify not used; Apollo skipped"
+  ],
+  "blockers": [
+    "ImportYeti /hs-code/* returns 404 shell pages (search pages JS-thin)",
+    "Crustdata account balance 0 credits",
+    "Europages HTTP 202 challenge; ThomasNet/Alibaba/GlobalSources/TradeIndia/Kompass mostly blocked or JS-shell",
+    "Wikipedia List of air conditioner manufacturers / List of HVAC companies returned noarticletext 404; used existing category snapshots plus individual company articles",
+    "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML",
+    "Customs net_new 0 after enrich-only pass (926 candidates already present)"
+  ],
+  "commit_sha": "",
+  "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
+  "stay_silent": false
+}

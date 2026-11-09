@@ -10470,6 +10470,37 @@
     "trade_role": ""
   },
   {
+    "name": "Airedale International Air Conditioning",
+    "type": "manufacturer",
+    "region": "United Kingdom",
+    "website": "https://www.airedale.com/",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Airedale_International_Air_Conditioning",
+    "tags": [
+      "curated_overseas",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "portable_ac",
+      "region:gb",
+      "region:in",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "UK precision / data-centre and commercial air conditioning manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Airfel",
     "type": "manufacturer",
     "region": "Turkey",
@@ -11596,6 +11627,36 @@
     "trade_role": "exporter"
   },
   {
+    "name": "American Standard Heating & Air Conditioning",
+    "type": "manufacturer",
+    "region": "United States",
+    "website": "https://www.americanstandardair.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/American_Standard_Companies",
+    "tags": [
+      "curated_overseas",
+      "heater",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "US HVAC manufacturer brand (American Standard Heating & Air Conditioning; public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "American Zettler, Inc.",
     "type": "manufacturer",
     "region": "United States",
@@ -12568,6 +12629,37 @@
       "trade_show"
     ],
     "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Artel Electronics",
+    "type": "manufacturer",
+    "region": "Uzbekistan",
+    "website": "https://artelelectronics.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Artel_Electronics",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:be",
+      "region:uz",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Uzbekistan home appliance manufacturer including refrigerators and air conditioners (public Wikipedia + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -13745,6 +13837,37 @@
       "source:overseas_oem"
     ],
     "notes": "Turkey heating/boiler manufacturer",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "BDR Thermea",
+    "type": "manufacturer",
+    "region": "Netherlands",
+    "website": "https://www.bdrthermeagroup.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/BDR_Thermea",
+    "tags": [
+      "curated_overseas",
+      "heater",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:nl",
+      "region:th",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "European heating and hot-water manufacturer group (public Wikipedia HVAC companies category + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -15103,6 +15226,34 @@
     "trade_role": ""
   },
   {
+    "name": "BPL Limited",
+    "type": "manufacturer",
+    "region": "India",
+    "website": "https://www.bpl.in/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/BPL_Group",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:in",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Indian consumer durables / home appliance manufacturer (public Wikipedia home appliance manufacturers category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "BR DIZAYN ANONIM SIRKETI",
     "type": "manufacturer",
     "region": "International / Canton Fair",
@@ -16040,6 +16191,34 @@
       "source:linkedin"
     ],
     "notes": "LinkedIn-indexed company · Capitor is a global and professional manufacturer and service-provider in refrigerated air dryer and post-treatment equipment with integration of R&D, design, manufacture and marketing.",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "CaptiveAire Systems",
+    "type": "manufacturer",
+    "region": "United States",
+    "website": "https://www.captiveaire.com/",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/CaptiveAire_Systems",
+    "tags": [
+      "curated_overseas",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:us",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "US commercial kitchen ventilation and HVAC manufacturer (public Wikipedia HVAC companies category + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -17206,6 +17385,36 @@
       "841850"
     ],
     "trade_role": "exporter"
+  },
+  {
+    "name": "CIAT Group",
+    "type": "manufacturer",
+    "region": "France",
+    "website": "https://www.ciat.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/CIAT_Group",
+    "tags": [
+      "curated_overseas",
+      "heater",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:fr",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "French HVAC / indoor air-quality manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
   },
   {
     "name": "CICERO HELLAS S.A. - CALPAK",
@@ -20640,6 +20849,7 @@
     "tags": [
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_products",
@@ -20782,6 +20992,7 @@
     "tags": [
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "pet_products",
       "public_directory",
@@ -22850,6 +23061,37 @@
       "trade_show"
     ],
     "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Embraco",
+    "type": "manufacturer",
+    "region": "Brazil",
+    "website": "https://www.embraco.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Embraco",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "manufacturer",
+      "odm",
+      "oem",
+      "overseas",
+      "region:br",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "wine_cooler"
+    ],
+    "notes": "Brazilian refrigeration compressor manufacturer used in domestic and commercial cooling (public Wikipedia + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -28965,6 +29207,36 @@
     "trade_role": ""
   },
   {
+    "name": "GEA Refrigeration Technologies",
+    "type": "manufacturer",
+    "region": "Germany",
+    "website": "https://www.gea.com/en/heating-refrigeration/",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/GEA_Refrigeration_Technologies",
+    "tags": [
+      "curated_overseas",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:de",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "wine_cooler"
+    ],
+    "notes": "German industrial refrigeration technology manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "General Air Conditioning Manufactur",
     "type": "manufacturer",
     "region": "Unknown",
@@ -30110,6 +30382,36 @@
       "source:overseas_oem"
     ],
     "notes": "We are offering Thermal Comfort solutions, Storage Water heaters, Instant Water Heaters, Heat Pump Water Heaters ( thermodynamic), Solar Water heaters, Buffer tanks heating panels, and towel dryers for domestic and commercial use.",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Groupe SEB",
+    "type": "manufacturer",
+    "region": "France",
+    "website": "https://www.groupeseb.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Groupe_SEB",
+    "tags": [
+      "curated_overseas",
+      "heater",
+      "home_appliance",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:fr",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "French small domestic appliance manufacturer group (public Wikipedia home appliance manufacturers category + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -31789,6 +32091,35 @@
     "trade_role": ""
   },
   {
+    "name": "GUANGZHOU GREAT EAST TRADING CO., LTD.",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://sunisky.en.made-in-china.com",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "pet_products"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/pet_product.html",
+    "tags": [
+      "home_appliance",
+      "made_in_china",
+      "manufacturer",
+      "pet",
+      "pet_product",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=pet_product",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Guangzhou Guangmeishun Kitchen Equipment Co., Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -32063,6 +32394,32 @@
       "source:mic"
     ],
     "notes": "MIC directory; niche hint=home-appliance",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "GuangZhou kolant Heat Technologies Co.,Ltd.",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://kolantheating.en.made-in-china.com/360-Virtual-Tour.html",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/hvac.html",
+    "tags": [
+      "hvac",
+      "made_in_china",
+      "manufacturer",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=hvac",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -32775,6 +33132,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -32933,6 +33291,35 @@
       "source:overseas_oem"
     ],
     "notes": "LinkedIn-indexed company · Manufacturer of the Acadia Advanced Air Source Heat Pumps. Hallowell International was founded to develop and commercialize concepts using patented boosted compression technology, advanced concepts an",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Hamilton Beach Brands",
+    "type": "manufacturer",
+    "region": "United States",
+    "website": "https://www.hamiltonbeach.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Hamilton_Beach_Brands",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "private_label",
+      "region:us",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "US small home appliance manufacturer (public Wikipedia home appliance manufacturers category + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -33528,7 +33915,9 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet-products",
+      "pet_product",
       "pet_products",
       "public_directory",
       "route:b2b_merchant",
@@ -33851,6 +34240,7 @@
     "tags": [
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_products",
@@ -33940,6 +34330,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -34675,6 +35066,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -34753,7 +35145,8 @@
     "website": "https://bentupet.en.made-in-china.com",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -34763,6 +35156,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -34880,6 +35274,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -38256,6 +38651,35 @@
     "trade_role": ""
   },
   {
+    "name": "J & E Hall",
+    "type": "manufacturer",
+    "region": "United Kingdom",
+    "website": "https://www.jehall.com/",
+    "public_contact": "",
+    "categories": [
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/J_%26_E_Hall",
+    "tags": [
+      "curated_overseas",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:gb",
+      "region:in",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "UK industrial refrigeration and HVAC manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "J H HEATING LTD",
     "type": "manufacturer",
     "region": "Royal Tunbridge Wells, England, United Kingdom",
@@ -39482,7 +39906,8 @@
     "website": "https://solidpets.en.made-in-china.com/360-Virtual-Tour.html",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -39492,6 +39917,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -39833,6 +40259,34 @@
       "trade_show"
     ],
     "notes": "Canton Fair Phase 1 International Pavilion public exhibitor PDF",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Jøtul",
+    "type": "manufacturer",
+    "region": "Norway",
+    "website": "https://www.jotul.com/",
+    "public_contact": "",
+    "categories": [
+      "heater"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/J%C3%B8tul",
+    "tags": [
+      "curated_overseas",
+      "heater",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:no",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Norwegian wood-burning stove and heater manufacturer (public Wikipedia HVAC companies category + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -42563,6 +43017,7 @@
     "tags": [
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_products",
@@ -43478,6 +43933,36 @@
     "trade_role": ""
   },
   {
+    "name": "MarinAire",
+    "type": "manufacturer",
+    "region": "United States",
+    "website": "https://marinaire.com/",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/MarinAire",
+    "tags": [
+      "curated_overseas",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "portable_ac",
+      "region:us",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "US marine and specialty air-conditioning manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Market Union Co. Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -43500,6 +43985,32 @@
       "source:mic"
     ],
     "notes": "MIC directory; niche hint=pet_daily",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Market Union Co. Ltd.",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://u4-mugroup.en.made-in-china.com/360-Virtual-Tour.html",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/pet_products.html",
+    "tags": [
+      "made_in_china",
+      "manufacturer",
+      "pet_products",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=pet_products",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -45176,6 +45687,40 @@
     "trade_role": ""
   },
   {
+    "name": "Mirgor",
+    "type": "manufacturer",
+    "region": "Argentina",
+    "website": "https://mirgor.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Mirgor",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "odm",
+      "oem",
+      "overseas",
+      "portable_ac",
+      "region:ar",
+      "region:in",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Argentine electronics and air-conditioner manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Mitsubishi Electric Consumer",
     "type": "manufacturer",
     "region": "Unknown",
@@ -45398,6 +45943,36 @@
       "source:overseas_oem"
     ],
     "notes": "Public association member directory (ahri.html)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Mitsubishi Heavy Industries",
+    "type": "manufacturer",
+    "region": "Japan",
+    "website": "https://www.mhi.com/",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries",
+    "tags": [
+      "curated_overseas",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "portable_ac",
+      "region:jp",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Japanese heavy-industry group manufacturing residential and commercial air conditioners (public Wikipedia HVAC companies category + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -46344,6 +46919,35 @@
     "trade_role": ""
   },
   {
+    "name": "Nanjing Petivar Technology Co., Ltd.",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://petivar.en.made-in-china.com",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "pet_products"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/pet_product.html",
+    "tags": [
+      "home_appliance",
+      "made_in_china",
+      "manufacturer",
+      "pet",
+      "pet_product",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=pet_product",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Nanjing Startemp Machinery Co., Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -46438,7 +47042,8 @@
     "website": "https://ntjchld.en.made-in-china.com/360-Virtual-Tour.html",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -46448,6 +47053,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -48507,6 +49113,32 @@
     "trade_role": ""
   },
   {
+    "name": "Ningbo Luke Medical Devices Co., Ltd.",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://canack.en.made-in-china.com/360-Virtual-Tour.html",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/pet_products.html",
+    "tags": [
+      "made_in_china",
+      "manufacturer",
+      "pet_products",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=pet_products",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Ningbo Ninfun Electrical Appliances Co., Ltd.",
     "type": "manufacturer",
     "region": "China",
@@ -48600,7 +49232,8 @@
     "website": "https://peacedi.en.made-in-china.com",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -48610,6 +49243,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -53487,6 +54121,35 @@
     "trade_role": ""
   },
   {
+    "name": "Pureytech Materials (Shenyang) Co., Ltd",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://sypureytech.en.made-in-china.com",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "pet_products"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/pet_product.html",
+    "tags": [
+      "home_appliance",
+      "made_in_china",
+      "manufacturer",
+      "pet",
+      "pet_product",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=pet_product",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "PURISYS.CO.,LTD.",
     "type": "manufacturer",
     "region": "International / Canton Fair",
@@ -53973,7 +54636,8 @@
     "website": "https://fullsunpackaging.en.made-in-china.com/360-Virtual-Tour.html",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -53983,6 +54647,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -58498,7 +59163,8 @@
     "website": "https://hfpetproduct.en.made-in-china.com/360-Virtual-Tour.html",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -58508,6 +59174,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -59083,6 +59750,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -59582,7 +60250,8 @@
     "website": "https://china-u-pets.en.made-in-china.com/360-Virtual-Tour.html",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -59592,6 +60261,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -60798,7 +61468,8 @@
     "website": "https://shirestar.en.made-in-china.com",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -60808,6 +61479,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -61813,6 +62485,35 @@
     "trade_role": ""
   },
   {
+    "name": "Singer Bangladesh",
+    "type": "manufacturer",
+    "region": "Bangladesh",
+    "website": "https://singerbd.com",
+    "public_contact": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Singer_Bangladesh",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:bd",
+      "region:de",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Bangladeshi home appliance manufacturer and brand (public Wikipedia home appliance manufacturers category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "SINSEUNG TOOLS CORPORATION",
     "type": "manufacturer",
     "region": "International / Canton Fair",
@@ -61989,6 +62690,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -63241,6 +63943,35 @@
       "source:overseas_oem"
     ],
     "notes": "Public association member directory (ahri.html)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Stelrad",
+    "type": "manufacturer",
+    "region": "United Kingdom",
+    "website": "https://www.stelrad.com/",
+    "public_contact": "",
+    "categories": [
+      "heater"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Stelrad",
+    "tags": [
+      "curated_overseas",
+      "heater",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:gb",
+      "region:in",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "UK radiator and heating products manufacturer (public Wikipedia HVAC companies category + official site)",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -65232,6 +65963,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -66278,6 +67010,36 @@
     "trade_role": ""
   },
   {
+    "name": "Temperzone",
+    "type": "manufacturer",
+    "region": "New Zealand",
+    "website": "https://www.temperzone.com/",
+    "public_contact": "",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Temperzone",
+    "tags": [
+      "curated_overseas",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "portable_ac",
+      "region:nz",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "New Zealand / Australia HVAC and air-conditioning manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Tempsens Instruments (India) Limited- Heater Division",
     "type": "manufacturer",
     "region": "Lakadwas, Matoon, Udaipur Industrial Area, Kaladwas, Bhoiyon Ki Pancholi, Kanpur, Rajasthan, India",
@@ -66911,6 +67673,36 @@
     "trade_role": ""
   },
   {
+    "name": "Thermax",
+    "type": "manufacturer",
+    "region": "India",
+    "website": "https://www.thermaxglobal.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Thermax",
+    "tags": [
+      "curated_overseas",
+      "heater",
+      "hvac",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:in",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Indian heating, cooling and energy equipment manufacturer (public Wikipedia HVAC companies category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Thermo Tech Industries",
     "type": "manufacturer",
     "region": "Vasai (East), Maharashtra, India",
@@ -67396,6 +68188,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -67452,6 +68245,7 @@
     "tags": [
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "pet_products",
       "public_directory",
@@ -70313,6 +71107,40 @@
     "trade_role": ""
   },
   {
+    "name": "Walton Group",
+    "type": "manufacturer",
+    "region": "Bangladesh",
+    "website": "https://waltonbd.com/",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Walton_Group",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "hvac",
+      "manufacturer",
+      "odm",
+      "oem",
+      "overseas",
+      "portable_ac",
+      "region:bd",
+      "region:de",
+      "route:b2b_merchant",
+      "source:overseas_oem"
+    ],
+    "notes": "Bangladeshi appliance and air-conditioner manufacturer (public Wikipedia home appliance manufacturers category + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Wanyan Electric Equipment CO.,LTD",
     "type": "manufacturer",
     "region": "Yancheng, Jiangsu, China",
@@ -71245,6 +72073,37 @@
     "trade_role": ""
   },
   {
+    "name": "Winia Electronics",
+    "type": "manufacturer",
+    "region": "South Korea",
+    "website": "https://winia-elec.com/english/index.asp",
+    "public_contact": "",
+    "categories": [
+      "home_appliance",
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://en.wikipedia.org/wiki/Winia_Electronics",
+    "tags": [
+      "curated_overseas",
+      "home_appliance",
+      "manufacturer",
+      "oem",
+      "overseas",
+      "region:kr",
+      "region:th",
+      "route:b2b_merchant",
+      "source:overseas_oem",
+      "wine_cooler"
+    ],
+    "notes": "South Korean home appliance manufacturer, formerly Daewoo Electronics (public Wikipedia + official site)",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Winkler AG",
     "type": "manufacturer",
     "region": "Heidelberg, Baden-Württemberg, Germany",
@@ -71479,7 +72338,8 @@
     "website": "https://mokofuwa.en.made-in-china.com",
     "public_contact": "",
     "categories": [
-      "home_appliance"
+      "home_appliance",
+      "pet_products"
     ],
     "platforms": [
       "made_in_china"
@@ -71489,6 +72349,7 @@
       "home_appliance",
       "made_in_china",
       "manufacturer",
+      "pet",
       "pet_product",
       "public_directory",
       "route:b2b_merchant",
@@ -71702,6 +72563,32 @@
       "source:mic"
     ],
     "notes": "MIC directory; niche hint=oil-heater",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Xiamen Furvorite Pet Supplies Co., Ltd.",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://rongtengpet.en.made-in-china.com/360-Virtual-Tour.html",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/pet_products.html",
+    "tags": [
+      "made_in_china",
+      "manufacturer",
+      "pet_products",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=pet_products",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -72682,6 +73569,34 @@
       "source:mic"
     ],
     "notes": "MIC directory; niche hint=oil-heater",
+    "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Yantai Lanbao Pet Products Co., Ltd.",
+    "type": "manufacturer",
+    "region": "China",
+    "website": "https://lbcatlitter.en.made-in-china.com/360-Virtual-Tour.html",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "made_in_china"
+    ],
+    "source_url": "https://www.made-in-china.com/manufacturers/pet_product.html",
+    "tags": [
+      "made_in_china",
+      "manufacturer",
+      "pet",
+      "pet_product",
+      "pet_products",
+      "public_directory",
+      "route:b2b_merchant",
+      "source:mic"
+    ],
+    "notes": "MIC directory; niche hint=pet_product",
     "related_channel": "",
     "hs_codes": [],
     "trade_role": ""
@@ -75608,6 +76523,7 @@
       "made_in_china",
       "manufacturer",
       "mic_pet_daily",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_product_daily_2026_11_04",
@@ -92463,6 +93379,7 @@
       "export_supply",
       "exporter",
       "made_in_china",
+      "pet",
       "pet-products",
       "pet_product",
       "pet_products",
@@ -117545,6 +118462,36 @@
     "trade_role": ""
   },
   {
+    "name": "Absolute Pets ZA",
+    "type": "wholesaler",
+    "region": "ZA",
+    "website": "https://absolutepets.com/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://absolutepets.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:za",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "ZA Absolute Pets specialty · daily_2026-11-09",
+    "related_channel": "Absolute Pets ZA",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "AC Doctor / local HVAC networks",
     "type": "wholesaler",
     "region": "USA",
@@ -117630,6 +118577,74 @@
     ],
     "notes": "Air Conditioning Contractors of America · daily_2026-11-03",
     "related_channel": "ACCAonline HVAC contractors",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "ACE Hardware ID home",
+    "type": "wholesaler",
+    "region": "ID",
+    "website": "https://www.acehardware.co.id/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.acehardware.co.id/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:id",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "ID ACE Hardware climate aisle · daily_2026-11-09",
+    "related_channel": "ACE Hardware ID home",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "ACE Hardware UAE",
+    "type": "wholesaler",
+    "region": "AE",
+    "website": "https://www.aceuae.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.aceuae.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:ae",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "AE ACE Hardware climate aisle · daily_2026-11-09",
+    "related_channel": "ACE Hardware UAE",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -119937,6 +120952,36 @@
     "trade_role": ""
   },
   {
+    "name": "Arcaplanet IT pet",
+    "type": "wholesaler",
+    "region": "IT",
+    "website": "https://www.arcaplanet.it/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.arcaplanet.it/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:it",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "IT Arcaplanet pet specialty · daily_2026-11-09",
+    "related_channel": "Arcaplanet IT pet",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Archermech",
     "type": "wholesaler",
     "region": "intl",
@@ -119961,6 +121006,36 @@
     ],
     "notes": "Wine Guardian public distributor domain",
     "related_channel": "Archermech",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Arken Zoo SE pet",
+    "type": "wholesaler",
+    "region": "SE",
+    "website": "https://www.arkenzoo.se/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.arkenzoo.se/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:se",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "SE Arken Zoo pet specialty · daily_2026-11-09",
+    "related_channel": "Arken Zoo SE pet",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -120729,6 +121804,74 @@
     ],
     "notes": "Maps public listing; Air conditioning contractor; medium — HVAC contractor/installer channel",
     "related_channel": "Bartorelli Refrigeration Catering & Air Conditioning",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Bauhaus AT climate",
+    "type": "wholesaler",
+    "region": "AT",
+    "website": "https://www.bauhaus.at/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.bauhaus.at/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:at",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "AT Bauhaus climate aisle · daily_2026-11-09",
+    "related_channel": "Bauhaus AT climate",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Bauhaus SE climate",
+    "type": "wholesaler",
+    "region": "SE",
+    "website": "https://www.bauhaus.se/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.bauhaus.se/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:se",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "SE Bauhaus climate aisle · daily_2026-11-09",
+    "related_channel": "Bauhaus SE climate",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -121853,6 +122996,40 @@
     "trade_role": ""
   },
   {
+    "name": "Brico BE DIY climate",
+    "type": "wholesaler",
+    "region": "BE",
+    "website": "https://www.brico.be/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.brico.be/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:be",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "BE Brico DIY climate aisle · daily_2026-11-09",
+    "related_channel": "Brico BE DIY climate",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Browse HVAC companies",
     "type": "wholesaler",
     "region": "global",
@@ -122113,6 +123290,40 @@
     ],
     "notes": "Wine Guardian public distributor domain",
     "related_channel": "Bwpspaces",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Byggmakker NO HVAC",
+    "type": "wholesaler",
+    "region": "NO",
+    "website": "https://www.byggmakker.no/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.byggmakker.no/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:no",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "NO Byggmakker climate/HVAC · daily_2026-11-09",
+    "related_channel": "Byggmakker NO HVAC",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -124521,6 +125732,40 @@
     "trade_role": ""
   },
   {
+    "name": "Croma IN appliances",
+    "type": "wholesaler",
+    "region": "IN",
+    "website": "https://www.croma.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.croma.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:in",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "IN Croma climate appliances · daily_2026-11-09",
+    "related_channel": "Croma IN appliances",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Crucellarsandsaunas",
     "type": "wholesaler",
     "region": "intl",
@@ -125483,6 +126728,40 @@
     ],
     "notes": "WLW directory listing",
     "related_channel": "Diamant Heiz- und Klimasysteme GmbH",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "DID Electrical IE appliances",
+    "type": "wholesaler",
+    "region": "IE",
+    "website": "https://www.did.ie/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.did.ie/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:ie",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "IE DID Electrical climate appliances · daily_2026-11-09",
+    "related_channel": "DID Electrical IE appliances",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -127811,6 +129090,36 @@
     "trade_role": ""
   },
   {
+    "name": "Fressnapf AT pet",
+    "type": "wholesaler",
+    "region": "AT",
+    "website": "https://www.fressnapf.at/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.fressnapf.at/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:at",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "AT Fressnapf pet specialty · daily_2026-11-09",
+    "related_channel": "Fressnapf AT pet",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Friax Australia wine cellar",
     "type": "wholesaler",
     "region": "AU",
@@ -128036,6 +129345,40 @@
     ],
     "notes": "Maps public listing; HVAC contractor; medium — HVAC contractor/AC business",
     "related_channel": "Gaia Smart Energy",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Galaxus CH appliances",
+    "type": "wholesaler",
+    "region": "CH",
+    "website": "https://www.galaxus.ch/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "portable_ac",
+      "wine_cooler"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.galaxus.ch/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "overseas",
+      "portable_ac",
+      "region:ch",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler",
+      "wine_cooler"
+    ],
+    "notes": "CH Galaxus climate / wine coolers · daily_2026-11-09",
+    "related_channel": "Galaxus CH appliances",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -129581,6 +130924,36 @@
     "trade_role": ""
   },
   {
+    "name": "Heads Up For Tails IN pet",
+    "type": "wholesaler",
+    "region": "IN",
+    "website": "https://headsupfortails.com/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://headsupfortails.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:in",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "IN Heads Up For Tails pet specialty · daily_2026-11-09",
+    "related_channel": "Heads Up For Tails IN pet",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Heat & Combustion Supplies",
     "type": "wholesaler",
     "region": "Cardiff, Wales, United Kingdom",
@@ -129606,6 +130979,38 @@
     ],
     "notes": "LinkedIn-indexed company · We're proud to be one of the leading suppliers in the HVAC market, offering an extensive range of products, including motorized valves, gas safety valves, and temperature and humidity controllers. As",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Heat Merchants IE HVAC",
+    "type": "wholesaler",
+    "region": "IE",
+    "website": "https://www.heatmerchants.ie/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.heatmerchants.ie/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:wholesaler",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "region:ie",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "IE Heat Merchants trade heating/HVAC · daily_2026-11-09",
+    "related_channel": "Heat Merchants IE HVAC",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -130084,6 +131489,40 @@
     "trade_role": ""
   },
   {
+    "name": "Hirschs ZA appliances",
+    "type": "wholesaler",
+    "region": "ZA",
+    "website": "https://www.hirschs.co.za/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.hirschs.co.za/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:za",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "ZA Hirsch's climate appliances · daily_2026-11-09",
+    "related_channel": "Hirschs ZA appliances",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Hisense where to buy",
     "type": "wholesaler",
     "region": "USA",
@@ -130141,6 +131580,40 @@
     ],
     "notes": "LinkedIn-indexed company · ABR Wholesalers, Inc. is a wholesale distributor of heating, air-conditioning, and hydronics products. We service the HVAC contractor trade in upstate, western, and southern New York State. We are the",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Home Depot MX climate",
+    "type": "wholesaler",
+    "region": "MX",
+    "website": "https://www.homedepot.com.mx/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.homedepot.com.mx/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:mx",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "MX Home Depot climate aisle · daily_2026-11-09",
+    "related_channel": "Home Depot MX climate",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -131786,6 +133259,40 @@
     ],
     "notes": "LinkedIn-indexed company · The Joseph Brady Company is a 4th generation family business. Since 1952 we have provided quality pet products at great prices with industry leading customer service. We offer a variety of pet product",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Jumbo CH DIY climate",
+    "type": "wholesaler",
+    "region": "CH",
+    "website": "https://www.jumbo.ch/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.jumbo.ch/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:ch",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "CH Jumbo DIY climate · daily_2026-11-09",
+    "related_channel": "Jumbo CH DIY climate",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -133647,6 +135154,40 @@
     "trade_role": ""
   },
   {
+    "name": "Leroy Merlin ES HVAC",
+    "type": "wholesaler",
+    "region": "ES",
+    "website": "https://www.leroymerlin.es/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.leroymerlin.es/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:es",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "ES Leroy Merlin heating/cooling · daily_2026-11-09",
+    "related_channel": "Leroy Merlin ES HVAC",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Leroy Merlin FR HVAC",
     "type": "wholesaler",
     "region": "FR",
@@ -133814,6 +135355,40 @@
     ],
     "notes": "Maps public listing; Air conditioning contractor; medium — HVAC contractor/installer channel",
     "related_channel": "Losch Kälte Klima GmbH",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Lotte Himart KR appliances",
+    "type": "wholesaler",
+    "region": "KR",
+    "website": "https://www.e-himart.co.kr/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.e-himart.co.kr/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:kr",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "KR Lotte Himart climate CE · daily_2026-11-09",
+    "related_channel": "Lotte Himart KR appliances",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -134594,6 +136169,36 @@
     "trade_role": ""
   },
   {
+    "name": "Maxi Zoo DK pet",
+    "type": "wholesaler",
+    "region": "DK",
+    "website": "https://www.maxizoo.dk/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.maxizoo.dk/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:dk",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "DK Maxi Zoo pet specialty · daily_2026-11-09",
+    "related_channel": "Maxi Zoo DK pet",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Maxx Solar & Energie GmbH & Co. KG",
     "type": "wholesaler",
     "region": "Waltershausen, Germany",
@@ -134837,6 +136442,40 @@
     "trade_role": ""
   },
   {
+    "name": "Media Expert PL appliances",
+    "type": "wholesaler",
+    "region": "PL",
+    "website": "https://www.mediaexpert.pl/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.mediaexpert.pl/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:pl",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "PL Media Expert climate CE · daily_2026-11-09",
+    "related_channel": "Media Expert PL appliances",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "MediaMarkt EU portable AC",
     "type": "wholesaler",
     "region": "EU",
@@ -134865,6 +136504,40 @@
     ],
     "notes": "EU CE retail climate · daily_2026-11-04",
     "related_channel": "MediaMarkt EU portable AC",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "MediaWorld IT appliances",
+    "type": "wholesaler",
+    "region": "IT",
+    "website": "https://www.mediaworld.it/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.mediaworld.it/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:it",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "IT MediaWorld climate CE · daily_2026-11-09",
+    "related_channel": "MediaWorld IT appliances",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -135679,6 +137352,66 @@
     "trade_role": ""
   },
   {
+    "name": "Musti ja Mirri FI pet",
+    "type": "wholesaler",
+    "region": "FI",
+    "website": "https://www.musti.fi/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.musti.fi/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:fi",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "FI Musti ja Mirri pet specialty · daily_2026-11-09",
+    "related_channel": "Musti ja Mirri FI pet",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Musti NO pet",
+    "type": "wholesaler",
+    "region": "NO",
+    "website": "https://www.musti.no/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.musti.no/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:no",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "NO Musti pet specialty · daily_2026-11-09",
+    "related_channel": "Musti NO pet",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "MVP PRO UK Limited",
     "type": "wholesaler",
     "region": "Wolverton, Old Wolverton, England, United Kingdom",
@@ -135848,6 +137581,40 @@
     ],
     "notes": "LinkedIn-indexed company · New Generation is a wholesale distributor of plumbing, heating and air conditioning supplies from a simple copper fitting up to a designed HVAC system. We have been in the plumbing and HVAC market in",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Nguyen Kim VN appliances",
+    "type": "wholesaler",
+    "region": "VN",
+    "website": "https://www.nguyenkim.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.nguyenkim.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:vn",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "VN Nguyen Kim climate CE · daily_2026-11-09",
+    "related_channel": "Nguyen Kim VN appliances",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -137594,6 +139361,36 @@
     ],
     "notes": "LinkedIn-indexed company · Petersen Pet Provisions is a pioneering wholesale distributor of holistic and natural pet foods and products. All of our product lines are recognized by the pet food industry as the best in their cate",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Petmania IE pet",
+    "type": "wholesaler",
+    "region": "IE",
+    "website": "https://www.petmania.ie/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.petmania.ie/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:ie",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "IE Petmania specialty retail · daily_2026-11-09",
+    "related_channel": "Petmania IE pet",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -140616,6 +142413,40 @@
     "trade_role": ""
   },
   {
+    "name": "Sharaf DG AE appliances",
+    "type": "wholesaler",
+    "region": "AE",
+    "website": "https://uae.sharafdg.com/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://uae.sharafdg.com/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:ae",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "AE Sharaf DG climate CE · daily_2026-11-09",
+    "related_channel": "Sharaf DG AE appliances",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Sharpe Mechanical Services and Sharpe Ventilation Services Ltd",
     "type": "wholesaler",
     "region": "Belfast, United Kingdom",
@@ -143161,6 +144992,36 @@
     "trade_role": ""
   },
   {
+    "name": "Tiendanimal ES pet",
+    "type": "wholesaler",
+    "region": "ES",
+    "website": "https://www.tiendanimal.es/",
+    "public_contact": "",
+    "categories": [
+      "pet_products"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.tiendanimal.es/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "overseas",
+      "pet_products",
+      "region:es",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "ES Tiendanimal pet specialty · daily_2026-11-09",
+    "related_channel": "Tiendanimal ES pet",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
     "name": "Tikpaws",
     "type": "wholesaler",
     "region": "Unknown",
@@ -143617,6 +145478,40 @@
     ],
     "notes": "WLW directory listing",
     "related_channel": "Trotec GmbH",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "TRPLUS TW home/DIY",
+    "type": "wholesaler",
+    "region": "TW",
+    "website": "https://www.trplus.com.tw/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "hvac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.trplus.com.tw/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "hvac",
+      "overseas",
+      "region:tw",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "TW 特力屋 TRPLUS home/DIY climate · daily_2026-11-09",
+    "related_channel": "TRPLUS TW home/DIY",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -144184,6 +146079,40 @@
     ],
     "notes": "LinkedIn-indexed company · We are a small wine importer and distributor with an exclusive focus on wines from the Rheingau wine region in Germany that are not otherwise available in the US market.",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Vanden Borre BE appliances",
+    "type": "wholesaler",
+    "region": "BE",
+    "website": "https://www.vandenborre.be/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.vandenborre.be/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:be",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "BE Vanden Borre climate CE · daily_2026-11-09",
+    "related_channel": "Vanden Borre BE appliances",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -145510,6 +147439,40 @@
     ],
     "notes": "LinkedIn-indexed company ·",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Wilcon Depot PH HVAC",
+    "type": "wholesaler",
+    "region": "PH",
+    "website": "https://www.wilcon.com.ph/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.wilcon.com.ph/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "hvac",
+      "overseas",
+      "portable_ac",
+      "region:ph",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "PH Wilcon Depot building materials HVAC · daily_2026-11-09",
+    "related_channel": "Wilcon Depot PH HVAC",
     "hs_codes": [],
     "trade_role": ""
   },
@@ -146906,6 +148869,40 @@
     ],
     "notes": "LinkedIn-indexed company · Wholesale and retail of pet related products. E-commerce solutions for petshops online.Ownership and management of B2C e-commerce sites in USA, Europe.",
     "related_channel": "",
+    "hs_codes": [],
+    "trade_role": ""
+  },
+  {
+    "name": "Worten PT appliances",
+    "type": "wholesaler",
+    "region": "PT",
+    "website": "https://www.worten.pt/",
+    "public_contact": "",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "portable_ac"
+    ],
+    "platforms": [
+      "official_site"
+    ],
+    "source_url": "https://www.worten.pt/",
+    "tags": [
+      "channel_overlap",
+      "channel_type:dealer",
+      "from_channels",
+      "heater",
+      "home_appliance",
+      "overseas",
+      "portable_ac",
+      "region:pt",
+      "route:b2b_merchant",
+      "source:channel",
+      "trade_channel",
+      "wholesaler"
+    ],
+    "notes": "PT Worten climate appliances · daily_2026-11-09",
+    "related_channel": "Worten PT appliances",
     "hs_codes": [],
     "trade_role": ""
   },

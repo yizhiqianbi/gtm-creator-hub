@@ -4309,5 +4309,400 @@
     ],
     "notes": "Israeli AC manufacturer (public international site if reachable; well-known OEM)",
     "public_contact": ""
+  },
+  {
+    "name": "Airedale International Air Conditioning",
+    "region": "United Kingdom",
+    "website": "https://www.airedale.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Airedale_International_Air_Conditioning",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "UK precision / data-centre and commercial air conditioning manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Artel Electronics",
+    "region": "Uzbekistan",
+    "website": "https://artelelectronics.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Artel_Electronics",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:uz"
+    ],
+    "notes": "Uzbekistan home appliance manufacturer including refrigerators and air conditioners (public Wikipedia + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "BDR Thermea",
+    "region": "Netherlands",
+    "website": "https://www.bdrthermeagroup.com/",
+    "source_url": "https://en.wikipedia.org/wiki/BDR_Thermea",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl"
+    ],
+    "notes": "European heating and hot-water manufacturer group (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "CIAT Group",
+    "region": "France",
+    "website": "https://www.ciat.com/",
+    "source_url": "https://en.wikipedia.org/wiki/CIAT_Group",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "French HVAC / indoor air-quality manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "CaptiveAire Systems",
+    "region": "United States",
+    "website": "https://www.captiveaire.com/",
+    "source_url": "https://en.wikipedia.org/wiki/CaptiveAire_Systems",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US commercial kitchen ventilation and HVAC manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Embraco",
+    "region": "Brazil",
+    "website": "https://www.embraco.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Embraco",
+    "categories": [
+      "home_appliance",
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Brazilian refrigeration compressor manufacturer used in domestic and commercial cooling (public Wikipedia + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "GEA Refrigeration Technologies",
+    "region": "Germany",
+    "website": "https://www.gea.com/en/heating-refrigeration/",
+    "source_url": "https://en.wikipedia.org/wiki/GEA_Refrigeration_Technologies",
+    "categories": [
+      "hvac",
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "German industrial refrigeration technology manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Groupe SEB",
+    "region": "France",
+    "website": "https://www.groupeseb.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Groupe_SEB",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "French small domestic appliance manufacturer group (public Wikipedia home appliance manufacturers category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "J & E Hall",
+    "region": "United Kingdom",
+    "website": "https://www.jehall.com/",
+    "source_url": "https://en.wikipedia.org/wiki/J_%26_E_Hall",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "UK industrial refrigeration and HVAC manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Jøtul",
+    "region": "Norway",
+    "website": "https://www.jotul.com/",
+    "source_url": "https://en.wikipedia.org/wiki/J%C3%B8tul",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:no"
+    ],
+    "notes": "Norwegian wood-burning stove and heater manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Mirgor",
+    "region": "Argentina",
+    "website": "https://mirgor.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Mirgor",
+    "categories": [
+      "hvac",
+      "portable_ac",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:ar"
+    ],
+    "notes": "Argentine electronics and air-conditioner manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Temperzone",
+    "region": "New Zealand",
+    "website": "https://www.temperzone.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Temperzone",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nz"
+    ],
+    "notes": "New Zealand / Australia HVAC and air-conditioning manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Walton Group",
+    "region": "Bangladesh",
+    "website": "https://waltonbd.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Walton_Group",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "odm",
+      "overseas",
+      "region:bd"
+    ],
+    "notes": "Bangladeshi appliance and air-conditioner manufacturer (public Wikipedia home appliance manufacturers category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Winia Electronics",
+    "region": "South Korea",
+    "website": "https://winia-elec.com/english/index.asp",
+    "source_url": "https://en.wikipedia.org/wiki/Winia_Electronics",
+    "categories": [
+      "home_appliance",
+      "wine_cooler"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:kr"
+    ],
+    "notes": "South Korean home appliance manufacturer, formerly Daewoo Electronics (public Wikipedia + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Stelrad",
+    "region": "United Kingdom",
+    "website": "https://www.stelrad.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Stelrad",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "UK radiator and heating products manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Thermax",
+    "region": "India",
+    "website": "https://www.thermaxglobal.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Thermax",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Indian heating, cooling and energy equipment manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Singer Bangladesh",
+    "region": "Bangladesh",
+    "website": "https://singerbd.com",
+    "source_url": "https://en.wikipedia.org/wiki/Singer_Bangladesh",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:bd"
+    ],
+    "notes": "Bangladeshi home appliance manufacturer and brand (public Wikipedia home appliance manufacturers category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "BPL Limited",
+    "region": "India",
+    "website": "https://www.bpl.in/",
+    "source_url": "https://en.wikipedia.org/wiki/BPL_Group",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:in"
+    ],
+    "notes": "Indian consumer durables / home appliance manufacturer (public Wikipedia home appliance manufacturers category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "MarinAire",
+    "region": "United States",
+    "website": "https://marinaire.com/",
+    "source_url": "https://en.wikipedia.org/wiki/MarinAire",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US marine and specialty air-conditioning manufacturer (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Mitsubishi Heavy Industries",
+    "region": "Japan",
+    "website": "https://www.mhi.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:jp"
+    ],
+    "notes": "Japanese heavy-industry group manufacturing residential and commercial air conditioners (public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "American Standard Heating & Air Conditioning",
+    "region": "United States",
+    "website": "https://www.americanstandardair.com/",
+    "source_url": "https://en.wikipedia.org/wiki/American_Standard_Companies",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US HVAC manufacturer brand (American Standard Heating & Air Conditioning; public Wikipedia HVAC companies category + official site)",
+    "public_contact": ""
+  },
+  {
+    "name": "Hamilton Beach Brands",
+    "region": "United States",
+    "website": "https://www.hamiltonbeach.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Hamilton_Beach_Brands",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "private_label",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "US small home appliance manufacturer (public Wikipedia home appliance manufacturers category + official site)",
+    "public_contact": ""
   }
 ]
