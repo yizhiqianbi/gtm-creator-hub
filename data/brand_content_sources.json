@@ -542,6 +542,32 @@
     ]
   },
   {
+    "title": "Bauhaus SE climate hub",
+    "url": "https://www.bauhaus.se/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "瑞典 Bauhaus 气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Brico BE DIY climate",
+    "url": "https://www.brico.be/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "比利时 Brico 气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Canadian Tire heating buying",
     "url": "https://www.canadiantire.ca/",
     "niche": "heater",
@@ -615,6 +641,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_06",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Jumbo CH DIY climate",
+    "url": "https://www.jumbo.ch/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "瑞士 Jumbo 气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "heater",
       "route:brand_content"
     ]
@@ -1189,6 +1228,19 @@
     ]
   },
   {
+    "title": "Hirschs ZA appliances",
+    "url": "https://www.hirschs.co.za/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "南非 Hirsch's 家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Hisense Europe",
     "url": "https://www.hisense.com/",
     "niche": "home_appliance",
@@ -1198,6 +1250,19 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Hisense US appliance support",
+    "url": "https://www.hisense-usa.com/support",
+    "niche": "home_appliance",
+    "asset_type": "faq",
+    "notes": "Hisense 美国家电支持 · daily_2026-11-09",
+    "tags": [
+      "daily_2026_11_09",
+      "faq",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -1250,6 +1315,19 @@
     ]
   },
   {
+    "title": "Lotte Himart KR appliances",
+    "url": "https://www.e-himart.co.kr/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "韩国乐天Hi-Mart家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Lowes buying guides",
     "url": "https://www.lowes.com/l/buying-guides.html",
     "niche": "home_appliance",
@@ -1257,6 +1335,19 @@
     "notes": "卖场导购指南模板",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Media Expert PL appliances",
+    "url": "https://www.mediaexpert.pl/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "波兰 Media Expert 家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1430,6 +1521,19 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "TRPLUS TW home/DIY",
+    "url": "https://www.trplus.com.tw/",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "台湾特力屋家居入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -1639,6 +1743,19 @@
     ]
   },
   {
+    "title": "ACE Hardware UAE climate",
+    "url": "https://www.aceuae.com/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "阿联酋 ACE 气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "AHR Expo",
     "url": "https://www.ahrexpo.com/",
     "niche": "hvac",
@@ -1714,6 +1831,19 @@
     ]
   },
   {
+    "title": "Bauhaus AT climate hub",
+    "url": "https://www.bauhaus.at/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "奥地利 Bauhaus 气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Beijer Ref sustainability / HVAC resources",
     "url": "https://www.beijerref.com/sustainability/",
     "niche": "hvac",
@@ -1735,6 +1865,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_04",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Byggmakker NO HVAC",
+    "url": "https://www.byggmakker.no/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "挪威 Byggmakker 暖通入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "hvac",
       "route:brand_content"
     ]
@@ -1842,6 +1985,32 @@
     ]
   },
   {
+    "title": "Heat Merchants IE HVAC hub",
+    "url": "https://www.heatmerchants.ie/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "爱尔兰暖通贸易入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Home Depot MX climate",
+    "url": "https://www.homedepot.com.mx/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "墨西哥家得宝气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Honeywell Home support",
     "url": "https://www.honeywellhome.com/us/en/support/",
     "niche": "hvac",
@@ -1938,6 +2107,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Leroy Merlin ES heating/cooling",
+    "url": "https://www.leroymerlin.es/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "西班牙乐华梅兰暖通入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "hvac",
       "route:brand_content"
     ]
@@ -2119,6 +2301,19 @@
     ]
   },
   {
+    "title": "Wilcon Depot PH HVAC",
+    "url": "https://www.wilcon.com.ph/",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "菲律宾 Wilcon 建材暖通入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Wolseley UK trade resources",
     "url": "https://www.wolseley.co.uk/",
     "niche": "hvac",
@@ -2230,6 +2425,19 @@
     ]
   },
   {
+    "title": "Absolute Pets ZA care",
+    "url": "https://absolutepets.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "南非宠物专科入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "American Kennel Club advice",
     "url": "https://www.akc.org/expert-advice/",
     "niche": "pet_gear",
@@ -2250,6 +2458,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_06",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Arcaplanet IT pet care",
+    "url": "https://www.arcaplanet.it/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "意大利宠物专科入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Arken Zoo SE pet care",
+    "url": "https://www.arkenzoo.se/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "瑞典宠物专科入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "pet_gear",
       "route:brand_content"
     ]
@@ -2354,6 +2588,19 @@
     ]
   },
   {
+    "title": "Fressnapf AT pet care",
+    "url": "https://www.fressnapf.at/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "奥地利 Fressnapf 宠物入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Furbo product story",
     "url": "https://shopfurbo.com/",
     "niche": "pet_gear",
@@ -2386,6 +2633,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Heads Up For Tails IN pet",
+    "url": "https://headsupfortails.com/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "印度宠物专科入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "pet_gear",
       "route:brand_content"
     ]
@@ -2435,6 +2695,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Maxi Zoo DK pet care",
+    "url": "https://www.maxizoo.dk/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "丹麦 Maxi Zoo 宠物入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Musti ja Mirri FI pet",
+    "url": "https://www.musti.fi/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "芬兰 Musti 宠物入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "pet_gear",
       "route:brand_content"
     ]
@@ -2614,6 +2900,19 @@
     ]
   },
   {
+    "title": "Petmania IE pet care",
+    "url": "https://www.petmania.ie/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "爱尔兰宠物零售入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Petstock AU pet advice",
     "url": "https://www.petstock.com.au/",
     "niche": "pet_gear",
@@ -2725,6 +3024,19 @@
     ]
   },
   {
+    "title": "Tiendanimal ES pet care",
+    "url": "https://www.tiendanimal.es/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "西班牙宠物零售入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Tractive",
     "url": "https://tractive.com/",
     "niche": "pet_gear",
@@ -2807,6 +3119,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "ACE Hardware ID climate",
+    "url": "https://www.acehardware.co.id/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "印尼 ACE 气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "portable_ac",
       "route:brand_content"
     ]
@@ -2963,6 +3288,19 @@
     ]
   },
   {
+    "title": "Croma IN climate appliances",
+    "url": "https://www.croma.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "印度 Croma 家电气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Currys UK cooling guides",
     "url": "https://www.currys.co.uk/",
     "niche": "portable_ac",
@@ -2971,6 +3309,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "DID Electrical IE climate",
+    "url": "https://www.did.ie/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "爱尔兰 DID 家电气候入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3096,6 +3447,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Gree Comfort portable AC",
+    "url": "https://www.greecomfort.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "Gree 北美便携空调品牌站 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3237,6 +3601,19 @@
     ]
   },
   {
+    "title": "MediaWorld IT climate",
+    "url": "https://www.mediaworld.it/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "意大利 MediaWorld 家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Midea Portable Air Conditioners category",
     "url": "https://www.midea.com/us/air-conditioners/portable-air-conditioners",
     "niche": "portable_ac",
@@ -3294,6 +3671,19 @@
     "tags": [
       "daily_2026_11_05",
       "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Nguyen Kim VN appliances",
+    "url": "https://www.nguyenkim.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "越南 Nguyen Kim 家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3387,6 +3777,19 @@
     ]
   },
   {
+    "title": "Sharaf DG AE climate",
+    "url": "https://uae.sharafdg.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "阿联酋 Sharaf DG 家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Shinco / more comfort brands",
     "url": "https://www.shinco.com/",
     "niche": "portable_ac",
@@ -3408,6 +3811,19 @@
       "portable_ac",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Vanden Borre BE appliances",
+    "url": "https://www.vandenborre.be/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "比利时 Vanden Borre 家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "portable_ac",
+      "route:brand_content"
     ]
   },
   {
@@ -3468,6 +3884,19 @@
     "tags": [
       "daily_2026_11_03",
       "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Worten PT appliances",
+    "url": "https://www.worten.pt/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "葡萄牙 Worten 家电入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3842,6 +4271,19 @@
     ]
   },
   {
+    "title": "CAVAVIN wine cellars",
+    "url": "https://www.cavavin.com/en",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "CAVAVIN 酒柜/酒窖入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
     "title": "CellarPro knowledge",
     "url": "https://cellarpro.com/",
     "niche": "wine_cooler",
@@ -3961,6 +4403,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "route:brand_content",
+      "wine_cooler"
+    ]
+  },
+  {
+    "title": "Galaxus CH climate / wine coolers",
+    "url": "https://www.galaxus.ch/",
+    "niche": "wine_cooler",
+    "asset_type": "brochure",
+    "notes": "瑞士 Galaxus 气候/酒柜入口 · daily_2026-11-09",
+    "tags": [
+      "brochure",
+      "daily_2026_11_09",
       "route:brand_content",
       "wine_cooler"
     ]

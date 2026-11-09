@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-09",
+  "silent_no_change": false,
+  "creators_before": 31133,
+  "creators_after": 31417,
+  "net_new": 284,
+  "platform_breakdown_before": {
+    "tiktok": 12202,
+    "instagram": 6442,
+    "bilibili": 5583,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 777,
+    "wechat_store": 200
+  },
+  "platform_breakdown_after": {
+    "tiktok": 12205,
+    "instagram": 6442,
+    "bilibili": 5809,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 832,
+    "wechat_store": 200
+  },
+  "channels_before": 726,
+  "channels_after": 759,
+  "channels_net_new": 33,
+  "brand_before": 355,
+  "brand_after": 390,
+  "brand_net_new": 35,
+  "sources": {
+    "feedspot_tiktok_agriculture": 82,
+    "feedspot_tiktok_craft_beer": 46,
+    "feedspot_tiktok_health_and_fitness": 86,
+    "feedspot_tiktok_mens_grooming": 28,
+    "feedspot_tiktok_plumber": 29,
+    "feedspot_tiktok_roofing": 29,
+    "feedspot_tiktok_technology": 81,
+    "feedspot_tiktok_uk_beauty": 58,
+    "feedspot_tiktok_uk_construction": 46,
+    "feedspot_tiktok_uk_dog": 65,
+    "feedspot_tiktok_vegan": 114,
+    "bilibili_daily_api": 382,
+    "x_mcp_public": 55,
+    "channels_curated_daily": 33,
+    "brand_curated_daily": 35
+  },
+  "dedupe_drops": {
+    "dup": 665
+  },
+  "blockers": [
+    "Feedspot soft-empty/404 (122 pages); only large dumps parsed",
+    "Apify: skipped (quota unused; free Feedspot+Bili+X lists yielded net-new creators)",
+    "Instagram Feedspot pages 403/anti-bot (tried wine/cleaning/organization/smart_home/coffee)",
+    "Many Feedspot niche URLs 404; 11 TikTok niches yielded large dumps (vegan/agriculture/health_and_fitness/technology/uk_dog/craft_beer/uk_beauty/uk_construction/roofing/plumber/mens_grooming)",
+    "AfterShip: skipped (scale6b/Nov-6 already ingested the standard TTS category slugs; no unused categories remain)",
+    "Douyin/XHS/WeChat: no new free public list dumps today (prior CN weekly already absorbed)"
+  ],
+  "artifacts": [
+    "/workspace/creators.json",
+    "/workspace/creators.csv",
+    "/workspace/channels.json",
+    "/workspace/channels.csv",
+    "/workspace/brand_content_sources.json",
+    "/workspace/brand_content_sources.csv",
+    "/workspace/daily-refresh-2026-11-09-report.json",
+    "/workspace/daily-refresh-report.md",
+    "/workspace/raw_lists_daily_2026-11-09/",
+    "/workspace/gtm-creator-hub-push/data/",
+    "/workspace/gtm-hub-refresh/"
+  ],
+  "commit": null,
+  "commit_short": null,
+  "push": "no push"
+}
