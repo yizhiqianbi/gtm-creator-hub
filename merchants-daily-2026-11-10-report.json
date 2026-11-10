@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "before": 4749,
+  "after": 5016,
+  "net_delta": 267,
+  "overseas_oemish_before": 2659,
+  "overseas_oemish_after": 2822,
+  "overseas_oemish_delta": 163,
+  "flags_before": {
+    "overseas": 2639,
+    "oem": 1583,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1585,
+    "overseas_oemish": 2659
+  },
+  "flags_after": {
+    "overseas": 2802,
+    "oem": 1719,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1721,
+    "overseas_oemish": 2822
+  },
+  "sources_attempted": [
+    "customs",
+    "channel",
+    "trade_show",
+    "linkedin",
+    "maps",
+    "alibaba",
+    "1688",
+    "association",
+    "mic",
+    "overseas_oem"
+  ],
+  "sources_succeeded": [
+    "customs",
+    "overseas_oem",
+    "association",
+    "channel",
+    "mic",
+    "trade_show"
+  ],
+  "added_by_source_tag": {
+    "customs": 12,
+    "overseas_oem_standalone": 136,
+    "channel": 36,
+    "mic": 56,
+    "trade_show": 27
+  },
+  "notes": [
+    "ImportDoor HS pages refreshed for 2026-11-10, including new codes 841583/841520/841590/841869/841899/851610/851660/850980/732190 (+12 net after dedupe). ImportYeti HS pages still 404 shells.",
+    "MIC category pages re-fetched and expanded (+56 net): existing niches plus oil-heater, ptc-heater, wine-cabinet, ice-maker, air-conditioner.",
+    "Canton Fair HEA page refreshed; 27 new public exhibitor names added to the household-electrical list. Ambiente/ISH exhibitor search pages public but no usable company JSON.",
+    "AHRI and AHAM public member directory pages refreshed (no net-new association parse beyond existing snapshots).",
+    "Overseas OEM / association: +112 European HVACR manufacturers from the public Eurovent Corresponding Members directory (official sites on the association page), plus +23 overseas manufacturers from public Wikipedia HVAC / home-appliance manufacturer categories with Wikidata official websites (China-headquartered and weak-fit names dropped). Europages fetch failed empty; ThomasNet/TradeIndia/Kompass/GlobalSources blocked.",
+    "Channels: +36 net from updated channels.json (creator hub refresh earlier the same day).",
+    "Ran expand_merchants_customs.py then overseas_oem then multisource.",
+    "Alibaba/1688 mostly 404/empty/JS-shell; Crustdata live expand not used (prior run reported 0 credits; reused existing dump); Apify/Apollo not used."
+  ],
+  "blockers": [
+    "ImportYeti /hs-code/* still returns 404 shell pages",
+    "Europages requests failed empty (timeout/no body); ThomasNet/Alibaba/GlobalSources/TradeIndia/Kompass mostly blocked or JS-shell",
+    "1688 public search pages empty/blocked in this environment",
+    "Crustdata live expand not used this run; reused prior merged_strict dump (previous run reported 0 credits)",
+    "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML",
+    "APPLiA Europe members page failed (tiny/non-HTML response); Eurovent /membership/members/ is 404, /about-us/members/ worked"
+  ],
+  "commit_sha": "",
+  "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
+  "stay_silent": false
+}

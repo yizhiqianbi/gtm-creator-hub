@@ -4704,5 +4704,2526 @@
     ],
     "notes": "US small home appliance manufacturer (public Wikipedia home appliance manufacturers category + official site)",
     "public_contact": ""
+  },
+  {
+    "name": "2VV",
+    "region": "Czech Republic",
+    "website": "https://www.2vv.cz/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:cz",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "AAF",
+    "region": "Europe",
+    "website": "https://www.aafintl.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "AERECO",
+    "region": "Europe",
+    "website": "https://www.aereco.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "AFPRO Filters",
+    "region": "Europe",
+    "website": "https://www.afprofilters.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Airtècnics",
+    "region": "Europe",
+    "website": "https://www.airtecnics.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Airzone",
+    "region": "Europe",
+    "website": "https://www.airzonecontrol.com/eu/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "AL-KO THERM",
+    "region": "Europe",
+    "website": "https://corporate.al-ko.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "ALDES",
+    "region": "Europe",
+    "website": "https://www.aldes.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "ALNOR",
+    "region": "Poland",
+    "website": "https://www.alnor.com.pl",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pl",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Arfit",
+    "region": "Portugal",
+    "website": "https://www.arfit.pt/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pt",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Arneg",
+    "region": "Italy",
+    "website": "https://www.arneg.it/en",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "ATREA",
+    "region": "Europe",
+    "website": "https://www.atrea.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Belimo",
+    "region": "Europe",
+    "website": "https://www.belimo.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Biddle",
+    "region": "Netherlands",
+    "website": "https://www.biddle.nl/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Brink",
+    "region": "Netherlands",
+    "website": "https://www.brinkclimatesystems.nl",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Broetje Heizung",
+    "region": "Germany",
+    "website": "https://www.broetje.de/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Caladair",
+    "region": "Europe",
+    "website": "https://www.caladair.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Camfil",
+    "region": "Europe",
+    "website": "https://www.camfil.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "CAREL",
+    "region": "Europe",
+    "website": "https://www.carel.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Cetra",
+    "region": "Italy",
+    "website": "https://cetra.it/en_us",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Climaveneta",
+    "region": "Europe",
+    "website": "https://www.climaveneta.com/en",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "COFINAIR",
+    "region": "Europe",
+    "website": "https://www.cofinair-group.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Coldkit",
+    "region": "Europe",
+    "website": "https://www.coldkit.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "CORE",
+    "region": "Europe",
+    "website": "https://core.life/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Covent",
+    "region": "Norway",
+    "website": "https://www.covent.no/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:no",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Criocabin",
+    "region": "Europe",
+    "website": "https://criocabin.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "De Rigo",
+    "region": "Europe",
+    "website": "https://www.derigorefrigeration.com/eng/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Decsa",
+    "region": "Europe",
+    "website": "https://en.decsasrl.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Deltrian",
+    "region": "Europe",
+    "website": "https://www.deltrian.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Dinair",
+    "region": "Sweden",
+    "website": "https://www.dinair.se/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:se",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "DOGU Iklimlendirme",
+    "region": "Europe",
+    "website": "https://www.doguiklimlendirme.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "DUCO",
+    "region": "Europe",
+    "website": "https://www.duco.eu/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Eneko",
+    "region": "Turkey",
+    "website": "https://eneko.com.tr/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Enervent",
+    "region": "Europe",
+    "website": "https://www.enervent.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Epta",
+    "region": "Europe",
+    "website": "https://www.epta.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "ERI Corporation",
+    "region": "Europe",
+    "website": "https://www.ericorporation.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Euroclima",
+    "region": "Europe",
+    "website": "https://www.euroclima.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Europlast",
+    "region": "Latvia",
+    "website": "https://www.europlast.lv/en",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:lv",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "EVAC",
+    "region": "Portugal",
+    "website": "https://www.evac.pt",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pt",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "EXHAUSTO",
+    "region": "Europe",
+    "website": "https://www.exhausto.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "EXKAL",
+    "region": "Europe",
+    "website": "https://exkalsa.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Filtech",
+    "region": "Europe",
+    "website": "https://www.filtech.eu/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Flexit",
+    "region": "Norway",
+    "website": "https://www.flexit.no/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:no",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Flowair",
+    "region": "Europe",
+    "website": "https://www.flowair.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Fortes Energy Systems",
+    "region": "Europe",
+    "website": "https://fortes-es.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Frapol",
+    "region": "Poland",
+    "website": "https://www.frapol.com.pl",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pl",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Freudenberg Filtration Technologies",
+    "region": "Europe",
+    "website": "https://www.freudenberg-filter.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Frico",
+    "region": "Europe",
+    "website": "https://www.frico.net/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Frigofluid",
+    "region": "Italy",
+    "website": "https://www.frigofluid.it",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Frigoglass",
+    "region": "Europe",
+    "website": "https://www.frigoglass.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "GOHL-KTK",
+    "region": "Germany",
+    "website": "https://www.gohl-ktk.de/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "HAUSER",
+    "region": "Europe",
+    "website": "https://www.hauser.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "HiRef",
+    "region": "Europe",
+    "website": "https://www.hiref.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "HITECSA",
+    "region": "Europe",
+    "website": "https://www.hitecsa.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Holmak",
+    "region": "Europe",
+    "website": "https://www.holmak.eu",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Hoval",
+    "region": "Europe",
+    "website": "https://www.hoval-energyrecovery.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Hubbard Products",
+    "region": "United Kingdom",
+    "website": "https://www.hubbard.co.uk/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Iarp",
+    "region": "Europe",
+    "website": "https://www.iarp-plugin.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "IMBAT",
+    "region": "Europe",
+    "website": "https://imbat.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "INFRICO Supermarket",
+    "region": "Europe",
+    "website": "https://infrico.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Interfil",
+    "region": "Norway",
+    "website": "https://www.interfil.no/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:no",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Itho Daalderop",
+    "region": "Netherlands",
+    "website": "https://www.ithodaalderop.nl/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "IV Produkt",
+    "region": "Sweden",
+    "website": "https://www.ivprodukt.se/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:se",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "JACIR",
+    "region": "France",
+    "website": "https://www.jacir.fr",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "JASUN Envirocare",
+    "region": "France",
+    "website": "https://www.jfilters.fr/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Kalthoff Luftfilter und Filtermedien",
+    "region": "Germany",
+    "website": "https://www.kalthoff-luftfilter.de/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Keyter",
+    "region": "Europe",
+    "website": "https://www.keyter.com/es/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Koja",
+    "region": "Finland",
+    "website": "https://www.koja.fi/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fi",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Komfovent",
+    "region": "Europe",
+    "website": "https://www.komfovent.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Koxka",
+    "region": "Europe",
+    "website": "https://www.koxka.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "LFB Group",
+    "region": "Europe",
+    "website": "https://www.grouplfb.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "LGB",
+    "region": "Germany",
+    "website": "https://www.lgb-gmbh.de/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Mann+Hummel",
+    "region": "Europe",
+    "website": "https://www.mann-hummel.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Mikropor",
+    "region": "Europe",
+    "website": "https://www.mikropor.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "MITA",
+    "region": "Europe",
+    "website": "https://www.mitacoolingtechnologies.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Munters",
+    "region": "Europe",
+    "website": "https://www.munters.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Ned Air",
+    "region": "Netherlands",
+    "website": "https://www.nedair.nl",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "OJ Electronics",
+    "region": "Europe",
+    "website": "https://www.ojelectronics.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Ostberg",
+    "region": "Europe",
+    "website": "https://se.ostberg.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Pichler",
+    "region": "Austria",
+    "website": "https://www.pichlerluft.at/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:at",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Polybloc",
+    "region": "Europe",
+    "website": "https://www.polybloc.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "PRO-KLIMA",
+    "region": "Croatia",
+    "website": "https://www.proklima.hr",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:hr",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Purever Friemo",
+    "region": "Europe",
+    "website": "https://www.purever.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "recutech",
+    "region": "Europe",
+    "website": "https://www.recutech.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Remeha",
+    "region": "United Kingdom",
+    "website": "https://www.remeha.co.uk/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Rosenberg Ventilatoren-Klimaattechniek",
+    "region": "Netherlands",
+    "website": "https://www.rosenberg.nl",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "SagiCofim",
+    "region": "Europe",
+    "website": "https://www.sagicofim.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "SALDA",
+    "region": "Lithuania",
+    "website": "https://www.salda.lt",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:lt",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Sandometal",
+    "region": "Portugal",
+    "website": "https://www.sandometal.pt",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pt",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Seven Air",
+    "region": "Switzerland",
+    "website": "https://www.seven-air.ch/en/home",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Siemens",
+    "region": "Europe",
+    "website": "https://www.siemens.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Sonniger",
+    "region": "Europe",
+    "website": "https://www.sonniger.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Stulz Tecnivel",
+    "region": "Europe",
+    "website": "https://www.stulztecnivel.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Tekadoor",
+    "region": "Germany",
+    "website": "https://www.tekadoor.de/en",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "TermoFan",
+    "region": "Turkey",
+    "website": "https://www.termofan.com.tr",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Tewis",
+    "region": "Spain",
+    "website": "https://www.tewis.es",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:es",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Thermoscreens",
+    "region": "Europe",
+    "website": "https://www.thermoscreens.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "TORRAVAL Cooling",
+    "region": "Europe",
+    "website": "https://www.torraval.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Trox",
+    "region": "Germany",
+    "website": "https://www.trox.de",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Ultramare",
+    "region": "Sweden",
+    "website": "https://www.ultramare.se",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:se",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Unifil",
+    "region": "Switzerland",
+    "website": "https://www.unifil.ch",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Untes",
+    "region": "Turkey",
+    "website": "https://en.untes.com.tr/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Vallox",
+    "region": "Europe",
+    "website": "https://www.vallox.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "VEAB",
+    "region": "Europe",
+    "website": "https://veab.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "VenFilter",
+    "region": "Spain",
+    "website": "https://www.venfilter.es",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:es",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "VoltAir",
+    "region": "Europe",
+    "website": "https://voltairsystem.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "VOLZ",
+    "region": "Europe",
+    "website": "https://www.volzfilters.com/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "WIKA",
+    "region": "Europe",
+    "website": "https://www.wika.com/de-ch/startseite.wika/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "WOLF",
+    "region": "Europe",
+    "website": "https://www.wolf.eu",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "YGLA",
+    "region": "Lithuania",
+    "website": "https://www.ygla.lt",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:lt",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Zanotti",
+    "region": "Europe",
+    "website": "https://www.zanotti.com",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "ZIEHL-ABEGG",
+    "region": "Europe",
+    "website": "https://www.ziehl-abegg.com/en/",
+    "source_url": "https://www.eurovent.eu/about-us/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "eurovent_member"
+    ],
+    "notes": "European HVACR manufacturer listed as a Eurovent Corresponding Member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "AE Smith",
+    "region": "Australia",
+    "website": "http://www.aesmith.com.au/",
+    "source_url": "https://en.wikipedia.org/wiki/AE_Smith",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:au"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "AEG",
+    "region": "Germany",
+    "website": "https://www.aeg.com/",
+    "source_url": "https://en.wikipedia.org/wiki/AEG_(brand)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Akira",
+    "region": "Pakistan",
+    "website": "https://akira.com.pk/",
+    "source_url": "https://en.wikipedia.org/wiki/Akira_(brand)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:pk"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Amana Corporation",
+    "region": "United States",
+    "website": "http://www.amana.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Amana_Corporation",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Bakers Pride",
+    "region": "United States",
+    "website": "http://www.bakerspride.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Bakers_Pride",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "DeLclima",
+    "region": "Italy",
+    "website": "http://www.del-clima.com/",
+    "source_url": "https://en.wikipedia.org/wiki/DeLclima",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Ecobee",
+    "region": "Canada",
+    "website": "https://www.ecobee.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Ecobee",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ca"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Farberware",
+    "region": "United States",
+    "website": "https://www.farberwarecookware.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Farberware",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Fedders",
+    "region": "Overseas",
+    "website": "http://www.fedders.com",
+    "source_url": "https://en.wikipedia.org/wiki/Fedders",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Fuji Electric",
+    "region": "Japan",
+    "website": "https://www.fujielectric.co.jp/",
+    "source_url": "https://en.wikipedia.org/wiki/Fuji_Electric",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:jp"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "GPS Air",
+    "region": "United States",
+    "website": "https://gpsair.com/",
+    "source_url": "https://en.wikipedia.org/wiki/GPS_Air",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "KMC Controls",
+    "region": "Overseas",
+    "website": "http://www.kmccontrols.com/",
+    "source_url": "https://en.wikipedia.org/wiki/KMC_Controls",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Kedawung Setia Industrial",
+    "region": "Indonesia",
+    "website": "http://www.kedawungsetia.com/page.php?p=1/",
+    "source_url": "https://en.wikipedia.org/wiki/Kedawung_Setia_Industrial",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:id"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Laurastar",
+    "region": "Switzerland",
+    "website": "http://www.laurastar.com",
+    "source_url": "https://en.wikipedia.org/wiki/Laurastar",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Melitta",
+    "region": "Germany",
+    "website": "http://www.melitta-group.com",
+    "source_url": "https://en.wikipedia.org/wiki/Melitta",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Sanyo",
+    "region": "Japan",
+    "website": "https://www.sanyo-av.com/language.php",
+    "source_url": "https://en.wikipedia.org/wiki/Sanyo",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:jp"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Simpson",
+    "region": "Australia",
+    "website": "http://www.simpson.com.au/",
+    "source_url": "https://en.wikipedia.org/wiki/Simpson_(appliance_manufacturer)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:au"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Taikisha",
+    "region": "Japan",
+    "website": "http://www.taikisha.co.jp/",
+    "source_url": "https://en.wikipedia.org/wiki/Taikisha",
+    "categories": [
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:jp"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Technivorm",
+    "region": "Netherlands",
+    "website": "https://technivorm.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Technivorm",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Tramontina",
+    "region": "Brazil",
+    "website": "https://www.tramontina.com.br/en",
+    "source_url": "https://en.wikipedia.org/wiki/Tramontina",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:br"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Viega",
+    "region": "United States",
+    "website": "http://www.viega.de",
+    "source_url": "https://en.wikipedia.org/wiki/Viega",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Westaflex",
+    "region": "Germany",
+    "website": "http://www.westaflex.com",
+    "source_url": "https://en.wikipedia.org/wiki/Westaflex",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Yilida",
+    "region": "Overseas",
+    "website": "http://www.yilida.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Yilida",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (HVAC companies / home appliance manufacturers) with official website on Wikidata",
+    "public_contact": ""
   }
 ]
