@@ -62,7 +62,8 @@
     "/workspace/gtm-creator-hub-push/data/",
     "/workspace/gtm-hub-refresh/"
   ],
-  "commit": null,
-  "commit_short": null,
-  "push": "no push"
+  "commit": "99f2dfec3e7b12b58b80928c69dce3b42adba601",
+  "commit_short": "99f2dfe",
+  "push": "pushed",
+  "push_head": "99f2dfec3e7b12b58b80928c69dce3b42adba601"
 }
