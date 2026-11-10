@@ -68,7 +68,7 @@
     "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML",
     "APPLiA Europe members page failed (tiny/non-HTML response); Eurovent /membership/members/ is 404, /about-us/members/ worked"
   ],
-  "commit_sha": "",
+  "commit_sha": "1a14393ae8679c67fd7d745f809fffa492f85cd2",
   "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
   "stay_silent": false
 }
