@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-10",
+  "silent_no_change": false,
+  "creators_before": 31417,
+  "creators_after": 31593,
+  "net_new": 176,
+  "platform_breakdown_before": {
+    "tiktok": 12205,
+    "instagram": 6442,
+    "bilibili": 5809,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 832,
+    "wechat_store": 200
+  },
+  "platform_breakdown_after": {
+    "tiktok": 12236,
+    "instagram": 6442,
+    "bilibili": 5922,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 864,
+    "wechat_store": 200
+  },
+  "channels_before": 759,
+  "channels_after": 795,
+  "channels_net_new": 36,
+  "brand_before": 390,
+  "brand_after": 430,
+  "brand_net_new": 40,
+  "sources": {
+    "feedspot_tiktok_crossfit": 92,
+    "feedspot_tiktok_lego": 76,
+    "feedspot_tiktok_quilting": 52,
+    "bilibili_daily_api": 113,
+    "x_mcp_public": 34,
+    "channels_curated_daily": 36,
+    "brand_curated_daily": 40
+  },
+  "dedupe_drops": {
+    "dup": 190
+  },
+  "blockers": [
+    "Feedspot soft-empty/404 (92 pages); only large dumps parsed",
+    "Apify: skipped (quota unused; free Feedspot+Bili+X lists yielded net-new creators)",
+    "Instagram Feedspot pages 403/anti-bot (tried fishing/photography/cycling/pilates/knitting)",
+    "Many Feedspot niche URLs 404; 3 TikTok niches yielded large dumps (crossfit/lego/quilting)",
+    "AfterShip: skipped (scale6b/Nov-6 already ingested the standard TTS category slugs; no unused categories remain)",
+    "Douyin/XHS/WeChat: no new free public list dumps today (prior CN weekly already absorbed)",
+    "Many unused Bilibili newlist rids returned empty archives; supplemented with popular p1-12 plus known-working rids whose daily lists rotate"
+  ],
+  "artifacts": [
+    "/workspace/creators.json",
+    "/workspace/creators.csv",
+    "/workspace/channels.json",
+    "/workspace/channels.csv",
+    "/workspace/brand_content_sources.json",
+    "/workspace/brand_content_sources.csv",
+    "/workspace/daily-refresh-2026-11-10-report.json",
+    "/workspace/daily-refresh-report.md",
+    "/workspace/raw_lists_daily_2026-11-10/",
+    "/workspace/gtm-creator-hub-push/data/",
+    "/workspace/gtm-hub-refresh/"
+  ],
+  "commit": null,
+  "commit_short": null,
+  "push": "no push"
+}

@@ -41,6 +41,27 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "220.lv LV appliances",
+    "type": "dealer",
+    "region": "LV",
+    "website": "https://220.lv/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://220.lv/",
+    "tags": [
+      "dealer",
+      "heater",
+      "lv",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "LV 220.lv climate CE · daily_2026-11-10"
+  },
+  {
     "name": "537096",
     "type": "distributor",
     "region": "intl",
@@ -939,6 +960,27 @@
     "notes": "Public B2B showroom"
   },
   {
+    "name": "Alkosto CO appliances",
+    "type": "dealer",
+    "region": "CO",
+    "website": "https://www.alkosto.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.alkosto.com/",
+    "tags": [
+      "co",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "CO Alkosto climate CE · daily_2026-11-10"
+  },
+  {
     "name": "All Seasons Refrigeration & Air Conditioning Ltd",
     "type": "dealer",
     "region": "Grimsby, United Kingdom",
@@ -1118,6 +1160,27 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Alza CZ appliances",
+    "type": "dealer",
+    "region": "CZ",
+    "website": "https://www.alza.cz/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.alza.cz/",
+    "tags": [
+      "cz",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "CZ Alza climate appliances · daily_2026-11-10"
   },
   {
     "name": "Amaquatics",
@@ -1465,6 +1528,27 @@
       "wine_cooler"
     ],
     "notes": "Transtherm point of sale"
+  },
+  {
+    "name": "Appliances Online AU",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.appliancesonline.com.au/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.appliancesonline.com.au/",
+    "tags": [
+      "au",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AU Appliances Online climate · daily_2026-11-10"
   },
   {
     "name": "AprilAire dealer locator",
@@ -1941,6 +2025,27 @@
       "se"
     ],
     "notes": "SE Bauhaus climate aisle · daily_2026-11-09"
+  },
+  {
+    "name": "Bauhof EE DIY climate",
+    "type": "dealer",
+    "region": "EE",
+    "website": "https://www.bauhof.ee/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.bauhof.ee/",
+    "tags": [
+      "dealer",
+      "ee",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "EE Bauhof DIY climate · daily_2026-11-10"
   },
   {
     "name": "Bayareawinecellars",
@@ -3543,6 +3648,24 @@
     "notes": "PIDA public directory domain"
   },
   {
+    "name": "Cobasi BR pet",
+    "type": "dealer",
+    "region": "BR",
+    "website": "https://www.cobasi.com.br/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.cobasi.com.br/",
+    "tags": [
+      "br",
+      "dealer",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "BR Cobasi pet specialty · daily_2026-11-10"
+  },
+  {
     "name": "Coldcraft",
     "type": "distributor",
     "region": "intl",
@@ -4160,6 +4283,27 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Dedeman RO HVAC",
+    "type": "dealer",
+    "region": "RO",
+    "website": "https://www.dedeman.ro/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.dedeman.ro/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "ro",
+      "route:channel_coop"
+    ],
+    "notes": "RO Dedeman building materials HVAC · daily_2026-11-10"
+  },
+  {
     "name": "Degree Refrigeration & Air Conditioning",
     "type": "dealer",
     "region": "Dungannon, United Kingdom",
@@ -4261,6 +4405,27 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Depo LV DIY climate",
+    "type": "dealer",
+    "region": "LV",
+    "website": "https://www.depo.lv/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.depo.lv/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "lv",
+      "route:channel_coop"
+    ],
+    "notes": "LV Depo DIY climate · daily_2026-11-10"
   },
   {
     "name": "Derek Mitchell Group : Castle Douglas",
@@ -4645,6 +4810,27 @@
     "notes": "UK heater/air brand locator · daily_2026-11-04"
   },
   {
+    "name": "Easy AR DIY climate",
+    "type": "dealer",
+    "region": "AR",
+    "website": "https://www.easy.com.ar/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.easy.com.ar/",
+    "tags": [
+      "ar",
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "AR Easy DIY climate aisle · daily_2026-11-10"
+  },
+  {
     "name": "EcoAir (EcoAir GB)",
     "type": "brand",
     "region": "United Kingdom",
@@ -4849,6 +5035,27 @@
       "route:channel_coop"
     ],
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
+  },
+  {
+    "name": "eMAG RO appliances",
+    "type": "dealer",
+    "region": "RO",
+    "website": "https://www.emag.ro/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.emag.ro/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "ro",
+      "route:channel_coop"
+    ],
+    "notes": "RO eMAG climate appliances · daily_2026-11-10"
   },
   {
     "name": "Emerio B.V.",
@@ -5127,6 +5334,27 @@
     "notes": "NEW; Genemuiden climate/comfort brand; mobile AC 7k–18k BTU incl. WiFi; business-customer page"
   },
   {
+    "name": "Euronics EE appliances",
+    "type": "dealer",
+    "region": "EE",
+    "website": "https://www.euronics.ee/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.euronics.ee/",
+    "tags": [
+      "dealer",
+      "ee",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "EE Euronics climate appliances · daily_2026-11-10"
+  },
+  {
     "name": "Europages air conditioning suppliers",
     "type": "distributor",
     "region": "EU",
@@ -5262,6 +5490,27 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Falabella CL appliances",
+    "type": "dealer",
+    "region": "CL",
+    "website": "https://www.falabella.com/falabella-cl",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.falabella.com/falabella-cl",
+    "tags": [
+      "cl",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "CL Falabella climate appliances · daily_2026-11-10"
   },
   {
     "name": "Faunafoods",
@@ -5506,6 +5755,27 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Fravega AR appliances",
+    "type": "dealer",
+    "region": "AR",
+    "website": "https://www.fravega.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.fravega.com/",
+    "tags": [
+      "ar",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AR Fravega climate appliances · daily_2026-11-10"
   },
   {
     "name": "Freedom Air Conditioning",
@@ -5835,6 +6105,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Geant UY appliances",
+    "type": "dealer",
+    "region": "UY",
+    "website": "https://www.geant.com.uy/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.geant.com.uy/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "uy"
+    ],
+    "notes": "UY Geant hypermarket climate CE · daily_2026-11-10"
+  },
+  {
     "name": "General Pet Supply",
     "type": "distributor",
     "region": "WI, USA",
@@ -6020,6 +6311,24 @@
       "route:channel_coop"
     ],
     "notes": "Pet trade show exhibitor entry · daily_2026-11-03"
+  },
+  {
+    "name": "Global Pet Foods CA",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.globalpetfoods.com/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.globalpetfoods.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "CA Global Pet Foods specialty · daily_2026-11-10"
   },
   {
     "name": "Gmpg",
@@ -6367,6 +6676,27 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Harvey Norman AU climate",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.harveynorman.com.au/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.harveynorman.com.au/",
+    "tags": [
+      "au",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AU Harvey Norman climate appliances · daily_2026-11-10"
+  },
+  {
     "name": "Harvey Norman MY climate",
     "type": "dealer",
     "region": "MY",
@@ -6653,6 +6983,27 @@
     "notes": "Install matching"
   },
   {
+    "name": "Homecenter CO HVAC",
+    "type": "dealer",
+    "region": "CO",
+    "website": "https://www.homecenter.com.co/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.homecenter.com.co/",
+    "tags": [
+      "co",
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "CO Homecenter Sodimac HVAC · daily_2026-11-10"
+  },
+  {
     "name": "HomePro TH climate",
     "type": "dealer",
     "region": "TH",
@@ -6710,6 +7061,27 @@
       "route:channel_coop"
     ],
     "notes": "Brand dealer locator · daily_2026-11-03"
+  },
+  {
+    "name": "Hornbach CZ climate",
+    "type": "dealer",
+    "region": "CZ",
+    "website": "https://www.hornbach.cz/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.hornbach.cz/",
+    "tags": [
+      "cz",
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "CZ Hornbach climate aisle · daily_2026-11-10"
   },
   {
     "name": "Hornbach EU DIY climate",
@@ -7736,6 +8108,27 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Kotsovolos GR appliances",
+    "type": "dealer",
+    "region": "GR",
+    "website": "https://www.kotsovolos.gr/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.kotsovolos.gr/",
+    "tags": [
+      "dealer",
+      "gr",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "GR Kotsovolos climate CE · daily_2026-11-10"
+  },
+  {
     "name": "Kratschmayer Kälte-Klima-Lüftung GmbH",
     "type": "mod_shop",
     "region": "Eschweiler, Germany",
@@ -8207,6 +8600,48 @@
     "notes": "Lennox dealer locator · daily_2026-11-03"
   },
   {
+    "name": "Leons CA appliances",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.leons.ca/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.leons.ca/",
+    "tags": [
+      "ca",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "CA Leon's climate appliances · daily_2026-11-10"
+  },
+  {
+    "name": "Leroy Merlin BR HVAC",
+    "type": "dealer",
+    "region": "BR",
+    "website": "https://www.leroymerlin.com.br/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.leroymerlin.com.br/",
+    "tags": [
+      "br",
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "BR Leroy Merlin heating/cooling · daily_2026-11-10"
+  },
+  {
     "name": "Leroy Merlin ES HVAC",
     "type": "dealer",
     "region": "ES",
@@ -8505,6 +8940,27 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Magazine Luiza BR appliances",
+    "type": "dealer",
+    "region": "BR",
+    "website": "https://www.magazineluiza.com.br/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.magazineluiza.com.br/",
+    "tags": [
+      "br",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "BR Magazine Luiza climate CE · daily_2026-11-10"
+  },
+  {
     "name": "MAGTROL",
     "type": "distributor",
     "region": "EU/DE/AT/CH",
@@ -8739,6 +9195,27 @@
       "route:channel_coop"
     ],
     "notes": "PL Media Expert climate CE · daily_2026-11-09"
+  },
+  {
+    "name": "Media Markt HU appliances",
+    "type": "dealer",
+    "region": "HU",
+    "website": "https://www.mediamarkt.hu/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.mediamarkt.hu/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hu",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "HU Media Markt climate CE · daily_2026-11-10"
   },
   {
     "name": "MediaMarkt EU portable AC",
@@ -9227,6 +9704,27 @@
     "notes": "unknown — weak HVAC signal, wholesale/supplier category"
   },
   {
+    "name": "Musimundo AR appliances",
+    "type": "dealer",
+    "region": "AR",
+    "website": "https://www.musimundo.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.musimundo.com/",
+    "tags": [
+      "ar",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AR Musimundo climate CE · daily_2026-11-10"
+  },
+  {
     "name": "Musti ja Mirri FI pet",
     "type": "dealer",
     "region": "FI",
@@ -9499,6 +9997,27 @@
       "route:channel_coop"
     ],
     "notes": "DE DIY portable AC/heater · daily_2026-11-04"
+  },
+  {
+    "name": "OBI HU HVAC",
+    "type": "dealer",
+    "region": "HU",
+    "website": "https://www.obi.hu/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.obi.hu/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hu",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "HU OBI heating/cooling · daily_2026-11-10"
   },
   {
     "name": "OceanAire Inc.",
@@ -10067,6 +10586,24 @@
     "notes": "AU pet specialty retail · daily_2026-11-05"
   },
   {
+    "name": "Petz BR pet",
+    "type": "dealer",
+    "region": "BR",
+    "website": "https://www.petz.com.br/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petz.com.br/",
+    "tags": [
+      "br",
+      "dealer",
+      "pet",
+      "route:channel_coop"
+    ],
+    "notes": "BR Petz pet specialty · daily_2026-11-10"
+  },
+  {
     "name": "PHCC plumbing-heating-cooling contractors",
     "type": "mod_shop",
     "region": "USA",
@@ -10267,6 +10804,48 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Praktiker GR climate",
+    "type": "dealer",
+    "region": "GR",
+    "website": "https://www.praktiker.gr/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.praktiker.gr/",
+    "tags": [
+      "dealer",
+      "gr",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "GR Praktiker DIY climate · daily_2026-11-10"
+  },
+  {
+    "name": "Praktiker HU climate",
+    "type": "dealer",
+    "region": "HU",
+    "website": "https://www.praktiker.hu/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.praktiker.hu/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hu",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "HU Praktiker DIY climate · daily_2026-11-10"
+  },
+  {
     "name": "Praxis NL heating",
     "type": "dealer",
     "region": "NL",
@@ -10384,6 +10963,27 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Promart PE HVAC",
+    "type": "dealer",
+    "region": "PE",
+    "website": "https://www.promart.pe/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.promart.pe/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "pe",
+      "route:channel_coop"
+    ],
+    "notes": "PE Promart home improvement HVAC · daily_2026-11-10"
   },
   {
     "name": "PROMOSHARK SL",
@@ -11381,6 +11981,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Senukai LT HVAC",
+    "type": "dealer",
+    "region": "LT",
+    "website": "https://www.senukai.lt/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.senukai.lt/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "lt",
+      "route:channel_coop"
+    ],
+    "notes": "LT Senukai home improvement HVAC · daily_2026-11-10"
+  },
+  {
     "name": "Sermet NI Ltd",
     "type": "dealer",
     "region": "Lisburn, United Kingdom",
@@ -11612,6 +12233,48 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Sodimac CL HVAC",
+    "type": "dealer",
+    "region": "CL",
+    "website": "https://www.sodimac.cl/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.sodimac.cl/",
+    "tags": [
+      "cl",
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "CL Sodimac home improvement HVAC · daily_2026-11-10"
+  },
+  {
+    "name": "Sodimac PE HVAC",
+    "type": "dealer",
+    "region": "PE",
+    "website": "https://www.sodimac.com.pe/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.sodimac.com.pe/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "pe",
+      "route:channel_coop"
+    ],
+    "notes": "PE Sodimac building materials HVAC · daily_2026-11-10"
   },
   {
     "name": "SoleusAir (MJC America / MJC Supply)",
@@ -12327,6 +12990,27 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Technopolis BG appliances",
+    "type": "dealer",
+    "region": "BG",
+    "website": "https://www.technopolis.bg/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.technopolis.bg/",
+    "tags": [
+      "bg",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "BG Technopolis climate CE · daily_2026-11-10"
+  },
+  {
     "name": "Tecmungo",
     "type": "distributor",
     "region": "intl",
@@ -12559,6 +13243,48 @@
       "route:channel_coop"
     ],
     "notes": "unknown — weak category signal"
+  },
+  {
+    "name": "The Brick CA appliances",
+    "type": "dealer",
+    "region": "CA",
+    "website": "https://www.thebrick.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.thebrick.com/",
+    "tags": [
+      "ca",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "CA The Brick climate appliances · daily_2026-11-10"
+  },
+  {
+    "name": "The Good Guys AU appliances",
+    "type": "dealer",
+    "region": "AU",
+    "website": "https://www.thegoodguys.com.au/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.thegoodguys.com.au/",
+    "tags": [
+      "au",
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "AU The Good Guys climate CE · daily_2026-11-10"
   },
   {
     "name": "Thelegacycompanies",
@@ -12826,6 +13552,27 @@
       "uk"
     ],
     "notes": "UK Toolstation heating tools · daily_2026-11-06"
+  },
+  {
+    "name": "Topo centras LT appliances",
+    "type": "dealer",
+    "region": "LT",
+    "website": "https://www.topocentras.lt/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.topocentras.lt/",
+    "tags": [
+      "dealer",
+      "heater",
+      "lt",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "LT Topo centras climate CE · daily_2026-11-10"
   },
   {
     "name": "Total Wine & More US",
