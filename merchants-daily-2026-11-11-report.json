@@ -69,7 +69,7 @@
     "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML; AHR Expo page is a landing shell (exhibitor list on Map Your Show JS); Chillventa/CIPS not parseable",
     "APPLiA Europe members page failed (tiny/non-HTML); JRAIA Japanese members page in maintenance; ANFAD/EHPA/Eurovent Certification/FETA member URLs 404 or empty; ISKID member names present without official websites on the listing page; AREA/VDMA/ABRAVA/ISHRAE pages were not usable manufacturer directories with official websites"
   ],
-  "commit_sha": "",
+  "commit_sha": "b6419571ad46814772b8c7e89d709007190dfe53",
   "report_sha": "",
   "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
   "stay_silent": false
