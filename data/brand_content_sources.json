@@ -737,6 +737,19 @@
     ]
   },
   {
+    "title": "Merkur SI HVAC",
+    "url": "https://www.merkur.si/",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "SI Merkur DIY HVAC · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Mitre 10 NZ heating",
     "url": "https://www.mitre10.co.nz/",
     "niche": "heater",
@@ -3088,6 +3101,19 @@
     ]
   },
   {
+    "title": "Pet Warehouse PH pet",
+    "url": "https://www.petwarehouse.ph/",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "PH Pet Warehouse specialty · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "PetMD",
     "url": "https://www.petmd.com/",
     "niche": "pet_gear",
@@ -3513,6 +3539,19 @@
     ]
   },
   {
+    "title": "Abenson PH appliances",
+    "url": "https://www.abenson.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "PH Abenson climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Alkosto CO appliances",
     "url": "https://www.alkosto.com/",
     "niche": "portable_ac",
@@ -3521,6 +3560,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_10",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Anson's PH appliances",
+    "url": "https://www.ansons.ph/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "PH Anson's climate appliances · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3550,6 +3602,19 @@
     ]
   },
   {
+    "title": "B.TECH Egypt appliances",
+    "url": "https://www.btech.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "EG B.TECH climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Best Buy portable AC help",
     "url": "https://www.bestbuy.com/site/home-appliances/air-conditioners/pcmcat302200050017.c",
     "niche": "portable_ac",
@@ -3558,6 +3623,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Best Denki SG appliances",
+    "url": "https://www.bestdenki.com.sg/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "SG Best Denki climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Big Bang SI appliances",
+    "url": "https://www.bigbang.si/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "SI Big Bang climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3583,6 +3674,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_06",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Broadway HK appliances",
+    "url": "https://www.broadwaylifestyle.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "HK Broadway climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3647,6 +3751,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_04",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Courts SG appliances",
+    "url": "https://www.courts.com.sg/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "SG Courts climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3728,6 +3845,19 @@
     ]
   },
   {
+    "title": "Emmezeta HR appliances",
+    "url": "https://www.emmezeta.hr/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "HR Emmezeta climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Energy Star room AC buyers guide",
     "url": "https://www.energystar.gov/products/room_air_conditioners",
     "niche": "portable_ac",
@@ -3741,6 +3871,19 @@
     ]
   },
   {
+    "title": "Eureka Kuwait appliances",
+    "url": "https://www.eureka.com.kw/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "KW Eureka climate appliances · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Euronics EE appliances",
     "url": "https://www.euronics.ee/",
     "niche": "portable_ac",
@@ -3749,6 +3892,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_10",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Extra SA appliances",
+    "url": "https://www.extra.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "SA Extra climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3775,6 +3931,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_10",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Farmers NZ appliances",
+    "url": "https://www.farmers.co.nz/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "NZ Farmers climate appliances · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3850,6 +4019,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_10",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Gigatron RS appliances",
+    "url": "https://www.gigatron.rs/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "RS Gigatron climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -3944,6 +4126,19 @@
     ]
   },
   {
+    "title": "Harvey Norman SG climate",
+    "url": "https://www.harveynorman.com.sg/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "SG Harvey Norman climate appliances · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Hisense US air products",
     "url": "https://www.hisense-usa.com/",
     "niche": "portable_ac",
@@ -3988,6 +4183,45 @@
     "notes": "空气处理产品零售 FAQ",
     "tags": [
       "faq",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Incredible Connection ZA",
+    "url": "https://www.incredible.co.za/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "ZA Incredible Connection CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "JB Hi-Fi NZ appliances",
+    "url": "https://www.jbhifi.co.nz/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "NZ JB Hi-Fi climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Jarir SA electronics",
+    "url": "https://www.jarir.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "SA Jarir electronics / climate · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -4038,6 +4272,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_10",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Links HR appliances",
+    "url": "https://www.links.hr/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "HR Links climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Liverpool MX appliances",
+    "url": "https://www.liverpool.com.mx/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "MX Liverpool climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -4208,6 +4468,19 @@
     ]
   },
   {
+    "title": "Palacio de Hierro MX appliances",
+    "url": "https://www.elpalaciodehierro.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "MX Palacio de Hierro climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Portable AC buying guide Wirecutter",
     "url": "https://www.nytimes.com/wirecutter/reviews/best-portable-air-conditioner/",
     "niche": "portable_ac",
@@ -4241,6 +4514,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Radio Popular PT appliances",
+    "url": "https://www.radiopopular.pt/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "PT Radio Popular climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Raneen Egypt appliances",
+    "url": "https://www.raneen.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "EG Raneen climate appliances · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -4296,6 +4595,32 @@
     ]
   },
   {
+    "title": "Slot NG appliances",
+    "url": "https://slot.ng/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "NG Slot climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Steren MX electronics",
+    "url": "https://www.steren.com.mx/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "MX Steren electronics / climate · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "The Good Guys AU climate",
     "url": "https://www.thegoodguys.com.au/",
     "niche": "portable_ac",
@@ -4321,6 +4646,19 @@
     ]
   },
   {
+    "title": "Tunisianet TN appliances",
+    "url": "https://www.tunisianet.com.tn/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "TN Tunisianet climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Vanden Borre BE appliances",
     "url": "https://www.vandenborre.be/",
     "niche": "portable_ac",
@@ -4329,6 +4667,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_09",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Vijay Sales IN appliances",
+    "url": "https://www.vijaysales.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "IN Vijay Sales climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]
@@ -4404,6 +4755,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_09",
+      "portable_ac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "X-cite Kuwait appliances",
+    "url": "https://www.xcite.com/",
+    "niche": "portable_ac",
+    "asset_type": "brochure",
+    "notes": "KW X-cite Alghanim climate CE · daily_2026-11-11",
+    "tags": [
+      "brochure",
+      "daily_2026_11_11",
       "portable_ac",
       "route:brand_content"
     ]

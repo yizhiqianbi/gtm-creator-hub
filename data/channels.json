@@ -166,6 +166,27 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Abenson PH appliances",
+    "type": "dealer",
+    "region": "PH",
+    "website": "https://www.abenson.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.abenson.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "ph",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "PH Abenson climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Absolute Pets ZA",
     "type": "dealer",
     "region": "ZA",
@@ -1400,6 +1421,27 @@
     "notes": "NZ Animates pet specialty · daily_2026-11-06"
   },
   {
+    "name": "Anson's PH appliances",
+    "type": "dealer",
+    "region": "PH",
+    "website": "https://www.ansons.ph/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.ansons.ph/",
+    "tags": [
+      "dealer",
+      "heater",
+      "ph",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "PH Anson's climate appliances · daily_2026-11-11"
+  },
+  {
     "name": "AO.com UK appliances",
     "type": "dealer",
     "region": "UK",
@@ -1865,6 +1907,27 @@
     "notes": "UK B&Q DIY heating/cooling · daily_2026-11-06"
   },
   {
+    "name": "B.TECH Egypt appliances",
+    "type": "dealer",
+    "region": "EG",
+    "website": "https://www.btech.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.btech.com/",
+    "tags": [
+      "dealer",
+      "eg",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "EG B.TECH climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Baganz Lüftungstechnik & Dienstleistungen GmbH",
     "type": "dealer",
     "region": "Wandlitz, Germany",
@@ -2275,6 +2338,27 @@
     "notes": "CE retail portable AC · daily_2026-11-03"
   },
   {
+    "name": "Best Denki SG appliances",
+    "type": "dealer",
+    "region": "SG",
+    "website": "https://www.bestdenki.com.sg/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.bestdenki.com.sg/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "sg"
+    ],
+    "notes": "SG Best Denki climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Beverage Factory",
     "type": "dealer",
     "region": "USA",
@@ -2352,6 +2436,27 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Big Bang SI appliances",
+    "type": "dealer",
+    "region": "SI",
+    "website": "https://www.bigbang.si/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.bigbang.si/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "si"
+    ],
+    "notes": "SI Big Bang climate CE · daily_2026-11-11"
   },
   {
     "name": "Bimhouseware",
@@ -2631,6 +2736,27 @@
       "route:channel_coop"
     ],
     "notes": "BE Brico DIY climate aisle · daily_2026-11-09"
+  },
+  {
+    "name": "Broadway HK appliances",
+    "type": "dealer",
+    "region": "HK",
+    "website": "https://www.broadwaylifestyle.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.broadwaylifestyle.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hk",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "HK Broadway climate CE · daily_2026-11-11"
   },
   {
     "name": "Browse HVAC companies",
@@ -3921,6 +4047,27 @@
     "notes": "MY Courts Mammoth appliances · daily_2026-11-06"
   },
   {
+    "name": "Courts SG appliances",
+    "type": "dealer",
+    "region": "SG",
+    "website": "https://www.courts.com.sg/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.courts.com.sg/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "sg"
+    ],
+    "notes": "SG Courts climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Cousins Air",
     "type": "wholesaler",
     "region": "FL",
@@ -5079,6 +5226,27 @@
     "notes": "NEW; EU household appliance supplier with portable AC SKUs; multi-country warehouses — likely imports/private-label style"
   },
   {
+    "name": "Emmezeta HR appliances",
+    "type": "dealer",
+    "region": "HR",
+    "website": "https://www.emmezeta.hr/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.emmezeta.hr/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hr",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "HR Emmezeta climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Empire Services (SW) Ltd",
     "type": "dealer",
     "region": "Torquay, United Kingdom",
@@ -5220,6 +5388,27 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Eureka Kuwait appliances",
+    "type": "dealer",
+    "region": "KW",
+    "website": "https://www.eureka.com.kw/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.eureka.com.kw/",
+    "tags": [
+      "dealer",
+      "heater",
+      "kw",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "KW Eureka climate appliances · daily_2026-11-11"
   },
   {
     "name": "EuroCave",
@@ -5451,6 +5640,27 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Extra SA appliances",
+    "type": "dealer",
+    "region": "SA",
+    "website": "https://www.extra.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.extra.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "sa"
+    ],
+    "notes": "SA Extra climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Factory Plus AU portable AC",
     "type": "dealer",
     "region": "AU",
@@ -5511,6 +5721,27 @@
       "route:channel_coop"
     ],
     "notes": "CL Falabella climate appliances · daily_2026-11-10"
+  },
+  {
+    "name": "Farmers NZ appliances",
+    "type": "dealer",
+    "region": "NZ",
+    "website": "https://www.farmers.co.nz/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.farmers.co.nz/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nz",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NZ Farmers climate appliances · daily_2026-11-11"
   },
   {
     "name": "Faunafoods",
@@ -6256,6 +6487,27 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Gigatron RS appliances",
+    "type": "dealer",
+    "region": "RS",
+    "website": "https://www.gigatron.rs/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.gigatron.rs/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "rs"
+    ],
+    "notes": "RS Gigatron climate CE · daily_2026-11-11"
+  },
+  {
     "name": "GK ecotrade GmbH",
     "type": "distributor",
     "region": "EU/DE/AT/CH",
@@ -6715,6 +6967,27 @@
       "route:channel_coop"
     ],
     "notes": "MY Harvey Norman climate · daily_2026-11-06"
+  },
+  {
+    "name": "Harvey Norman SG climate",
+    "type": "dealer",
+    "region": "SG",
+    "website": "https://www.harveynorman.com.sg/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.harveynorman.com.sg/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "sg"
+    ],
+    "notes": "SG Harvey Norman climate appliances · daily_2026-11-11"
   },
   {
     "name": "Heads Up For Tails IN pet",
@@ -7184,6 +7457,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Incredible Connection ZA",
+    "type": "dealer",
+    "region": "ZA",
+    "website": "https://www.incredible.co.za/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.incredible.co.za/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "za"
+    ],
+    "notes": "ZA Incredible Connection CE · daily_2026-11-11"
+  },
+  {
     "name": "Independent Pet Partners",
     "type": "distributor",
     "region": "USA",
@@ -7457,6 +7751,48 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Jarir SA electronics",
+    "type": "dealer",
+    "region": "SA",
+    "website": "https://www.jarir.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.jarir.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "sa"
+    ],
+    "notes": "SA Jarir electronics / climate · daily_2026-11-11"
+  },
+  {
+    "name": "JB Hi-Fi NZ appliances",
+    "type": "dealer",
+    "region": "NZ",
+    "website": "https://www.jbhifi.co.nz/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.jbhifi.co.nz/",
+    "tags": [
+      "dealer",
+      "heater",
+      "nz",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NZ JB Hi-Fi climate CE · daily_2026-11-11"
   },
   {
     "name": "JLA Newton Abbot",
@@ -8724,6 +9060,48 @@
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
   },
   {
+    "name": "Links HR appliances",
+    "type": "dealer",
+    "region": "HR",
+    "website": "https://www.links.hr/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.links.hr/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hr",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "HR Links climate CE · daily_2026-11-11"
+  },
+  {
+    "name": "Liverpool MX appliances",
+    "type": "dealer",
+    "region": "MX",
+    "website": "https://www.liverpool.com.mx/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.liverpool.com.mx/",
+    "tags": [
+      "dealer",
+      "heater",
+      "mx",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "MX Liverpool climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Losch Kälte Klima GmbH",
     "type": "dealer",
     "region": "Stolberg (Rhineland), Germany",
@@ -9274,6 +9652,27 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Merkur SI HVAC",
+    "type": "dealer",
+    "region": "SI",
+    "website": "https://www.merkur.si/",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "source_url": "https://www.merkur.si/",
+    "tags": [
+      "dealer",
+      "heater",
+      "hvac",
+      "route:channel_coop",
+      "si"
+    ],
+    "notes": "SI Merkur DIY HVAC · daily_2026-11-11"
   },
   {
     "name": "MET MANN",
@@ -10135,6 +10534,27 @@
     "notes": "WLW directory listing"
   },
   {
+    "name": "Palacio de Hierro MX appliances",
+    "type": "dealer",
+    "region": "MX",
+    "website": "https://www.elpalaciodehierro.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.elpalaciodehierro.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "mx",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "MX Palacio de Hierro climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Panachewinecellars",
     "type": "distributor",
     "region": "intl",
@@ -10395,6 +10815,24 @@
       "route:channel_coop"
     ],
     "notes": "CA pet specialty retail · daily_2026-11-04"
+  },
+  {
+    "name": "Pet Warehouse PH pet",
+    "type": "dealer",
+    "region": "PH",
+    "website": "https://www.petwarehouse.ph/",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petwarehouse.ph/",
+    "tags": [
+      "dealer",
+      "pet",
+      "ph",
+      "route:channel_coop"
+    ],
+    "notes": "PH Pet Warehouse specialty · daily_2026-11-11"
   },
   {
     "name": "Pet.co.nz NZ",
@@ -11089,6 +11527,48 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Radio Popular PT appliances",
+    "type": "dealer",
+    "region": "PT",
+    "website": "https://www.radiopopular.pt/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.radiopopular.pt/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "pt",
+      "route:channel_coop"
+    ],
+    "notes": "PT Radio Popular climate CE · daily_2026-11-11"
+  },
+  {
+    "name": "Raneen Egypt appliances",
+    "type": "dealer",
+    "region": "EG",
+    "website": "https://www.raneen.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.raneen.com/",
+    "tags": [
+      "dealer",
+      "eg",
+      "heater",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "EG Raneen climate appliances · daily_2026-11-11"
   },
   {
     "name": "RE Michel Company",
@@ -12196,6 +12676,27 @@
     "notes": "Breezaire authorized wholesale dealer"
   },
   {
+    "name": "Slot NG appliances",
+    "type": "dealer",
+    "region": "NG",
+    "website": "https://slot.ng/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://slot.ng/",
+    "tags": [
+      "dealer",
+      "heater",
+      "ng",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "NG Slot climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Smartwares Group (brands: Princess, Tristar)",
     "type": "brand",
     "region": "Netherlands",
@@ -12574,6 +13075,27 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/AC business"
+  },
+  {
+    "name": "Steren MX electronics",
+    "type": "dealer",
+    "region": "MX",
+    "website": "https://www.steren.com.mx/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.steren.com.mx/",
+    "tags": [
+      "dealer",
+      "heater",
+      "mx",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "MX Steren electronics / climate · daily_2026-11-11"
   },
   {
     "name": "STEVEN AINGE Plumbing, Heating & Cooling Ltd Air Conditioning",
@@ -13797,6 +14319,27 @@
     "notes": "TW 特力屋 TRPLUS home/DIY climate · daily_2026-11-09"
   },
   {
+    "name": "Tunisianet TN appliances",
+    "type": "dealer",
+    "region": "TN",
+    "website": "https://www.tunisianet.com.tn/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.tunisianet.com.tn/",
+    "tags": [
+      "dealer",
+      "heater",
+      "portable_ac",
+      "route:channel_coop",
+      "tn"
+    ],
+    "notes": "TN Tunisianet climate CE · daily_2026-11-11"
+  },
+  {
     "name": "Tuscancellars",
     "type": "distributor",
     "region": "intl",
@@ -14038,6 +14581,27 @@
       "wholesaler"
     ],
     "notes": "ThomasNet portable heaters"
+  },
+  {
+    "name": "Vijay Sales IN appliances",
+    "type": "dealer",
+    "region": "IN",
+    "website": "https://www.vijaysales.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.vijaysales.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "in",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "IN Vijay Sales climate CE · daily_2026-11-11"
   },
   {
     "name": "Vineyardwinecellars",
@@ -15303,6 +15867,27 @@
       "route:channel_coop"
     ],
     "notes": "medium — HVAC contractor/installer channel"
+  },
+  {
+    "name": "X-cite Kuwait appliances",
+    "type": "dealer",
+    "region": "KW",
+    "website": "https://www.xcite.com/",
+    "contact_email": "",
+    "categories": [
+      "portable_ac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.xcite.com/",
+    "tags": [
+      "dealer",
+      "heater",
+      "kw",
+      "portable_ac",
+      "route:channel_coop"
+    ],
+    "notes": "KW X-cite Alghanim climate CE · daily_2026-11-11"
   },
   {
     "name": "Xiwine",

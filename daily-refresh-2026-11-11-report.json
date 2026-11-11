@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-11",
+  "silent_no_change": false,
+  "creators_before": 31593,
+  "creators_after": 31981,
+  "net_new": 388,
+  "platform_breakdown_before": {
+    "tiktok": 12236,
+    "instagram": 6442,
+    "bilibili": 5922,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 864,
+    "wechat_store": 200
+  },
+  "platform_breakdown_after": {
+    "tiktok": 12395,
+    "instagram": 6442,
+    "bilibili": 6074,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 941,
+    "wechat_store": 200
+  },
+  "channels_before": 795,
+  "channels_after": 823,
+  "channels_net_new": 28,
+  "brand_before": 430,
+  "brand_after": 458,
+  "brand_net_new": 28,
+  "sources": {
+    "feedspot_tiktok_ai": 61,
+    "feedspot_tiktok_anime": 50,
+    "feedspot_tiktok_audiophile": 16,
+    "feedspot_tiktok_beard": 30,
+    "feedspot_tiktok_chess": 42,
+    "feedspot_tiktok_cigar": 73,
+    "feedspot_tiktok_classical_music": 54,
+    "feedspot_tiktok_cybersecurity": 71,
+    "feedspot_tiktok_dnd": 60,
+    "feedspot_tiktok_electric_vehicle": 10,
+    "feedspot_tiktok_homeschool": 63,
+    "feedspot_tiktok_jazz": 11,
+    "feedspot_tiktok_keto": 56,
+    "feedspot_tiktok_opera": 27,
+    "feedspot_tiktok_pizza": 26,
+    "feedspot_tiktok_scuba": 62,
+    "feedspot_tiktok_stem": 133,
+    "bilibili_daily_api": 152,
+    "x_mcp_public": 77,
+    "channels_curated_daily": 28,
+    "brand_curated_daily": 28
+  },
+  "dedupe_drops": {
+    "dup": 679
+  },
+  "blockers": [
+    "Feedspot soft-empty/404 (261 pages); only large dumps parsed",
+    "Apify: skipped (quota unused; free Feedspot+Bili+X lists yielded net-new creators)",
+    "Instagram Feedspot: most new niche URLs 404 or anti-bot; TikTok dumps used instead",
+    "Many Feedspot niche URLs 404; large TikTok dumps parsed where pages existed",
+    "AfterShip: skipped (scale6b/Nov-6 already ingested the standard TTS category slugs; no unused categories remain)",
+    "Douyin/XHS/WeChat: no new free public list dumps today (prior CN weekly already absorbed)",
+    "Bilibili ranking/v2 returned risk-control code -352; used popular p1-12, precious, and rotating newlist rids"
+  ],
+  "artifacts": [
+    "/workspace/creators.json",
+    "/workspace/creators.csv",
+    "/workspace/channels.json",
+    "/workspace/channels.csv",
+    "/workspace/brand_content_sources.json",
+    "/workspace/brand_content_sources.csv",
+    "/workspace/daily-refresh-2026-11-11-report.json",
+    "/workspace/daily-refresh-report.md",
+    "/workspace/raw_lists_daily_2026-11-11/",
+    "/workspace/gtm-creator-hub-push/data/",
+    "/workspace/gtm-hub-refresh/"
+  ],
+  "commit": null,
+  "commit_short": null,
+  "push": "no push"
+}
