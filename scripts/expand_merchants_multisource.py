@@ -436,6 +436,12 @@ def ingest_mic(db: MerchantDB):
         "dehumidifier-p4": "hvac", "dehumidifier-p5": "hvac",
         "air-conditioner": "hvac", "heat-pump": "hvac",
         "mini-fridge": "home_appliance", "ice-maker": "home_appliance",
+        "air-cooler": "portable_ac", "evaporative-cooler": "portable_ac",
+        "air-purifier": "hvac", "window-air-conditioner": "portable_ac",
+        "ceramic-heater": "heater", "infrared-heater": "heater", "convection-heater": "heater",
+        "pet-fountain": "pet_products", "pet-bed": "pet_products",
+        "chest-freezer": "home_appliance", "beverage-refrigerator": "wine_cooler",
+        "water-dispenser": "home_appliance", "tower-fan": "home_appliance",
         "mic-pac": "portable_ac", "mic-pet": "pet_products", "mic-space-heater": "heater", "mic-wine": "wine_cooler",
     }
     # root-level legacy + mic/
@@ -635,6 +641,50 @@ def ingest_trade_shows(db: MerchantDB):
                 source_url="https://cantonfair.co/139/categories/household-electrical-appliances",
                 tags=["trade_show", "canton_fair", "household_electrical"],
                 notes="Canton Fair household electrical appliances public exhibitor category",
+                source_tag="trade_show",
+            )
+
+    # Additional Canton Fair public category name lists (kitchen / pet / sanitary / smart home)
+    for fname, cats, src_url, notes in [
+        (
+            "canton_kitchen_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/kitchenware-and-tableware",
+            "Canton Fair kitchenware and tableware public exhibitor category",
+        ),
+        (
+            "canton_pet_names.txt",
+            ["pet_products"],
+            "https://cantonfair.co/140/categories/pet-products-and-food",
+            "Canton Fair pet products and food public exhibitor category",
+        ),
+        (
+            "canton_sanitary_names.txt",
+            ["home_appliance", "heater"],
+            "https://cantonfair.co/140/categories/sanitary-and-bathroom-equipment",
+            "Canton Fair sanitary and bathroom equipment public exhibitor category",
+        ),
+        (
+            "canton_smarthome_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/smart-home-devices",
+            "Canton Fair smart home devices public exhibitor category",
+        ),
+    ]:
+        npath = RAW / "shows_md" / fname
+        if not npath.exists():
+            continue
+        for line in npath.read_text().splitlines():
+            name = norm_space(line)
+            if not name:
+                continue
+            db.add(
+                name=name, type_=infer_type(name, "manufacturer"), region="China",
+                website="", categories=cats_from_text(*cats, name),
+                platforms=["trade_show"],
+                source_url=src_url,
+                tags=["trade_show", "canton_fair", fname.replace(".txt", "")],
+                notes=notes,
                 source_tag="trade_show",
             )
 

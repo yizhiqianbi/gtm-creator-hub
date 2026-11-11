@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "before": 5016,
+  "after": 5704,
+  "net_delta": 688,
+  "overseas_oemish_before": 2822,
+  "overseas_oemish_after": 3098,
+  "overseas_oemish_delta": 276,
+  "flags_before": {
+    "overseas": 2802,
+    "oem": 1719,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1721,
+    "overseas_oemish": 2822
+  },
+  "flags_after": {
+    "overseas": 3078,
+    "oem": 1813,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1815,
+    "overseas_oemish": 3098
+  },
+  "sources_attempted": [
+    "customs",
+    "channel",
+    "trade_show",
+    "linkedin",
+    "maps",
+    "alibaba",
+    "1688",
+    "association",
+    "mic",
+    "overseas_oem"
+  ],
+  "sources_succeeded": [
+    "customs",
+    "overseas_oem",
+    "association",
+    "channel",
+    "mic",
+    "trade_show"
+  ],
+  "added_by_source_tag": {
+    "customs": 208,
+    "overseas_oem": 80,
+    "association": 14,
+    "channel": 28,
+    "mic": 157,
+    "trade_show": 201
+  },
+  "notes": [
+    "ImportDoor HS pages refreshed and expanded with new codes 841459/841490/842139/851680/732111/850819/850870 plus niche-fitting 230990/732112/732119/732181/841821/841830/841840/841891/850860/851671/851672/851679/851690 (+208 net after dedupe). ImportYeti retry still unusable (no parseable HS directory).",
+    "MIC new public manufacturer slugs ingested (+157 net): air-cooler, evaporative-cooler, air-purifier, window-air-conditioner, ceramic-heater, infrared-heater, pet-fountain, chest-freezer, beverage-refrigerator, water-dispenser, convection-heater, tower-fan, pet-bed.",
+    "Canton Fair: 139 HEA refreshed and 140 session plus kitchenware, pet-products-and-food, sanitary-and-bathroom, and smart-home category pages parsed (+201 net exhibitor names). Ambiente/ISH exhibitor search pages still have no usable company JSON. AHR Expo public page is a landing shell (list lives on Map Your Show). Chillventa/CIPS not parseable.",
+    "Association: +14 UK appliance manufacturers from the public AMDEA members directory (official websites on the association page). AHRI/AHAM refreshed with no additional net-new parse. Eurovent members page refreshed but already curated on 11-10 (not re-added). ISKID Turkey members are listed but official company websites are not on the listing page (portfolio pages only), so they were not added as seeds.",
+    "Overseas OEM: +80 overseas manufacturers from public Wikipedia country home-appliance manufacturer categories plus vacuum-cleaner manufacturers, with official websites from Wikidata (China-headquartered and weak-fit names dropped). Combined with AMDEA, curated seeds 392→486 and overseas_oem expand +94.",
+    "Channels: +28 net from updated channels.json (823, after the 2026-11-11 creator hub refresh).",
+    "Ran expand_merchants_customs.py then overseas_oem then multisource. Merchant count never dropped below the 5016 baseline (5016→5223→5317→5704). A first-pass fetch typo ([-400] vs [-400:]) briefly marked silent 200s as failures; retried empty dests after the patch.",
+    "Alibaba/1688/GlobalSources mostly 404/empty/JS-shell; Europages 202 empty; ThomasNet/TradeIndia/Kompass blocked or JS-shell; Crustdata live expand not used (reused prior merged_strict dump); Apify/Apollo not used."
+  ],
+  "blockers": [
+    "ImportYeti /hs-code/* retry still unusable (no parseable supplier directory)",
+    "Europages returned HTTP 202 with an empty body; ThomasNet/Alibaba/GlobalSources/TradeIndia/Kompass mostly blocked or JS-shell",
+    "1688 public search pages empty/blocked in this environment",
+    "Crustdata live expand not used this run; reused prior merged_strict dump (previous runs reported 0 credits)",
+    "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML; AHR Expo page is a landing shell (exhibitor list on Map Your Show JS); Chillventa/CIPS not parseable",
+    "APPLiA Europe members page failed (tiny/non-HTML); JRAIA Japanese members page in maintenance; ANFAD/EHPA/Eurovent Certification/FETA member URLs 404 or empty; ISKID member names present without official websites on the listing page; AREA/VDMA/ABRAVA/ISHRAE pages were not usable manufacturer directories with official websites"
+  ],
+  "commit_sha": "",
+  "report_sha": "",
+  "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
+  "stay_silent": false
+}
