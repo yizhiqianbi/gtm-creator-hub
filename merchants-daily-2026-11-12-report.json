@@ -70,7 +70,7 @@
     "New association member directories mostly failed: Heat Pump Association UK / BEAMA / GIFAM / APPLiA Italia / ANFEL / JEMA / HRAI / AIRAH / GSHP / TÜRKBESD / PFMA / FEDIAF / ZVEI / AEHA / KOEMA / HHIC / FEDA were 404, empty, login-walled, or lacked official company websites on the listing page",
     "LinkedIn and Google Maps had no new public ingest this run (no new Crustdata query; no new Maps listings)"
   ],
-  "commit_sha": "",
+  "commit_sha": "f01c0f793f862e19d47e4bdce99bf3b5c486f6e0",
   "report_sha": "",
   "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
   "stay_silent": false
