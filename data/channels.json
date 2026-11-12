@@ -487,6 +487,27 @@
     "notes": "Temp power & HVAC rental"
   },
   {
+    "name": "Ahlsell Sverige",
+    "type": "wholesaler",
+    "region": "SE",
+    "website": "https://www.ahlsell.se",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.ahlsell.se",
+    "tags": [
+      "hvac",
+      "nordics",
+      "route:channel_coop",
+      "se",
+      "wholesaler"
+    ],
+    "notes": "Nordic HVAC/electrical wholesaler (Sweden site) · daily_2026-11-12"
+  },
+  {
     "name": "AHR Expo exhibitor search (public)",
     "type": "distributor",
     "region": "USA",
@@ -2776,6 +2797,26 @@
     "notes": "HVAC Informed space heating directory"
   },
   {
+    "name": "Brødrene Dahl",
+    "type": "wholesaler",
+    "region": "DK",
+    "website": "https://www.dahl.dk",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.dahl.dk",
+    "tags": [
+      "dk",
+      "hvac",
+      "nordics",
+      "route:channel_coop",
+      "wholesaler"
+    ],
+    "notes": "Denmark plumbing/HVAC merchant (dahl.dk) · daily_2026-11-12"
+  },
+  {
     "name": "BT Heating & Bathrooms",
     "type": "mod_shop",
     "region": "Newton Abbot, United Kingdom",
@@ -2937,6 +2978,26 @@
       "route:channel_coop"
     ],
     "notes": "NO Byggmakker climate/HVAC · daily_2026-11-09"
+  },
+  {
+    "name": "Byggmax",
+    "type": "dealer",
+    "region": "SE",
+    "website": "https://www.byggmax.se",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac"
+    ],
+    "source_url": "https://www.byggmax.se",
+    "tags": [
+      "dealer",
+      "hvac",
+      "nordics",
+      "route:channel_coop",
+      "se"
+    ],
+    "notes": "Sweden building-materials retailer · daily_2026-11-12"
   },
   {
     "name": "Bätz-Haustechnik",
@@ -3427,6 +3488,27 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Cetrogar",
+    "type": "dealer",
+    "region": "AR",
+    "website": "https://www.cetrogar.com.ar",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.cetrogar.com.ar",
+    "tags": [
+      "ar",
+      "dealer",
+      "home_appliance",
+      "latam",
+      "route:channel_coop"
+    ],
+    "notes": "Argentina technology and home retailer · daily_2026-11-12"
   },
   {
     "name": "Cettavino",
@@ -3947,6 +4029,27 @@
       "route:channel_coop"
     ],
     "notes": "NL/BE specialty CE climate · daily_2026-11-04"
+  },
+  {
+    "name": "Coolblue Belgium",
+    "type": "dealer",
+    "region": "BE",
+    "website": "https://www.coolblue.be",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.coolblue.be",
+    "tags": [
+      "be",
+      "dealer",
+      "eu",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Belgium electronics and climate-appliance retailer · daily_2026-11-12"
   },
   {
     "name": "Coolblue NL appliances",
@@ -4800,6 +4903,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "DoHome",
+    "type": "dealer",
+    "region": "TH",
+    "website": "https://www.dohome.co.th",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.dohome.co.th",
+    "tags": [
+      "dealer",
+      "hvac",
+      "route:channel_coop",
+      "sea",
+      "th"
+    ],
+    "notes": "Thailand home-improvement and building-materials retailer · daily_2026-11-12"
+  },
+  {
     "name": "Dometic wine / outdoor cooling",
     "type": "dealer",
     "region": "global",
@@ -5162,6 +5286,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Elon",
+    "type": "dealer",
+    "region": "SE",
+    "website": "https://www.elon.se",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.elon.se",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "nordics",
+      "route:channel_coop",
+      "se"
+    ],
+    "notes": "Sweden home-appliance retail chain · daily_2026-11-12"
+  },
+  {
     "name": "Elta Northern Ireland",
     "type": "dealer",
     "region": "Newtownards, United Kingdom",
@@ -5327,6 +5472,27 @@
       "wlw"
     ],
     "notes": "WLW directory listing"
+  },
+  {
+    "name": "Erablue",
+    "type": "dealer",
+    "region": "ID",
+    "website": "https://www.erablue.id",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.erablue.id",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "id",
+      "route:channel_coop",
+      "sea"
+    ],
+    "notes": "Indonesia household-electronics retailer · daily_2026-11-12"
   },
   {
     "name": "erbmann kälte klima",
@@ -5638,6 +5804,48 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Expert España",
+    "type": "dealer",
+    "region": "ES",
+    "website": "https://www.expert.es",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.expert.es",
+    "tags": [
+      "dealer",
+      "es",
+      "eu",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Spain Expert appliance specialist stores · daily_2026-11-12"
+  },
+  {
+    "name": "Expert Ireland",
+    "type": "dealer",
+    "region": "IE",
+    "website": "https://www.expert.ie",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.expert.ie",
+    "tags": [
+      "dealer",
+      "eu",
+      "home_appliance",
+      "ie",
+      "route:channel_coop"
+    ],
+    "notes": "Ireland electrical and home-appliance stores · daily_2026-11-12"
   },
   {
     "name": "Extra SA appliances",
@@ -6548,6 +6756,27 @@
     "notes": "NEW; Dimplex portable cooling/ECOIQ; large heating group — portable is niche line but brand+service network strong"
   },
   {
+    "name": "Global House",
+    "type": "dealer",
+    "region": "TH",
+    "website": "https://www.globalhouse.co.th",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.globalhouse.co.th",
+    "tags": [
+      "dealer",
+      "hvac",
+      "route:channel_coop",
+      "sea",
+      "th"
+    ],
+    "notes": "Thailand building-materials and home retailer · daily_2026-11-12"
+  },
+  {
     "name": "Global Pet Expo exhibitor directory (public)",
     "type": "wholesaler",
     "region": "USA",
@@ -7141,6 +7370,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Hiraoka",
+    "type": "dealer",
+    "region": "PE",
+    "website": "https://hiraoka.com.pe",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://hiraoka.com.pe",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "latam",
+      "pe",
+      "route:channel_coop"
+    ],
+    "notes": "Peru electronics and home-appliance retailer · daily_2026-11-12"
+  },
+  {
     "name": "Hirschs ZA appliances",
     "type": "dealer",
     "region": "ZA",
@@ -7377,6 +7627,27 @@
     "notes": "DE DIY climate aisle · daily_2026-11-04"
   },
   {
+    "name": "Hubo",
+    "type": "dealer",
+    "region": "BE",
+    "website": "https://www.hubo.be",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "home_appliance"
+    ],
+    "source_url": "https://www.hubo.be",
+    "tags": [
+      "be",
+      "dealer",
+      "eu",
+      "hvac",
+      "route:channel_coop"
+    ],
+    "notes": "Belgium DIY retailer · daily_2026-11-12"
+  },
+  {
     "name": "Humiscope AU wine cellar climate",
     "type": "distributor",
     "region": "AU",
@@ -7588,6 +7859,26 @@
       "wine_cooler"
     ],
     "notes": "Breezaire authorized wholesale dealer"
+  },
+  {
+    "name": "Instalguru",
+    "type": "dealer",
+    "region": "PL",
+    "website": "https://instalguru.pl",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://instalguru.pl",
+    "tags": [
+      "dealer",
+      "eu",
+      "hvac",
+      "pl",
+      "route:channel_coop"
+    ],
+    "notes": "Poland online shop for installation and HVAC supplies · daily_2026-11-12"
   },
   {
     "name": "Integ",
@@ -7919,6 +8210,27 @@
     "notes": "Amazon brand intel tool (public site)"
   },
   {
+    "name": "K-Rauta",
+    "type": "dealer",
+    "region": "FI",
+    "website": "https://www.k-rauta.fi",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.k-rauta.fi",
+    "tags": [
+      "dealer",
+      "fi",
+      "hvac",
+      "nordics",
+      "route:channel_coop"
+    ],
+    "notes": "Finland builders merchant (heating/HVAC aisle) · daily_2026-11-12"
+  },
+  {
     "name": "K.S.M. Klima Service Möcker",
     "type": "mod_shop",
     "region": "Biesenthal, Germany",
@@ -8157,6 +8469,25 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Kiwoko",
+    "type": "dealer",
+    "region": "ES",
+    "website": "https://www.kiwoko.com",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.kiwoko.com",
+    "tags": [
+      "dealer",
+      "es",
+      "eu",
+      "pet_products",
+      "route:channel_coop"
+    ],
+    "notes": "Spain pet retail chain · daily_2026-11-12"
   },
   {
     "name": "Kleinschmidt Gewerbekühlung GmbH - Kältetechnik und Klimatechnik",
@@ -9448,6 +9779,25 @@
     "notes": "WLW directory listing"
   },
   {
+    "name": "Maxi Zoo Belgium",
+    "type": "dealer",
+    "region": "BE",
+    "website": "https://www.maxizoo.be",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.maxizoo.be",
+    "tags": [
+      "be",
+      "dealer",
+      "eu",
+      "pet_products",
+      "route:channel_coop"
+    ],
+    "notes": "Belgium pet retail chain · daily_2026-11-12"
+  },
+  {
     "name": "Maxi Zoo DK pet",
     "type": "dealer",
     "region": "DK",
@@ -9464,6 +9814,25 @@
       "route:channel_coop"
     ],
     "notes": "DK Maxi Zoo pet specialty · daily_2026-11-09"
+  },
+  {
+    "name": "Maxi Zoo France",
+    "type": "dealer",
+    "region": "FR",
+    "website": "https://www.maxizoo.fr",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.maxizoo.fr",
+    "tags": [
+      "dealer",
+      "eu",
+      "fr",
+      "pet_products",
+      "route:channel_coop"
+    ],
+    "notes": "France pet retail chain · daily_2026-11-12"
   },
   {
     "name": "Maxx Solar & Energie GmbH & Co. KG",
@@ -9830,6 +10199,27 @@
     "notes": "Regional pet distributor"
   },
   {
+    "name": "Milar",
+    "type": "dealer",
+    "region": "ES",
+    "website": "https://www.milar.es",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.milar.es",
+    "tags": [
+      "dealer",
+      "es",
+      "eu",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Spain specialist home-appliance retailer · daily_2026-11-12"
+  },
+  {
     "name": "Miles Ash",
     "type": "mod_shop",
     "region": "Newtownabbey, United Kingdom",
@@ -10022,6 +10412,26 @@
     "notes": "Vinotemp linked retailer"
   },
   {
+    "name": "Montér",
+    "type": "dealer",
+    "region": "NO",
+    "website": "https://www.monter.no",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.monter.no",
+    "tags": [
+      "dealer",
+      "hvac",
+      "no",
+      "nordics",
+      "route:channel_coop"
+    ],
+    "notes": "Norway builders-merchant chain · daily_2026-11-12"
+  },
+  {
     "name": "more+",
     "type": "distributor",
     "region": "USA",
@@ -10210,6 +10620,27 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Neonet",
+    "type": "dealer",
+    "region": "PL",
+    "website": "https://www.neonet.pl",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.neonet.pl",
+    "tags": [
+      "dealer",
+      "eu",
+      "home_appliance",
+      "pl",
+      "route:channel_coop"
+    ],
+    "notes": "Poland electronics and home-appliance retailer · daily_2026-11-12"
   },
   {
     "name": "Newair",
@@ -10440,6 +10871,26 @@
     "notes": "NEW; US commercial/industrial portable AC manufacturer (IL plant); distributor network — spare-parts/after-sales strong"
   },
   {
+    "name": "Oechsle",
+    "type": "dealer",
+    "region": "PE",
+    "website": "https://www.oechsle.pe",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "source_url": "https://www.oechsle.pe",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "latam",
+      "pe",
+      "route:channel_coop"
+    ],
+    "notes": "Peru department store with home-appliance offer · daily_2026-11-12"
+  },
+  {
     "name": "Oldachpr",
     "type": "distributor",
     "region": "intl",
@@ -10513,6 +10964,26 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Optimera Norge",
+    "type": "wholesaler",
+    "region": "NO",
+    "website": "https://www.optimera.no",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.optimera.no",
+    "tags": [
+      "hvac",
+      "no",
+      "nordics",
+      "route:channel_coop",
+      "wholesaler"
+    ],
+    "notes": "Norway trade builders merchant · daily_2026-11-12"
   },
   {
     "name": "Our app is here!",
@@ -10607,6 +11078,27 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Paris Chile",
+    "type": "dealer",
+    "region": "CL",
+    "website": "https://www.paris.cl",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.paris.cl",
+    "tags": [
+      "cl",
+      "dealer",
+      "home_appliance",
+      "latam",
+      "route:channel_coop"
+    ],
+    "notes": "Chile department store with home-appliance offer · daily_2026-11-12"
   },
   {
     "name": "Paskins Air Conditioning Installations Droitwich.",
@@ -11006,6 +11498,25 @@
     "notes": "National pet retail"
   },
   {
+    "name": "PetsMore Malaysia",
+    "type": "dealer",
+    "region": "MY",
+    "website": "https://petsmore.com.my",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://petsmore.com.my",
+    "tags": [
+      "dealer",
+      "my",
+      "pet_products",
+      "route:channel_coop",
+      "sea"
+    ],
+    "notes": "Malaysia pet retail chain · daily_2026-11-12"
+  },
+  {
     "name": "Petstock AU",
     "type": "dealer",
     "region": "AU",
@@ -11022,6 +11533,25 @@
       "route:channel_coop"
     ],
     "notes": "AU pet specialty retail · daily_2026-11-05"
+  },
+  {
+    "name": "PetXL Norway",
+    "type": "dealer",
+    "region": "NO",
+    "website": "https://www.petxl.no",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.petxl.no",
+    "tags": [
+      "dealer",
+      "no",
+      "nordics",
+      "pet_products",
+      "route:channel_coop"
+    ],
+    "notes": "Norway pet retail chain · daily_2026-11-12"
   },
   {
     "name": "Petz BR pet",
@@ -11092,6 +11622,27 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Pico Vietnam",
+    "type": "dealer",
+    "region": "VN",
+    "website": "https://pico.vn",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://pico.vn",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "route:channel_coop",
+      "sea",
+      "vn"
+    ],
+    "notes": "Vietnam electrical and home-appliance retailer · daily_2026-11-12"
   },
   {
     "name": "PIDA",
@@ -11200,6 +11751,27 @@
       "th"
     ],
     "notes": "TH Power Buy climate CE · daily_2026-11-06"
+  },
+  {
+    "name": "Power Norway",
+    "type": "dealer",
+    "region": "NO",
+    "website": "https://www.power.no",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.power.no",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "no",
+      "nordics",
+      "route:channel_coop"
+    ],
+    "notes": "Norway consumer-electronics and appliance retailer · daily_2026-11-12"
   },
   {
     "name": "Pps Heating",
@@ -11462,6 +12034,27 @@
       "wholesaler"
     ],
     "notes": "NEW; DE AC distributor/wholesaler; lists Midea PortaSplit mobile among others"
+  },
+  {
+    "name": "PSB Mrówka",
+    "type": "dealer",
+    "region": "PL",
+    "website": "https://mrowka.com.pl",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "home_appliance"
+    ],
+    "source_url": "https://mrowka.com.pl",
+    "tags": [
+      "dealer",
+      "eu",
+      "hvac",
+      "pl",
+      "route:channel_coop"
+    ],
+    "notes": "Poland PSB Mrówka building-materials cooperative · daily_2026-11-12"
   },
   {
     "name": "PVG International B.V. (Qlima)",
@@ -12152,6 +12745,27 @@
     "notes": "medium — HVAC contractor/installer channel"
   },
   {
+    "name": "Salvador Escoda",
+    "type": "wholesaler",
+    "region": "ES",
+    "website": "https://www.salvadorescoda.com",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.salvadorescoda.com",
+    "tags": [
+      "es",
+      "eu",
+      "hvac",
+      "route:channel_coop",
+      "wholesaler"
+    ],
+    "notes": "Spain industrial HVAC/installation wholesaler · daily_2026-11-12"
+  },
+  {
     "name": "Samsung Climate Solutions partners",
     "type": "distributor",
     "region": "global",
@@ -12634,6 +13248,27 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Silvan",
+    "type": "dealer",
+    "region": "DK",
+    "website": "https://www.silvan.dk",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "home_appliance"
+    ],
+    "source_url": "https://www.silvan.dk",
+    "tags": [
+      "dealer",
+      "dk",
+      "hvac",
+      "nordics",
+      "route:channel_coop"
+    ],
+    "notes": "Denmark DIY/home-improvement retailer · daily_2026-11-12"
+  },
+  {
     "name": "SK Sales Ltd Glasgow - Ventilation and Air Conditioning Wholesaler",
     "type": "distributor",
     "region": "Glasgow, United Kingdom",
@@ -12776,6 +13411,27 @@
       "route:channel_coop"
     ],
     "notes": "PE Sodimac building materials HVAC · daily_2026-11-10"
+  },
+  {
+    "name": "Solar A/S",
+    "type": "wholesaler",
+    "region": "DK",
+    "website": "https://www.solar.dk",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "home_appliance"
+    ],
+    "source_url": "https://www.solar.dk",
+    "tags": [
+      "dk",
+      "hvac",
+      "nordics",
+      "route:channel_coop",
+      "wholesaler"
+    ],
+    "notes": "Denmark sourcing partner for installation and industry · daily_2026-11-12"
   },
   {
     "name": "SoleusAir (MJC America / MJC Supply)",
@@ -13035,6 +13691,26 @@
       "route:channel_coop"
     ],
     "notes": "Portable AC sales/rental"
+  },
+  {
+    "name": "STARK Danmark",
+    "type": "distributor",
+    "region": "DK",
+    "website": "https://www.stark.dk",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "source_url": "https://www.stark.dk",
+    "tags": [
+      "distributor",
+      "dk",
+      "hvac",
+      "nordics",
+      "route:channel_coop"
+    ],
+    "notes": "Denmark nationwide building-materials distributor · daily_2026-11-12"
   },
   {
     "name": "Statcounter",
@@ -13999,6 +14675,27 @@
     "notes": "Local pro marketplace"
   },
   {
+    "name": "Tien21",
+    "type": "dealer",
+    "region": "ES",
+    "website": "https://www.tien21.es",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.tien21.es",
+    "tags": [
+      "dealer",
+      "es",
+      "eu",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Spain specialist home-appliance retailer · daily_2026-11-12"
+  },
+  {
     "name": "Tiendanimal ES pet",
     "type": "dealer",
     "region": "ES",
@@ -14558,6 +15255,46 @@
     "notes": "PIDA public directory domain"
   },
   {
+    "name": "Ventia",
+    "type": "distributor",
+    "region": "PL",
+    "website": "https://www.ventia.pl",
+    "contact_email": "",
+    "categories": [
+      "hvac",
+      "heater",
+      "portable_ac"
+    ],
+    "source_url": "https://www.ventia.pl",
+    "tags": [
+      "distributor",
+      "eu",
+      "hvac",
+      "pl",
+      "route:channel_coop"
+    ],
+    "notes": "Poland HVAC/ventilation distributor · daily_2026-11-12"
+  },
+  {
+    "name": "VetZoo",
+    "type": "dealer",
+    "region": "SE",
+    "website": "https://www.vetzoo.se",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.vetzoo.se",
+    "tags": [
+      "dealer",
+      "nordics",
+      "pet_products",
+      "route:channel_coop",
+      "se"
+    ],
+    "notes": "Sweden online pet pharmacy and supplies · daily_2026-11-12"
+  },
+  {
     "name": "View Profile",
     "type": "distributor",
     "region": "USA",
@@ -15022,6 +15759,28 @@
       "wlw"
     ],
     "notes": "WLW directory listing"
+  },
+  {
+    "name": "Whiteaway",
+    "type": "dealer",
+    "region": "DK",
+    "website": "https://www.whiteaway.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater",
+      "wine_cooler"
+    ],
+    "source_url": "https://www.whiteaway.com",
+    "tags": [
+      "dealer",
+      "dk",
+      "home_appliance",
+      "nordics",
+      "route:channel_coop"
+    ],
+    "notes": "Denmark specialist home-appliance retailer · daily_2026-11-12"
   },
   {
     "name": "Whynter authorized dealers",
@@ -15806,6 +16565,27 @@
     "notes": "UK trade merchant"
   },
   {
+    "name": "Woodie's",
+    "type": "dealer",
+    "region": "IE",
+    "website": "https://www.woodies.ie",
+    "contact_email": "",
+    "categories": [
+      "heater",
+      "hvac",
+      "home_appliance"
+    ],
+    "source_url": "https://www.woodies.ie",
+    "tags": [
+      "dealer",
+      "eu",
+      "hvac",
+      "ie",
+      "route:channel_coop"
+    ],
+    "notes": "Ireland DIY and home-improvement retailer · daily_2026-11-12"
+  },
+  {
     "name": "Woodlander Environments",
     "type": "wholesaler",
     "region": "TX",
@@ -16071,5 +16851,25 @@
       "wlw"
     ],
     "notes": "WLW directory listing"
+  },
+  {
+    "name": "全國電子 E-Life",
+    "type": "dealer",
+    "region": "TW",
+    "website": "https://www.elifemall.com.tw",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac",
+      "heater"
+    ],
+    "source_url": "https://www.elifemall.com.tw",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "route:channel_coop",
+      "tw"
+    ],
+    "notes": "Taiwan E-Life / 全國電子 electronics and appliance chain · daily_2026-11-12"
   }
 ]

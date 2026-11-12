@@ -1,46 +1,159 @@
-# Daily refresh 2026-11-11
+# Daily refresh 2026-11-12
 
-- Creators: **31593 → 31981** (net **+388**)
-  - Platforms: tiktok 12395 · instagram 6442 · bilibili 6074 · douyin 4463 · xiaohongshu 1466 · x 941 · wechat_store 200
-- Channels: **795 → 823** (net **+28**)
-- Brand content sources: **430 → 458** (net **+28**)
+- Creators: **31981 → 33341** (net **+1360**)
+  - Platforms: tiktok 13613 · instagram 6442 · bilibili 6206 · douyin 4463 · xiaohongshu 1466 · x 951 · wechat_store 200
+- Channels: **823 → 862** (net **+39**)
+- Brand content sources: **458 → 497** (net **+39**)
 
 ## Sources
-- bilibili_daily_api: 152
-- feedspot_tiktok_stem: 133
-- x_mcp_public: 77
-- feedspot_tiktok_cigar: 73
-- feedspot_tiktok_cybersecurity: 71
-- feedspot_tiktok_homeschool: 63
-- feedspot_tiktok_scuba: 62
-- feedspot_tiktok_ai: 61
-- feedspot_tiktok_dnd: 60
-- feedspot_tiktok_keto: 56
-- feedspot_tiktok_classical_music: 54
-- feedspot_tiktok_anime: 50
-- feedspot_tiktok_chess: 42
-- feedspot_tiktok_beard: 30
-- channels_curated_daily: 28
-- brand_curated_daily: 28
-- feedspot_tiktok_opera: 27
-- feedspot_tiktok_pizza: 26
-- feedspot_tiktok_audiophile: 16
-- feedspot_tiktok_jazz: 11
-- feedspot_tiktok_electric_vehicle: 10
+- bilibili_daily_api: 461
+- feedspot_tiktok_black: 151
+- feedspot_tiktok_dermatology: 146
+- feedspot_tiktok_career: 140
+- feedspot_tiktok_trading: 132
+- feedspot_tiktok_latina: 129
+- feedspot_tiktok_latin: 128
+- feedspot_tiktok_south_african: 127
+- feedspot_tiktok_digital_art: 120
+- feedspot_tiktok_senior: 120
+- feedspot_tiktok_sober: 116
+- feedspot_tiktok_equestrian: 113
+- feedspot_tiktok_movie: 110
+- feedspot_tiktok_lesbian: 95
+- feedspot_tiktok_uk_family: 94
+- feedspot_tiktok_college_sports: 93
+- feedspot_tiktok_uk_equestrian: 92
+- feedspot_tiktok_virtual: 92
+- feedspot_tiktok_female_health: 89
+- feedspot_tiktok_investment: 89
+- feedspot_tiktok_pop_music: 89
+- feedspot_tiktok_college_football: 84
+- feedspot_tiktok_germany: 83
+- feedspot_tiktok_gun: 81
+- feedspot_tiktok_small_business: 81
+- feedspot_tiktok_business: 80
+- feedspot_tiktok_childrens_book: 78
+- feedspot_tiktok_uk_health: 78
+- feedspot_tiktok_australian_male: 76
+- feedspot_tiktok_lgbtq: 76
+- feedspot_tiktok_footwear: 75
+- feedspot_tiktok_korean_beauty: 75
+- feedspot_tiktok_nyc_food: 75
+- feedspot_tiktok_us_golf: 74
+- feedspot_tiktok_athlete: 72
+- feedspot_tiktok_autism: 72
+- feedspot_tiktok_military: 72
+- feedspot_tiktok_christian_music: 71
+- feedspot_tiktok_harley_davidson: 70
+- feedspot_tiktok_mobile_gaming: 69
+- feedspot_tiktok_music_technology: 69
+- feedspot_tiktok_muslim_lifestyle: 67
+- feedspot_tiktok_uk_property: 67
+- feedspot_tiktok_christian_fashion: 64
+- feedspot_tiktok_romance_book: 64
+- feedspot_tiktok_transgender: 63
+- feedspot_tiktok_tarot: 62
+- feedspot_tiktok_scuba_diving: 61
+- feedspot_tiktok_board_game: 60
+- feedspot_tiktok_french_speaking: 60
+- feedspot_tiktok_law_enforcement: 60
+- feedspot_tiktok_pastor: 60
+- feedspot_tiktok_gospel: 59
+- feedspot_tiktok_auto: 58
+- feedspot_tiktok_canadian_music: 57
+- feedspot_tiktok_dental: 57
+- feedspot_tiktok_witch: 57
+- feedspot_tiktok_new_york_art: 56
+- feedspot_tiktok_taylor_swift: 55
+- feedspot_tiktok_thriller_book: 54
+- feedspot_tiktok_business_coach: 53
+- feedspot_tiktok_mystery: 53
+- feedspot_tiktok_delaware: 51
+- feedspot_tiktok_entertainment: 51
+- feedspot_tiktok_kids_toy: 51
+- feedspot_tiktok_christian_mom: 50
+- feedspot_tiktok_literary_fiction: 49
+- feedspot_tiktok_uk_auto: 48
+- feedspot_tiktok_beach: 47
+- feedspot_tiktok_diabetes: 45
+- feedspot_tiktok_ice_hockey: 45
+- feedspot_tiktok_uk_golf: 45
+- feedspot_tiktok_new_york: 43
+- feedspot_tiktok_adidas: 41
+- feedspot_tiktok_eco_friendly: 41
+- feedspot_tiktok_independent_music: 41
+- feedspot_tiktok_kenya: 40
+- feedspot_tiktok_space: 40
+- feedspot_tiktok_halloween: 39
+- feedspot_tiktok_librarian: 39
+- feedspot_tiktok_virtual_reality: 39
+- channels_curated_daily: 39
+- brand_curated_daily: 39
+- feedspot_tiktok_biohack: 38
+- feedspot_tiktok_latin_music: 37
+- feedspot_tiktok_chiropractic: 36
+- feedspot_tiktok_flight_simulation: 36
+- feedspot_tiktok_german_book: 36
+- feedspot_tiktok_sleep: 35
+- feedspot_tiktok_davao: 34
+- feedspot_tiktok_illustrated_books: 34
+- feedspot_tiktok_vegetable_gardening: 34
+- feedspot_tiktok_conservative: 32
+- feedspot_tiktok_sports_card: 32
+- feedspot_tiktok_bilingual: 31
+- feedspot_tiktok_canada_dog: 31
+- feedspot_tiktok_barcelona_lifestyle: 30
+- feedspot_tiktok_spiritual: 30
+- feedspot_tiktok_boston_food: 29
+- feedspot_tiktok_historical_fiction: 27
+- feedspot_tiktok_lgbt_book: 27
+- feedspot_tiktok_pennsylvania_food: 27
+- feedspot_tiktok_texas_fnb: 27
+- feedspot_tiktok_catholic: 26
+- feedspot_tiktok_group_travel: 26
+- feedspot_tiktok_pennsylvania_lifestyle: 26
+- feedspot_tiktok_barcelona_travel: 25
+- feedspot_tiktok_organic_gardening: 25
+- feedspot_tiktok_alternative_medicine: 24
+- feedspot_tiktok_barcelona: 23
+- feedspot_tiktok_charcuterie_board: 23
+- feedspot_tiktok_framers: 23
+- feedspot_tiktok_self_defense: 23
+- feedspot_tiktok_orlando_mom: 21
+- feedspot_tiktok_black_business: 20
+- feedspot_tiktok_horror: 20
+- feedspot_tiktok_puzzle: 20
+- feedspot_tiktok_rpg: 20
+- feedspot_tiktok_uk_senior: 20
+- feedspot_tiktok_indigenous: 19
+- feedspot_tiktok_business_productivity: 17
+- feedspot_tiktok_spanish_speaking: 17
+- feedspot_tiktok_barcelona_fashion: 16
+- feedspot_tiktok_womens_rights: 15
+- x_mcp_public: 10
+- feedspot_tiktok_celebrity: 9
+- feedspot_tiktok_bag: 8
+- feedspot_tiktok_paleo: 8
+- feedspot_tiktok_middle_grade_book: 7
+- feedspot_tiktok_vrbo: 7
+- feedspot_tiktok_pinball: 6
+- feedspot_tiktok_business_book_review: 5
+- feedspot_tiktok_barcelona_food: 4
+- feedspot_tiktok_barcelona_photography: 2
 
 ## Blockers
-- Feedspot soft-empty/404 (261 pages); only large dumps parsed
+- Feedspot soft-empty/404 (16 pages); only large dumps parsed
 - Apify: skipped (quota unused; free Feedspot+Bili+X lists yielded net-new creators)
-- Instagram Feedspot: most new niche URLs 404 or anti-bot; TikTok dumps used instead
-- Many Feedspot niche URLs 404; large TikTok dumps parsed where pages existed
+- Instagram Feedspot: homepage IG slugs were mostly fanvue/adult or previously tried; TikTok dumps used instead
+- Some guessed Feedspot slugs (filmmaking, podcasting, teachers, books, hockey, esports, etc.) 404; only large homepage-listed dumps parsed
 - AfterShip: skipped (scale6b/Nov-6 already ingested the standard TTS category slugs; no unused categories remain)
 - Douyin/XHS/WeChat: no new free public list dumps today (prior CN weekly already absorbed)
-- Bilibili ranking/v2 returned risk-control code -352; used popular p1-12, precious, and rotating newlist rids
+- Bilibili ranking/v2 succeeded today (code 0); used popular p1-12, precious, ranking/v2, working newlist rids plus new rid 155
 
 ## Notes
-- New Feedspot TikTok niches + Bilibili daily API (popular p1-12, precious, rotating newlist rids) + X public handles (HVAC / wine / pet / home appliance).
+- New Feedspot TikTok niches (homepage-listed unused slugs) + Bilibili daily API (popular p1-12, precious, ranking/v2, rotating newlist rids incl. 155) + X public handles (HVAC / wine / pet / home appliance).
 - AfterShip skipped (no unused TTS category slugs remaining after Nov-6).
-- Channel expansion: public dealers in AE/SA/KW/EG/NG/ZA/TN/HR/SI/RS/SG/PH/IN/HK/MX/NZ/PT for portable AC / HVAC / heaters / pet.
+- Channel expansion: public dealers/wholesalers in Nordics, PL/IE/BE/ES/FR, LATAM (CL/AR/PE), SEA (TH/VN/ID/MY), and TW for portable AC / HVAC / heaters / pet / home appliances.
 - Free public lists preferred; Apify paid actors skipped.
 - Rules: followers_num ≥ 1000; unknown dropped; dedupe platform+handle.
 - merchants.json untouched (separate routine).
