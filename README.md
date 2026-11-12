@@ -16,5 +16,5 @@ See `scale6-routes-report.md` / `daily-refresh-report.md` for counts and blocker
 ## Data
 
 <!-- merchants-dataset -->
-- **B端商家 / merchants**: `data/merchants.json` + `data/merchants.csv` (5704 rows; manufacturer / factory / wholesaler / brand / exporter / importer / b2b_store; niches: portable AC/HVAC, wine cooler, heaters, pet, home appliances, export/live-commerce supply). Includes public customs/trade directory enrichment (`hs_codes`, `trade_role`, tags `customs_source` / `hs:*`). Cross-tagged with `channels.json` via `merchant_db_overlap` / `related_channel` (no silent merge).
+- **B端商家 / merchants**: `data/merchants.json` + `data/merchants.csv` (6804 rows; manufacturer / factory / wholesaler / brand / exporter / importer / b2b_store; niches: portable AC/HVAC, wine cooler, heaters, pet, home appliances, export/live-commerce supply). Includes public customs/trade directory enrichment (`hs_codes`, `trade_role`, tags `customs_source` / `hs:*`). Cross-tagged with `channels.json` via `merchant_db_overlap` / `related_channel` (no silent merge).
 - **商家站 UI**: [`merchants.html`](./merchants.html) (GitHub Pages) — filter by type / region / category / trade role / tags.

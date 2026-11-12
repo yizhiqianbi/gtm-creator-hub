@@ -670,6 +670,54 @@ def ingest_trade_shows(db: MerchantDB):
             "https://cantonfair.co/140/categories/smart-home-devices",
             "Canton Fair smart home devices public exhibitor category",
         ),
+        (
+            "canton_household_items_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/household-items",
+            "Canton Fair household items public exhibitor category",
+        ),
+        (
+            "canton_electrical_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/electronic-and-electrical-products",
+            "Canton Fair electronic and electrical products public exhibitor category",
+        ),
+        (
+            "canton_consumer_electronics_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/consumer-electronics-and-information-products",
+            "Canton Fair consumer electronics public exhibitor category",
+        ),
+        (
+            "canton_lighting_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/lighting-equipment",
+            "Canton Fair lighting equipment public exhibitor category",
+        ),
+        (
+            "canton_furniture_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/furniture",
+            "Canton Fair furniture public exhibitor category",
+        ),
+        (
+            "canton_service_robots_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/service-robots",
+            "Canton Fair service robots public exhibitor category",
+        ),
+        (
+            "canton_hardware_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/hardware",
+            "Canton Fair hardware public exhibitor category",
+        ),
+        (
+            "canton_gardening_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/gardening-products",
+            "Canton Fair gardening products public exhibitor category",
+        ),
     ]:
         npath = RAW / "shows_md" / fname
         if not npath.exists():

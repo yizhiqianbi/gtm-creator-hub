@@ -8844,5 +8844,922 @@
     ],
     "notes": "Overseas manufacturer from public Wikipedia category (fan / kitchen / vacuum / country home-appliance manufacturer lists, or pet-related animal-feed companies) with official website on Wikidata",
     "public_contact": ""
+  },
+  {
+    "name": "Alphia",
+    "region": "United States",
+    "website": "https://www.alphia.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Barret Petfood Innovations",
+    "region": "United States",
+    "website": "https://barrettpetfood.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Bil-Jac",
+    "region": "United States",
+    "website": "https://www.bil-jac.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "The Blue Buffalo Co.",
+    "region": "United States",
+    "website": "https://bluebuffalo.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "BrightPet Nutrition Group",
+    "region": "United States",
+    "website": "https://brightpet.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Cargill",
+    "region": "United States",
+    "website": "https://www.cargill.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Carnivoremeat",
+    "region": "United States",
+    "website": "https://www.carnivoremeat.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Champion Petfoods",
+    "region": "United States",
+    "website": "https://championpetfoods.com/en",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Freshpet",
+    "region": "United States",
+    "website": "https://www.freshpet.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Hill’s",
+    "region": "United States",
+    "website": "https://www.hillspet.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Smucker’s - The J.M. Smucker Company",
+    "region": "United States",
+    "website": "https://www.jmsmucker.com/brands-you-love/pet-foods-snacks",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Mars Petcare",
+    "region": "United States",
+    "website": "https://www.mars.com/our-brands/petcare",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Post Consumer Brands",
+    "region": "United States",
+    "website": "https://www.postconsumerbrands.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Purina",
+    "region": "United States",
+    "website": "https://www.purina.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Royal Canin",
+    "region": "United States",
+    "website": "https://www.royalcanin.com/us",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Simmons Pet Food",
+    "region": "United States",
+    "website": "https://simmonspetfood.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Sunshine Mills, Inc.",
+    "region": "United States",
+    "website": "https://www.sunshinemills.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "TFP Nutrition",
+    "region": "United States",
+    "website": "https://tfpnutrition.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Wellness Pet Company",
+    "region": "United States",
+    "website": "https://www.wellnesspet.com/",
+    "source_url": "https://www.petfoodinstitute.org/about/members/",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us",
+      "source:association",
+      "pfi_member"
+    ],
+    "notes": "US pet-food producer listed on the public Pet Food Institute members page (official site linked from the association directory)",
+    "public_contact": ""
+  },
+  {
+    "name": "Copeland",
+    "region": "Europe",
+    "website": "https://www.copeland.com/global",
+    "source_url": "https://www.epeeglobal.org/about-epee/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "epee_member"
+    ],
+    "notes": "HVAC equipment manufacturer listed as an EPEE corporate member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Gree",
+    "region": "Europe",
+    "website": "https://www.greecomfort.com/",
+    "source_url": "https://www.epeeglobal.org/about-epee/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "epee_member"
+    ],
+    "notes": "HVAC equipment manufacturer listed as an EPEE corporate member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Solstice Advanced Materials",
+    "region": "Europe",
+    "website": "https://www.solstice.com/us/en/home",
+    "source_url": "https://www.epeeglobal.org/about-epee/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:eu",
+      "source:association",
+      "epee_member"
+    ],
+    "notes": "HVAC equipment manufacturer listed as an EPEE corporate member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Uniflair",
+    "region": "United Kingdom",
+    "website": "http://www.uniflair.co.uk/",
+    "source_url": "https://www.epeeglobal.org/about-epee/members/",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb",
+      "source:association",
+      "epee_member"
+    ],
+    "notes": "HVAC equipment manufacturer listed as an EPEE corporate member on the public members directory (official site linked from the association page)",
+    "public_contact": ""
+  },
+  {
+    "name": "Aabsal",
+    "region": "Iran",
+    "website": "http://www.aabsalco.com",
+    "source_url": "https://en.wikipedia.org/wiki/Aabsal",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ir"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "BGH",
+    "region": "Argentina",
+    "website": "https://bgh.com.ar/",
+    "source_url": "https://en.wikipedia.org/wiki/BGH_(company)",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ar"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Beko",
+    "region": "Turkey",
+    "website": "https://www.bekocorporate.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Beko",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Bork",
+    "region": "Russia",
+    "website": "https://www.bork.ru/",
+    "source_url": "https://en.wikipedia.org/wiki/Bork_(company)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ru"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Cevital",
+    "region": "Algeria",
+    "website": "http://www.cevital.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Cevital",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:dz"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Comfort Systems USA",
+    "region": "United States",
+    "website": "http://comfortsystemsusa.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Comfort_Systems_USA",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Condor Electronics",
+    "region": "Algeria",
+    "website": "http://www.condor.dz",
+    "source_url": "https://en.wikipedia.org/wiki/Condor_Electronics",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:dz"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "ELCO Vagionis",
+    "region": "Greece",
+    "website": "http://www.elco.gr/index.php/gr/contents/default/section/our_company.html",
+    "source_url": "https://en.wikipedia.org/wiki/ELCO_Vagionis",
+    "categories": [
+      "heater",
+      "home_appliance",
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gr"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Electronic Temperature Instruments",
+    "region": "United Kingdom",
+    "website": "http://thermometer.co.uk",
+    "source_url": "https://en.wikipedia.org/wiki/Electronic_Temperature_Instruments",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Fegyver- és Gépgyár",
+    "region": "Hungary",
+    "website": "http://mpfholding.hu/products/mpf_feg/information.php",
+    "source_url": "https://en.wikipedia.org/wiki/Fegyver-_és_Gépgyár",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:hu"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Fisher & Paykel",
+    "region": "Overseas",
+    "website": "https://www.fisherpaykel.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Fisher_&_Paykel",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Huds and Toke",
+    "region": "Australia",
+    "website": "https://www.hudsandtoke.com.au/",
+    "source_url": "https://en.wikipedia.org/wiki/Huds_and_Toke",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:au"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Izola",
+    "region": "Greece",
+    "website": "http://www.gedsa.gr/",
+    "source_url": "https://en.wikipedia.org/wiki/Izola_(appliances)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gr"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Mabe",
+    "region": "Overseas",
+    "website": "http://www.mabe.cc",
+    "source_url": "https://en.wikipedia.org/wiki/Mabe_(company)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Orijen",
+    "region": "Canada",
+    "website": "http://www.orijen.ca/",
+    "source_url": "https://en.wikipedia.org/wiki/Orijen",
+    "categories": [
+      "pet_products"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ca"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Orion Electronics",
+    "region": "Hungary",
+    "website": "http://orionelec.com",
+    "source_url": "https://en.wikipedia.org/wiki/Orion_Electronics",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:hu"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Pars Khazar",
+    "region": "Iran",
+    "website": "http://www.parskhazar.com/en/",
+    "source_url": "https://en.wikipedia.org/wiki/Pars_Khazar",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ir"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Philips",
+    "region": "Netherlands",
+    "website": "https://philips.com",
+    "source_url": "https://en.wikipedia.org/wiki/Philips",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:nl"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Pitsos",
+    "region": "Greece",
+    "website": "https://www.pitsos.gr",
+    "source_url": "https://en.wikipedia.org/wiki/Pitsos",
+    "categories": [
+      "heater",
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gr"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Pyramis",
+    "region": "Overseas",
+    "website": "http://www.pyramisgroup.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Pyramis",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Reliance Home Comfort",
+    "region": "Canada",
+    "website": "https://www.reliancehomecomfort.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Reliance_Home_Comfort",
+    "categories": [
+      "heater",
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ca"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Sanhua",
+    "region": "Overseas",
+    "website": "https://www.sanhuaeurope.com",
+    "source_url": "https://en.wikipedia.org/wiki/Sanhua",
+    "categories": [
+      "home_appliance",
+      "hvac",
+      "portable_ac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Siam Di Tella",
+    "region": "Argentina",
+    "website": "https://siam.com.ar/",
+    "source_url": "https://en.wikipedia.org/wiki/Siam_Di_Tella",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ar"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Snaigė",
+    "region": "Lithuania",
+    "website": "http://www.snaige.lt",
+    "source_url": "https://en.wikipedia.org/wiki/Snaigė",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:lt"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Somfy",
+    "region": "France",
+    "website": "http://www.somfy.com/portail/index.cfm",
+    "source_url": "https://en.wikipedia.org/wiki/Somfy",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Síragon",
+    "region": "Venezuela",
+    "website": "http://www.siragon.com",
+    "source_url": "https://en.wikipedia.org/wiki/Síragon",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ve"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Wellman Group",
+    "region": "Overseas",
+    "website": "http://www.wellman-group.com",
+    "source_url": "https://en.wikipedia.org/wiki/Wellman_Group",
+    "categories": [
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Wyze Labs",
+    "region": "United States",
+    "website": "https://www.wyze.com",
+    "source_url": "https://en.wikipedia.org/wiki/Wyze_Labs",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
   }
 ]

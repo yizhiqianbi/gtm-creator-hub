@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "before": 5704,
+  "after": 6804,
+  "net_delta": 1100,
+  "overseas_oemish_before": 3098,
+  "overseas_oemish_after": 3310,
+  "overseas_oemish_delta": 212,
+  "flags_before": {
+    "overseas": 3078,
+    "oem": 1813,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1815,
+    "overseas_oemish": 3098
+  },
+  "flags_after": {
+    "overseas": 3290,
+    "oem": 1864,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1866,
+    "overseas_oemish": 3310
+  },
+  "sources_attempted": [
+    "customs",
+    "channel",
+    "trade_show",
+    "linkedin",
+    "maps",
+    "alibaba",
+    "1688",
+    "association",
+    "mic",
+    "overseas_oem"
+  ],
+  "sources_succeeded": [
+    "customs",
+    "overseas_oem",
+    "association",
+    "channel",
+    "mic",
+    "trade_show"
+  ],
+  "added_by_source_tag": {
+    "customs": 169,
+    "overseas_oem": 28,
+    "association": 23,
+    "channel": 39,
+    "mic": 429,
+    "trade_show": 412
+  },
+  "notes": [
+    "ImportDoor new HS codes ingested via short-slug redirects: 732182/732189/841451/841460/841480/841911/841919/842121/842122/842211/850940/851650/845011/845012/845020/851640/851631 (+169 net after dedupe). 732183 was 404 and was not ingested. ImportYeti retry still unusable (404 shell).",
+    "MIC new public manufacturer slugs ingested (+429 net): humidifier, ceiling-fan, exhaust-fan, fan-heater, gas-heater, vacuum-cleaner, robot-vacuum-cleaner, microwave-oven, rice-cooker, air-fryer, range-hood, water-heater, split-air-conditioner, portable-air-conditioner, cat-tree, pet-carrier, water-purifier, electric-kettle, dishwasher, washing-machine, induction-cooker, coffee-maker, electric-fireplace, ventilation-fan, radiator, boiler, electric-blanket, kerosene-heater.",
+    "Canton Fair: 8 new public category pages parsed for sessions 139 and 140 (household-items, electronic-and-electrical-products, consumer-electronics, lighting, furniture, service-robots, hardware, gardening-products) (+412 net exhibitor names). Ambiente/ISH exhibitor search pages still have no usable company JSON. AHR Expo public page is a 404 landing shell.",
+    "Association: +19 US pet-food producers from the public Pet Food Institute members directory (official websites on the association page) and +4 HVAC equipment manufacturers from the public EPEE corporate members directory (official sites linked; refrigerant-chemical suppliers skipped). AMDEA/AHRI/AHAM/Eurovent refreshed with no additional net-new parse. Newly attempted directories (Heat Pump Association UK, BEAMA, GIFAM, APPLiA Italia, ANFEL, JEMA, HRAI, AIRAH, GSHP, TÜRKBESD, PFMA, FEDIAF, ZVEI, AEHA, KOEMA, HHIC, FEDA) were 404, empty, or had no usable official-website member list.",
+    "Overseas OEM: +28 overseas manufacturers from previously unused Wikipedia country home-appliance manufacturer categories (Turkey/Mexico/Greece/Taiwan/Argentina/etc.), the parent Home appliance manufacturers category, and a HVAC-companies residual pass, with official websites from Wikidata (China-headquartered and already-present names dropped). Combined with PFI/EPEE, curated seeds 486→537 and overseas_oem expand +51.",
+    "Channels: +39 net from updated channels.json (862, after the 2026-11-12 creator hub refresh).",
+    "Ran expand_merchants_customs.py then overseas_oem then multisource. Merchant count never dropped below the 5704 baseline (5704→5873→5924→6392→6804 after a second multisource pass once new Canton name files were wired into ingest_trade_shows).",
+    "Alibaba/1688/GlobalSources mostly 410/empty/429/JS-shell; Europages 202 empty; ThomasNet/TradeIndia/Kompass blocked; Crustdata live expand not used (reused prior merged_strict dump); Apify/Apollo not used; LinkedIn/Maps had no new public ingest this run."
+  ],
+  "blockers": [
+    "ImportYeti /hs-code/* retry still unusable (404 shell, no parseable supplier directory)",
+    "Europages returned HTTP 202 with an empty body; ThomasNet/Alibaba/GlobalSources/TradeIndia/Kompass blocked, 410, or JS-shell",
+    "1688 public search pages empty/blocked in this environment",
+    "Crustdata live expand not used this run; reused prior merged_strict dump (previous runs reported 0 credits)",
+    "Ambiente/ISH exhibitor search pages public but no usable company JSON in HTML; AHR Expo page is a 404 landing shell (exhibitor list on Map Your Show JS)",
+    "New association member directories mostly failed: Heat Pump Association UK / BEAMA / GIFAM / APPLiA Italia / ANFEL / JEMA / HRAI / AIRAH / GSHP / TÜRKBESD / PFMA / FEDIAF / ZVEI / AEHA / KOEMA / HHIC / FEDA were 404, empty, login-walled, or lacked official company websites on the listing page",
+    "LinkedIn and Google Maps had no new public ingest this run (no new Crustdata query; no new Maps listings)"
+  ],
+  "commit_sha": "",
+  "report_sha": "",
+  "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
+  "stay_silent": false
+}
