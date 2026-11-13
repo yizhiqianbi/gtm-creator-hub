@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-13",
+  "silent_no_change": false,
+  "creators_before": 33341,
+  "creators_after": 33538,
+  "net_new": 197,
+  "platform_breakdown_before": {
+    "tiktok": 13613,
+    "instagram": 6442,
+    "bilibili": 6206,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 951,
+    "wechat_store": 200
+  },
+  "platform_breakdown_after": {
+    "tiktok": 13613,
+    "instagram": 6442,
+    "bilibili": 6382,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 972,
+    "wechat_store": 200
+  },
+  "channels_before": 862,
+  "channels_after": 908,
+  "channels_net_new": 46,
+  "brand_before": 497,
+  "brand_after": 543,
+  "brand_net_new": 46,
+  "sources": {
+    "bilibili_daily_api": 176,
+    "x_mcp_public": 21,
+    "channels_curated_daily": 46,
+    "brand_curated_daily": 46
+  },
+  "dedupe_drops": {},
+  "blockers": [
+    "Feedspot soft-empty/404 (3057 pages); only large dumps parsed",
+    "Apify: skipped (quota unused; free Bilibili+X lists yielded net-new creators)",
+    "Feedspot: homepage leftover slugs were mostly adult/gambling (skipped); 3057 unused guessed TikTok geo/city/product slugs and Instagram counterparts probed, 0 large dumps (2975 404, 82 403/405)",
+    "AfterShip: skipped (scale6b/Nov-6 already ingested the standard TTS category slugs; no unused categories remain)",
+    "Douyin/XHS/WeChat: no new free public list dumps today (prior CN weekly already absorbed)",
+    "Bilibili: popular p1-12 + ranking/v2 (some rids -400) + working newlist rids 1/3/4/5/11/13/36/129/155/160/167/177/181/188/202/211; 2083 unique mids, 407 not already in hub, 176 with fans>=1000"
+  ],
+  "artifacts": [
+    "/workspace/creators.json",
+    "/workspace/creators.csv",
+    "/workspace/channels.json",
+    "/workspace/channels.csv",
+    "/workspace/brand_content_sources.json",
+    "/workspace/brand_content_sources.csv",
+    "/workspace/daily-refresh-2026-11-13-report.json",
+    "/workspace/daily-refresh-report.md",
+    "/workspace/raw_lists_daily_2026-11-13/",
+    "/workspace/gtm-creator-hub-push/data/",
+    "/workspace/gtm-hub-refresh/"
+  ],
+  "commit": null,
+  "commit_short": null,
+  "push": "no push"
+}

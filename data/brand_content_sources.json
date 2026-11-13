@@ -750,6 +750,19 @@
     ]
   },
   {
+    "title": "Kohnan",
+    "url": "https://www.hc-kohnan.com",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "Japanese home center; public household and pet categories · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Leroy Merlin FR heating",
     "url": "https://www.leroymerlin.fr/",
     "niche": "heater",
@@ -983,6 +996,19 @@
     ]
   },
   {
+    "title": "Altex",
+    "url": "https://www.altex.ro",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Romanian electronics chain; public air-con and heater pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Alza CZ appliances",
     "url": "https://www.alza.cz/",
     "niche": "home_appliance",
@@ -1004,6 +1030,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_10",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Audio House",
+    "url": "https://www.audiohouse.com.sg",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Singapore electronics dealer; public appliance listings · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1079,6 +1118,19 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Briscoes",
+    "url": "https://www.briscoes.co.nz",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "New Zealand homeware retailer; public appliance pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -1167,6 +1219,19 @@
     ]
   },
   {
+    "title": "Casas Bahia",
+    "url": "https://www.casasbahia.com.br",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Brazilian appliance retailer; public climate/home pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Cetrogar",
     "url": "https://www.cetrogar.com.ar",
     "niche": "home_appliance",
@@ -1212,6 +1277,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_12",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Coppel",
+    "url": "https://www.coppel.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Mexican department retailer; public appliance and climate aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1266,6 +1344,19 @@
     ]
   },
   {
+    "title": "Digitec",
+    "url": "https://www.digitec.ch",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Swiss electronics retailer; public appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Dyson air treatment buying guide",
     "url": "https://www.dyson.com/air-treatment",
     "niche": "home_appliance",
@@ -1286,6 +1377,19 @@
     "tags": [
       "daily_2026_11_03",
       "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "EDION",
+    "url": "https://www.edion.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Japanese electronics chain; public climate/appliance listings · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1339,6 +1443,19 @@
     ]
   },
   {
+    "title": "Elektra Mexico",
+    "url": "https://www.elektra.com.mx",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Mexican electronics retailer; public appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Elon",
     "url": "https://www.elon.se",
     "niche": "home_appliance",
@@ -1347,6 +1464,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_12",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Emax",
+    "url": "https://www.emaxme.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "UAE electronics chain; public cooling/heating pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1376,6 +1506,19 @@
     ]
   },
   {
+    "title": "Enoteca Japan",
+    "url": "https://www.enoteca.co.jp",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Japanese wine merchant; public bottle and cellar pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Erablue",
     "url": "https://www.erablue.id",
     "niche": "home_appliance",
@@ -1384,6 +1527,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_12",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Euronics Hungary",
+    "url": "https://www.euronics.hu",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Hungarian electronics dealer; public appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Euronics Italy",
+    "url": "https://www.euronics.it",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Italian electronics buying-group stores; public appliance pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1427,6 +1596,58 @@
     ]
   },
   {
+    "title": "Fast Shop",
+    "url": "https://www.fastshop.com.br",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Brazilian electronics retailer; public appliance pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Flanco",
+    "url": "https://www.flanco.ro",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Romanian electronics retailer; public appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Fnac Portugal",
+    "url": "https://www.fnac.pt",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Portuguese retailer; public electronics/appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Fust",
+    "url": "https://www.fust.ch",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Swiss appliance retailer; public cooling/heating catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "GE Appliances support",
     "url": "https://www.geappliances.com/ge/service-and-support/",
     "niche": "home_appliance",
@@ -1434,6 +1655,32 @@
     "notes": "大家电服务与支持导航",
     "tags": [
       "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Gain City",
+    "url": "https://www.gaincity.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Singapore home-appliance retailer; public air-con catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Game South Africa",
+    "url": "https://www.game.co.za",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "South African general merchandise retailer; public appliance aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1501,6 +1748,19 @@
     ]
   },
   {
+    "title": "Hanssem",
+    "url": "https://www.hanssem.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Korean kitchen/home brand-retailer; public appliance pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Hiraoka",
     "url": "https://hiraoka.com.pe",
     "niche": "home_appliance",
@@ -1565,6 +1825,19 @@
     ]
   },
   {
+    "title": "Home Centre",
+    "url": "https://www.homecentre.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "UAE/GCC home retailer; public appliance pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Home Depot buying guides",
     "url": "https://www.homedepot.com/c/buying_guides",
     "niche": "home_appliance",
@@ -1572,6 +1845,58 @@
     "notes": "卖场导购指南模板",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "House & Home ZA",
+    "url": "https://www.houseandhome.co.za",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "South African home retailer; public appliance listings · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Interdiscount",
+    "url": "https://www.interdiscount.ch",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Swiss electronics retailer; public appliance pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Joshin",
+    "url": "https://joshinweb.jp",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Osaka-based electronics retailer; public appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Jumbo Electronics",
+    "url": "https://www.jumbo.ae",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "UAE electronics dealer; public appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1586,6 +1911,32 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "KaBuM",
+    "url": "https://www.kabum.com.br",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Brazilian electronics retailer with public home-appliance listings · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Kojima",
+    "url": "https://www.kojima.net",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Japanese electronics dealer with public appliance pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -1626,6 +1977,32 @@
     ]
   },
   {
+    "title": "Lulu Hypermarket",
+    "url": "https://www.luluhypermarket.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "GCC hypermarket; public appliance and pet aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Makro South Africa",
+    "url": "https://www.makro.co.za",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "South African cash-and-carry; public appliance/climate catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Media Expert PL appliances",
     "url": "https://www.mediaexpert.pl/",
     "niche": "home_appliance",
@@ -1634,6 +2011,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_09",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "MediaMarkt Austria",
+    "url": "https://www.mediamarkt.at",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Austrian electronics retailer; public appliance/climate pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1701,6 +2091,19 @@
     ]
   },
   {
+    "title": "Nitori",
+    "url": "https://www.nitori-net.jp",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Japanese home-furnishings retailer; public appliance/heater pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Noel Leeming NZ appliances",
     "url": "https://www.noelleeming.co.nz/",
     "niche": "home_appliance",
@@ -1709,6 +2112,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_06",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Nojima",
+    "url": "https://www.nojima.co.jp",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Japanese electronics retailer with public appliance shop · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1727,6 +2143,19 @@
     ]
   },
   {
+    "title": "PB Tech",
+    "url": "https://www.pbtech.co.nz",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "New Zealand electronics retailer; public appliance/tech catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Paris Chile",
     "url": "https://www.paris.cl",
     "niche": "home_appliance",
@@ -1740,6 +2169,19 @@
     ]
   },
   {
+    "title": "Parisilk",
+    "url": "https://www.parisilk.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Singapore electronics retailer; public home-appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Pico Vietnam",
     "url": "https://pico.vn",
     "niche": "home_appliance",
@@ -1748,6 +2190,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_12",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Planeo Elektro",
+    "url": "https://www.planeo.cz",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Czech electronics retailer; public appliance listings · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Ponto",
+    "url": "https://www.pontofrio.com.br",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Brazilian electronics dealer (Ponto Frio); public appliance catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1822,6 +2290,19 @@
     "notes": "扫地机支持",
     "tags": [
       "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "SM Appliance Center",
+    "url": "https://www.smappliance.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Philippine appliance chain; public air-con and heater pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1939,6 +2420,19 @@
     ]
   },
   {
+    "title": "The Warehouse",
+    "url": "https://www.thewarehouse.co.nz",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "New Zealand general retailer; public appliance and pet aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Tien21",
     "url": "https://www.tien21.es",
     "niche": "home_appliance",
@@ -1977,6 +2471,19 @@
     ]
   },
   {
+    "title": "Trony",
+    "url": "https://www.trony.it",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Italian electronics retailer; public appliance listings · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "UL product safety",
     "url": "https://www.ul.com/",
     "niche": "home_appliance",
@@ -1984,6 +2491,19 @@
     "notes": "安全认证背书源",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Unieuro",
+    "url": "https://www.unieuro.it",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Italian electronics chain; public air-con and heater pages · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2082,6 +2602,19 @@
     "notes": "清洁电器帮助中心",
     "tags": [
       "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "melectronics",
+    "url": "https://www.melectronics.ch",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Swiss electronics chain; public climate/appliance listings · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2338,6 +2871,19 @@
     ]
   },
   {
+    "title": "Builders South Africa",
+    "url": "https://www.builders.co.za",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "South African building-materials dealer; public heating/vent aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Byggmakker NO HVAC",
     "url": "https://www.byggmakker.no/",
     "niche": "hvac",
@@ -2543,6 +3089,19 @@
     ]
   },
   {
+    "title": "Hornbach Austria",
+    "url": "https://www.hornbach.at",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Austrian DIY dealer; public heating and ventilation aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Hornbach DE HVAC hub",
     "url": "https://www.hornbach.de/",
     "niche": "hvac",
@@ -2684,6 +3243,32 @@
     ]
   },
   {
+    "title": "Leroy Merlin Italia",
+    "url": "https://www.leroymerlin.it",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Italian home-improvement dealer; public HVAC/heating aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Leroy Merlin Portugal",
+    "url": "https://www.leroymerlin.pt",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Portuguese home-improvement dealer; public HVAC/heating aisles · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Mitsubishi Comfort US HVAC",
     "url": "https://www.mitsubishicomfort.com/",
     "niche": "hvac",
@@ -2730,6 +3315,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_03",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "MonotaRO",
+    "url": "https://www.monotaro.com",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Japanese MRO e-commerce wholesaler; public HVAC/parts catalog · daily_2026-11-13",
+    "tags": [
+      "brochure",
+      "daily_2026_11_13",
       "hvac",
       "route:brand_content"
     ]

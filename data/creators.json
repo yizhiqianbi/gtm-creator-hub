@@ -15860,6 +15860,29 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "dog_rates",
+    "display_name": "dog_rates",
+    "profile_url": "https://x.com/dog_rates",
+    "followers": "9M",
+    "followers_num": 9049707,
+    "country_or_language": "global_en",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/dog_rates",
+    "notes": "Public pet-content account (WeRateDogs) | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "pet_gear",
+      "pet_products",
+      "route:third_party_content",
+      "sample_ready",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "bilibili",
     "handle": "1577804",
     "display_name": "某幻君",
@@ -42499,6 +42522,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "680677803",
+    "display_name": "王小七Fire",
+    "profile_url": "https://space.bilibili.com/680677803",
+    "followers": "393.8万",
+    "followers_num": 3937506,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "hza517",
     "display_name": "浩子【1023】",
@@ -59297,6 +59344,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "434376696",
+    "display_name": "阿Test正经比比",
+    "profile_url": "https://space.bilibili.com/434376696",
+    "followers": "263.1万",
+    "followers_num": 2631068,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "7349",
     "display_name": "STN工作室",
     "profile_url": "https://space.bilibili.com/7349",
@@ -74626,6 +74697,30 @@
       "sample_ready",
       "unboxing",
       "xiaohongshu_shop"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "AnimalPlanet",
+    "display_name": "AnimalPlanet",
+    "profile_url": "https://x.com/AnimalPlanet",
+    "followers": "2.1M",
+    "followers_num": 2064479,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/AnimalPlanet",
+    "notes": "Public Animal Planet brand/content account | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "pet_gear",
+      "pet_products",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "x_mcp_search"
     ]
   },
   {
@@ -94144,6 +94239,33 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "2009929",
+    "display_name": "咝小喵MAO",
+    "profile_url": "https://space.bilibili.com/2009929",
+    "followers": "150万",
+    "followers_num": 1500349,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "brand_collab",
+      "cat",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "dog",
+      "pet_gear",
+      "pet_parents",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "xiaohongshu",
     "handle": "5675e19782ec397e4a6835d3",
     "display_name": "Tina面料测评",
@@ -97786,6 +97908,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "31968078",
+    "display_name": "粽子淞",
+    "profile_url": "https://space.bilibili.com/31968078",
+    "followers": "144.4万",
+    "followers_num": 1444022,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -107913,6 +108059,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546879304403742",
+    "display_name": "白银之城",
+    "profile_url": "https://space.bilibili.com/3546879304403742",
+    "followers": "130万",
+    "followers_num": 1299772,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "Hjxh1025",
     "display_name": "皇家小虎旗舰店",
@@ -115375,6 +115545,30 @@
       "daily_2026_11_04",
       "daily_2026_11_05",
       "daily_2026_11_06",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "2175690",
+    "display_name": "徐Toso",
+    "profile_url": "https://space.bilibili.com/2175690",
+    "followers": "118.9万",
+    "followers_num": 1189229,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -123876,6 +124070,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "1159873315",
+    "display_name": "大豪夫妇",
+    "profile_url": "https://space.bilibili.com/1159873315",
+    "followers": "109.4万",
+    "followers_num": 1094316,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3546593653426493",
     "display_name": "小屿屿屿_",
     "profile_url": "https://space.bilibili.com/3546593653426493",
@@ -125002,6 +125220,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "14546601",
+    "display_name": "Muc虚空之翼",
+    "profile_url": "https://space.bilibili.com/14546601",
+    "followers": "106.5万",
+    "followers_num": 1065123,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "Mr.Bu_ShangWu",
     "display_name": "布先生官方旗舰店",
@@ -125509,6 +125751,30 @@
       "parents",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "4099287",
+    "display_name": "佳茗",
+    "profile_url": "https://space.bilibili.com/4099287",
+    "followers": "105.1万",
+    "followers_num": 1050917,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -127877,6 +128143,30 @@
       "route:third_party_content",
       "sample_ready",
       "tech_gadgets"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "39180492",
+    "display_name": "蒸気火鸡",
+    "profile_url": "https://space.bilibili.com/39180492",
+    "followers": "100.6万",
+    "followers_num": 1006338,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -134851,6 +135141,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "486906719",
+    "display_name": "索尼音乐中国",
+    "profile_url": "https://space.bilibili.com/486906719",
+    "followers": "95.9万",
+    "followers_num": 959094,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "xiaohongshu",
     "handle": "689702f800000000280289f5",
     "display_name": "Sergejs Sinkins",
@@ -137100,6 +137414,30 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546574294616231",
+    "display_name": "杰哥观察者模式启动中",
+    "profile_url": "https://space.bilibili.com/3546574294616231",
+    "followers": "93.1万",
+    "followers_num": 930760,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -142597,6 +142935,33 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "346059",
+    "display_name": "呜喵Mania",
+    "profile_url": "https://space.bilibili.com/346059",
+    "followers": "88.5万",
+    "followers_num": 885307,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "brand_collab",
+      "cat",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "dog",
+      "pet_gear",
+      "pet_parents",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "natelovlogs",
     "display_name": "natelovlogs",
     "profile_url": "https://www.tiktok.com/@natelovlogs",
@@ -146891,6 +147256,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "330111133",
+    "display_name": "李大海_差点火了版",
+    "profile_url": "https://space.bilibili.com/330111133",
+    "followers": "84.5万",
+    "followers_num": 845231,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "HK772299",
     "display_name": "学长很爱吃",
@@ -147741,6 +148130,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "273460306",
+    "display_name": "巨构AI",
+    "profile_url": "https://space.bilibili.com/273460306",
+    "followers": "83.9万",
+    "followers_num": 838603,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -149303,6 +149716,30 @@
       "tiktok_shop"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "2008066013",
+    "display_name": "菜鸟阿彪",
+    "profile_url": "https://space.bilibili.com/2008066013",
+    "followers": "82.7万",
+    "followers_num": 827131,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "instagram",
@@ -165421,6 +165858,30 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "37804608",
+    "display_name": "龙哥哥今天又鸽了",
+    "profile_url": "https://space.bilibili.com/37804608",
+    "followers": "72.1万",
+    "followers_num": 721378,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "yosoyprincii26",
     "display_name": "El PrinCii",
     "profile_url": "https://www.tiktok.com/@yosoyprincii26",
@@ -177242,6 +177703,33 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "108766164",
+    "display_name": "天猫",
+    "profile_url": "https://space.bilibili.com/108766164",
+    "followers": "64.6万",
+    "followers_num": 645680,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "brand_collab",
+      "cat",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "dog",
+      "pet_gear",
+      "pet_parents",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "daynekamela",
     "display_name": "Dayne",
     "profile_url": "https://www.tiktok.com/@daynekamela",
@@ -179376,6 +179864,30 @@
       "tiktok_shop"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546636378703921",
+    "display_name": "街头小小小霸王",
+    "profile_url": "https://space.bilibili.com/3546636378703921",
+    "followers": "63.4万",
+    "followers_num": 634075,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "instagram",
@@ -185679,6 +186191,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "32187114",
+    "display_name": "改-放",
+    "profile_url": "https://space.bilibili.com/32187114",
+    "followers": "60万",
+    "followers_num": 600279,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "45283536608",
     "display_name": "大军严选",
@@ -186176,6 +186712,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "1741332537",
+    "display_name": "去看星星__",
+    "profile_url": "https://space.bilibili.com/1741332537",
+    "followers": "59.8万",
+    "followers_num": 597757,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -194803,6 +195363,30 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "826783",
+    "display_name": "我是庄小周_",
+    "profile_url": "https://space.bilibili.com/826783",
+    "followers": "55.6万",
+    "followers_num": 555587,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -221424,6 +222008,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "454639870",
+    "display_name": "-路人亦ONE-",
+    "profile_url": "https://space.bilibili.com/454639870",
+    "followers": "46.9万",
+    "followers_num": 468890,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "397180707",
     "display_name": "油管小王子Terry",
     "profile_url": "https://space.bilibili.com/397180707",
@@ -244593,6 +245201,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3707028432226554",
+    "display_name": "立志成为恶兽",
+    "profile_url": "https://space.bilibili.com/3707028432226554",
+    "followers": "39.3万",
+    "followers_num": 393297,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "593987248",
     "display_name": "九夜听风",
     "profile_url": "https://space.bilibili.com/593987248",
@@ -250709,6 +251341,30 @@
       "route:third_party_content",
       "sample_ready",
       "skincare"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "30079180",
+    "display_name": "查叔Charles",
+    "profile_url": "https://space.bilibili.com/30079180",
+    "followers": "37.6万",
+    "followers_num": 376468,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -261904,6 +262560,30 @@
       "live_shopping",
       "outdoor",
       "outdoor_lovers",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "95237999",
+    "display_name": "镜哥是本人",
+    "profile_url": "https://space.bilibili.com/95237999",
+    "followers": "34.6万",
+    "followers_num": 345802,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -279748,6 +280428,30 @@
       "tiktok_shop"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "1626214248",
+    "display_name": "系仙桃啦",
+    "profile_url": "https://space.bilibili.com/1626214248",
+    "followers": "30.6万",
+    "followers_num": 305831,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "bilibili",
@@ -302172,6 +302876,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546637985122376",
+    "display_name": "钰宝爱吃",
+    "profile_url": "https://space.bilibili.com/3546637985122376",
+    "followers": "26.2万",
+    "followers_num": 262125,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "instagram",
     "handle": "jovanovicbojka",
     "display_name": "jovanovicbojka",
@@ -303858,6 +304586,30 @@
       "us"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "59104725",
+    "display_name": "高剑犁",
+    "profile_url": "https://space.bilibili.com/59104725",
+    "followers": "25.9万",
+    "followers_num": 259109,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "instagram",
@@ -314137,6 +314889,30 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "669907971",
+    "display_name": "星穹日报",
+    "profile_url": "https://space.bilibili.com/669907971",
+    "followers": "24.3万",
+    "followers_num": 243192,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "instagram",
     "handle": "fitgolfergirl",
     "display_name": "fitgolfergirl",
@@ -315135,6 +315911,30 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "395896059",
+    "display_name": "长发大咕咕",
+    "profile_url": "https://space.bilibili.com/395896059",
+    "followers": "24.2万",
+    "followers_num": 241767,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "alohapoker",
     "display_name": "John Baker",
     "profile_url": "https://www.tiktok.com/@alohapoker",
@@ -316090,6 +316890,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "97306998",
+    "display_name": "宁同学慢慢吃",
+    "profile_url": "https://space.bilibili.com/97306998",
+    "followers": "24万",
+    "followers_num": 240449,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -335465,6 +336289,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3707054489340601",
+    "display_name": "Tim潘子",
+    "profile_url": "https://space.bilibili.com/3707054489340601",
+    "followers": "21.1万",
+    "followers_num": 211356,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "schyx1990",
     "display_name": "彩虹夫妇•健敏思捡漏机制",
@@ -340380,6 +341228,30 @@
       "unboxing"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "x",
+    "handle": "Battersea_",
+    "display_name": "Battersea_",
+    "profile_url": "https://x.com/Battersea_",
+    "followers": "205.2K",
+    "followers_num": 205209,
+    "country_or_language": "uk",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/Battersea_",
+    "notes": "Public Battersea Dogs & Cats Home account | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "pet_gear",
+      "pet_products",
+      "route:third_party_content",
+      "sample_ready",
+      "uk",
+      "x_mcp_search"
+    ]
   },
   {
     "handle": "emilymeditates",
@@ -362601,6 +363473,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "399317932",
+    "display_name": "白の蒸し",
+    "profile_url": "https://space.bilibili.com/399317932",
+    "followers": "17.6万",
+    "followers_num": 175539,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "instagram",
     "handle": "julie_eigenmann",
     "display_name": "julie_eigenmann",
@@ -379442,6 +380338,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "327913799",
+    "display_name": "老弗兰克Frank",
+    "profile_url": "https://space.bilibili.com/327913799",
+    "followers": "15.7万",
+    "followers_num": 156511,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "personalfinanceclub",
     "display_name": "Jeremy Schneider",
     "profile_url": "https://www.tiktok.com/@personalfinanceclub",
@@ -382794,6 +383714,30 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "453019669",
+    "display_name": "饭饭饭干机器",
+    "profile_url": "https://space.bilibili.com/453019669",
+    "followers": "15.3万",
+    "followers_num": 152701,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -394823,6 +395767,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "320311401",
+    "display_name": "邪恶的阿旺",
+    "profile_url": "https://space.bilibili.com/320311401",
+    "followers": "14.2万",
+    "followers_num": 141633,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "jbryderauthor",
     "display_name": "J.B. Ryder",
     "profile_url": "https://www.tiktok.com/@jbryderauthor",
@@ -399417,6 +400385,30 @@
       "sample_ready",
       "unboxing",
       "xiaohongshu_shop"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "48968347",
+    "display_name": "第一财经",
+    "profile_url": "https://space.bilibili.com/48968347",
+    "followers": "13.7万",
+    "followers_num": 137144,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -404861,6 +405853,30 @@
       "live_shopping",
       "outdoor",
       "outdoor_lovers",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "26494818",
+    "display_name": "Xavier_白昼",
+    "profile_url": "https://space.bilibili.com/26494818",
+    "followers": "13.3万",
+    "followers_num": 132906,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -410525,6 +411541,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "333056401",
+    "display_name": "绿化锂",
+    "profile_url": "https://space.bilibili.com/333056401",
+    "followers": "12.8万",
+    "followers_num": 128421,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -430179,6 +431219,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "384576131",
+    "display_name": "可口的红糖",
+    "profile_url": "https://space.bilibili.com/384576131",
+    "followers": "11.4万",
+    "followers_num": 113754,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "36119510",
     "display_name": "Jojo医生",
     "profile_url": "https://space.bilibili.com/36119510",
@@ -434993,6 +436057,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "1957489700",
+    "display_name": "浪子mn",
+    "profile_url": "https://space.bilibili.com/1957489700",
+    "followers": "11.1万",
+    "followers_num": 110670,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "192492719",
     "display_name": "一只黄米糕呀",
     "profile_url": "https://space.bilibili.com/192492719",
@@ -437269,6 +438357,30 @@
       "route:third_party_content",
       "sample_ready",
       "tiktok_shop"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "326995",
+    "display_name": "c030404模玩分享",
+    "profile_url": "https://space.bilibili.com/326995",
+    "followers": "10.9万",
+    "followers_num": 109094,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -444387,6 +445499,30 @@
       "us"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "16149859",
+    "display_name": "流丽哦",
+    "profile_url": "https://space.bilibili.com/16149859",
+    "followers": "10.4万",
+    "followers_num": 104377,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "douyin",
@@ -454754,6 +455890,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "17452859",
+    "display_name": "待宵XIAO",
+    "profile_url": "https://space.bilibili.com/17452859",
+    "followers": "9.7万",
+    "followers_num": 97436,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "hvac_uk",
     "display_name": "Will",
     "profile_url": "https://www.tiktok.com/@hvac_uk",
@@ -456542,6 +457702,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "299658045",
+    "display_name": "不会玩的团子",
+    "profile_url": "https://space.bilibili.com/299658045",
+    "followers": "9.6万",
+    "followers_num": 96353,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -467736,6 +468920,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546660365928495",
+    "display_name": "Empty_old_City",
+    "profile_url": "https://space.bilibili.com/3546660365928495",
+    "followers": "8.9万",
+    "followers_num": 88616,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "cybersecuritystories",
     "display_name": "Manos Meimarakis",
     "profile_url": "https://www.tiktok.com/@cybersecuritystories",
@@ -476114,6 +477322,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "1898076400",
+    "display_name": "孙老师教针灸",
+    "profile_url": "https://space.bilibili.com/1898076400",
+    "followers": "8.4万",
+    "followers_num": 84131,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "handle": "algosportztrader",
     "display_name": "algosportztrader",
     "profile_url": "https://www.tiktok.com/@algosportztrader",
@@ -482682,6 +483914,30 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "471692748",
+    "display_name": "CeciliAqwq_",
+    "profile_url": "https://space.bilibili.com/471692748",
+    "followers": "8万",
+    "followers_num": 80399,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "instagram",
     "handle": "crobinsonmd",
     "display_name": "crobinsonmd",
@@ -485297,6 +486553,30 @@
       "product_review",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "WineandSpirits",
+    "display_name": "WineandSpirits",
+    "profile_url": "https://x.com/WineandSpirits",
+    "followers": "78.8K",
+    "followers_num": 78809,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/WineandSpirits",
+    "notes": "Public wine magazine account (Wine & Spirits Mag) | daily_2026-11-13",
+    "primary_niche": "wine",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "wine",
+      "wine_review",
+      "x_mcp_search"
     ]
   },
   {
@@ -499198,6 +500478,30 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "334984798",
+    "display_name": "闻冬末",
+    "profile_url": "https://space.bilibili.com/334984798",
+    "followers": "7.2万",
+    "followers_num": 71537,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "instagram",
     "handle": "food.peace.nutritionist",
     "display_name": "food.peace.nutritionist",
@@ -507533,6 +508837,30 @@
       "review",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "TheWineSociety",
+    "display_name": "TheWineSociety",
+    "profile_url": "https://x.com/TheWineSociety",
+    "followers": "66.7K",
+    "followers_num": 66741,
+    "country_or_language": "uk",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/TheWineSociety",
+    "notes": "Public UK wine merchant account (The Wine Society) | daily_2026-11-13",
+    "primary_niche": "wine",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "route:third_party_content",
+      "sample_ready",
+      "uk",
+      "wine",
+      "wine_tasting",
+      "x_mcp_search"
     ]
   },
   {
@@ -519524,6 +520852,30 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "1088103846",
+    "display_name": "MuMu吃好的",
+    "profile_url": "https://space.bilibili.com/1088103846",
+    "followers": "6.1万",
+    "followers_num": 60935,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -536785,6 +538137,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3494378467232303",
+    "display_name": "今视频长天新闻",
+    "profile_url": "https://space.bilibili.com/3494378467232303",
+    "followers": "5.3万",
+    "followers_num": 53484,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3707040767674638",
     "display_name": "Johnny微微",
     "profile_url": "https://space.bilibili.com/3707040767674638",
@@ -537948,6 +539324,30 @@
       "tiktok_shop"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546389275478799",
+    "display_name": "理性漫游_",
+    "profile_url": "https://space.bilibili.com/3546389275478799",
+    "followers": "5.3万",
+    "followers_num": 52895,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "douyin",
@@ -547919,6 +549319,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "1931875939",
+    "display_name": "粉墨",
+    "profile_url": "https://space.bilibili.com/1931875939",
+    "followers": "4.9万",
+    "followers_num": 49297,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "ningyachao",
     "display_name": "vivo平板电脑旗舰店",
@@ -550286,6 +551710,30 @@
       "review",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "312456876",
+    "display_name": "电脑维修猿-收徒",
+    "profile_url": "https://space.bilibili.com/312456876",
+    "followers": "4.8万",
+    "followers_num": 48321,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "tech_gadgets",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready",
+      "tech_gadgets"
     ]
   },
   {
@@ -558855,6 +560303,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546580833536613",
+    "display_name": "Unkn6",
+    "profile_url": "https://space.bilibili.com/3546580833536613",
+    "followers": "4.5万",
+    "followers_num": 45365,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "instagram",
     "handle": "enjoythejourney.life",
     "display_name": "enjoythejourney.life",
@@ -560712,6 +562184,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546685647096566",
+    "display_name": "藏锋动漫",
+    "profile_url": "https://space.bilibili.com/3546685647096566",
+    "followers": "4.5万",
+    "followers_num": 44716,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -573002,6 +574498,30 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "8101276",
+    "display_name": "香蕉菠萝球球",
+    "profile_url": "https://space.bilibili.com/8101276",
+    "followers": "4.1万",
+    "followers_num": 40764,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "instagram",
     "handle": "joannahillman",
     "display_name": "joannahillman",
@@ -573555,6 +575075,30 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "Vetstreet",
+    "display_name": "Vetstreet",
+    "profile_url": "https://x.com/Vetstreet",
+    "followers": "40.6K",
+    "followers_num": 40580,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/Vetstreet",
+    "notes": "Public pet-care editorial account (Vetstreet) | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "pet_gear",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "veterinary",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "bilibili",
     "handle": "3546695612762798",
     "display_name": "明丫杠",
@@ -573987,6 +575531,30 @@
       "route:third_party_content",
       "sample_ready",
       "tech_gadgets"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "iRobot",
+    "display_name": "iRobot",
+    "profile_url": "https://x.com/iRobot",
+    "followers": "40.4K",
+    "followers_num": 40410,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/iRobot",
+    "notes": "Public iRobot official account | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "home_appliance",
+      "robot_vacuum",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "x_mcp_search"
     ]
   },
   {
@@ -580265,6 +581833,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "405234610",
+    "display_name": "饭都还没吃饱",
+    "profile_url": "https://space.bilibili.com/405234610",
+    "followers": "3.8万",
+    "followers_num": 38366,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "402551753",
     "display_name": "阿贝咩咩咩",
     "profile_url": "https://space.bilibili.com/402551753",
@@ -581430,6 +583022,30 @@
       "sample_ready",
       "tech_gadgets",
       "unboxing"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "tomsguide",
+    "display_name": "tomsguide",
+    "profile_url": "https://x.com/tomsguide",
+    "followers": "38K",
+    "followers_num": 37951,
+    "country_or_language": "global_en",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/tomsguide",
+    "notes": "Public Tom's Guide product-review account | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "home_appliance",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready",
+      "tech_gadgets",
+      "x_mcp_search"
     ]
   },
   {
@@ -591803,6 +593419,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546923543825270",
+    "display_name": "吉他一一",
+    "profile_url": "https://space.bilibili.com/3546923543825270",
+    "followers": "3.5万",
+    "followers_num": 34859,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "20602287374",
     "display_name": "阿迪达斯品牌折扣（杭州店）",
@@ -595193,6 +596833,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "458184942",
+    "display_name": "旻-旻-旻",
+    "profile_url": "https://space.bilibili.com/458184942",
+    "followers": "3.4万",
+    "followers_num": 33818,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "xiaohongshu",
     "handle": "5801f0cca9b2ed1fe96c489a",
     "display_name": "化妆师HuHuan",
@@ -597753,6 +599417,30 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "ahrexpo",
+    "display_name": "ahrexpo",
+    "profile_url": "https://x.com/ahrexpo",
+    "followers": "33.2K",
+    "followers_num": 33237,
+    "country_or_language": "global_en",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/ahrexpo",
+    "notes": "Public AHR Expo HVACR trade-show account | daily_2026-11-13",
+    "primary_niche": "hvac",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "heater",
+      "home_appliance",
+      "hvac",
+      "route:third_party_content",
+      "sample_ready",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "bilibili",
     "handle": "1785625554",
     "display_name": "B站热门视频推荐官",
@@ -599000,6 +600688,30 @@
       "live_shopping",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "contractormag",
+    "display_name": "contractormag",
+    "profile_url": "https://x.com/contractormag",
+    "followers": "32.9K",
+    "followers_num": 32912,
+    "country_or_language": "global_en",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/contractormag",
+    "notes": "Public Contractor Magazine (plumbing/hydronic/mechanical) account | daily_2026-11-13",
+    "primary_niche": "hvac",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "heater",
+      "hvac",
+      "plumber",
+      "route:third_party_content",
+      "sample_ready",
+      "x_mcp_search"
     ]
   },
   {
@@ -611835,6 +613547,30 @@
     "platform": "tiktok"
   },
   {
+    "platform": "bilibili",
+    "handle": "3690970908461945",
+    "display_name": "舞蹈小姬",
+    "profile_url": "https://space.bilibili.com/3690970908461945",
+    "followers": "3万",
+    "followers_num": 29891,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "koukou99666",
     "display_name": "爸爸的清单（贝肽斯专场）",
@@ -620303,6 +622039,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3706962550196487",
+    "display_name": "新浪丨一虎谈",
+    "profile_url": "https://space.bilibili.com/3706962550196487",
+    "followers": "2.8万",
+    "followers_num": 27899,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3546390703638988",
     "display_name": "小极贪吃日记",
     "profile_url": "https://space.bilibili.com/3546390703638988",
@@ -626980,6 +628740,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3706980973677268",
+    "display_name": "繁间琦",
+    "profile_url": "https://space.bilibili.com/3706980973677268",
+    "followers": "2.6万",
+    "followers_num": 26378,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "66660215763",
     "display_name": "朱梓骁（康王洗发水破价专场）",
@@ -631700,6 +633484,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "1452905592",
+    "display_name": "海博TV",
+    "profile_url": "https://space.bilibili.com/1452905592",
+    "followers": "2.5万",
+    "followers_num": 25386,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "1946019136",
     "display_name": "-小朱佩奇",
     "profile_url": "https://space.bilibili.com/1946019136",
@@ -634548,6 +636356,30 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "ashraenews",
+    "display_name": "ashraenews",
+    "profile_url": "https://x.com/ashraenews",
+    "followers": "24.7K",
+    "followers_num": 24706,
+    "country_or_language": "global_en",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/ashraenews",
+    "notes": "Public ASHRAE News account | daily_2026-11-13",
+    "primary_niche": "hvac",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "heater",
+      "home_appliance",
+      "hvac",
+      "route:third_party_content",
+      "sample_ready",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "bilibili",
     "handle": "3493291542711121",
     "display_name": "枝枝生活记",
@@ -637369,6 +639201,30 @@
       "tiktok_shop"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "135764418",
+    "display_name": "月白風輕",
+    "profile_url": "https://space.bilibili.com/135764418",
+    "followers": "2.4万",
+    "followers_num": 24148,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "instagram",
@@ -642550,6 +644406,31 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "500984016",
+    "display_name": "coser美女鉴赏家",
+    "profile_url": "https://space.bilibili.com/500984016",
+    "followers": "2.3万",
+    "followers_num": 23116,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "beauty",
+    "tags": [
+      "beauty",
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready",
+      "skincare"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "29151652180",
     "display_name": "雅致时光",
@@ -643788,6 +645669,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "29326224",
+    "display_name": "慕容律师",
+    "profile_url": "https://space.bilibili.com/29326224",
+    "followers": "2.3万",
+    "followers_num": 22894,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "1229993567",
     "display_name": "皮神睡不醒",
     "profile_url": "https://space.bilibili.com/1229993567",
@@ -643833,6 +645738,29 @@
       "live_shopping",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "choiceaustralia",
+    "display_name": "choiceaustralia",
+    "profile_url": "https://x.com/choiceaustralia",
+    "followers": "22.8K",
+    "followers_num": 22829,
+    "country_or_language": "au",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/choiceaustralia",
+    "notes": "Public CHOICE Australia consumer-org account | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "au",
+      "daily_2026_11_13",
+      "home_appliance",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready",
+      "x_mcp_search"
     ]
   },
   {
@@ -647990,6 +649918,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546914687551975",
+    "display_name": "虾仁爱沙雕动画馆",
+    "profile_url": "https://space.bilibili.com/3546914687551975",
+    "followers": "2.2万",
+    "followers_num": 22167,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "490537571",
     "display_name": "科技日常",
     "profile_url": "https://space.bilibili.com/490537571",
@@ -652068,6 +654020,30 @@
       "us"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "x",
+    "handle": "InstantPot",
+    "display_name": "InstantPot",
+    "profile_url": "https://x.com/InstantPot",
+    "followers": "21.5K",
+    "followers_num": 21480,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/InstantPot",
+    "notes": "Public Instant Pot official account | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "home_appliance",
+      "kitchen",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "x_mcp_search"
+    ]
   },
   {
     "platform": "bilibili",
@@ -656520,6 +658496,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "33144382",
+    "display_name": "柠檬糖漫剧",
+    "profile_url": "https://space.bilibili.com/33144382",
+    "followers": "2.1万",
+    "followers_num": 20503,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -663870,6 +665870,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "381993165",
+    "display_name": "平纳兰多PNNRND",
+    "profile_url": "https://space.bilibili.com/381993165",
+    "followers": "1.9万",
+    "followers_num": 19068,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "14752299",
     "display_name": "土豆坨子home",
     "profile_url": "https://space.bilibili.com/14752299",
@@ -665080,6 +667104,30 @@
       "sample_ready",
       "tech_gadgets",
       "unboxing"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "NinjaKitchen",
+    "display_name": "NinjaKitchen",
+    "profile_url": "https://x.com/NinjaKitchen",
+    "followers": "18.8K",
+    "followers_num": 18843,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/NinjaKitchen",
+    "notes": "Public Ninja Kitchen official account | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "home_appliance",
+      "kitchen",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "x_mcp_search"
     ]
   },
   {
@@ -680526,6 +682574,33 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "699668020",
+    "display_name": "lilin猫猫头",
+    "profile_url": "https://space.bilibili.com/699668020",
+    "followers": "1.6万",
+    "followers_num": 16336,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "brand_collab",
+      "cat",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "dog",
+      "pet_gear",
+      "pet_parents",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "89225014173",
     "display_name": "㻚哥",
@@ -680908,6 +682983,30 @@
       "us"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "2083703621",
+    "display_name": "芋泥棉棉9",
+    "profile_url": "https://space.bilibili.com/2083703621",
+    "followers": "1.6万",
+    "followers_num": 16292,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "bilibili",
@@ -681661,6 +683760,30 @@
       "sample_ready",
       "tech_gadgets",
       "unboxing"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "6821266",
+    "display_name": "很舒服的歌",
+    "profile_url": "https://space.bilibili.com/6821266",
+    "followers": "1.6万",
+    "followers_num": 16123,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -685649,6 +687772,30 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "Cuisinart",
+    "display_name": "Cuisinart",
+    "profile_url": "https://x.com/Cuisinart",
+    "followers": "15.6K",
+    "followers_num": 15578,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/Cuisinart",
+    "notes": "Public Cuisinart official account | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "home_appliance",
+      "kitchen",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "bilibili",
     "handle": "28302390",
     "display_name": "柚子_Sookie",
@@ -686922,6 +689069,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "486403626",
+    "display_name": "股海淘沙",
+    "profile_url": "https://space.bilibili.com/486403626",
+    "followers": "1.5万",
+    "followers_num": 15381,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -691438,6 +693609,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546595958196263",
+    "display_name": "影视新看点",
+    "profile_url": "https://space.bilibili.com/3546595958196263",
+    "followers": "1.5万",
+    "followers_num": 14551,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "12738901",
     "display_name": "可恶是幻术",
     "profile_url": "https://space.bilibili.com/12738901",
@@ -692324,6 +694519,30 @@
       "live_shopping",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "reviewed",
+    "display_name": "reviewed",
+    "profile_url": "https://x.com/reviewed",
+    "followers": "14.4K",
+    "followers_num": 14442,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/reviewed",
+    "notes": "Public product-review publication account (Reviewed) | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "home_appliance",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "x_mcp_search"
     ]
   },
   {
@@ -695302,6 +697521,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3707077287479419",
+    "display_name": "草莓小布丁qaq",
+    "profile_url": "https://space.bilibili.com/3707077287479419",
+    "followers": "1.4万",
+    "followers_num": 14071,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "1196260828",
     "display_name": "吖密",
     "profile_url": "https://space.bilibili.com/1196260828",
@@ -696693,6 +698936,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "9831410",
+    "display_name": "烟小翼--雷霆配音员",
+    "profile_url": "https://space.bilibili.com/9831410",
+    "followers": "1.4万",
+    "followers_num": 13895,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "256928666",
     "display_name": "毒辣说车",
     "profile_url": "https://space.bilibili.com/256928666",
@@ -697722,6 +699989,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3632316997962159",
+    "display_name": "月亮女神3",
+    "profile_url": "https://space.bilibili.com/3632316997962159",
+    "followers": "1.4万",
+    "followers_num": 13753,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "x",
     "handle": "RandySevy",
     "display_name": "RandySevy",
@@ -698382,6 +700673,30 @@
       "product_review",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "x",
+    "handle": "jebdunnuck",
+    "display_name": "jebdunnuck",
+    "profile_url": "https://x.com/jebdunnuck",
+    "followers": "13.7K",
+    "followers_num": 13654,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/jebdunnuck",
+    "notes": "Public wine critic account (Jeb Dunnuck) | daily_2026-11-13",
+    "primary_niche": "wine",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "wine",
+      "wine_review",
+      "x_mcp_search"
     ]
   },
   {
@@ -700009,6 +702324,30 @@
       "dog",
       "pet_gear",
       "pet_parents",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546942955063493",
+    "display_name": "救命这句英语好帅",
+    "profile_url": "https://space.bilibili.com/3546942955063493",
+    "followers": "1.3万",
+    "followers_num": 13406,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
       "product_review",
       "route:third_party_content",
       "sample_ready"
@@ -709171,6 +711510,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "209250979",
+    "display_name": "大俣Omata",
+    "profile_url": "https://space.bilibili.com/209250979",
+    "followers": "1.2万",
+    "followers_num": 12226,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3494357713815684",
     "display_name": "小晒说事",
     "profile_url": "https://space.bilibili.com/3494357713815684",
@@ -711784,6 +714147,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "65842589",
+    "display_name": "很不错同学",
+    "profile_url": "https://space.bilibili.com/65842589",
+    "followers": "1.2万",
+    "followers_num": 11998,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "x",
     "handle": "Winemag",
     "display_name": "Winemag",
@@ -713329,6 +715716,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546655513119557",
+    "display_name": "电吉他金校长",
+    "profile_url": "https://space.bilibili.com/3546655513119557",
+    "followers": "1.2万",
+    "followers_num": 11735,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "42952192305",
     "display_name": "Kailas凯乐石冲锋衣",
@@ -714845,6 +717256,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3706979562293347",
+    "display_name": "圆酱超甜",
+    "profile_url": "https://space.bilibili.com/3706979562293347",
+    "followers": "1.2万",
+    "followers_num": 11577,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3707019435444697",
     "display_name": "动漫战斗剪辑社",
     "profile_url": "https://space.bilibili.com/3707019435444697",
@@ -714861,6 +717296,30 @@
       "china",
       "chinese",
       "daily_2026_11_11",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546949653367522",
+    "display_name": "4k超清漫剧",
+    "profile_url": "https://space.bilibili.com/3546949653367522",
+    "followers": "1.2万",
+    "followers_num": 11573,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -721865,6 +724324,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3493082966264659",
+    "display_name": "小兰漫解",
+    "profile_url": "https://space.bilibili.com/3493082966264659",
+    "followers": "1.1万",
+    "followers_num": 10767,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3706955969333727",
     "display_name": "新讯时社",
     "profile_url": "https://space.bilibili.com/3706955969333727",
@@ -722630,6 +725113,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "164104101",
+    "display_name": "NoNo大suai哥儿",
+    "profile_url": "https://space.bilibili.com/164104101",
+    "followers": "1.1万",
+    "followers_num": 10666,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "30882369597",
     "display_name": "香水专柜正品店",
@@ -722649,6 +725156,30 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3707047799425976",
+    "display_name": "幻小觉加油丫",
+    "profile_url": "https://space.bilibili.com/3707047799425976",
+    "followers": "1.1万",
+    "followers_num": 10662,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -724456,6 +726987,30 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "BrevilleUSA",
+    "display_name": "BrevilleUSA",
+    "profile_url": "https://x.com/BrevilleUSA",
+    "followers": "10.5K",
+    "followers_num": 10458,
+    "country_or_language": "us",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/BrevilleUSA",
+    "notes": "Public Breville USA official account | daily_2026-11-13",
+    "primary_niche": "home_appliance",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "home_appliance",
+      "kitchen",
+      "route:third_party_content",
+      "sample_ready",
+      "us",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "bilibili",
     "handle": "178353234",
     "display_name": "SHENPPER",
@@ -724508,6 +727063,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "1663058414",
+    "display_name": "大时代学堂Joy老师",
+    "profile_url": "https://space.bilibili.com/1663058414",
+    "followers": "1万",
+    "followers_num": 10453,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3747562194472140",
     "display_name": "阿丘的花语",
     "profile_url": "https://space.bilibili.com/3747562194472140",
@@ -724551,6 +727130,30 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "56268571",
+    "display_name": "检修森漫剧",
+    "profile_url": "https://space.bilibili.com/56268571",
+    "followers": "1万",
+    "followers_num": 10417,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -726023,6 +728626,30 @@
       "chinese",
       "daily_2026_11_11",
       "food_drink",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "281141802",
+    "display_name": "HA哈喽椰",
+    "profile_url": "https://space.bilibili.com/281141802",
+    "followers": "1万",
+    "followers_num": 10279,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -734946,6 +737573,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "37959704",
+    "display_name": "曾今是正太",
+    "profile_url": "https://space.bilibili.com/37959704",
+    "followers": "9.2K",
+    "followers_num": 9222,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "47644096750",
     "display_name": "小米智能电视",
@@ -739316,6 +741967,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546630208883525",
+    "display_name": "莫柒言",
+    "profile_url": "https://space.bilibili.com/3546630208883525",
+    "followers": "8.8K",
+    "followers_num": 8751,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3537119974787945",
     "display_name": "行者无疆_857",
     "profile_url": "https://space.bilibili.com/3537119974787945",
@@ -740077,6 +742752,30 @@
       "tiktok_shop"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "1068236915",
+    "display_name": "茌平融媒",
+    "profile_url": "https://space.bilibili.com/1068236915",
+    "followers": "8.7K",
+    "followers_num": 8698,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "bilibili",
@@ -743172,6 +745871,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "568374090",
+    "display_name": "幻梦影音馆",
+    "profile_url": "https://space.bilibili.com/568374090",
+    "followers": "8.3K",
+    "followers_num": 8255,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "x",
     "handle": "ruffwear",
     "display_name": "ruffwear",
@@ -743821,6 +746544,30 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546390496020631",
+    "display_name": "豆dot-三角洲行动",
+    "profile_url": "https://space.bilibili.com/3546390496020631",
+    "followers": "8.2K",
+    "followers_num": 8166,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -744924,6 +747671,30 @@
       "sample_ready",
       "us",
       "x_mcp_search"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3707048625703882",
+    "display_name": "電子惡鼠_Nuli",
+    "profile_url": "https://space.bilibili.com/3707048625703882",
+    "followers": "8K",
+    "followers_num": 8026,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -747974,6 +750745,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546834014309267",
+    "display_name": "慵懒书虫",
+    "profile_url": "https://space.bilibili.com/3546834014309267",
+    "followers": "7.8K",
+    "followers_num": 7754,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3747560961346790",
     "display_name": "科普创世纪元",
     "profile_url": "https://space.bilibili.com/3747560961346790",
@@ -748128,6 +750923,30 @@
       "home_appliance",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3707039987533969",
+    "display_name": "大众经济学",
+    "profile_url": "https://space.bilibili.com/3707039987533969",
+    "followers": "7.7K",
+    "followers_num": 7726,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -750554,6 +753373,29 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "ProWein",
+    "display_name": "ProWein",
+    "profile_url": "https://x.com/ProWein",
+    "followers": "7.5K",
+    "followers_num": 7483,
+    "country_or_language": "global_en",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/ProWein",
+    "notes": "Public wine/spirits trade-fair account (ProWein, Düsseldorf) | daily_2026-11-13",
+    "primary_niche": "wine",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "eu",
+      "route:third_party_content",
+      "sample_ready",
+      "wine",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "63808003409",
     "display_name": "滇山云货小店",
@@ -750751,6 +753593,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "259254483",
+    "display_name": "都督六合诸军事_",
+    "profile_url": "https://space.bilibili.com/259254483",
+    "followers": "7.4K",
+    "followers_num": 7431,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -751850,6 +754716,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546568529545696",
+    "display_name": "梓毓-开水壶版",
+    "profile_url": "https://space.bilibili.com/3546568529545696",
+    "followers": "7.3K",
+    "followers_num": 7320,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "x",
     "handle": "FunnyHVACBoiler",
     "display_name": "FunnyHVACBoiler",
@@ -752542,6 +755432,30 @@
       "china",
       "chinese",
       "daily_2026_11_03",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3009525",
+    "display_name": "二次元大陆",
+    "profile_url": "https://space.bilibili.com/3009525",
+    "followers": "7.2K",
+    "followers_num": 7241,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -753624,6 +756538,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3461567551114061",
+    "display_name": "一勺糖的日常",
+    "profile_url": "https://space.bilibili.com/3461567551114061",
+    "followers": "7.1K",
+    "followers_num": 7105,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -756125,6 +759063,30 @@
       "tiktok_shop"
     ],
     "platform": "tiktok"
+  },
+  {
+    "platform": "bilibili",
+    "handle": "666915723",
+    "display_name": "化身无_钢琴与吉他",
+    "profile_url": "https://space.bilibili.com/666915723",
+    "followers": "6.9K",
+    "followers_num": 6898,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
   },
   {
     "platform": "bilibili",
@@ -759408,6 +762370,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "282760258",
+    "display_name": "Why笔芭卜",
+    "profile_url": "https://space.bilibili.com/282760258",
+    "followers": "6.6K",
+    "followers_num": 6591,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "83785426124",
     "display_name": "周六福精品直播",
@@ -759561,6 +762547,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "1203981456",
+    "display_name": "kokukeyou",
+    "profile_url": "https://space.bilibili.com/1203981456",
+    "followers": "6.5K",
+    "followers_num": 6548,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "478921735",
     "display_name": "超级奶爸亲子萌娃英语",
     "profile_url": "https://space.bilibili.com/478921735",
@@ -759634,6 +762644,30 @@
       "route:third_party_content",
       "sample_ready",
       "skincare"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "434772399",
+    "display_name": "沙茉之狐",
+    "profile_url": "https://space.bilibili.com/434772399",
+    "followers": "6.5K",
+    "followers_num": 6531,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -767179,6 +770213,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "508884939",
+    "display_name": "落魄な高齢者",
+    "profile_url": "https://space.bilibili.com/508884939",
+    "followers": "5.9K",
+    "followers_num": 5854,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "497327730",
     "display_name": "意在云端",
     "profile_url": "https://space.bilibili.com/497327730",
@@ -768298,6 +771356,30 @@
       "live_shopping",
       "parenting",
       "parents",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3747581024800418",
+    "display_name": "逆章漫馆",
+    "profile_url": "https://space.bilibili.com/3747581024800418",
+    "followers": "5.7K",
+    "followers_num": 5730,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -770193,6 +773275,30 @@
       "route:third_party_content",
       "sample_ready",
       "综合"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "355847581",
+    "display_name": "土豆公主Sefinil",
+    "profile_url": "https://space.bilibili.com/355847581",
+    "followers": "5.6K",
+    "followers_num": 5553,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -777214,6 +780320,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3461570617150133",
+    "display_name": "三九天NT-NF",
+    "profile_url": "https://space.bilibili.com/3461570617150133",
+    "followers": "5K",
+    "followers_num": 5021,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "701396762",
     "display_name": "九莲宝灯噢",
     "profile_url": "https://space.bilibili.com/701396762",
@@ -778451,6 +781581,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "418421091",
+    "display_name": "罗小五milk",
+    "profile_url": "https://space.bilibili.com/418421091",
+    "followers": "5K",
+    "followers_num": 4988,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "58542642107",
     "display_name": "宋掌柜企业店",
@@ -779129,6 +782283,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "474528224",
+    "display_name": "卦起-bili版",
+    "profile_url": "https://space.bilibili.com/474528224",
+    "followers": "4.9K",
+    "followers_num": 4911,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -782589,6 +785767,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "497830774",
+    "display_name": "失眠多吃吐司",
+    "profile_url": "https://space.bilibili.com/497830774",
+    "followers": "4.6K",
+    "followers_num": 4608,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "1165796958",
     "display_name": "低空清洁零零柒",
     "profile_url": "https://space.bilibili.com/1165796958",
@@ -783176,6 +786378,30 @@
       "china",
       "chinese",
       "daily_2026_11_04",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3549368",
+    "display_name": "Eden小白",
+    "profile_url": "https://space.bilibili.com/3549368",
+    "followers": "4.6K",
+    "followers_num": 4582,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -786454,6 +789680,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "8511557",
+    "display_name": "Yuure",
+    "profile_url": "https://space.bilibili.com/8511557",
+    "followers": "4.3K",
+    "followers_num": 4333,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3493132018649227",
     "display_name": "云喵喵_Yummy白金版",
     "profile_url": "https://space.bilibili.com/3493132018649227",
@@ -786627,6 +789877,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546951956040415",
+    "display_name": "那年一起追的剧",
+    "profile_url": "https://space.bilibili.com/3546951956040415",
+    "followers": "4.3K",
+    "followers_num": 4304,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -787648,6 +790922,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "490187919",
+    "display_name": "舞蹈教资库",
+    "profile_url": "https://space.bilibili.com/490187919",
+    "followers": "4.3K",
+    "followers_num": 4299,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3706992988260525",
     "display_name": "黏宝幼稚园",
     "profile_url": "https://space.bilibili.com/3706992988260525",
@@ -787848,6 +791146,30 @@
       "douyin_shop",
       "home_appliance",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "310147279",
+    "display_name": "访樰漫漫",
+    "profile_url": "https://space.bilibili.com/310147279",
+    "followers": "4.3K",
+    "followers_num": 4260,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -789516,6 +792838,32 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3690998532147240",
+    "display_name": "好呀好孕来",
+    "profile_url": "https://space.bilibili.com/3690998532147240",
+    "followers": "4.1K",
+    "followers_num": 4142,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "parenting",
+    "tags": [
+      "baby",
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "parenting",
+      "parents",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "1008229967",
     "display_name": "光影行星",
     "profile_url": "https://space.bilibili.com/1008229967",
@@ -789590,6 +792938,54 @@
   },
   {
     "platform": "bilibili",
+    "handle": "629289308",
+    "display_name": "曦曦听书",
+    "profile_url": "https://space.bilibili.com/629289308",
+    "followers": "4.1K",
+    "followers_num": 4121,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546904073865572",
+    "display_name": "缘缘的神",
+    "profile_url": "https://space.bilibili.com/3546904073865572",
+    "followers": "4.1K",
+    "followers_num": 4114,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "890758",
     "display_name": "THE_OREGANO",
     "profile_url": "https://space.bilibili.com/890758",
@@ -789633,6 +793029,54 @@
       "douyin_shop",
       "lifestyle",
       "live_shopping",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "485636507",
+    "display_name": "丰川炫梓_official_",
+    "profile_url": "https://space.bilibili.com/485636507",
+    "followers": "4.1K",
+    "followers_num": 4105,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "289682629",
+    "display_name": "動漫霸主黑雪姬",
+    "profile_url": "https://space.bilibili.com/289682629",
+    "followers": "4.1K",
+    "followers_num": 4104,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -794843,6 +798287,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3706967818242959",
+    "display_name": "YouTube金融精選",
+    "profile_url": "https://space.bilibili.com/3706967818242959",
+    "followers": "3.8K",
+    "followers_num": 3763,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3546952044120559",
     "display_name": "借个肩膀看虐片",
     "profile_url": "https://space.bilibili.com/3546952044120559",
@@ -794860,6 +798328,30 @@
       "chinese",
       "daily_2026_11_06",
       "daily_2026_11_12",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "314025801",
+    "display_name": "牛哥漫聊",
+    "profile_url": "https://space.bilibili.com/314025801",
+    "followers": "3.8K",
+    "followers_num": 3758,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -799715,6 +803207,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546675454937205",
+    "display_name": "小梅漫剧工作室",
+    "profile_url": "https://space.bilibili.com/3546675454937205",
+    "followers": "3.5K",
+    "followers_num": 3487,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "1111537768",
     "display_name": "HuoCan",
     "profile_url": "https://space.bilibili.com/1111537768",
@@ -800013,6 +803529,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3747564218223037",
+    "display_name": "4K宋玉",
+    "profile_url": "https://space.bilibili.com/3747564218223037",
+    "followers": "3.5K",
+    "followers_num": 3458,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -801704,6 +805244,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546970272565407",
+    "display_name": "糖分漫画社",
+    "profile_url": "https://space.bilibili.com/3546970272565407",
+    "followers": "3.3K",
+    "followers_num": 3326,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "x",
     "handle": "sommtv",
     "display_name": "sommtv",
@@ -801773,6 +805337,30 @@
       "sample_ready",
       "tech_gadgets",
       "unboxing"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "144125044",
+    "display_name": "猴山仔LeoLee",
+    "profile_url": "https://space.bilibili.com/144125044",
+    "followers": "3.3K",
+    "followers_num": 3312,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -812305,6 +815893,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546580810468013",
+    "display_name": "珀耳塞福涅229",
+    "profile_url": "https://space.bilibili.com/3546580810468013",
+    "followers": "2.7K",
+    "followers_num": 2746,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "479212197",
     "display_name": "大象漫剧说",
     "profile_url": "https://space.bilibili.com/479212197",
@@ -812595,6 +816207,30 @@
       "route:third_party_content",
       "sample_ready",
       "skincare"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "1203049011",
+    "display_name": "泡爪哥",
+    "profile_url": "https://space.bilibili.com/1203049011",
+    "followers": "2.7K",
+    "followers_num": 2709,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -814285,6 +817921,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "642290853",
+    "display_name": "英语开源",
+    "profile_url": "https://space.bilibili.com/642290853",
+    "followers": "2.7K",
+    "followers_num": 2674,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "10864225",
     "display_name": "JOY的红酒秘密",
     "profile_url": "https://space.bilibili.com/10864225",
@@ -814304,6 +817964,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "590417365",
+    "display_name": "蚌埠日报",
+    "profile_url": "https://space.bilibili.com/590417365",
+    "followers": "2.7K",
+    "followers_num": 2673,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -814498,6 +818182,30 @@
       "china",
       "chinese",
       "daily_2026_11_09",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "696761463",
+    "display_name": "萨克斯工匠小周",
+    "profile_url": "https://space.bilibili.com/696761463",
+    "followers": "2.6K",
+    "followers_num": 2630,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -814728,6 +818436,30 @@
       "route:third_party_content",
       "sample_ready",
       "unboxing"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "1389066713",
+    "display_name": "兔零zero",
+    "profile_url": "https://space.bilibili.com/1389066713",
+    "followers": "2.6K",
+    "followers_num": 2607,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -816109,6 +819841,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "2046689050",
+    "display_name": "林祐琋",
+    "profile_url": "https://space.bilibili.com/2046689050",
+    "followers": "2.6K",
+    "followers_num": 2558,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "x",
     "handle": "winecellared",
     "display_name": "winecellared",
@@ -816227,6 +819983,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3461577548237489",
+    "display_name": "纯情老男孩の日常",
+    "profile_url": "https://space.bilibili.com/3461577548237489",
+    "followers": "2.5K",
+    "followers_num": 2540,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -816356,6 +820136,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "390672381",
+    "display_name": "Z安澜Hannah",
+    "profile_url": "https://space.bilibili.com/390672381",
+    "followers": "2.5K",
+    "followers_num": 2522,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3690996103645520",
     "display_name": "婷婷纪实",
     "profile_url": "https://space.bilibili.com/3690996103645520",
@@ -816423,6 +820227,30 @@
       "uk",
       "wine",
       "x_mcp_search"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "391346923",
+    "display_name": "o回眸一笑百妹疯o",
+    "profile_url": "https://space.bilibili.com/391346923",
+    "followers": "2.5K",
+    "followers_num": 2510,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -817973,6 +821801,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "28921018",
+    "display_name": "天工ToTo",
+    "profile_url": "https://space.bilibili.com/28921018",
+    "followers": "2.5K",
+    "followers_num": 2451,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3546575273986170",
     "display_name": "烈性红酒",
     "profile_url": "https://space.bilibili.com/3546575273986170",
@@ -818186,6 +822038,30 @@
       "china",
       "chinese",
       "daily_2026_11_03",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3690985366227236",
+    "display_name": "云熙社",
+    "profile_url": "https://space.bilibili.com/3690985366227236",
+    "followers": "2.4K",
+    "followers_num": 2424,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -819777,6 +823653,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3493265676437682",
+    "display_name": "阿拉上海人晓林沈蕾",
+    "profile_url": "https://space.bilibili.com/3493265676437682",
+    "followers": "2.4K",
+    "followers_num": 2397,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3706947333261730",
     "display_name": "漫星社",
     "profile_url": "https://space.bilibili.com/3706947333261730",
@@ -820110,6 +824010,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546783177247375",
+    "display_name": "不吃香菜-_--",
+    "profile_url": "https://space.bilibili.com/3546783177247375",
+    "followers": "2.3K",
+    "followers_num": 2339,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -821889,6 +825813,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546836199540959",
+    "display_name": "谱乐园原创鼓谱",
+    "profile_url": "https://space.bilibili.com/3546836199540959",
+    "followers": "2.2K",
+    "followers_num": 2240,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -824346,6 +828294,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "1814915867",
+    "display_name": "三点来饮茶",
+    "profile_url": "https://space.bilibili.com/1814915867",
+    "followers": "2.2K",
+    "followers_num": 2180,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "12285153",
     "display_name": "-小兔睡不醒",
     "profile_url": "https://space.bilibili.com/12285153",
@@ -826722,6 +830694,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "476480302",
+    "display_name": "小雨不饿了了",
+    "profile_url": "https://space.bilibili.com/476480302",
+    "followers": "2.1K",
+    "followers_num": 2064,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -829519,6 +833515,30 @@
     ]
   },
   {
+    "platform": "bilibili",
+    "handle": "3546789395303304",
+    "display_name": "夏目贵志し",
+    "profile_url": "https://space.bilibili.com/3546789395303304",
+    "followers": "1.9K",
+    "followers_num": 1938,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
     "platform": "x",
     "handle": "jasonp246",
     "display_name": "jasonp246",
@@ -831892,6 +835912,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "86896997",
+    "display_name": "左颜ぃ",
+    "profile_url": "https://space.bilibili.com/86896997",
+    "followers": "1.9K",
+    "followers_num": 1873,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "24880760",
     "display_name": "黑蝴蝶白又粉",
     "profile_url": "https://space.bilibili.com/24880760",
@@ -832193,6 +836237,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3493131563567195",
+    "display_name": "诗江行",
+    "profile_url": "https://space.bilibili.com/3493131563567195",
+    "followers": "1.8K",
+    "followers_num": 1848,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3546758596528203",
     "display_name": "工程大视界",
     "profile_url": "https://space.bilibili.com/3546758596528203",
@@ -832334,6 +836402,30 @@
       "china",
       "chinese",
       "daily_2026_11_12",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3493257556265679",
+    "display_name": "张烜墚",
+    "profile_url": "https://space.bilibili.com/3493257556265679",
+    "followers": "1.8K",
+    "followers_num": 1835,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -832509,6 +836601,30 @@
       "review",
       "route:third_party_content",
       "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "441195801",
+    "display_name": "爱丽数码大魔王",
+    "profile_url": "https://space.bilibili.com/441195801",
+    "followers": "1.8K",
+    "followers_num": 1821,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "tech_gadgets",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready",
+      "tech_gadgets"
     ]
   },
   {
@@ -834589,6 +838705,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "25853964",
+    "display_name": "三花胖鲸鱼",
+    "profile_url": "https://space.bilibili.com/25853964",
+    "followers": "1.8K",
+    "followers_num": 1779,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "650427618",
     "display_name": "冯解放的放",
     "profile_url": "https://space.bilibili.com/650427618",
@@ -834709,6 +838849,30 @@
       "china",
       "chinese",
       "daily_2026_11_06",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3690998817360721",
+    "display_name": "X螳螂侠",
+    "profile_url": "https://space.bilibili.com/3690998817360721",
+    "followers": "1.8K",
+    "followers_num": 1771,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -835697,6 +839861,30 @@
       "route:third_party_content",
       "sample_ready",
       "skincare"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3493115044300844",
+    "display_name": "AI科技编织师",
+    "profile_url": "https://space.bilibili.com/3493115044300844",
+    "followers": "1.7K",
+    "followers_num": 1707,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "tech_gadgets",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready",
+      "tech_gadgets"
     ]
   },
   {
@@ -837821,6 +842009,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "27309038",
+    "display_name": "饿了怎么",
+    "profile_url": "https://space.bilibili.com/27309038",
+    "followers": "1.7K",
+    "followers_num": 1685,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3546962464869143",
     "display_name": "小宇桑好物推荐",
     "profile_url": "https://space.bilibili.com/3546962464869143",
@@ -838166,6 +842378,30 @@
       "route:third_party_content",
       "sample_ready",
       "unboxing"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3706992847751708",
+    "display_name": "小橙的独白",
+    "profile_url": "https://space.bilibili.com/3706992847751708",
+    "followers": "1.6K",
+    "followers_num": 1646,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -840772,6 +845008,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "1828391",
+    "display_name": "打游戏的老登",
+    "profile_url": "https://space.bilibili.com/1828391",
+    "followers": "1.6K",
+    "followers_num": 1599,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "372341424",
     "display_name": "张与AI",
     "profile_url": "https://space.bilibili.com/372341424",
@@ -841983,6 +846243,30 @@
       "china",
       "chinese",
       "daily_2026_11_03",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "176716",
+    "display_name": "基不可湿",
+    "profile_url": "https://space.bilibili.com/176716",
+    "followers": "1.5K",
+    "followers_num": 1518,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -844201,6 +848485,30 @@
       "skincare",
       "unboxing",
       "xiaohongshu_shop"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "111710607",
+    "display_name": "太累了你知道吗",
+    "profile_url": "https://space.bilibili.com/111710607",
+    "followers": "1.5K",
+    "followers_num": 1486,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -847532,6 +851840,30 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "animalhealthco",
+    "display_name": "animalhealthco",
+    "profile_url": "https://x.com/animalhealthco",
+    "followers": "1.4K",
+    "followers_num": 1399,
+    "country_or_language": "uk",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/animalhealthco",
+    "notes": "Public animal-health products company account | daily_2026-11-13",
+    "primary_niche": "pet_gear",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "pet_gear",
+      "pet_products",
+      "route:third_party_content",
+      "sample_ready",
+      "uk",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "douyin",
     "handle": "22377127263",
     "display_name": "科沃斯扫床机器人",
@@ -847759,6 +852091,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "489803115",
+    "display_name": "万北_",
+    "profile_url": "https://space.bilibili.com/489803115",
+    "followers": "1.4K",
+    "followers_num": 1386,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -848657,6 +853013,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3493077677247343",
+    "display_name": "熊小娜966966",
+    "profile_url": "https://space.bilibili.com/3493077677247343",
+    "followers": "1.3K",
+    "followers_num": 1312,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -852459,6 +856839,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3691010639005796",
+    "display_name": "琦欣果",
+    "profile_url": "https://space.bilibili.com/3691010639005796",
+    "followers": "1.2K",
+    "followers_num": 1229,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "1371268210",
     "display_name": "电脑回收狂魔五号",
     "profile_url": "https://space.bilibili.com/1371268210",
@@ -852658,6 +857062,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3706996066879593",
+    "display_name": "B站边角料社会边角料",
+    "profile_url": "https://space.bilibili.com/3706996066879593",
+    "followers": "1.2K",
+    "followers_num": 1218,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "27729820",
     "display_name": "熊川佳麗くまかわ",
     "profile_url": "https://space.bilibili.com/27729820",
@@ -852674,6 +857102,30 @@
       "china",
       "chinese",
       "daily_2026_11_11",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "519248874",
+    "display_name": "杂志订阅铺",
+    "profile_url": "https://space.bilibili.com/519248874",
+    "followers": "1.2K",
+    "followers_num": 1212,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
@@ -856416,6 +860868,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "354730704",
+    "display_name": "风过无痕-第五人格",
+    "profile_url": "https://space.bilibili.com/354730704",
+    "followers": "1.2K",
+    "followers_num": 1168,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "23663100",
     "display_name": "焦黄滴向日葵",
     "profile_url": "https://space.bilibili.com/23663100",
@@ -857171,6 +861647,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "7494662",
+    "display_name": "我永远喜歡栗山未来",
+    "profile_url": "https://space.bilibili.com/7494662",
+    "followers": "1.1K",
+    "followers_num": 1139,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3546928415509184",
     "display_name": "喵的家电屋",
     "profile_url": "https://space.bilibili.com/3546928415509184",
@@ -857471,6 +861971,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3707036093123442",
+    "display_name": "毛啾啾的reaction",
+    "profile_url": "https://space.bilibili.com/3707036093123442",
+    "followers": "1.1K",
+    "followers_num": 1126,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -858287,6 +862811,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "1676621729",
+    "display_name": "知柚好物推荐",
+    "profile_url": "https://space.bilibili.com/1676621729",
+    "followers": "1.1K",
+    "followers_num": 1101,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -862460,6 +867008,29 @@
     ]
   },
   {
+    "platform": "x",
+    "handle": "wsjwine",
+    "display_name": "wsjwine",
+    "profile_url": "https://x.com/wsjwine",
+    "followers": "1.1K",
+    "followers_num": 1074,
+    "country_or_language": "global_en",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://x.com/wsjwine",
+    "notes": "Public wine-club/merchant account (WSJwine) | daily_2026-11-13",
+    "primary_niche": "wine",
+    "tags": [
+      "daily_2026_11_13",
+      "english",
+      "route:third_party_content",
+      "sample_ready",
+      "wine",
+      "wine_tasting",
+      "x_mcp_search"
+    ]
+  },
+  {
     "platform": "bilibili",
     "handle": "3546897497197167",
     "display_name": "智能家居舰队",
@@ -862712,6 +867283,30 @@
       "sample_ready",
       "smart_home",
       "tech_gadgets"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "2127022296",
+    "display_name": "叭叭电影解说",
+    "profile_url": "https://space.bilibili.com/2127022296",
+    "followers": "1.1K",
+    "followers_num": 1069,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
     ]
   },
   {
@@ -863013,6 +867608,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3706964970310050",
+    "display_name": "青柚好物推荐",
+    "profile_url": "https://space.bilibili.com/3706964970310050",
+    "followers": "1.1K",
+    "followers_num": 1051,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3707024191785245",
     "display_name": "徐州万达",
     "profile_url": "https://space.bilibili.com/3707024191785245",
@@ -863277,6 +867896,30 @@
       "kitchen_appliance",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3493077232650287",
+    "display_name": "艳辉vlog",
+    "profile_url": "https://space.bilibili.com/3493077232650287",
+    "followers": "1K",
+    "followers_num": 1044,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -864348,6 +868991,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546940369274900",
+    "display_name": "sleepyvidd",
+    "profile_url": "https://space.bilibili.com/3546940369274900",
+    "followers": "1K",
+    "followers_num": 1026,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3690975572527955",
     "display_name": "拾光入怀袖",
     "profile_url": "https://space.bilibili.com/3690975572527955",
@@ -864543,6 +869210,30 @@
       "lifestyle",
       "product_review",
       "review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3706959091992817",
+    "display_name": "教师专用备课资源",
+    "profile_url": "https://space.bilibili.com/3706959091992817",
+    "followers": "1K",
+    "followers_num": 1022,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
       "route:third_party_content",
       "sample_ready"
     ]
@@ -865470,6 +870161,30 @@
   },
   {
     "platform": "bilibili",
+    "handle": "3546601618409608",
+    "display_name": "viste_eeee",
+    "profile_url": "https://space.bilibili.com/3546601618409608",
+    "followers": "1K",
+    "followers_num": 1007,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
     "handle": "3632316175878392",
     "display_name": "于杏ni",
     "profile_url": "https://space.bilibili.com/3632316175878392",
@@ -865585,6 +870300,30 @@
       "china",
       "chinese",
       "daily_2026_11_05",
+      "lifestyle",
+      "product_review",
+      "route:third_party_content",
+      "sample_ready"
+    ]
+  },
+  {
+    "platform": "bilibili",
+    "handle": "3546646442936559",
+    "display_name": "有糖才能拐我",
+    "profile_url": "https://space.bilibili.com/3546646442936559",
+    "followers": "1K",
+    "followers_num": 1006,
+    "country_or_language": "China",
+    "bio_snippet": "",
+    "email_or_contact": "",
+    "source_url": "https://api.bilibili.com/x/web-interface/popular",
+    "notes": "B站公开热门/分区榜 · fans via relation/stat | daily_2026-11-13",
+    "primary_niche": "lifestyle",
+    "tags": [
+      "brand_collab",
+      "china",
+      "chinese",
+      "daily_2026_11_13",
       "lifestyle",
       "product_review",
       "route:third_party_content",
