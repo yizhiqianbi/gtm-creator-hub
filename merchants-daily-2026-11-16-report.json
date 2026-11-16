@@ -69,7 +69,7 @@
     "New association member directories mostly failed: EHPA / CEAMA / ANFAD / FETA / UNICLIMA / AFEC / APPLIA Europe / JRAIA / APPA / EURAMMON / ADE / ABRAVA / ELETROS / RAMA were 404, 403, 503, login-walled, bot-walled, timed out, or lacked a usable official-website member list on the listing page",
     "LinkedIn and Google Maps had no new public ingest this run (no new Crustdata query; no new Maps listings)"
   ],
-  "commit_sha": "",
+  "commit_sha": "e6ae1cc58a91e67a7196d4a59bba89adf874279b",
   "report_sha": "",
   "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
   "stay_silent": false
