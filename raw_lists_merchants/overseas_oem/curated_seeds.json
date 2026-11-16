@@ -9761,5 +9761,2369 @@
     ],
     "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
     "public_contact": ""
+  },
+  {
+    "name": "Actherm Endüstriyel",
+    "region": "Turkey",
+    "website": "https://www.actherm.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/actherm-endustriyel-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BOMAKSAN",
+    "region": "Turkey",
+    "website": "http://www.bomaksan.com/index_tr.html",
+    "source_url": "https://iskid.org.tr/en/portfolio/aera-iklimlendirme-6/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "EMAS MAKİNA",
+    "region": "Turkey",
+    "website": "http://emas.com.tr/",
+    "source_url": "https://iskid.org.tr/en/portfolio/aera-iklimlendirme-7/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "GESTEKNİK",
+    "region": "Turkey",
+    "website": "http://gesteknik.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/aera-iklimlendirme-8/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "AHMET YAR SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.ahmetyar.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/ahmet-yar-sogutma/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "AIOLOS AIR",
+    "region": "Turkey",
+    "website": "https://www.aiolosair.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/aiolos-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "Aksa Motor Fan",
+    "region": "Turkey",
+    "website": "https://www.aksamotor.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/aksa-motor-fan-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ALİZE MÜHENDİSLİK",
+    "region": "Turkey",
+    "website": "https://www.alizemhs.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/alize-muhendislik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ARAS SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.araskondenser.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/aras-sogutma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ATLANTİK GRUP",
+    "region": "Turkey",
+    "website": "https://www.atlantikgrup.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/atlantik-grup-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ATM Isı Transfer",
+    "region": "Turkey",
+    "website": "http://atm-tr.com/",
+    "source_url": "https://iskid.org.tr/en/portfolio/atm-isi-transfer-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BAHÇIVAN ELEKT. MOT.",
+    "region": "Turkey",
+    "website": "https://www.bvnair.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/bahcivan-elekt-mot/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BOREAS",
+    "region": "Turkey",
+    "website": "https://www.boreasteknoloji.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/boreas-klima-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BOSCH TERMOTEKNİK",
+    "region": "Turkey",
+    "website": "https://www.boschtermoteknik.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/bosch-termoteknik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BRC Soğutma",
+    "region": "Turkey",
+    "website": "https://www.brcsogutma.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/brc-sogutma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BSH  EV ALETLERİ",
+    "region": "Turkey",
+    "website": "https://www.bsh.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/bsh-ev-aletleri-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BSK HAVALANDIRMA",
+    "region": "Turkey",
+    "website": "https://www.bskhavalandirma.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/bsk-havalandirma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "BUZÇELİK BUZDOLABI",
+    "region": "Turkey",
+    "website": "https://www.buzcelik.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/buzcelik-buzdolabi-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ÇAĞLAYAN SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.caglayansogutma.com.tr/",
+    "source_url": "https://iskid.org.tr/en/portfolio/caglayan-sogutma/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "CAN Klima",
+    "region": "Turkey",
+    "website": "https://www.canklimateknik.com/",
+    "source_url": "https://iskid.org.tr/en/portfolio/can-klima-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "CANTAŞ",
+    "region": "Turkey",
+    "website": "https://www.cantas.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/cantas-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "CENK ENDÜSTRİ",
+    "region": "Turkey",
+    "website": "https://www.cenk.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/cenk-endustri-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "CFM SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.cfm.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/cfm-sogutma-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "Copa Isı Sistemleri",
+    "region": "Turkey",
+    "website": "https://www.copa.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/copa-isi-sistemleri-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "CTP Mühendislik",
+    "region": "Turkey",
+    "website": "https://www.susogutmakulesi.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/ctp-muhendislik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "D GAS",
+    "region": "Turkey",
+    "website": "https://www.derkimkimya.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/daikin-en-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "DOĞUŞ TEKNİK KLİMA",
+    "region": "Turkey",
+    "website": "https://www.dogusteknik.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/dogus-teknik-klima-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "EDSO SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.edso.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/edso-sogutma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "EKİN ENDÜSTRİYEL",
+    "region": "Turkey",
+    "website": "https://www.ekinendustriyel.com/",
+    "source_url": "https://iskid.org.tr/en/portfolio/ekin-endustriyel-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "EkoTürk",
+    "region": "Turkey",
+    "website": "https://www.ekoturka.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/ekoturk-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "EMSA MÜHENDİSLİK",
+    "region": "Turkey",
+    "website": "https://www.emsamuhendislik.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/emsa-muhendislik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ERBAY SOĞUTMA ISITMA",
+    "region": "Turkey",
+    "website": "https://www.erbay.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/erbay-sogutma-isitma-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ERCAN TEKNİK",
+    "region": "Turkey",
+    "website": "https://www.ercanteknik.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/ercan-teknik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ERDEM SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.erdemsogutma.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/erdem-sogutma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ESPA SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.espasogutma.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/espa-sogutma-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "EVAPTON ISITMA VE SOĞUTMA",
+    "region": "Turkey",
+    "website": "http://www.evapton.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/evapton-isitma-ve-sogutma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "FABRICAIR",
+    "region": "Turkey",
+    "website": "https://www.fabricair.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/fabricair-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "FİTA TEKNİK",
+    "region": "Turkey",
+    "website": "https://fitateknik.com/",
+    "source_url": "https://iskid.org.tr/en/portfolio/fita-teknik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "FRIGOBLOCK",
+    "region": "Turkey",
+    "website": "https://www.frigoblock.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/frigoblock-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "FRITERM",
+    "region": "Turkey",
+    "website": "https://www.friterm.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/friterm-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "GAZİ SOĞUTMA SANAYİ",
+    "region": "Turkey",
+    "website": "http://www.gazisogutma.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/gazi-sogutma-sanayi-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "GEMAK",
+    "region": "Turkey",
+    "website": "https://www.gemakltd.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/gemak-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "Gökçeler Soğutma",
+    "region": "Turkey",
+    "website": "https://www.gokcelersogutma.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/gokceler-sogutma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "GSMU MEKATRONİK",
+    "region": "Turkey",
+    "website": "https://www.gsmu.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/gsmu-mekatronik-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "GÜMÜŞ MEKANİK",
+    "region": "Turkey",
+    "website": "https://gumusmekanik.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/gumus-mekanik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "GUVEN SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.gvn.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/guven-sogutma-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "HAUSLUFT",
+    "region": "Turkey",
+    "website": "https://www.hausluft.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/hausluft-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "HAVAK ENDÜSTRİ",
+    "region": "Turkey",
+    "website": "https://www.havak.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/havak-endustri-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "HAVKON",
+    "region": "Turkey",
+    "website": "https://www.havkon.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/havkon-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "HEINEN HOPMAN",
+    "region": "Turkey",
+    "website": "https://www.heinenhopman.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/heinen-hopman-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "IMAS KLİMA",
+    "region": "Turkey",
+    "website": "https://www.imasklima.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/imas-klima-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "VENCO",
+    "region": "Turkey",
+    "website": "https://www.venco.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/imco-endustriyel-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ISIL MÜHENDİSLİK",
+    "region": "Turkey",
+    "website": "https://www.flexiva.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/isil-muhendislik-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ISIŞAH Endüstriyel",
+    "region": "Turkey",
+    "website": "https://www.isisah.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/isisah-endustriyel-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ISPEK KFK",
+    "region": "Turkey",
+    "website": "https://www.ispekkfk.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/ispek-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "KARSU SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.karsusogutma.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/karsu-sogutma-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "KARYER ISI TRANSFER",
+    "region": "Turkey",
+    "website": "https://www.karyergroup.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/karyer-isi-transfer-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "KLAS ISITMA SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.klsklima.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/klas-isitma-sogutma-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "Klisef",
+    "region": "Turkey",
+    "website": "https://www.klisef.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/klisef-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "KMC FİLTRE",
+    "region": "Turkey",
+    "website": "https://www.kmcfiltre.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/kmc-filtre-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "KONVEYOR",
+    "region": "Turkey",
+    "website": "https://www.konveyor.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/konveyor-3/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "KURLUK MÜHENDİSLİK",
+    "region": "Turkey",
+    "website": "https://www.kurluk.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/kurluk-muhendislik-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "MAKRO TEKNİK",
+    "region": "Turkey",
+    "website": "https://www.linkyapi.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/makro-teknik-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "MERKEZ MOTOR",
+    "region": "Turkey",
+    "website": "https://www.merkezmotor.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/merkez-motor-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "MESSAN SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.messan.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/messan-sogutma-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "MGT FİLTRE",
+    "region": "Turkey",
+    "website": "https://www.mgt.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/mgt-filtre-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "NİBA SU SOĞUTMA",
+    "region": "Turkey",
+    "website": "https://www.niba.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/niba-su-sogutma-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "PLANER MÜHENDİSLİK",
+    "region": "Turkey",
+    "website": "https://www.planersogutma.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/planer-muhendislik-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "PNS TEKNİK",
+    "region": "Turkey",
+    "website": "https://www.pnsteknik.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/pns-teknik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "REFKAR",
+    "region": "Turkey",
+    "website": "https://www.refkar.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/refkar-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "RESTERM ENDÜSTRİ",
+    "region": "Turkey",
+    "website": "http://www.resterm.com/",
+    "source_url": "https://iskid.org.tr/en/portfolio/resterm-endustri/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ROTA İklimlendirme",
+    "region": "Turkey",
+    "website": "https://www.ekorota.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/rota-iklimlendirme-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "Sakura Klima",
+    "region": "Turkey",
+    "website": "https://www.sakuraklima.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/sakura-klima/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "SARBUZ",
+    "region": "Turkey",
+    "website": "https://www.sarbuz.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/sarbuz-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "SAVAŞLAR Tesisat",
+    "region": "Turkey",
+    "website": "https://www.savaslar.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/savaslar-tesisat-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "SMARTE TEKNOLOJİ",
+    "region": "Turkey",
+    "website": "https://www.florawise.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/smarte-teknoloji-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "Solimpeks Enerji",
+    "region": "Turkey",
+    "website": "https://www.solimpeks.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/solimpeks-enerji-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "Tekfil Filtre",
+    "region": "Turkey",
+    "website": "https://www.tekfil.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/tekfil-filtre/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "TEKNOFAN KLİMA",
+    "region": "Turkey",
+    "website": "https://www.teknofan.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/teknofan-klima-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "TEKNOSA",
+    "region": "Turkey",
+    "website": "https://www.iklimsa.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/teknosa-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "TERMOKAR",
+    "region": "Turkey",
+    "website": "https://www.termokar.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/termokar-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "TETİSAN",
+    "region": "Turkey",
+    "website": "https://www.tetisan.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/tetisan-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "THERMOWAY",
+    "region": "Turkey",
+    "website": "https://www.thermoway.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/thermoway-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "TIMFOG",
+    "region": "Turkey",
+    "website": "https://www.technowell.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/timfog-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "TLC Klima",
+    "region": "Turkey",
+    "website": "https://www.tlcklima.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/tlc-klima-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "TROX TURKEY",
+    "region": "Turkey",
+    "website": "https://www.trox.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/trox-turkey-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ULPATEK",
+    "region": "Turkey",
+    "website": "https://www.ulpatek.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/ulpatek-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "ULUSOY BAKIR VE METAL",
+    "region": "Turkey",
+    "website": "https://www.uci.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/ulusoy-bakir-ve-metal-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "VATBUZ",
+    "region": "Turkey",
+    "website": "https://www.vatbuz.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/vatbuz-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "VENTEK Mühendislik",
+    "region": "Turkey",
+    "website": "https://www.ventek.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/ventek-muhendislik-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "VİSTHERM",
+    "region": "Turkey",
+    "website": "https://www.vistherm.com.tr",
+    "source_url": "https://iskid.org.tr/en/portfolio/vistherm-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "YSK Mekanik Mühendislik",
+    "region": "Turkey",
+    "website": "https://www.yskhavalandirma.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/ysk-mekanik-muhendislik-2/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "YÜKSEL TEKNİK",
+    "region": "Turkey",
+    "website": "https://www.yukselteknik.com",
+    "source_url": "https://iskid.org.tr/en/portfolio/yuksel-teknik-en/",
+    "categories": [
+      "hvac",
+      "heater"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:tr",
+      "source:association",
+      "iskid_member"
+    ],
+    "notes": "Turkish HVAC manufacturer listed on the public ISKID members directory (official site from the association portfolio page when present)",
+    "public_contact": ""
+  },
+  {
+    "name": "AeroPress",
+    "region": "Overseas",
+    "website": "http://www.aerobie.com/Products/aeropress.htm",
+    "source_url": "https://en.wikipedia.org/wiki/AeroPress",
+    "categories": [
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Alessi",
+    "region": "Italy",
+    "website": "http://www.alessi.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Alessi_(Italian_company)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Bedazzler",
+    "region": "Overseas",
+    "website": "https://www.getbedazzler.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Bedazzler",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Bticino",
+    "region": "Italy",
+    "website": "https://www.bticino.it/",
+    "source_url": "https://en.wikipedia.org/wiki/Bticino",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:it"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Bunn-O-Matic Corporation",
+    "region": "United States",
+    "website": "https://www.bunn.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Bunn-O-Matic_Corporation",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Capresso",
+    "region": "United States",
+    "website": "http://www.capresso.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Capresso",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Dustbot",
+    "region": "Overseas",
+    "website": "http://www.dustbot.org/",
+    "source_url": "https://en.wikipedia.org/wiki/Dustbot",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Edesa",
+    "region": "Spain",
+    "website": "http://www.edesausa.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Edesa",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:es"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Grundig",
+    "region": "Germany",
+    "website": "http://www.grundig.com",
+    "source_url": "https://en.wikipedia.org/wiki/Grundig",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Henry",
+    "region": "United Kingdom",
+    "website": "https://www.myhenry.co.uk/",
+    "source_url": "https://en.wikipedia.org/wiki/Henry_(vacuum)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:gb"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "IKEA",
+    "region": "Overseas",
+    "website": "https://www.ikea.com/us/en",
+    "source_url": "https://en.wikipedia.org/wiki/IKEA",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "JD Squared",
+    "region": "Overseas",
+    "website": "https://www.jd2.com/",
+    "source_url": "https://en.wikipedia.org/wiki/JD_Squared",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Kenmore",
+    "region": "United States",
+    "website": "http://www.kenmore.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Kenmore_(brand)",
+    "categories": [
+      "home_appliance",
+      "hvac"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Magic Chef",
+    "region": "United States",
+    "website": "https://magicchef.com",
+    "source_url": "https://en.wikipedia.org/wiki/Magic_Chef",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Moulinex",
+    "region": "France",
+    "website": "http://www.moulinex.fr/",
+    "source_url": "https://en.wikipedia.org/wiki/Moulinex",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fr"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Mr. Coffee",
+    "region": "United States",
+    "website": "https://www.mrcoffee.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Mr._Coffee",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Neles",
+    "region": "Finland",
+    "website": "https://www.neles.com",
+    "source_url": "https://en.wikipedia.org/wiki/Neles",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fi"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Nespresso",
+    "region": "Switzerland",
+    "website": "https://www.nespresso.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Nespresso",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Nomiku",
+    "region": "United States",
+    "website": "http://www.nomiku.com",
+    "source_url": "https://en.wikipedia.org/wiki/Nomiku",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "OXO",
+    "region": "United States",
+    "website": "https://www.oxo.com/",
+    "source_url": "https://en.wikipedia.org/wiki/OXO_(kitchen_utensils_brand)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Oras",
+    "region": "Finland",
+    "website": "http://www.orasgroup.com",
+    "source_url": "https://en.wikipedia.org/wiki/Oras_(company)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:fi"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Pfister",
+    "region": "United States",
+    "website": "https://www.pfisterfaucets.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Pfister_(firm)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Rowenta",
+    "region": "Germany",
+    "website": "https://www.rowenta.fr/",
+    "source_url": "https://en.wikipedia.org/wiki/Rowenta",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:de"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Scooba",
+    "region": "United States",
+    "website": "http://www.robotmart.ru/catalog/display/157",
+    "source_url": "https://en.wikipedia.org/wiki/Scooba_(brand)",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Senseo",
+    "region": "Overseas",
+    "website": "https://www.senseo.com",
+    "source_url": "https://en.wikipedia.org/wiki/Senseo",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Snowa",
+    "region": "Iran",
+    "website": "http://www.snowa.ir/",
+    "source_url": "https://en.wikipedia.org/wiki/Snowa",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ir"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Thermoplan AG",
+    "region": "Switzerland",
+    "website": "http://www.thermoplan.ch/",
+    "source_url": "https://en.wikipedia.org/wiki/Thermoplan_AG",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:ch"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Vittoria Coffee",
+    "region": "Australia",
+    "website": "http://www.vittoriacoffee.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Vittoria_Coffee",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:au"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Watts Water Technologies",
+    "region": "United States",
+    "website": "https://www.watts.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Watts_Water_Technologies",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas",
+      "region:us"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
+  },
+  {
+    "name": "Zyliss",
+    "region": "Overseas",
+    "website": "http://dach.zyliss.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Zyliss",
+    "categories": [
+      "home_appliance"
+    ],
+    "type": "manufacturer",
+    "tags": [
+      "oem",
+      "overseas"
+    ],
+    "notes": "Overseas manufacturer from public Wikipedia category (unused country home-appliance lists, parent home-appliance manufacturers, HVAC companies, or pet-food brands) with official website on Wikidata",
+    "public_contact": ""
   }
 ]

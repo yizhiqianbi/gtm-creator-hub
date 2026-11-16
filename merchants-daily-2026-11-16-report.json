@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-16",
+  "timezone": "Asia/Shanghai",
+  "before": 6804,
+  "after": 7961,
+  "net_delta": 1157,
+  "overseas_oemish_before": 3310,
+  "overseas_oemish_after": 3649,
+  "overseas_oemish_delta": 339,
+  "flags_before": {
+    "overseas": 3290,
+    "oem": 1864,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1866,
+    "overseas_oemish": 3310
+  },
+  "flags_after": {
+    "overseas": 3629,
+    "oem": 1996,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1998,
+    "overseas_oemish": 3649
+  },
+  "sources_attempted": [
+    "customs",
+    "channel",
+    "trade_show",
+    "linkedin",
+    "maps",
+    "alibaba",
+    "1688",
+    "association",
+    "mic",
+    "overseas_oem"
+  ],
+  "sources_succeeded": [
+    "customs",
+    "overseas_oem",
+    "association",
+    "channel",
+    "mic",
+    "trade_show"
+  ],
+  "added_by_source_tag": {
+    "customs": 173,
+    "overseas_oem": 129,
+    "channel": 95,
+    "mic": 426,
+    "trade_show": 334
+  },
+  "notes": [
+    "ImportDoor new HS codes ingested via short-slug redirects: 732211/732219/840310/840390/841950/841989/842129/842199/845090/845121/845129/845130/850990/851632/851633/901910/961700 (+173 net after dedupe). 940540 was 404 and was not ingested. ImportYeti retry still unusable (404 shell).",
+    "MIC: 28 new public manufacturer slugs ingested (blender, toaster, juicer, pressure-cooker, food-processor, electric-oven, clothes-dryer, refrigerator, patio-heater, panel-heater, garment-steamer, hair-dryer, litter-box, dog-kennel, aquarium, steam-mop, espresso-machine, water-filter, solar-water-heater, towel-warmer, automatic-litter-box, massager, heating-pad, bread-maker, air-curtain, cassette-air-conditioner, beer-cooler, slow-cooker) plus page-2 pagination for 20 previously page-1-only slugs (humidifier, air-fryer, washing-machine, vacuum-cleaner, robot-vacuum-cleaner, portable-air-conditioner, split-air-conditioner, heat-pump, air-purifier, water-heater, wine-cooler, pet-feeder, dishwasher, microwave-oven, coffee-maker, cat-tree, water-purifier, air-conditioner, window-air-conditioner, electric-fireplace) (+426 net).",
+    "Canton Fair: 8 new public category pages parsed for sessions 139 and 140 (personal-care-products, led-lighting, building-and-decorative-materials, new-energy-resources, children-baby-and-maternity-products, intelligent-healthcare, tools, home-decorations) (+334 net exhibitor names). Session 139 intelligent-healthcare was 404; led-lighting/healthcare pages were thin. Ambiente/ISH/Chillventa exhibitor search pages still have no usable company JSON.",
+    "Association: +93 net Turkish HVAC manufacturers from the public ISKID members directory (official websites taken from public member portfolio pages when visible on the page or when the domain clearly matched the company name). ESSIad corporate-member names without official websites were not added as companies (category headings only). AREA lists national contractor associations, not companies. Newly attempted directories (EHPA, CEAMA, ANFAD, FETA, UNICLIMA, AFEC, APPLIA Europe, JRAIA, APPA, EURAMMON, ADE, ABRAVA, ELETROS, RAMA) were 404, 403, 503, login-walled, bot-walled, timed out, or had no usable official-website member list.",
+    "Overseas OEM: curated seeds 537→660 (+123: ISKID +93, Wikipedia Coffee appliance vendors / Home appliance brands / Bathroom equipment / Valve manufacturers +30 after official Wikidata websites). Directory snapshots (IndiaMART clothes-dryer/hair-dryer and ExportersIndia clothes-dryer) +6. Combined overseas_oem expand +129.",
+    "Channels: +95 net from updated channels.json (957, after the 2026-11-16 creator hub refresh; last merchants ingest used 862).",
+    "Ran expand_merchants_customs.py then overseas_oem then multisource. Merchant count never dropped below the 6804 baseline (6804→6977→7106→7961).",
+    "Alibaba/1688/GlobalSources mostly 410/empty/429/JS-shell; Europages 202 empty; ThomasNet/TradeIndia/Kompass blocked; Crustdata live expand not used (reused prior merged_strict dump); Apify/Apollo not used; LinkedIn/Maps had no new public ingest this run."
+  ],
+  "blockers": [
+    "ImportYeti /hs-code/* retry still unusable (404 shell, no parseable supplier directory)",
+    "Europages returned HTTP 202 with an empty body; ThomasNet/Alibaba/GlobalSources/TradeIndia/Kompass blocked, 410, 403, or JS-shell",
+    "1688 public search pages empty/blocked in this environment",
+    "Crustdata live expand not used this run; reused prior merged_strict dump (previous runs reported 0 credits)",
+    "Ambiente/ISH/Chillventa exhibitor search pages public but no usable company JSON in HTML",
+    "New association member directories mostly failed: EHPA / CEAMA / ANFAD / FETA / UNICLIMA / AFEC / APPLIA Europe / JRAIA / APPA / EURAMMON / ADE / ABRAVA / ELETROS / RAMA were 404, 403, 503, login-walled, bot-walled, timed out, or lacked a usable official-website member list on the listing page",
+    "LinkedIn and Google Maps had no new public ingest this run (no new Crustdata query; no new Maps listings)"
+  ],
+  "commit_sha": "",
+  "report_sha": "",
+  "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
+  "stay_silent": false
+}

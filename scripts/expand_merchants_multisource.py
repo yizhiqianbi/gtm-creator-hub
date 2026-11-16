@@ -718,6 +718,54 @@ def ingest_trade_shows(db: MerchantDB):
             "https://cantonfair.co/140/categories/gardening-products",
             "Canton Fair gardening products public exhibitor category",
         ),
+        (
+            "canton_personal_care_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/personal-care-products",
+            "Canton Fair personal care products public exhibitor category",
+        ),
+        (
+            "canton_led_lighting_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/led-lighting",
+            "Canton Fair LED lighting public exhibitor category",
+        ),
+        (
+            "canton_building_names.txt",
+            ["home_appliance", "heater"],
+            "https://cantonfair.co/140/categories/building-and-decorative-materials",
+            "Canton Fair building and decorative materials public exhibitor category",
+        ),
+        (
+            "canton_new_energy_names.txt",
+            ["hvac", "heater"],
+            "https://cantonfair.co/140/categories/new-energy-resources",
+            "Canton Fair new energy resources public exhibitor category",
+        ),
+        (
+            "canton_baby_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/children-baby-and-maternity-products",
+            "Canton Fair children, baby and maternity products public exhibitor category",
+        ),
+        (
+            "canton_healthcare_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/intelligent-healthcare",
+            "Canton Fair intelligent healthcare public exhibitor category",
+        ),
+        (
+            "canton_tools_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/tools",
+            "Canton Fair tools public exhibitor category",
+        ),
+        (
+            "canton_home_decorations_names.txt",
+            ["home_appliance"],
+            "https://cantonfair.co/140/categories/home-decorations",
+            "Canton Fair home decorations public exhibitor category",
+        ),
     ]:
         npath = RAW / "shows_md" / fname
         if not npath.exists():
