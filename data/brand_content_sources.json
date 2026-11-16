@@ -802,6 +802,19 @@
     ]
   },
   {
+    "title": "Motonet",
+    "url": "https://www.motonet.fi",
+    "niche": "heater",
+    "asset_type": "brochure",
+    "notes": "Finland Motonet auto/home/pet retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "heater",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Obi DE climate category",
     "url": "https://www.obi.de/",
     "niche": "heater",
@@ -984,6 +997,45 @@
     ]
   },
   {
+    "title": "1a.ee",
+    "url": "https://www.1a.ee",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Estonia 1a.ee electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "2B Egypt",
+    "url": "https://2b.com.eg",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Egypt 2B electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "AV Life",
+    "url": "https://www.avlife.com.hk",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Hong Kong AV Life electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "AfterShip influencer category pages (appliances)",
     "url": "https://ecommerce.aftership.com/influencers/top-100-most-follower-household-appliances-us-tiktok-shop-influencers",
     "niche": "home_appliance",
@@ -991,6 +1043,19 @@
     "notes": "第三方测评/带货达人榜——外部口碑入口参考",
     "tags": [
       "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Alko",
+    "url": "https://www.alko.fi",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Finland Alko beverage retail monopoly, wine · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1057,6 +1122,19 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Best Al-Yousifi",
+    "url": "https://www.best.com.kw",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Kuwait Best Al-Yousifi appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -1219,6 +1297,19 @@
     ]
   },
   {
+    "title": "Carrefour Kenya",
+    "url": "https://www.carrefourkenya.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Kenya Carrefour, appliances and pet · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Casas Bahia",
     "url": "https://www.casasbahia.com.br",
     "niche": "home_appliance",
@@ -1344,6 +1435,19 @@
     ]
   },
   {
+    "title": "Dateks",
+    "url": "https://www.dateks.lv",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Latvia Dateks electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Digitec",
     "url": "https://www.digitec.ch",
     "niche": "home_appliance",
@@ -1352,6 +1456,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Divino Uruguay",
+    "url": "https://www.divino.com.uy",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Uruguay Divino electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1451,6 +1568,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Elko Iceland",
+    "url": "https://www.elko.is",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Iceland Elko electronics and appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1558,6 +1688,19 @@
     ]
   },
   {
+    "title": "Euronics Latvia",
+    "url": "https://www.euronics.lv",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Latvia Euronics appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Expert España",
     "url": "https://www.expert.es",
     "niche": "home_appliance",
@@ -1591,6 +1734,19 @@
     "notes": "认证查询工具",
     "tags": [
       "brochure",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Falabella Colombia",
+    "url": "https://www.falabella.com.co",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Colombia Falabella department store, appliances · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1630,6 +1786,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Fortress Hong Kong",
+    "url": "https://www.fortress.com.hk",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Hong Kong Fortress appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1686,6 +1855,19 @@
     ]
   },
   {
+    "title": "Gigantti",
+    "url": "https://www.gigantti.fi",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Finland Gigantti electronics and appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Good Housekeeping product reviews",
     "url": "https://www.goodhousekeeping.com/appliances/",
     "niche": "home_appliance",
@@ -1693,6 +1875,19 @@
     "notes": "生活方式媒体评测",
     "tags": [
       "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Hagkaup",
+    "url": "https://www.hagkaup.is",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Iceland Hagkaup hypermarket, appliances and pet · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1850,6 +2045,19 @@
     ]
   },
   {
+    "title": "Hotpoint Kenya",
+    "url": "https://hotpoint.co.ke",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Kenya Hotpoint Appliances retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "House & Home ZA",
     "url": "https://www.houseandhome.co.za",
     "niche": "home_appliance",
@@ -1858,6 +2066,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Informa Indonesia",
+    "url": "https://www.informa.co.id",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Indonesia Informa furniture and home appliances · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1927,6 +2148,19 @@
     ]
   },
   {
+    "title": "Kaup24",
+    "url": "https://www.kaup24.ee",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Estonia Kaup24 electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Kojima",
     "url": "https://www.kojima.net",
     "niche": "home_appliance",
@@ -1935,6 +2169,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Ktronix",
+    "url": "https://www.ktronix.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Colombia Ktronix electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2024,6 +2271,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "MediaMart Vietnam",
+    "url": "https://mediamart.vn",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Vietnam MediaMart appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2195,6 +2455,32 @@
     ]
   },
   {
+    "title": "Pigu",
+    "url": "https://www.pigu.lt",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Lithuania Pigu.lt general merchandise including appliances · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Plaisio",
+    "url": "https://www.plaisio.gr",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Greece Plaisio electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Planeo Elektro",
     "url": "https://www.planeo.cz",
     "niche": "home_appliance",
@@ -2203,6 +2489,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Planeo Slovakia",
+    "url": "https://www.planeo.sk",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Slovakia Planeo Elektro retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2221,6 +2520,19 @@
     ]
   },
   {
+    "title": "Power Finland",
+    "url": "https://www.power.fi",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Finland Power electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Power Norway",
     "url": "https://www.power.no",
     "niche": "home_appliance",
@@ -2229,6 +2541,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_12",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Public Greece",
+    "url": "https://www.public.gr",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Greece Public electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2258,6 +2583,32 @@
     ]
   },
   {
+    "title": "Raya Shop",
+    "url": "https://www.rayashop.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Egypt Raya Shop electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Reliance Digital",
+    "url": "https://www.reliancedigital.in",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "India Reliance Digital electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Reviewed.com appliances",
     "url": "https://www.reviewed.com/appliances",
     "niche": "home_appliance",
@@ -2265,6 +2616,32 @@
     "notes": "实验室评测站",
     "tags": [
       "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Ripley Chile",
+    "url": "https://www.ripley.cl",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Chile Ripley department store, appliances · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Ripley Peru",
+    "url": "https://simple.ripley.com.pe",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Peru Ripley department store, appliances · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2308,6 +2685,19 @@
     ]
   },
   {
+    "title": "Saga Falabella Peru",
+    "url": "https://www.falabella.com.pe",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Peru Saga Falabella department store, appliances · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Samsung US HVAC / appliances hub",
     "url": "https://www.samsung.com/us/home-appliances/",
     "niche": "home_appliance",
@@ -2316,6 +2706,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_05",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Sancta Domenica",
+    "url": "https://www.sancta-domenica.hr",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Croatia Sancta Domenica electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2382,6 +2785,19 @@
     ]
   },
   {
+    "title": "Tamimi Markets",
+    "url": "https://www.tamimimarkets.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Saudi Tamimi Markets, appliances and pet · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "TechRadar home appliances",
     "url": "https://www.techradar.com/news/home-appliances",
     "niche": "home_appliance",
@@ -2389,6 +2805,19 @@
     "notes": "媒体品类新闻/评测",
     "tags": [
       "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Techno Q",
+    "url": "https://www.technoq.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Qatar Techno Q electronics and appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2402,6 +2831,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_10",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Tehnomanija",
+    "url": "https://www.tehnomanija.rs",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Serbia Tehnomanija appliance retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2446,6 +2888,19 @@
     ]
   },
   {
+    "title": "Tienda Inglesa",
+    "url": "https://www.tiendainglesa.com.uy",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Uruguay Tienda Inglesa supermarket, appliances and pet · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Tom's Guide appliances",
     "url": "https://www.tomsguide.com/us/best-appliances,review-6067.html",
     "niche": "home_appliance",
@@ -2484,6 +2939,19 @@
     ]
   },
   {
+    "title": "Tsann Kuen",
+    "url": "https://www.tkec.com.tw",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Taiwan 燦坤 Tsann Kuen appliance chain · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "UL product safety",
     "url": "https://www.ul.com/",
     "niche": "home_appliance",
@@ -2504,6 +2972,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Verkkokauppa",
+    "url": "https://www.verkkokauppa.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Finland Verkkokauppa.com electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2570,6 +3051,19 @@
     ]
   },
   {
+    "title": "WinWin",
+    "url": "https://www.winwin.rs",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Serbia WinWin electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Wirecutter home climate picks",
     "url": "https://www.nytimes.com/wirecutter/",
     "niche": "home_appliance",
@@ -2578,6 +3072,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_06",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Zora Bulgaria",
+    "url": "https://www.zora.bg",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Bulgaria Zora electronics retailer · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2615,6 +3122,32 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "momo Taiwan",
+    "url": "https://www.momoshop.com.tw",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Taiwan momo shopping, appliances and pet · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Éxito",
+    "url": "https://www.exito.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Colombia Grupo Éxito hypermarket, appliances · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2819,6 +3352,19 @@
     ]
   },
   {
+    "title": "BYKO",
+    "url": "https://www.byko.is",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Iceland BYKO building materials and HVAC · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Bauhaus AT climate hub",
     "url": "https://www.bauhaus.at/",
     "niche": "hvac",
@@ -2999,6 +3545,32 @@
     ]
   },
   {
+    "title": "Easy Chile",
+    "url": "https://www.easy.cl",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Chile Easy home improvement and HVAC · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Ermitažas",
+    "url": "https://www.ermitazas.lt",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Lithuania Ermitažas DIY and HVAC · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Ferguson HVAC catalog public",
     "url": "https://www.ferguson.com/",
     "niche": "hvac",
@@ -3115,6 +3687,19 @@
     ]
   },
   {
+    "title": "Hornbach Slovakia",
+    "url": "https://www.hornbach.sk",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Slovakia Hornbach DIY and HVAC · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "ISH Frankfurt",
     "url": "https://ish.messefrankfurt.com/",
     "niche": "hvac",
@@ -3174,6 +3759,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_12",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Kurši",
+    "url": "https://www.kursi.lv",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Latvia Kurši building materials and HVAC · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "hvac",
       "route:brand_content"
     ]
@@ -3404,6 +4002,32 @@
     "tags": [
       "case",
       "daily_2026_11_04",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Pevex",
+    "url": "https://www.pevex.hr",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Croatia Pevex home improvement and HVAC · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
+      "hvac",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Praktiker Bulgaria",
+    "url": "https://www.praktiker.bg",
+    "niche": "hvac",
+    "asset_type": "brochure",
+    "notes": "Bulgaria Praktiker DIY and HVAC · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "hvac",
       "route:brand_content"
     ]
@@ -4099,6 +4723,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_12",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Musti ja Mirri",
+    "url": "https://www.mustijamirri.fi",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "Finland Musti ja Mirri pet specialist chain · daily_2026-11-16",
+    "tags": [
+      "brochure",
+      "daily_2026_11_16",
       "pet_gear",
       "route:brand_content"
     ]
