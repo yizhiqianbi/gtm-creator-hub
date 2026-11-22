@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-22",
+  "base_commit": "276ac1bf08976e09dc88100f751141eb279be1ed",
+  "origin_main_compared": "276ac1bf08976e09dc88100f751141eb279be1ed",
+  "origin_main_unchanged_since_base": true,
+  "history_backfill": false,
+  "collection": "attachment_only",
+  "silent_no_change": false,
+  "creators_before": 34159,
+  "creators_after": 34620,
+  "net_new": 461,
+  "platform_breakdown_before": {
+    "tiktok": 13720,
+    "bilibili": 6803,
+    "instagram": 6442,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 1065,
+    "wechat_store": 200
+  },
+  "platform_breakdown_after": {
+    "tiktok": 13720,
+    "bilibili": 7250,
+    "instagram": 6442,
+    "douyin": 4463,
+    "xiaohongshu": 1466,
+    "x": 1079,
+    "wechat_store": 200
+  },
+  "channels_before": 957,
+  "channels_after": 969,
+  "channels_net_new": 12,
+  "brand_before": 592,
+  "brand_after": 604,
+  "brand_net_new": 12,
+  "sources": {
+    "bilibili_daily_api": 447,
+    "x_mcp_public": 14,
+    "channels_curated_daily": 12,
+    "brand_curated_daily": 12
+  },
+  "dedupe_drops": {},
+  "checks": {
+    "json_csv_consistent": true,
+    "creator_primary_key": "platform+handle",
+    "creator_duplicate_keys": 0,
+    "existing_creator_rows_missing": 0,
+    "existing_creator_rows_changed": 0,
+    "new_creators_followers_below_1000": 0,
+    "new_creators_unknown_followers": 0,
+    "new_creators_missing_profile_url": 0,
+    "new_creators_tag_count_below_2": 0,
+    "new_creators_missing_source_url": 0
+  },
+  "anomalies": [
+    "RiojaWine country_or_language and us tag disagree with the Rioja Wine account identity; row kept because followers, profile_url, tags, and source_url pass",
+    "All 447 new Bilibili rows use source_url https://api.bilibili.com/x/web-interface/popular; notes also mention 分区榜 but the attachment has no separate ranking URL"
+  ],
+  "blockers": [
+    "No new crawl, Apify run, or paid enrichment in this commit",
+    "Attachment is the 2026-11-22 supplement only; 2026-11-17 through 2026-11-20 were not invented"
+  ],
+  "commit_sha": "7cfb774b1d7f5fd413cf9ef27311f840000d1d3d",
+  "stay_silent": false
+}

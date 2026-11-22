@@ -3401,6 +3401,24 @@
     "notes": "Kenya Carrefour, appliances and pet · daily_2026-11-16"
   },
   {
+    "name": "Carrefour Tunisia",
+    "type": "dealer",
+    "region": "TN",
+    "website": "https://www.carrefour.tn",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.carrefour.tn",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "route:channel_coop",
+      "tn"
+    ],
+    "notes": "Tunisia Carrefour retailer · daily_2026-11-22"
+  },
+  {
     "name": "Carrier Enterprise",
     "type": "distributor",
     "region": "USA",
@@ -4667,6 +4685,24 @@
     "notes": "OEM + dealer network"
   },
   {
+    "name": "Damro",
+    "type": "dealer",
+    "region": "LK",
+    "website": "https://www.damro.lk",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.damro.lk",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "lk",
+      "route:channel_coop"
+    ],
+    "notes": "Sri Lanka Damro home retailer · daily_2026-11-22"
+  },
+  {
     "name": "Danby Appliances",
     "type": "brand",
     "region": "Canada",
@@ -5214,6 +5250,24 @@
       "uy"
     ],
     "notes": "Uruguay Divino electronics retailer · daily_2026-11-16"
+  },
+  {
+    "name": "Do it Center Panama",
+    "type": "dealer",
+    "region": "PA",
+    "website": "https://www.doitcenter.com.pa",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.doitcenter.com.pa",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pa",
+      "route:channel_coop"
+    ],
+    "notes": "Panama Do it Center retailer · daily_2026-11-22"
   },
   {
     "name": "DoHome",
@@ -8313,6 +8367,24 @@
     "notes": "Breezaire authorized dealer"
   },
   {
+    "name": "HomeShopping Pakistan",
+    "type": "dealer",
+    "region": "PK",
+    "website": "https://homeshopping.pk",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://homeshopping.pk",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pk",
+      "route:channel_coop"
+    ],
+    "notes": "Pakistan HomeShopping electronics retailer · daily_2026-11-22"
+  },
+  {
     "name": "Honeywell Home where to buy",
     "type": "dealer",
     "region": "USA",
@@ -9750,6 +9822,24 @@
       "route:channel_coop"
     ],
     "notes": "Japanese electronics dealer with public appliance pages · daily_2026-11-13"
+  },
+  {
+    "name": "Konga",
+    "type": "dealer",
+    "region": "NG",
+    "website": "https://www.konga.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.konga.com",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "ng",
+      "route:channel_coop"
+    ],
+    "notes": "Nigeria Konga retailer · daily_2026-11-22"
   },
   {
     "name": "Kotsovolos GR appliances",
@@ -12082,6 +12172,24 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Novey",
+    "type": "dealer",
+    "region": "PA",
+    "website": "https://www.novey.com.pa",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.novey.com.pa",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pa",
+      "route:channel_coop"
+    ],
+    "notes": "Panama Novey home improvement retailer · daily_2026-11-22"
+  },
+  {
     "name": "OBI Baumarkt Klimageräte",
     "type": "dealer",
     "region": "EU",
@@ -12314,6 +12422,24 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Panafoto",
+    "type": "dealer",
+    "region": "PA",
+    "website": "https://www.panafoto.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.panafoto.com",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pa",
+      "route:channel_coop"
+    ],
+    "notes": "Panama Panafoto electronics retailer · daily_2026-11-22"
   },
   {
     "name": "Panasonic Heating & Cooling EU",
@@ -13083,6 +13209,24 @@
       "sk"
     ],
     "notes": "Slovakia Planeo Elektro retailer · daily_2026-11-16"
+  },
+  {
+    "name": "Plaza Lama",
+    "type": "dealer",
+    "region": "DO",
+    "website": "https://www.plazalama.com.do",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.plazalama.com.do",
+    "tags": [
+      "dealer",
+      "do",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Dominican Republic Plaza Lama electronics retailer · daily_2026-11-22"
   },
   {
     "name": "Plimptonhills",
@@ -14869,6 +15013,24 @@
     "notes": "Denmark DIY/home-improvement retailer · daily_2026-11-12"
   },
   {
+    "name": "Singer Sri Lanka",
+    "type": "dealer",
+    "region": "LK",
+    "website": "https://www.singersl.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.singersl.com",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "lk",
+      "route:channel_coop"
+    ],
+    "notes": "Sri Lanka Singer retailer · daily_2026-11-22"
+  },
+  {
     "name": "SK Sales Ltd Glasgow - Ventilation and Air Conditioning Wholesaler",
     "type": "distributor",
     "region": "Glasgow, United Kingdom",
@@ -15032,6 +15194,24 @@
       "route:channel_coop"
     ],
     "notes": "PE Sodimac building materials HVAC · daily_2026-11-10"
+  },
+  {
+    "name": "Softlogic",
+    "type": "dealer",
+    "region": "LK",
+    "website": "https://www.softlogic.lk",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.softlogic.lk",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "lk",
+      "route:channel_coop"
+    ],
+    "notes": "Sri Lanka Softlogic retailer · daily_2026-11-22"
   },
   {
     "name": "Solar A/S",
@@ -15492,6 +15672,24 @@
       "wlw"
     ],
     "notes": "WLW directory listing"
+  },
+  {
+    "name": "Stock Paraguay",
+    "type": "dealer",
+    "region": "PY",
+    "website": "https://www.stock.com.py",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.stock.com.py",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "py",
+      "route:channel_coop"
+    ],
+    "notes": "Paraguay Stock supermarket/electronics · daily_2026-11-22"
   },
   {
     "name": "Storage Heater Sales",
@@ -17414,6 +17612,24 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Walton",
+    "type": "dealer",
+    "region": "BD",
+    "website": "https://waltonbd.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://waltonbd.com",
+    "tags": [
+      "bd",
+      "dealer",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Bangladesh Walton official retail · daily_2026-11-22"
   },
   {
     "name": "Webto",
