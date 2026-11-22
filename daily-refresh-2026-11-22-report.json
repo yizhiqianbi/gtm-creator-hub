@@ -60,6 +60,6 @@
     "No new crawl, Apify run, or paid enrichment in this commit",
     "Attachment is the 2026-11-22 supplement only; 2026-11-17 through 2026-11-20 were not invented"
   ],
-  "commit_sha": "",
+  "commit_sha": "7cfb774b1d7f5fd413cf9ef27311f840000d1d3d",
   "stay_silent": false
 }
