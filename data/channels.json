@@ -2457,6 +2457,24 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Berry Bros & Rudd",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.bbr.com",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.bbr.com",
+    "tags": [
+      "dealer",
+      "route:channel_coop",
+      "uk",
+      "wine_cooler"
+    ],
+    "notes": "UK Berry Bros & Rudd wine merchant · daily_2026-11-23"
+  },
+  {
     "name": "Best Al-Yousifi",
     "type": "dealer",
     "region": "KW",
@@ -3401,6 +3419,24 @@
     "notes": "Kenya Carrefour, appliances and pet · daily_2026-11-16"
   },
   {
+    "name": "Carrefour Tunisia",
+    "type": "dealer",
+    "region": "TN",
+    "website": "https://www.carrefour.tn",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.carrefour.tn",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "route:channel_coop",
+      "tn"
+    ],
+    "notes": "Tunisia Carrefour retailer · daily_2026-11-22"
+  },
+  {
     "name": "Carrier Enterprise",
     "type": "distributor",
     "region": "USA",
@@ -3781,6 +3817,25 @@
       "wine_cooler"
     ],
     "notes": "Breezaire authorized wholesale dealer"
+  },
+  {
+    "name": "CG Digital",
+    "type": "dealer",
+    "region": "NP",
+    "website": "https://www.cgdigital.com.np",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.cgdigital.com.np",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "np",
+      "route:channel_coop"
+    ],
+    "notes": "Nepal CG Digital electronics retailer · daily_2026-11-23"
   },
   {
     "name": "Chal-Tec GmbH / Berlin Brands Group (Klarstein)",
@@ -4667,6 +4722,24 @@
     "notes": "OEM + dealer network"
   },
   {
+    "name": "Damro",
+    "type": "dealer",
+    "region": "LK",
+    "website": "https://www.damro.lk",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.damro.lk",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "lk",
+      "route:channel_coop"
+    ],
+    "notes": "Sri Lanka Damro home retailer · daily_2026-11-22"
+  },
+  {
     "name": "Danby Appliances",
     "type": "brand",
     "region": "Canada",
@@ -4706,6 +4779,24 @@
       "wine_cooler"
     ],
     "notes": "Danby retailer locator · daily_2026-11-03"
+  },
+  {
+    "name": "Daraz Nepal",
+    "type": "dealer",
+    "region": "NP",
+    "website": "https://www.daraz.com.np",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.daraz.com.np",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "np",
+      "route:channel_coop"
+    ],
+    "notes": "Nepal Daraz retailer · daily_2026-11-23"
   },
   {
     "name": "Dateks",
@@ -5197,6 +5288,24 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Diunsa",
+    "type": "dealer",
+    "region": "HN",
+    "website": "https://www.diunsa.hn",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.diunsa.hn",
+    "tags": [
+      "dealer",
+      "hn",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Honduras Diunsa department store · daily_2026-11-23"
+  },
+  {
     "name": "Divino Uruguay",
     "type": "dealer",
     "region": "UY",
@@ -5214,6 +5323,25 @@
       "uy"
     ],
     "notes": "Uruguay Divino electronics retailer · daily_2026-11-16"
+  },
+  {
+    "name": "Do it Center Panama",
+    "type": "dealer",
+    "region": "PA",
+    "website": "https://www.doitcenter.com.pa",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "source_url": "https://www.doitcenter.com.pa",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pa",
+      "route:channel_coop"
+    ],
+    "notes": "Panama Do it Center retailer · daily_2026-11-22"
   },
   {
     "name": "DoHome",
@@ -5553,6 +5681,25 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Electroline Cyprus",
+    "type": "dealer",
+    "region": "CY",
+    "website": "https://www.electroline.com.cy",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.electroline.com.cy",
+    "tags": [
+      "cy",
+      "dealer",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Cyprus Electroline electronics retailer · daily_2026-11-23"
   },
   {
     "name": "Elektra Mexico",
@@ -6866,6 +7013,24 @@
       "route:channel_coop"
     ],
     "notes": "high — AC/HVAC wholesale/distributor/supplier"
+  },
+  {
+    "name": "Fressnapf",
+    "type": "dealer",
+    "region": "DE",
+    "website": "https://www.fressnapf.de",
+    "contact_email": "",
+    "categories": [
+      "pet_products"
+    ],
+    "source_url": "https://www.fressnapf.de",
+    "tags": [
+      "de",
+      "dealer",
+      "pet_products",
+      "route:channel_coop"
+    ],
+    "notes": "Germany Fressnapf pet retailer · daily_2026-11-23"
   },
   {
     "name": "Fressnapf / Maxi Zoo",
@@ -8313,6 +8478,24 @@
     "notes": "Breezaire authorized dealer"
   },
   {
+    "name": "HomeShopping Pakistan",
+    "type": "dealer",
+    "region": "PK",
+    "website": "https://homeshopping.pk",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://homeshopping.pk",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pk",
+      "route:channel_coop"
+    ],
+    "notes": "Pakistan HomeShopping electronics retailer · daily_2026-11-22"
+  },
+  {
     "name": "Honeywell Home where to buy",
     "type": "dealer",
     "region": "USA",
@@ -8885,6 +9068,25 @@
       "route:channel_coop"
     ],
     "notes": "Pet specialty wholesale"
+  },
+  {
+    "name": "Jacky's",
+    "type": "dealer",
+    "region": "AE",
+    "website": "https://www.jackys.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.jackys.com",
+    "tags": [
+      "ae",
+      "dealer",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "UAE Jacky's electronics retailer · daily_2026-11-23"
   },
   {
     "name": "Jaggedridgewinerooms",
@@ -9750,6 +9952,24 @@
       "route:channel_coop"
     ],
     "notes": "Japanese electronics dealer with public appliance pages · daily_2026-11-13"
+  },
+  {
+    "name": "Konga",
+    "type": "dealer",
+    "region": "NG",
+    "website": "https://www.konga.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.konga.com",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "ng",
+      "route:channel_coop"
+    ],
+    "notes": "Nigeria Konga retailer · daily_2026-11-22"
   },
   {
     "name": "Kotsovolos GR appliances",
@@ -12082,6 +12302,25 @@
     "notes": "medium — HVAC contractor/AC business"
   },
   {
+    "name": "Novey",
+    "type": "dealer",
+    "region": "PA",
+    "website": "https://www.novey.com.pa",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "heater"
+    ],
+    "source_url": "https://www.novey.com.pa",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pa",
+      "route:channel_coop"
+    ],
+    "notes": "Panama Novey home improvement retailer · daily_2026-11-22"
+  },
+  {
     "name": "OBI Baumarkt Klimageräte",
     "type": "dealer",
     "region": "EU",
@@ -12314,6 +12553,25 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Panafoto",
+    "type": "dealer",
+    "region": "PA",
+    "website": "https://www.panafoto.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.panafoto.com",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "pa",
+      "route:channel_coop"
+    ],
+    "notes": "Panama Panafoto electronics retailer · daily_2026-11-22"
   },
   {
     "name": "Panasonic Heating & Cooling EU",
@@ -13083,6 +13341,25 @@
       "sk"
     ],
     "notes": "Slovakia Planeo Elektro retailer · daily_2026-11-16"
+  },
+  {
+    "name": "Plaza Lama",
+    "type": "dealer",
+    "region": "DO",
+    "website": "https://www.plazalama.com.do",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.plazalama.com.do",
+    "tags": [
+      "dealer",
+      "do",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Dominican Republic Plaza Lama electronics retailer · daily_2026-11-22"
   },
   {
     "name": "Plimptonhills",
@@ -14869,6 +15146,25 @@
     "notes": "Denmark DIY/home-improvement retailer · daily_2026-11-12"
   },
   {
+    "name": "Singer Sri Lanka",
+    "type": "dealer",
+    "region": "LK",
+    "website": "https://www.singersl.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.singersl.com",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "lk",
+      "route:channel_coop"
+    ],
+    "notes": "Sri Lanka Singer retailer · daily_2026-11-22"
+  },
+  {
     "name": "SK Sales Ltd Glasgow - Ventilation and Air Conditioning Wholesaler",
     "type": "distributor",
     "region": "Glasgow, United Kingdom",
@@ -15032,6 +15328,24 @@
       "route:channel_coop"
     ],
     "notes": "PE Sodimac building materials HVAC · daily_2026-11-10"
+  },
+  {
+    "name": "Softlogic",
+    "type": "dealer",
+    "region": "LK",
+    "website": "https://www.softlogic.lk",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.softlogic.lk",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "lk",
+      "route:channel_coop"
+    ],
+    "notes": "Sri Lanka Softlogic retailer · daily_2026-11-22"
   },
   {
     "name": "Solar A/S",
@@ -15494,6 +15808,24 @@
     "notes": "WLW directory listing"
   },
   {
+    "name": "Stock Paraguay",
+    "type": "dealer",
+    "region": "PY",
+    "website": "https://www.stock.com.py",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.stock.com.py",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "py",
+      "route:channel_coop"
+    ],
+    "notes": "Paraguay Stock supermarket/electronics · daily_2026-11-22"
+  },
+  {
     "name": "Storage Heater Sales",
     "type": "dealer",
     "region": "Leigh, United Kingdom",
@@ -15632,6 +15964,43 @@
     "notes": "Wine Guardian public distributor domain"
   },
   {
+    "name": "Sulpak",
+    "type": "dealer",
+    "region": "KZ",
+    "website": "https://www.sulpak.kz",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.sulpak.kz",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "kz",
+      "route:channel_coop"
+    ],
+    "notes": "Kazakhstan Sulpak electronics retailer · daily_2026-11-23"
+  },
+  {
+    "name": "Sultan Center",
+    "type": "dealer",
+    "region": "KW",
+    "website": "https://www.sultan-center.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.sultan-center.com",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "kw",
+      "route:channel_coop"
+    ],
+    "notes": "Kuwait Sultan Center retailer · daily_2026-11-23"
+  },
+  {
     "name": "Summit Cellars",
     "type": "distributor",
     "region": "intl",
@@ -15686,6 +16055,24 @@
       "route:channel_coop"
     ],
     "notes": "NEW; US HVAC/appliance brand with portable AC category; service email published (not purchasing)"
+  },
+  {
+    "name": "Supermaxi",
+    "type": "dealer",
+    "region": "EC",
+    "website": "https://www.supermaxi.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://www.supermaxi.com",
+    "tags": [
+      "dealer",
+      "ec",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Ecuador Supermaxi supermarket · daily_2026-11-23"
   },
   {
     "name": "SuSTEK GmbH",
@@ -15907,6 +16294,25 @@
     "notes": "Serbia Tehnomanija appliance retailer · daily_2026-11-16"
   },
   {
+    "name": "Tehnomedia",
+    "type": "dealer",
+    "region": "RS",
+    "website": "https://www.tehnomedia.rs",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://www.tehnomedia.rs",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "route:channel_coop",
+      "rs"
+    ],
+    "notes": "Serbia Tehnomedia electronics retailer · daily_2026-11-23"
+  },
+  {
     "name": "Teign Gas",
     "type": "mod_shop",
     "region": "Newton Abbot, United Kingdom",
@@ -16034,6 +16440,25 @@
       "wineguardian"
     ],
     "notes": "Wine Guardian public distributor domain"
+  },
+  {
+    "name": "Texnomart",
+    "type": "dealer",
+    "region": "UZ",
+    "website": "https://texnomart.uz",
+    "contact_email": "",
+    "categories": [
+      "home_appliance",
+      "portable_ac"
+    ],
+    "source_url": "https://texnomart.uz",
+    "tags": [
+      "dealer",
+      "home_appliance",
+      "route:channel_coop",
+      "uz"
+    ],
+    "notes": "Uzbekistan Texnomart electronics retailer · daily_2026-11-23"
   },
   {
     "name": "TF Solutions, Bristol",
@@ -16184,6 +16609,24 @@
       "route:channel_coop"
     ],
     "notes": "New Zealand general retailer; public appliance and pet aisles · daily_2026-11-13"
+  },
+  {
+    "name": "The Wine Society",
+    "type": "dealer",
+    "region": "UK",
+    "website": "https://www.thewinesociety.com",
+    "contact_email": "",
+    "categories": [
+      "wine_cooler"
+    ],
+    "source_url": "https://www.thewinesociety.com",
+    "tags": [
+      "dealer",
+      "route:channel_coop",
+      "uk",
+      "wine_cooler"
+    ],
+    "notes": "UK The Wine Society · daily_2026-11-23"
   },
   {
     "name": "Thelegacycompanies",
@@ -17414,6 +17857,24 @@
       "route:channel_coop"
     ],
     "notes": "PIDA public directory domain"
+  },
+  {
+    "name": "Walton",
+    "type": "dealer",
+    "region": "BD",
+    "website": "https://waltonbd.com",
+    "contact_email": "",
+    "categories": [
+      "home_appliance"
+    ],
+    "source_url": "https://waltonbd.com",
+    "tags": [
+      "bd",
+      "dealer",
+      "home_appliance",
+      "route:channel_coop"
+    ],
+    "notes": "Bangladesh Walton official retail · daily_2026-11-22"
   },
   {
     "name": "Webto",

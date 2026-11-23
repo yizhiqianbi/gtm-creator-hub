@@ -1,63 +1,29 @@
-# Daily refresh 2026-11-16
+# Daily refresh 2026-11-23
 
-- Creators: **33538 → 34159** (net **+621**)
-  - Platforms: tiktok 13720 · bilibili 6803 · instagram 6442 · douyin 4463 · xiaohongshu 1466 · x 1065 · wechat_store 200
-- Channels: **908 → 957** (net **+49**)
-- Brand content sources: **543 → 592** (net **+49**)
+- Creators: **34620 → 34846** (net **+226**)
+  - Platforms: tiktok 13720 · instagram 6442 · x 1096 · douyin 4463 · bilibili 7459 · xiaohongshu 1466 · wechat_store 200
+- Channels: **969 → 982** (net **+13**)
+- Brand content sources: **604 → 617** (net **+13**)
 
 ## Sources
-- bilibili_daily_api: 421
-- feedspot_tiktok_finance: 154
-- feedspot_tiktok_comedy: 147
-- feedspot_tiktok_perfume: 141
-- feedspot_tiktok_amazon: 137
-- feedspot_tiktok_wedding: 131
-- feedspot_tiktok_black_female_fitness: 130
-- feedspot_tiktok_airbnb: 122
-- feedspot_tiktok_music: 119
-- feedspot_tiktok_christian: 117
-- feedspot_tiktok_book: 109
-- feedspot_tiktok_pickleball: 97
-- x_mcp_public: 93
-- feedspot_tiktok_sexual_health: 89
-- feedspot_tiktok_weight_loss: 87
-- feedspot_tiktok_sustainability: 84
-- feedspot_tiktok_mental_health: 83
-- feedspot_tiktok_dance: 82
-- feedspot_tiktok_natural_hair: 78
-- feedspot_tiktok_australian_fashion: 77
-- feedspot_tiktok_golf: 75
-- feedspot_tiktok_gaming: 73
-- feedspot_tiktok_food: 68
-- feedspot_tiktok_cannabis: 66
-- feedspot_tiktok_us_food: 65
-- feedspot_tiktok_australian_travel: 60
-- feedspot_tiktok_uk_food: 60
-- feedspot_tiktok_meditation: 54
-- channels_curated_daily: 49
-- brand_curated_daily: 49
-- feedspot_tiktok_tesla: 42
-- feedspot_tiktok_bikini: 37
-- feedspot_tiktok_gut_health: 35
-- feedspot_tiktok_california_mom: 30
-- feedspot_tiktok_robotics: 28
-- feedspot_tiktok_trail_running: 19
-- feedspot_tiktok_australian_camping: 17
-- feedspot_tiktok_test: 6
-- feedspot_tiktok_recent_created: 0
+- bilibili_daily_api: 209
+- x_mcp_public: 17
+- channels_curated_daily: 13
+- brand_curated_daily: 13
 
 ## Blockers
-- Apify: skipped (quota unused; free Feedspot+Bilibili+X lists yielded net-new creators)
-- Feedspot: homepage discovery found 35 previously unused official TikTok list slugs, all large dumps; no mass guessed-slug probe today
-- AfterShip: skipped (scale6b/Nov-6 already ingested the standard TTS category slugs; no unused categories remain)
+- Apify: skipped (not used; free Bilibili + verified public X lists yielded net-new creators)
+- Feedspot: homepage http=200, 235 official list links, unused_clean=0; no mass guessed-slug probe today
+- AfterShip: skipped (standard TTS category slugs already ingested on earlier runs; no unused official categories remain)
 - Douyin/XHS/WeChat: no new free public list dumps today (prior CN weekly already absorbed)
-- Bilibili: popular p1-20 + precious + weekly series + ranking/v2 (some rids -400) + newlist p1-3 on working rids 1/3/4/5/11/13/36/119/129/155/160/167/177/181/188/202/211; 2613 unique mids, 816 not already in hub, 421 with fans>=1000
+- Bilibili: popular p1-20 + precious + weekly series + ranking/v2 (some rids/dyn -400 or empty) + newlist p1-3 on working rids 1/3/4/5/11/13/36/119/129/155/160/167/177/181/188/202/211; 2580 unique mids, 619 not already in hub, 209 with fans>=1000
+- GitHub push not performed in this collection run: repository writes go through a CloudAgent. Live Pages still serve the 2026-11-16 main dataset until the open data PR is merged.
+- Open PR #1 (cursor/data-refresh-2026-11-22-9ea2) already contains the 2026-11-22 validated increment and was not merged to main; today's increment is based on that branch, not stale main.
 
 ## Notes
-- Bilibili daily API (popular p1-20, precious, weekly series, ranking/v2, newlist p1-3 on working rids) + X public handles (HVAC / wine / pet / home appliance), verified followers >=1000.
-- Feedspot: homepage discovery of previously unused official slugs (large TikTok dumps ingested; no mass guessed-slug probe).
-- AfterShip skipped (no unused TTS category slugs remaining after Nov-6).
-- Channel expansion: public dealers/wholesalers in underrepresented markets (Nordics/Baltics, Balkans, SEA, LATAM, MEA) for portable AC / HVAC / heaters / pet / home appliances / wine.
-- Free public lists preferred; Apify paid actors skipped.
-- Rules: followers_num ≥ 1000; unknown dropped; dedupe platform+handle.
-- merchants.json untouched (separate routine).
+- Bilibili daily public API + 17 verified public X handles (wine / HVAC / pet / home appliance), followers >=1000.
+- Feedspot homepage discovery found no previously unused official slugs today.
+- Channel expansion: 13 official dealer/specialty websites verified in thin markets (KW, AE, EC, HN, RS, CY, KZ, UZ, NP, DE, UK). Sites that returned 403/timeout/TLS errors were not retried or bypassed.
+- Rules: followers_num >= 1000; unknown dropped; dedupe platform+handle; all new rows have profile_url and multi tags.
+- merchants.json was not changed in this creator-hub routine.
+- Today's increment is based on the validated 2026-11-22 dataset (PR #1 / branch cursor/data-refresh-2026-11-22-9ea2), not stale main (11/16).
