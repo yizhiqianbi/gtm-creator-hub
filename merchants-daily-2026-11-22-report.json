@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-22",
+  "timezone": "Asia/Shanghai",
+  "base_commit": "276ac1bf08976e09dc88100f751141eb279be1ed",
+  "origin_main_compared": "276ac1bf08976e09dc88100f751141eb279be1ed",
+  "origin_main_unchanged_since_base": true,
+  "history_backfill": false,
+  "collection": "attachment_only",
+  "attachment_rows": 8431,
+  "before": 7961,
+  "after": 8422,
+  "net_delta": 461,
+  "attachment_net_delta": 470,
+  "excluded_from_attachment": 9,
+  "overseas_oemish_before": 3649,
+  "overseas_oemish_after": 3682,
+  "overseas_oemish_delta": 33,
+  "flags_before": {
+    "overseas": 3629,
+    "oem": 1996,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 1998,
+    "overseas_oemish": 3649
+  },
+  "flags_after": {
+    "overseas": 3662,
+    "oem": 2029,
+    "odm": 419,
+    "private_label": 290,
+    "source_overseas_oem": 2031,
+    "overseas_oemish": 3682
+  },
+  "added_by_source_tag": {
+    "trade_show": 417,
+    "overseas_oem": 33,
+    "channel": 11
+  },
+  "source_channel_tag_delta": 12,
+  "checks": {
+    "json_csv_consistent": true,
+    "primary_key": "normalized name + website",
+    "duplicate_keys": 0,
+    "existing_rows_missing": 0,
+    "existing_identity_fields_changed": 0
+  },
+  "excluded": [
+    {
+      "name": "Agricultural Machinery",
+      "source_url": "https://cantonfair.co/140/categories/agricultural-machinery",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "General Machinery and Mechanical Basic Parts",
+      "source_url": "https://cantonfair.co/140/categories/general-machinery-and-mechanical-basic-parts",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "Home Textiles",
+      "source_url": "https://cantonfair.co/140/categories/home-textiles",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "Medicines, Health Products and Medical Devices",
+      "source_url": "https://cantonfair.co/140/categories/medicines-health-products-and-medical-devices",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "Power Machinery and Electric Power",
+      "source_url": "https://cantonfair.co/140/categories/power-machinery-and-electric-power",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "Processing Machinery Equipment",
+      "source_url": "https://cantonfair.co/140/categories/processing-machinery-equipment",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "Safety Equipment",
+      "source_url": "https://cantonfair.co/139/categories/safety-equipment",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "Toiletries",
+      "source_url": "https://cantonfair.co/140/categories/toiletries",
+      "reason": "category heading stored as a company"
+    },
+    {
+      "name": "Weaving, Rattan and Iron Products",
+      "source_url": "https://cantonfair.co/140/categories/weaving-rattan-and-iron-products",
+      "reason": "category heading stored as a company"
+    }
+  ],
+  "corrections": [
+    "106 new exhibitor rows from the power-machinery and general-machinery lists lost guessed heater/hvac categories and tags. The category-page note remains the audit trail. home_appliance is the fallback category used by the existing Canton ingest when no niche keyword matches.",
+    "Do it Center Panama, Novey, Panafoto, Plaza Lama, and Singer Sri Lanka lost guessed heater or portable_ac labels. Notes only identify them as retailers.",
+    "33 new overseas rows keep Wikipedia article URLs plus official websites. region:se was removed from rows whose region is Overseas. region:de was removed from Le Klint and Louis Poulsen (region Denmark). region:in was removed from Mathmos, region:us from Optogan and Varton, region:tr and hvac from Zumtobel Group, and pet_products from Optogan. Notes no longer claim HVAC or pet-food category lists.",
+    "27 existing Canton rows kept an additional canton_*_names tag when the same legal name appeared on another exhibitor list. Categories that the attachment had rewritten to heater/hvac were restored to the 2026-11-16 values.",
+    "Walton Group kept the new source:channel crosswalk. The new channel row Walton uses https://waltonbd.com, the same host as the existing merchant website.",
+    "Industrial Automation and Intelligent Manufacturing is a pre-existing category heading. The attachment's extra canton_industrial_automation_names tag was reverted. The baseline row was not deleted."
+  ],
+  "anomalies": [
+    "Attachment trade_show count was +426. Nine of those strings are the category page titles, so ingested trade_show additions are +417.",
+    "source:channel tag count rose by 12 (11 new merchant rows plus the Walton Group crosswalk). New merchant rows from channels are 11.",
+    "CERAGEM and EVERMAPLE are single-token exhibitor names, not category titles, and were kept.",
+    "Anglepoise lamp uses the Wikipedia article title. Lamps Plus and Rejuvenation are retailer sites kept under the existing Wikipedia-plus-official-website rule; manufacturer/oem is that batch default.",
+    "Baseline already has 9 Canton rows whose names equal their category slug (Children, Baby and Maternity Products; Consumer Electronics and Information Products; Electronic and Electrical Products; Furniture; Gardening Products; Hardware; Household Items; Lighting Equipment; Service Robots) plus Industrial Automation and Intelligent Manufacturing. They were left in place so this refresh does not drop data already on main."
+  ],
+  "notes": [
+    "Validated the 2026-11-22 attachment only. Did not run customs, MIC, Crustdata, Apify, Apollo, or a new crawl.",
+    "Did not write 2026-11-17, 2026-11-18, 2026-11-19, or 2026-11-20 reports or rows.",
+    "Merchant count did not fall below the 7961 baseline (7961→8422)."
+  ],
+  "blockers": [
+    "No new collection in this commit",
+    "Nine attachment rows rejected as directory headings; counts were not forced back to 8431"
+  ],
+  "commit_sha": "7cfb774b1d7f5fd413cf9ef27311f840000d1d3d",
+  "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
+  "stay_silent": false
+}

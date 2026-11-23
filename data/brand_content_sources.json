@@ -1125,6 +1125,19 @@
     ]
   },
   {
+    "title": "Berry Bros & Rudd",
+    "url": "https://www.bbr.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "UK Berry Bros & Rudd wine merchant · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Best Al-Yousifi",
     "url": "https://www.best.com.kw",
     "niche": "home_appliance",
@@ -1236,6 +1249,19 @@
     ]
   },
   {
+    "title": "CG Digital",
+    "url": "https://www.cgdigital.com.np",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Nepal CG Digital electronics retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "CNET appliance reviews hub",
     "url": "https://www.cnet.com/home/kitchen-and-household/",
     "niche": "home_appliance",
@@ -1305,6 +1331,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Carrefour Tunisia",
+    "url": "https://www.carrefour.tn",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Tunisia Carrefour retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1422,6 +1461,32 @@
     ]
   },
   {
+    "title": "Damro",
+    "url": "https://www.damro.lk",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Sri Lanka Damro home retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Daraz Nepal",
+    "url": "https://www.daraz.com.np",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Nepal Daraz retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Darty FR climate support",
     "url": "https://www.darty.com/",
     "niche": "home_appliance",
@@ -1461,6 +1526,19 @@
     ]
   },
   {
+    "title": "Diunsa",
+    "url": "https://www.diunsa.hn",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Honduras Diunsa department store · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Divino Uruguay",
     "url": "https://www.divino.com.uy",
     "niche": "home_appliance",
@@ -1469,6 +1547,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Do it Center Panama",
+    "url": "https://www.doitcenter.com.pa",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Panama Do it Center retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
       "home_appliance",
       "route:brand_content"
     ]
@@ -1543,6 +1634,19 @@
     "notes": "清洁电器全球支持",
     "tags": [
       "faq",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Electroline Cyprus",
+    "url": "https://www.electroline.com.cy",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Cyprus Electroline electronics retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2045,6 +2149,19 @@
     ]
   },
   {
+    "title": "HomeShopping Pakistan",
+    "url": "https://homeshopping.pk",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Pakistan HomeShopping electronics retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Hotpoint Kenya",
     "url": "https://hotpoint.co.ke",
     "niche": "home_appliance",
@@ -2092,6 +2209,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Jacky's",
+    "url": "https://www.jackys.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "UAE Jacky's electronics retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2169,6 +2299,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Konga",
+    "url": "https://www.konga.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Nigeria Konga retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2390,6 +2533,19 @@
     ]
   },
   {
+    "title": "Novey",
+    "url": "https://www.novey.com.pa",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Panama Novey home improvement retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Oechsle",
     "url": "https://www.oechsle.pe",
     "niche": "home_appliance",
@@ -2411,6 +2567,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Panafoto",
+    "url": "https://www.panafoto.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Panama Panafoto electronics retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2502,6 +2671,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_16",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Plaza Lama",
+    "url": "https://www.plazalama.com.do",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Dominican Republic Plaza Lama electronics retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2736,6 +2918,32 @@
     ]
   },
   {
+    "title": "Singer Sri Lanka",
+    "url": "https://www.singersl.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Sri Lanka Singer retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Softlogic",
+    "url": "https://www.softlogic.lk",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Sri Lanka Softlogic retailer · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "Stiftung Warentest",
     "url": "https://www.test.de/",
     "niche": "home_appliance",
@@ -2743,6 +2951,58 @@
     "notes": "德系测评机构",
     "tags": [
       "case",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Stock Paraguay",
+    "url": "https://www.stock.com.py",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Paraguay Stock supermarket/electronics · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Sulpak",
+    "url": "https://www.sulpak.kz",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Kazakhstan Sulpak electronics retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Sultan Center",
+    "url": "https://www.sultan-center.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Kuwait Sultan Center retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Supermaxi",
+    "url": "https://www.supermaxi.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Ecuador Supermaxi supermarket · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2849,6 +3109,32 @@
     ]
   },
   {
+    "title": "Tehnomedia",
+    "url": "https://www.tehnomedia.rs",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Serbia Tehnomedia electronics retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Texnomart",
+    "url": "https://texnomart.uz",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Uzbekistan Texnomart electronics retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
     "title": "The Brick CA appliances",
     "url": "https://www.thebrick.com/",
     "niche": "home_appliance",
@@ -2870,6 +3156,19 @@
     "tags": [
       "brochure",
       "daily_2026_11_13",
+      "home_appliance",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "The Wine Society",
+    "url": "https://www.thewinesociety.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "UK The Wine Society · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
       "home_appliance",
       "route:brand_content"
     ]
@@ -2999,6 +3298,19 @@
       "home_appliance",
       "route:brand_content",
       "site"
+    ]
+  },
+  {
+    "title": "Walton",
+    "url": "https://waltonbd.com",
+    "niche": "home_appliance",
+    "asset_type": "brochure",
+    "notes": "Bangladesh Walton official retail · daily_2026-11-22",
+    "tags": [
+      "brochure",
+      "daily_2026_11_22",
+      "home_appliance",
+      "route:brand_content"
     ]
   },
   {
@@ -4546,6 +4858,19 @@
     "tags": [
       "daily_2026_11_03",
       "faq",
+      "pet_gear",
+      "route:brand_content"
+    ]
+  },
+  {
+    "title": "Fressnapf",
+    "url": "https://www.fressnapf.de",
+    "niche": "pet_gear",
+    "asset_type": "brochure",
+    "notes": "Germany Fressnapf pet retailer · daily_2026-11-23",
+    "tags": [
+      "brochure",
+      "daily_2026_11_23",
       "pet_gear",
       "route:brand_content"
     ]
