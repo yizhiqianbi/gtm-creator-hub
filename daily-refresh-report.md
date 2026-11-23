@@ -1,40 +1,29 @@
-# Daily refresh 2026-11-22
+# Daily refresh 2026-11-23
 
-Attachment-only validation of the 2026-11-22 public supplement. No new collection and no paid calls. `origin/main` was still `276ac1bf08976e09dc88100f751141eb279be1ed` (2026-11-16); nothing later was overwritten. No 2026-11-17 through 2026-11-20 history was created.
-
-- Creators: **34159 → 34620** (net **+461**)
-  - Platforms: tiktok 13720 · bilibili 7250 · instagram 6442 · douyin 4463 · xiaohongshu 1466 · x 1079 · wechat_store 200
-  - bilibili 6803 → 7250 (+447); x 1065 → 1079 (+14); other platforms unchanged
-- Channels: **957 → 969** (net **+12**)
-- Brand content sources: **592 → 604** (net **+12**)
-- Merchants: **7961 → 8422** (net **+461**). The attachment had 8431; 9 Canton Fair category headings were excluded.
+- Creators: **34620 → 34846** (net **+226**)
+  - Platforms: tiktok 13720 · instagram 6442 · x 1096 · douyin 4463 · bilibili 7459 · xiaohongshu 1466 · wechat_store 200
+- Channels: **969 → 982** (net **+13**)
+- Brand content sources: **604 → 617** (net **+13**)
 
 ## Sources
-- bilibili_daily_api: 447 (`https://api.bilibili.com/x/web-interface/popular`, fans via the public stat fields already on the rows)
-- x_mcp_public: 14 (public `https://x.com/{handle}` profiles)
-- channels_curated_daily: 12 (official retailer sites)
-- brand_curated_daily: 12 (same sites, recorded as `asset_type: site`)
-
-## Checks
-- JSON and CSV row counts and fields match. Creator `null` emails and bios still serialize as empty CSV cells, same as the 2026-11-16 files.
-- Primary keys unique: creator `platform+handle`, channel `name`, brand `url`, merchant `name+website`.
-- Every 2026-11-16 row is still present. No existing creator, channel, or brand row was edited.
-- New creators: `followers_num >= 1000`, follower label not unknown, `profile_url` present, at least two tags, `source_url` present.
-
-## Exclusions and corrections
-- Excluded 9 Canton Fair category titles that the attachment stored as companies: Agricultural Machinery; General Machinery and Mechanical Basic Parts; Home Textiles; Medicines, Health Products and Medical Devices; Power Machinery and Electric Power; Processing Machinery Equipment; Safety Equipment; Toiletries; Weaving, Rattan and Iron Products.
-- Removed guessed `heater` / `hvac` labels from 106 real exhibitor names that came from the power-machinery and general-machinery lists. Notes still cite those category pages.
-- Removed guessed `heater` or `portable_ac` labels from Do it Center Panama, Novey, Panafoto, Plaza Lama, and Singer Sri Lanka. Their notes only support a retailer / home-appliance site.
-- New retailer homepages are `asset_type: site`, not brochures.
-- 33 Wikipedia companies with Wikidata official websites were kept. False `region:se` on unresolved "Overseas" rows, `region:de` on the two Denmark rows, and other unauditable extra geo or niche tags were removed. The note no longer claims HVAC or pet-food category lists.
-
-## Anomalies kept visible
-- `RiojaWine` has `country_or_language: us` and a `us` tag. The profile URL is the public Rioja Wine account. The row meets the follower, profile, and tag rules, so it was not dropped.
-- All 447 new Bilibili rows cite the popular API URL. The note also says 分区榜; no separate ranking URL was in the attachment.
-- `Anglepoise lamp` keeps the Wikipedia article title. `Lamps Plus` and `Rejuvenation` are real sites kept under the existing Wikipedia-plus-official-website rule; `manufacturer` / `oem` is that batch's default label, not a separate factory audit.
-- Brand-only exhibitor tokens `CERAGEM` and `EVERMAPLE` stay. They are not the category title.
-- Baseline already contains Canton headings (including `Industrial Automation and Intelligent Manufacturing`). They were not deleted. The new self-match tag on that heading was reverted.
+- bilibili_daily_api: 209
+- x_mcp_public: 17
+- channels_curated_daily: 13
+- brand_curated_daily: 13
 
 ## Blockers
-- This commit does not start a crawl, Apify run, or paid enrichment.
-- Attachment merchant file was not ingested at 8431, because 9 of those rows are category headings.
+- Apify: skipped (not used; free Bilibili + verified public X lists yielded net-new creators)
+- Feedspot: homepage http=200, 235 official list links, unused_clean=0; no mass guessed-slug probe today
+- AfterShip: skipped (standard TTS category slugs already ingested on earlier runs; no unused official categories remain)
+- Douyin/XHS/WeChat: no new free public list dumps today (prior CN weekly already absorbed)
+- Bilibili: popular p1-20 + precious + weekly series + ranking/v2 (some rids/dyn -400 or empty) + newlist p1-3 on working rids 1/3/4/5/11/13/36/119/129/155/160/167/177/181/188/202/211; 2580 unique mids, 619 not already in hub, 209 with fans>=1000
+- GitHub push not performed in this collection run: repository writes go through a CloudAgent. Live Pages still serve the 2026-11-16 main dataset until the open data PR is merged.
+- Open PR #1 (cursor/data-refresh-2026-11-22-9ea2) already contains the 2026-11-22 validated increment and was not merged to main; today's increment is based on that branch, not stale main.
+
+## Notes
+- Bilibili daily public API + 17 verified public X handles (wine / HVAC / pet / home appliance), followers >=1000.
+- Feedspot homepage discovery found no previously unused official slugs today.
+- Channel expansion: 13 official dealer/specialty websites verified in thin markets (KW, AE, EC, HN, RS, CY, KZ, UZ, NP, DE, UK). Sites that returned 403/timeout/TLS errors were not retried or bypassed.
+- Rules: followers_num >= 1000; unknown dropped; dedupe platform+handle; all new rows have profile_url and multi tags.
+- merchants.json was not changed in this creator-hub routine.
+- Today's increment is based on the validated 2026-11-22 dataset (PR #1 / branch cursor/data-refresh-2026-11-22-9ea2), not stale main (11/16).
