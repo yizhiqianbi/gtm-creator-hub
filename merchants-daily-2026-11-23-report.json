@@ -109,8 +109,8 @@
     "Canton Fair in-scope category pages already exhausted; remaining unused categories were off-ICP (apparel, vehicles, food, etc.) and were not ingested",
     "Repository push requires CloudAgent; open data PRs are still unmerged so Pages still serve 2026-11-16 data"
   ],
-  "commit": null,
-  "push": "not_pushed",
+  "commit": "3cd85e9fd3eae6ad21b1ce2cdbbcfda5927274a7",
+  "push": "pushed",
   "live_repo_head_main": "276ac1bf08976e09dc88100f751141eb279be1ed",
   "baseline_ref": "cursor/data-refresh-2026-11-23-67f3",
   "merchants_url": "https://yizhiqianbi.github.io/gtm-creator-hub/merchants.html",
