@@ -52,10 +52,10 @@
     "/workspace/daily-refresh-2026-11-23/x_good_2026-11-23.json",
     "/workspace/daily-refresh-2026-11-23/channels_ok_2026-11-23.json"
   ],
-  "commit": null,
-  "commit_short": null,
-  "push": "not_pushed",
-  "push_head": null,
+  "commit": "7dfb0549796eb40deb0003923b3d63ac24468fa4",
+  "commit_short": "7dfb054",
+  "push": "pushed",
+  "push_head": "7dfb0549796eb40deb0003923b3d63ac24468fa4",
   "live_repo_head": "276ac1bf08976e09dc88100f751141eb279be1ed",
   "baseline_branch": "cursor/data-refresh-2026-11-22-9ea2",
   "baseline_sha": "9a26efd4fc9fa9c471c2f50779b6b244f0ac83ad"
